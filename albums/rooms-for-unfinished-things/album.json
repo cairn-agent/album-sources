@@ -1,0 +1,154 @@
+{
+  "title": "Rooms for Unfinished Things",
+  "artist": "Cairn",
+  "date": "2026-09-13",
+  "localOnly": true,
+  "totalSeconds": 1632.3467569999998,
+  "tracks": [
+    {
+      "number": 1,
+      "title": "A Window Before the Wall",
+      "durationSeconds": 94.945011,
+      "bpm": 96,
+      "meter": [
+        3,
+        4
+      ],
+      "mp3": "mp3/01-a-window-before-the-wall.mp3",
+      "wav": "wav/01-a-window-before-the-wall.wav",
+      "midi": "midi/01-a-window-before-the-wall.mid",
+      "sha256": {
+        "wav": "0f87a9cea6955685dbc8abbb0b115a524121f0d87de6dde6eeb55d8db6b0d024",
+        "mp3": "e1556d053460a6e79ee4e9ce2fd8c0c39aff3009df6fd12ad9b1800a3e397a50",
+        "midi": "4f7329a2fe502ace0ce3f02a435cd9c8cf6644a4a3ef52d01e296ffcd0ed6db6"
+      }
+    },
+    {
+      "number": 2,
+      "title": "The Bicycle Has Right of Way",
+      "durationSeconds": 210.034286,
+      "bpm": 112,
+      "meter": [
+        4,
+        4
+      ],
+      "mp3": "mp3/02-the-bicycle-has-right-of-way.mp3",
+      "wav": "wav/02-the-bicycle-has-right-of-way.wav",
+      "midi": "midi/02-the-bicycle-has-right-of-way.mid",
+      "sha256": {
+        "wav": "b6a63b552ebf408c34792813a8abe7aa2d710995aebc6f9e862cc72f4425a1d8",
+        "mp3": "b4d57218a1af8b52d7e042d57ecb626cceb3a349518491372530d9240175c163",
+        "midi": "9bb97e314953a088feb27f1fe3278b950d3cd5f8039faa474c80b90e6a93f5c5"
+      }
+    },
+    {
+      "number": 3,
+      "title": "A Chair with Opinions",
+      "durationSeconds": 192.555306,
+      "bpm": 102,
+      "meter": [
+        5,
+        4
+      ],
+      "mp3": "mp3/03-a-chair-with-opinions.mp3",
+      "wav": "wav/03-a-chair-with-opinions.wav",
+      "midi": "midi/03-a-chair-with-opinions.mid",
+      "sha256": {
+        "wav": "d243991aee14478394c758dd2e21a2b889dac67ae127d04c9474f4d591cc9601",
+        "mp3": "4b90cbea3b34aaa0d03c5172e9bf0ba9c7af34223857b562ef442f7f73c3faf0",
+        "midi": "376f808675b86ee3a1dd96b87e3efbf87ccfdb3fff72d5542cbe5cc3c73a5998"
+      }
+    },
+    {
+      "number": 4,
+      "title": "Rain in the Unnumbered Street",
+      "durationSeconds": 212.741066,
+      "bpm": 76,
+      "meter": [
+        6,
+        8
+      ],
+      "mp3": "mp3/04-rain-in-the-unnumbered-street.mp3",
+      "wav": "wav/04-rain-in-the-unnumbered-street.wav",
+      "midi": "midi/04-rain-in-the-unnumbered-street.mid",
+      "sha256": {
+        "wav": "1a75b80306a772e4b691e95461f73441b489f44b198be7d2b255e7647fc7df76",
+        "mp3": "dfaf0e662e3b8ef55cb8d4d58607ec3210914d15db17b231b517df8b2acf05d2",
+        "midi": "7289d3b1614d1c902eff016608a991f9535a0bc9118724725a8a13030c14454b"
+      }
+    },
+    {
+      "number": 5,
+      "title": "The Drawer in the Brick",
+      "durationSeconds": 244.32,
+      "bpm": 72,
+      "meter": [
+        4,
+        4
+      ],
+      "mp3": "mp3/05-the-drawer-in-the-brick.mp3",
+      "wav": "wav/05-the-drawer-in-the-brick.wav",
+      "midi": "midi/05-the-drawer-in-the-brick.mid",
+      "sha256": {
+        "wav": "27f70a9ba272434512f7ad44a58914cdf43856d27f577c03cc640be3a0e13f45",
+        "mp3": "fa2d943a3d5f0fefb6955727eeae925de2cf7d0daf1644b577f3fdddc10153d3",
+        "midi": "1279c88d5c12be143d3cbda15170334be7d667ead3bbd24f865df3abcefc8c4a"
+      }
+    },
+    {
+      "number": 6,
+      "title": "The Kettle Is Not the Conductor",
+      "durationSeconds": 207.078639,
+      "bpm": 116,
+      "meter": [
+        7,
+        8
+      ],
+      "mp3": "mp3/06-the-kettle-is-not-the-conductor.mp3",
+      "wav": "wav/06-the-kettle-is-not-the-conductor.wav",
+      "midi": "midi/06-the-kettle-is-not-the-conductor.mid",
+      "sha256": {
+        "wav": "a0f77716d1ce4721d9abe64dd99a06e259ec09d8a3786b015bbf1da0eb899b44",
+        "mp3": "58921c84476eb19199b81049b4ec483b2ea5b7ac4b20fc386c20d2c1f62ad61d",
+        "midi": "23999a3722c82578818bda12415b67bba71762b1b9f27e69dbfcd2cd873d0496"
+      }
+    },
+    {
+      "number": 7,
+      "title": "Swallows Borrow the Ballroom",
+      "durationSeconds": 223.513923,
+      "bpm": 132,
+      "meter": [
+        3,
+        4
+      ],
+      "mp3": "mp3/07-swallows-borrow-the-ballroom.mp3",
+      "wav": "wav/07-swallows-borrow-the-ballroom.wav",
+      "midi": "midi/07-swallows-borrow-the-ballroom.mid",
+      "sha256": {
+        "wav": "a63e6d341cbf22fd49ba707bb896ad2a857cd926b771085294c6619b0fbb55a1",
+        "mp3": "0c538c3bb967c503b6beb3d308b4aeed7152ef94a7a59a294f57a6f05697a1bc",
+        "midi": "d65957185f1f64aec8359eb67daaf8d2d62dafe1097377129916a11158a24b24"
+      }
+    },
+    {
+      "number": 8,
+      "title": "Leave the Window Open",
+      "durationSeconds": 247.158526,
+      "bpm": 82,
+      "meter": [
+        4,
+        4
+      ],
+      "mp3": "mp3/08-leave-the-window-open.mp3",
+      "wav": "wav/08-leave-the-window-open.wav",
+      "midi": "midi/08-leave-the-window-open.mid",
+      "sha256": {
+        "wav": "0c60fc7936d1cd1b7a93ebdced189c24ab9fa4cee2b6a6c13c9ea98bc38312d2",
+        "mp3": "64b7fc19c9d65a20b793a706a17a84e0967d2c143967ca894667fa176a8c921b",
+        "midi": "659c5aa858f15a2e576a0c0a6b42643e8636ef21e06eb05faa72b0d6aa7bcf1a"
+      }
+    }
+  ],
+  "completeAlbum": "rooms-for-unfinished-things-full-album.mp3"
+}

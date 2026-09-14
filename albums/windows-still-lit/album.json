@@ -1,0 +1,1392 @@
+{
+  "title": "Windows Still Lit",
+  "artist": "Cairn",
+  "date": "2026-09-13",
+  "genre": "UK Garage / Electronic / Synthetic Vocals",
+  "brief": "Steadier UK garage with distinct bass arrangements, broader instrumentation, original lyrics and an original phonetic singer",
+  "totalSeconds": 1862.270226,
+  "displayDuration": "31:02",
+  "tracks": [
+    {
+      "lyricTimeline": [
+        {
+          "start": 1.4916129032258065,
+          "end": 4.878709677419355,
+          "text": "Leave a light on"
+        },
+        {
+          "start": 9.717419354838709,
+          "end": 10.346451612903225,
+          "text": "on"
+        },
+        {
+          "start": 11.169032258064515,
+          "end": 12.04,
+          "text": "on"
+        },
+        {
+          "start": 31.00774193548387,
+          "end": 31.210967741935484,
+          "text": "light"
+        },
+        {
+          "start": 31.491612903225807,
+          "end": 31.69483870967742,
+          "text": "light"
+        },
+        {
+          "start": 32.45935483870968,
+          "end": 32.89483870967742,
+          "text": "light"
+        },
+        {
+          "start": 46.49161290322581,
+          "end": 46.69483870967742,
+          "text": "light"
+        },
+        {
+          "start": 46.97548387096774,
+          "end": 47.178709677419356,
+          "text": "light"
+        },
+        {
+          "start": 47.943225806451615,
+          "end": 48.37870967741935,
+          "text": "light"
+        },
+        {
+          "start": 61.97548387096774,
+          "end": 65.84645161290324,
+          "text": "Leave a light on"
+        },
+        {
+          "start": 65.84645161290324,
+          "end": 69.71741935483871,
+          "text": "I can find my way"
+        },
+        {
+          "start": 69.71741935483871,
+          "end": 73.5883870967742,
+          "text": "In the soft rain"
+        },
+        {
+          "start": 73.5883870967742,
+          "end": 77.45935483870969,
+          "text": "Let the night stay"
+        },
+        {
+          "start": 154.87870967741935,
+          "end": 158.74967741935484,
+          "text": "Leave a light on"
+        },
+        {
+          "start": 158.74967741935484,
+          "end": 162.62064516129033,
+          "text": "I can find my way"
+        },
+        {
+          "start": 162.62064516129033,
+          "end": 166.49161290322579,
+          "text": "In the soft rain"
+        },
+        {
+          "start": 166.49161290322579,
+          "end": 170.36258064516127,
+          "text": "Let the night stay"
+        },
+        {
+          "start": 185.84645161290322,
+          "end": 189.7174193548387,
+          "text": "Leave a light on"
+        },
+        {
+          "start": 189.7174193548387,
+          "end": 193.5883870967742,
+          "text": "I can find my way"
+        },
+        {
+          "start": 193.5883870967742,
+          "end": 197.45935483870966,
+          "text": "In the soft rain"
+        },
+        {
+          "start": 197.45935483870966,
+          "end": 201.33032258064515,
+          "text": "Let the night stay"
+        },
+        {
+          "start": 209.07225806451612,
+          "end": 209.27548387096775,
+          "text": "light"
+        },
+        {
+          "start": 209.55612903225807,
+          "end": 209.75935483870967,
+          "text": "light"
+        },
+        {
+          "start": 210.5238709677419,
+          "end": 210.95935483870966,
+          "text": "light"
+        }
+      ],
+      "number": 1,
+      "title": "Soft Return",
+      "stem": "01-soft-return",
+      "seconds": 235.607732,
+      "bpm": 124,
+      "key": "F minor",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 12
+        },
+        {
+          "name": "verse",
+          "bar": 12,
+          "bars": 20
+        },
+        {
+          "name": "first",
+          "bar": 32,
+          "bars": 24
+        },
+        {
+          "name": "break",
+          "bar": 56,
+          "bars": 16
+        },
+        {
+          "name": "peak",
+          "bar": 72,
+          "bars": 32
+        },
+        {
+          "name": "outro",
+          "bar": 104,
+          "bars": 16
+        }
+      ],
+      "description": "A vocal and glass opening gives way to a grounded, warm garage groove. The bass holds beneath it.",
+      "instrument": "FM tines, electric-piano responses, flute; smooth eight-beat bass holds. Gentle four-beat garage.",
+      "lyrics": [
+        "Leave a light on",
+        "I can find my way",
+        "In the soft rain",
+        "Let the night stay"
+      ],
+      "mp3": "mp3/01-soft-return.mp3",
+      "wav": "wav/01-soft-return.wav",
+      "midi": "midi/01-soft-return.mid",
+      "sha256": {
+        "mp3": "7e79c630d4bb47b310eb23ecb26041715cf972938296b189bce684ba8a7676ca",
+        "wav": "113079c838e1bf75f3d7fd2c696dbf19579cfa5fdc9e08546eb73b96f8f9b369",
+        "midi": "86d2a9544cb409ccc689b1e866dd5463073fe4f607a9828141438b9e03b5aef2"
+      },
+      "timedLyrics": {
+        "json": "lyrics/site-export/tracks/01-soft-return.json",
+        "webvtt": "lyrics/site-export/captions/01-soft-return.vtt",
+        "karaokeWebvtt": "lyrics/site-export/captions/01-soft-return.karaoke.vtt",
+        "lrc": "lyrics/site-export/lrc/01-soft-return.lrc",
+        "schemaVersion": "1.0.0"
+      }
+    },
+    {
+      "lyricTimeline": [
+        {
+          "start": 1.44625,
+          "end": 4.7275,
+          "text": "Stay on the line"
+        },
+        {
+          "start": 9.415,
+          "end": 10.024375,
+          "text": "line"
+        },
+        {
+          "start": 10.82125,
+          "end": 11.665,
+          "text": "line"
+        },
+        {
+          "start": 22.54,
+          "end": 22.736875,
+          "text": "line"
+        },
+        {
+          "start": 23.00875,
+          "end": 23.205625,
+          "text": "line"
+        },
+        {
+          "start": 23.94625,
+          "end": 24.368125,
+          "text": "line"
+        },
+        {
+          "start": 37.54,
+          "end": 37.736875,
+          "text": "line"
+        },
+        {
+          "start": 38.00875,
+          "end": 38.205625,
+          "text": "line"
+        },
+        {
+          "start": 38.94625,
+          "end": 39.368125,
+          "text": "line"
+        },
+        {
+          "start": 60.04,
+          "end": 63.79,
+          "text": "Stay on the line"
+        },
+        {
+          "start": 63.79,
+          "end": 67.54,
+          "text": "Let the current flow"
+        },
+        {
+          "start": 67.54,
+          "end": 71.29,
+          "text": "I can hear you"
+        },
+        {
+          "start": 71.29,
+          "end": 75.04,
+          "text": "Take it slow"
+        },
+        {
+          "start": 90.04,
+          "end": 93.79,
+          "text": "Stay on the line"
+        },
+        {
+          "start": 93.79,
+          "end": 97.54,
+          "text": "Let the current flow"
+        },
+        {
+          "start": 97.54,
+          "end": 101.29,
+          "text": "I can hear you"
+        },
+        {
+          "start": 101.29,
+          "end": 105.04,
+          "text": "Take it slow"
+        },
+        {
+          "start": 157.54,
+          "end": 157.736875,
+          "text": "line"
+        },
+        {
+          "start": 158.00875,
+          "end": 158.205625,
+          "text": "line"
+        },
+        {
+          "start": 158.94625,
+          "end": 159.368125,
+          "text": "line"
+        },
+        {
+          "start": 180.04,
+          "end": 183.79,
+          "text": "Stay on the line"
+        },
+        {
+          "start": 183.79,
+          "end": 187.54,
+          "text": "Let the current flow"
+        },
+        {
+          "start": 187.54,
+          "end": 191.29,
+          "text": "I can hear you"
+        },
+        {
+          "start": 191.29,
+          "end": 195.04,
+          "text": "Take it slow"
+        },
+        {
+          "start": 210.04,
+          "end": 213.79,
+          "text": "Stay on the line"
+        },
+        {
+          "start": 213.79,
+          "end": 217.54,
+          "text": "Let the current flow"
+        },
+        {
+          "start": 217.54,
+          "end": 221.29,
+          "text": "I can hear you"
+        },
+        {
+          "start": 221.29,
+          "end": 225.04,
+          "text": "Take it slow"
+        },
+        {
+          "start": 247.54,
+          "end": 247.73687499999997,
+          "text": "line"
+        },
+        {
+          "start": 248.00875,
+          "end": 248.20562499999997,
+          "text": "line"
+        },
+        {
+          "start": 248.94625,
+          "end": 249.368125,
+          "text": "line"
+        }
+      ],
+      "number": 2,
+      "title": "Copper Current",
+      "stem": "02-copper-current",
+      "seconds": 271.651315,
+      "bpm": 128,
+      "key": "E minor",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 8
+        },
+        {
+          "name": "verse",
+          "bar": 8,
+          "bars": 24
+        },
+        {
+          "name": "first",
+          "bar": 32,
+          "bars": 32
+        },
+        {
+          "name": "break",
+          "bar": 64,
+          "bars": 16
+        },
+        {
+          "name": "bridge",
+          "bar": 80,
+          "bars": 16
+        },
+        {
+          "name": "peak",
+          "bar": 96,
+          "bars": 32
+        },
+        {
+          "name": "outro",
+          "bar": 128,
+          "bars": 16
+        }
+      ],
+      "description": "A steady machine groove, a talking acid synth, bright metallic answers and clipped sung hooks.",
+      "instrument": "Copper acid: the Service Tunnel oscillator with simpler eighth-note phrasing, a long filter arc and no separate bass line.",
+      "lyrics": [
+        "Stay on the line",
+        "Let the current flow",
+        "I can hear you",
+        "Take it slow"
+      ],
+      "mp3": "mp3/02-copper-current.mp3",
+      "wav": "wav/02-copper-current.wav",
+      "midi": "midi/02-copper-current.mid",
+      "sha256": {
+        "mp3": "d93621e5a156e8d6a391b8280584c694318b41cf4f241885c0b7525f41e3fe6a",
+        "wav": "f76150d34ec0a71700b71755d7ecca7245f8984414a05abe6aafa93b04ddcb4c",
+        "midi": "44e8f9566391463293c552f81b79bdb4bd0f7b5409f83dc186bafe89bd52e5c2"
+      },
+      "timedLyrics": {
+        "json": "lyrics/site-export/tracks/02-copper-current.json",
+        "webvtt": "lyrics/site-export/captions/02-copper-current.vtt",
+        "karaokeWebvtt": "lyrics/site-export/captions/02-copper-current.karaoke.vtt",
+        "lrc": "lyrics/site-export/lrc/02-copper-current.lrc",
+        "schemaVersion": "1.0.0"
+      }
+    },
+    {
+      "lyricTimeline": [
+        {
+          "start": 23.64655737704918,
+          "end": 23.85311475409836,
+          "text": "blue"
+        },
+        {
+          "start": 24.138360655737703,
+          "end": 24.344918032786886,
+          "text": "blue"
+        },
+        {
+          "start": 25.121967213114754,
+          "end": 25.564590163934426,
+          "text": "blue"
+        },
+        {
+          "start": 39.38426229508197,
+          "end": 39.59081967213115,
+          "text": "blue"
+        },
+        {
+          "start": 39.87606557377049,
+          "end": 40.08262295081967,
+          "text": "blue"
+        },
+        {
+          "start": 40.85967213114754,
+          "end": 41.30229508196721,
+          "text": "blue"
+        },
+        {
+          "start": 62.990819672131146,
+          "end": 66.92524590163936,
+          "text": "You and I"
+        },
+        {
+          "start": 66.92524590163936,
+          "end": 70.85967213114755,
+          "text": "In a room of blue"
+        },
+        {
+          "start": 70.85967213114755,
+          "end": 74.79409836065574,
+          "text": "Time can wait"
+        },
+        {
+          "start": 74.79409836065574,
+          "end": 78.72852459016394,
+          "text": "I am here with you"
+        },
+        {
+          "start": 133.8104918032787,
+          "end": 134.01704918032786,
+          "text": "blue"
+        },
+        {
+          "start": 134.3022950819672,
+          "end": 134.5088524590164,
+          "text": "blue"
+        },
+        {
+          "start": 135.28590163934425,
+          "end": 135.72852459016391,
+          "text": "blue"
+        },
+        {
+          "start": 157.41704918032787,
+          "end": 161.35147540983607,
+          "text": "You and I"
+        },
+        {
+          "start": 161.35147540983607,
+          "end": 165.28590163934425,
+          "text": "In a room of blue"
+        },
+        {
+          "start": 165.28590163934425,
+          "end": 169.22032786885245,
+          "text": "Time can wait"
+        },
+        {
+          "start": 169.22032786885245,
+          "end": 173.15475409836066,
+          "text": "I am here with you"
+        },
+        {
+          "start": 188.89245901639345,
+          "end": 192.82688524590162,
+          "text": "You and I"
+        },
+        {
+          "start": 192.82688524590162,
+          "end": 196.76131147540983,
+          "text": "In a room of blue"
+        },
+        {
+          "start": 196.76131147540983,
+          "end": 200.69573770491803,
+          "text": "Time can wait"
+        },
+        {
+          "start": 200.69573770491803,
+          "end": 204.63016393442624,
+          "text": "I am here with you"
+        },
+        {
+          "start": 212.49901639344262,
+          "end": 212.7055737704918,
+          "text": "blue"
+        },
+        {
+          "start": 212.99081967213115,
+          "end": 213.19737704918032,
+          "text": "blue"
+        },
+        {
+          "start": 213.9744262295082,
+          "end": 214.41704918032787,
+          "text": "blue"
+        }
+      ],
+      "number": 3,
+      "title": "Blue Hour Conversation",
+      "stem": "03-blue-hour-conversation",
+      "seconds": 237.410771,
+      "bpm": 122,
+      "key": "B-flat major",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 8
+        },
+        {
+          "name": "verse",
+          "bar": 8,
+          "bars": 24
+        },
+        {
+          "name": "first",
+          "bar": 32,
+          "bars": 16
+        },
+        {
+          "name": "break",
+          "bar": 48,
+          "bars": 16
+        },
+        {
+          "name": "bridge",
+          "bar": 64,
+          "bars": 16
+        },
+        {
+          "name": "peak",
+          "bar": 80,
+          "bars": 24
+        },
+        {
+          "name": "outro",
+          "bar": 104,
+          "bars": 16
+        }
+      ],
+      "description": "A brighter room, rounded keys, a walking reply from the bass and a duet that leaves room between phrases.",
+      "instrument": "Electric piano and muted electric-string bass with a melodic quarter-note phrase; brushed noise and a relaxed backbeat.",
+      "lyrics": [
+        "You and I",
+        "In a room of blue",
+        "Time can wait",
+        "I am here with you"
+      ],
+      "mp3": "mp3/03-blue-hour-conversation.mp3",
+      "wav": "wav/03-blue-hour-conversation.wav",
+      "midi": "midi/03-blue-hour-conversation.mid",
+      "sha256": {
+        "mp3": "e26c18729630cc4ca4ad492de761cb611cb9ec849954d9ea8d48a0d5fb15b9ec",
+        "wav": "e429c4719636713d3d96126afb47ad53b1975f012d3b983522b6060f9d7f138c",
+        "midi": "c6f02026c29606bb56cc43a2cb2b3e21bac6545914d3d0cd850fbbf2dc55580d"
+      },
+      "timedLyrics": {
+        "json": "lyrics/site-export/tracks/03-blue-hour-conversation.json",
+        "webvtt": "lyrics/site-export/captions/03-blue-hour-conversation.vtt",
+        "karaokeWebvtt": "lyrics/site-export/captions/03-blue-hour-conversation.karaoke.vtt",
+        "lrc": "lyrics/site-export/lrc/03-blue-hour-conversation.lrc",
+        "schemaVersion": "1.0.0"
+      }
+    },
+    {
+      "lyricTimeline": [
+        {
+          "start": 3.143448275862069,
+          "end": 7.798620689655173,
+          "text": "Rain on glass"
+        },
+        {
+          "start": 24.86758620689655,
+          "end": 31.07448275862069,
+          "text": "Rain on glass"
+        },
+        {
+          "start": 31.07448275862069,
+          "end": 37.281379310344825,
+          "text": "No need to run"
+        },
+        {
+          "start": 37.281379310344825,
+          "end": 43.48827586206897,
+          "text": "Stay with me"
+        },
+        {
+          "start": 43.48827586206897,
+          "end": 49.6951724137931,
+          "text": "Till the morning comes"
+        },
+        {
+          "start": 99.35034482758621,
+          "end": 105.55724137931036,
+          "text": "Rain on glass"
+        },
+        {
+          "start": 105.55724137931036,
+          "end": 111.76413793103448,
+          "text": "No need to run"
+        },
+        {
+          "start": 111.76413793103448,
+          "end": 117.97103448275863,
+          "text": "Stay with me"
+        },
+        {
+          "start": 117.97103448275863,
+          "end": 124.17793103448277,
+          "text": "Till the morning comes"
+        }
+      ],
+      "number": 4,
+      "title": "The Room Above the Rain",
+      "stem": "04-the-room-above-the-rain",
+      "seconds": 167.95644,
+      "bpm": 116,
+      "key": "D minor",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 12
+        },
+        {
+          "name": "first",
+          "bar": 12,
+          "bars": 20
+        },
+        {
+          "name": "break",
+          "bar": 32,
+          "bars": 16
+        },
+        {
+          "name": "peak",
+          "bar": 48,
+          "bars": 20
+        },
+        {
+          "name": "outro",
+          "bar": 68,
+          "bars": 12
+        }
+      ],
+      "description": "The quiet centre: a full song for glass, breath and a synthetic voice, with no beat to hurry it.",
+      "instrument": "Glass resonators, breath flute, bowed high harmonics and slow phonetic singing; no drums or bass instrument.",
+      "lyrics": [
+        "Rain on glass",
+        "No need to run",
+        "Stay with me",
+        "Till the morning comes"
+      ],
+      "mp3": "mp3/04-the-room-above-the-rain.mp3",
+      "wav": "wav/04-the-room-above-the-rain.wav",
+      "midi": "midi/04-the-room-above-the-rain.mid",
+      "sha256": {
+        "mp3": "e2787238c3375ba501f2b7c4cf70ed653f92eecd02d74dbba83acf12448c8522",
+        "wav": "b31a30b3c3070236ffb256c512514a7a141211a85226b35c2c3b6f44b838d009",
+        "midi": "41eaeda2278dadd154aa8b23b7206c489362e7bd1fc5fdc1279cc88b1eb0d504"
+      },
+      "timedLyrics": {
+        "json": "lyrics/site-export/tracks/04-the-room-above-the-rain.json",
+        "webvtt": "lyrics/site-export/captions/04-the-room-above-the-rain.vtt",
+        "karaokeWebvtt": "lyrics/site-export/captions/04-the-room-above-the-rain.karaoke.vtt",
+        "lrc": "lyrics/site-export/lrc/04-the-room-above-the-rain.lrc",
+        "schemaVersion": "1.0.0"
+      }
+    },
+    {
+      "lyricTimeline": [
+        {
+          "start": 22.897142857142857,
+          "end": 23.09714285714286,
+          "text": "light"
+        },
+        {
+          "start": 23.37333333333333,
+          "end": 23.573333333333334,
+          "text": "light"
+        },
+        {
+          "start": 24.325714285714284,
+          "end": 24.754285714285714,
+          "text": "light"
+        },
+        {
+          "start": 45.754285714285714,
+          "end": 49.563809523809525,
+          "text": "Step into the light"
+        },
+        {
+          "start": 49.563809523809525,
+          "end": 53.373333333333335,
+          "text": "Leave the door ajar"
+        },
+        {
+          "start": 53.373333333333335,
+          "end": 57.182857142857145,
+          "text": "We can take our time"
+        },
+        {
+          "start": 57.182857142857145,
+          "end": 60.99238095238095,
+          "text": "We are where we are"
+        },
+        {
+          "start": 76.2304761904762,
+          "end": 80.04,
+          "text": "Step into the light"
+        },
+        {
+          "start": 80.04,
+          "end": 83.84952380952382,
+          "text": "Leave the door ajar"
+        },
+        {
+          "start": 83.84952380952382,
+          "end": 87.65904761904763,
+          "text": "We can take our time"
+        },
+        {
+          "start": 87.65904761904763,
+          "end": 91.46857142857144,
+          "text": "We are where we are"
+        },
+        {
+          "start": 99.08761904761906,
+          "end": 99.28761904761905,
+          "text": "light"
+        },
+        {
+          "start": 99.56380952380952,
+          "end": 99.76380952380953,
+          "text": "light"
+        },
+        {
+          "start": 100.51619047619049,
+          "end": 100.9447619047619,
+          "text": "light"
+        },
+        {
+          "start": 152.42095238095237,
+          "end": 156.2304761904762,
+          "text": "Step into the light"
+        },
+        {
+          "start": 156.2304761904762,
+          "end": 160.04,
+          "text": "Leave the door ajar"
+        },
+        {
+          "start": 160.04,
+          "end": 163.8495238095238,
+          "text": "We can take our time"
+        },
+        {
+          "start": 163.8495238095238,
+          "end": 167.6590476190476,
+          "text": "We are where we are"
+        },
+        {
+          "start": 182.89714285714285,
+          "end": 186.70666666666665,
+          "text": "Step into the light"
+        },
+        {
+          "start": 186.70666666666665,
+          "end": 190.51619047619047,
+          "text": "Leave the door ajar"
+        },
+        {
+          "start": 190.51619047619047,
+          "end": 194.32571428571427,
+          "text": "We can take our time"
+        },
+        {
+          "start": 194.32571428571427,
+          "end": 198.1352380952381,
+          "text": "We are where we are"
+        },
+        {
+          "start": 220.99238095238096,
+          "end": 221.19238095238094,
+          "text": "light"
+        },
+        {
+          "start": 221.4685714285714,
+          "end": 221.66857142857143,
+          "text": "light"
+        },
+        {
+          "start": 222.42095238095237,
+          "end": 222.8495238095238,
+          "text": "light"
+        }
+      ],
+      "number": 5,
+      "title": "Landing Light",
+      "stem": "05-landing-light",
+      "seconds": 245.273968,
+      "bpm": 126,
+      "key": "E-flat major",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 8
+        },
+        {
+          "name": "verse",
+          "bar": 8,
+          "bars": 16
+        },
+        {
+          "name": "first",
+          "bar": 24,
+          "bars": 24
+        },
+        {
+          "name": "bridge",
+          "bar": 48,
+          "bars": 16
+        },
+        {
+          "name": "break",
+          "bar": 64,
+          "bars": 16
+        },
+        {
+          "name": "peak",
+          "bar": 80,
+          "bars": 32
+        },
+        {
+          "name": "outro",
+          "bar": 112,
+          "bars": 16
+        }
+      ],
+      "description": "A light organ-led four-beat track, with a small ascending bass phrase and open, plainspoken lyrics.",
+      "instrument": "Reed-organ chords, hollow organ bass with held roots and a rising pickup, plucked strings and shaker.",
+      "lyrics": [
+        "Step into the light",
+        "Leave the door ajar",
+        "We can take our time",
+        "We are where we are"
+      ],
+      "mp3": "mp3/05-landing-light.mp3",
+      "wav": "wav/05-landing-light.wav",
+      "midi": "midi/05-landing-light.mid",
+      "sha256": {
+        "mp3": "e99affeca242d363c4c5ff687f494cab5b0605334cf10da0ce791c52b17f5839",
+        "wav": "034b9a05866e2e3adc3e48cc305581fce39297475e28d268d8c9a94390211098",
+        "midi": "8a74ae32258b40d19339cf5c8690486ddf387fcc6ff98f6511450385d7df5781"
+      },
+      "timedLyrics": {
+        "json": "lyrics/site-export/tracks/05-landing-light.json",
+        "webvtt": "lyrics/site-export/captions/05-landing-light.vtt",
+        "karaokeWebvtt": "lyrics/site-export/captions/05-landing-light.karaoke.vtt",
+        "lrc": "lyrics/site-export/lrc/05-landing-light.lrc",
+        "schemaVersion": "1.0.0"
+      }
+    },
+    {
+      "lyricTimeline": [
+        {
+          "start": 1.4036363636363636,
+          "end": 4.585454545454546,
+          "text": "Low water moves"
+        },
+        {
+          "start": 9.13090909090909,
+          "end": 9.72181818181818,
+          "text": "moves"
+        },
+        {
+          "start": 10.494545454545454,
+          "end": 11.312727272727273,
+          "text": "moves"
+        },
+        {
+          "start": 72.76727272727274,
+          "end": 78.2218181818182,
+          "text": "Low water moves"
+        },
+        {
+          "start": 78.2218181818182,
+          "end": 83.67636363636365,
+          "text": "Under the moon"
+        },
+        {
+          "start": 83.67636363636365,
+          "end": 89.1309090909091,
+          "text": "Hold the sound"
+        },
+        {
+          "start": 89.1309090909091,
+          "end": 94.58545454545455,
+          "text": "I will be home soon"
+        },
+        {
+          "start": 160.04,
+          "end": 165.49454545454546,
+          "text": "Low water moves"
+        },
+        {
+          "start": 165.49454545454546,
+          "end": 170.9490909090909,
+          "text": "Under the moon"
+        },
+        {
+          "start": 170.9490909090909,
+          "end": 176.40363636363637,
+          "text": "Hold the sound"
+        },
+        {
+          "start": 176.40363636363637,
+          "end": 181.8581818181818,
+          "text": "I will be home soon"
+        },
+        {
+          "start": 189.13090909090909,
+          "end": 194.58545454545452,
+          "text": "Low water moves"
+        },
+        {
+          "start": 194.58545454545452,
+          "end": 200.04,
+          "text": "Under the moon"
+        },
+        {
+          "start": 200.04,
+          "end": 205.49454545454546,
+          "text": "Hold the sound"
+        },
+        {
+          "start": 205.49454545454546,
+          "end": 210.9490909090909,
+          "text": "I will be home soon"
+        }
+      ],
+      "number": 6,
+      "title": "Low Water",
+      "stem": "06-low-water",
+      "seconds": 236.160023,
+      "bpm": 132,
+      "key": "C minor",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 16
+        },
+        {
+          "name": "verse",
+          "bar": 16,
+          "bars": 24
+        },
+        {
+          "name": "first",
+          "bar": 40,
+          "bars": 24
+        },
+        {
+          "name": "break",
+          "bar": 64,
+          "bars": 24
+        },
+        {
+          "name": "peak",
+          "bar": 88,
+          "bars": 24
+        },
+        {
+          "name": "outro",
+          "bar": 112,
+          "bars": 16
+        }
+      ],
+      "description": "The one heavy passage: long bass pressure, sparse drums and two voices across a large empty space.",
+      "instrument": "Slow unmodulated Reese swells and long rests, half-time backbeat, folded sonar, muted bells and a low vocal answer.",
+      "lyrics": [
+        "Low water moves",
+        "Under the moon",
+        "Hold the sound",
+        "I will be home soon"
+      ],
+      "mp3": "mp3/06-low-water.mp3",
+      "wav": "wav/06-low-water.wav",
+      "midi": "midi/06-low-water.mid",
+      "sha256": {
+        "mp3": "617d868c6b8cfa0dbbea715b72f4ad46cf8fae2db99bf87473191dae89fbe195",
+        "wav": "93e41febf1dc02527992fe179f996ff9a356d0241f50f3fbd159e0a236ba096f",
+        "midi": "7a957ccd4f148b24d86341866c9f1bcd5615731b00971c64a6dd2ad2e618b14a"
+      },
+      "timedLyrics": {
+        "json": "lyrics/site-export/tracks/06-low-water.json",
+        "webvtt": "lyrics/site-export/captions/06-low-water.vtt",
+        "karaokeWebvtt": "lyrics/site-export/captions/06-low-water.karaoke.vtt",
+        "lrc": "lyrics/site-export/lrc/06-low-water.lrc",
+        "schemaVersion": "1.0.0"
+      }
+    },
+    {
+      "lyricTimeline": [
+        {
+          "start": 22.54,
+          "end": 22.736875,
+          "text": "stay"
+        },
+        {
+          "start": 23.00875,
+          "end": 23.205625,
+          "text": "stay"
+        },
+        {
+          "start": 23.94625,
+          "end": 24.368125,
+          "text": "stay"
+        },
+        {
+          "start": 37.54,
+          "end": 37.736875,
+          "text": "stay"
+        },
+        {
+          "start": 38.00875,
+          "end": 38.205625,
+          "text": "stay"
+        },
+        {
+          "start": 38.94625,
+          "end": 39.368125,
+          "text": "stay"
+        },
+        {
+          "start": 60.04,
+          "end": 63.79,
+          "text": "There is a place for you"
+        },
+        {
+          "start": 63.79,
+          "end": 67.54,
+          "text": "Close your eyes"
+        },
+        {
+          "start": 67.54,
+          "end": 71.29,
+          "text": "Through the rain"
+        },
+        {
+          "start": 71.29,
+          "end": 75.04,
+          "text": "After all this time"
+        },
+        {
+          "start": 90.04,
+          "end": 93.79,
+          "text": "There is a place for you"
+        },
+        {
+          "start": 93.79,
+          "end": 97.54,
+          "text": "Close your eyes"
+        },
+        {
+          "start": 97.54,
+          "end": 101.29,
+          "text": "Through the rain"
+        },
+        {
+          "start": 101.29,
+          "end": 105.04,
+          "text": "After all this time"
+        },
+        {
+          "start": 157.54,
+          "end": 157.736875,
+          "text": "stay"
+        },
+        {
+          "start": 158.00875,
+          "end": 158.205625,
+          "text": "stay"
+        },
+        {
+          "start": 158.94625,
+          "end": 159.368125,
+          "text": "stay"
+        },
+        {
+          "start": 180.04,
+          "end": 183.79,
+          "text": "There is a place for you"
+        },
+        {
+          "start": 183.79,
+          "end": 187.54,
+          "text": "Close your eyes"
+        },
+        {
+          "start": 187.54,
+          "end": 191.29,
+          "text": "Through the rain"
+        },
+        {
+          "start": 191.29,
+          "end": 195.04,
+          "text": "After all this time"
+        },
+        {
+          "start": 210.04,
+          "end": 213.79,
+          "text": "There is a place for you"
+        },
+        {
+          "start": 213.79,
+          "end": 217.54,
+          "text": "Close your eyes"
+        },
+        {
+          "start": 217.54,
+          "end": 221.29,
+          "text": "Through the rain"
+        },
+        {
+          "start": 221.29,
+          "end": 225.04,
+          "text": "After all this time"
+        },
+        {
+          "start": 247.54,
+          "end": 247.73687499999997,
+          "text": "stay"
+        },
+        {
+          "start": 248.00875,
+          "end": 248.20562499999997,
+          "text": "stay"
+        },
+        {
+          "start": 248.94625,
+          "end": 249.368125,
+          "text": "stay"
+        }
+      ],
+      "number": 7,
+      "title": "A Place to Stay",
+      "stem": "07-a-place-to-stay",
+      "seconds": 272.272653,
+      "bpm": 128,
+      "key": "A-flat major",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 8
+        },
+        {
+          "name": "verse",
+          "bar": 8,
+          "bars": 24
+        },
+        {
+          "name": "first",
+          "bar": 32,
+          "bars": 24
+        },
+        {
+          "name": "break",
+          "bar": 56,
+          "bars": 24
+        },
+        {
+          "name": "bridge",
+          "bar": 80,
+          "bars": 16
+        },
+        {
+          "name": "peak",
+          "bar": 96,
+          "bars": 32
+        },
+        {
+          "name": "outro",
+          "bar": 128,
+          "bars": 16
+        }
+      ],
+      "description": "An open chorus and an easy two-step pulse. The choir widens while the bass leaves whole bars free.",
+      "instrument": "Spectral choir, bright picked strings, a sparse triangle-pluck bass melody and layered sung octaves.",
+      "lyrics": [
+        "There is a place for you",
+        "Close your eyes",
+        "Through the rain",
+        "After all this time"
+      ],
+      "mp3": "mp3/07-a-place-to-stay.mp3",
+      "wav": "wav/07-a-place-to-stay.wav",
+      "midi": "midi/07-a-place-to-stay.mid",
+      "sha256": {
+        "mp3": "63c7d6df040ed39850ff7185133629da86e887518d24ef40b799be4bde109b42",
+        "wav": "7bf538631815d4041e75de46adcc9362c0e49aebf6f655ab44b0341373c5dc03",
+        "midi": "60212ea0cb2b02d8c120f8709199b25fb329bdcb8bb83219c6a5e5489b11555c"
+      },
+      "timedLyrics": {
+        "json": "lyrics/site-export/tracks/07-a-place-to-stay.json",
+        "webvtt": "lyrics/site-export/captions/07-a-place-to-stay.vtt",
+        "karaokeWebvtt": "lyrics/site-export/captions/07-a-place-to-stay.karaoke.vtt",
+        "lrc": "lyrics/site-export/lrc/07-a-place-to-stay.lrc",
+        "schemaVersion": "1.0.0"
+      }
+    },
+    {
+      "lyricTimeline": [
+        {
+          "start": 1.54,
+          "end": 6.04,
+          "text": "Windows still lit"
+        },
+        {
+          "start": 32.04,
+          "end": 38.04,
+          "text": "Windows still lit"
+        },
+        {
+          "start": 38.04,
+          "end": 44.04,
+          "text": "The street has gone quiet"
+        },
+        {
+          "start": 44.04,
+          "end": 50.04,
+          "text": "Keep a small flame"
+        },
+        {
+          "start": 50.04,
+          "end": 56.04,
+          "text": "Beside the silence"
+        },
+        {
+          "start": 112.04,
+          "end": 118.04,
+          "text": "Windows still lit"
+        },
+        {
+          "start": 118.04,
+          "end": 124.04,
+          "text": "The street has gone quiet"
+        },
+        {
+          "start": 124.04,
+          "end": 130.04,
+          "text": "Keep a small flame"
+        },
+        {
+          "start": 130.04,
+          "end": 136.04,
+          "text": "Beside the silence"
+        },
+        {
+          "start": 144.04,
+          "end": 150.04,
+          "text": "Windows still lit"
+        },
+        {
+          "start": 150.04,
+          "end": 156.04,
+          "text": "The street has gone quiet"
+        },
+        {
+          "start": 156.04,
+          "end": 162.04,
+          "text": "Keep a small flame"
+        },
+        {
+          "start": 162.04,
+          "end": 168.04,
+          "text": "Beside the silence"
+        }
+      ],
+      "number": 8,
+      "title": "Windows Still Lit",
+      "stem": "08-windows-still-lit",
+      "seconds": 195.937324,
+      "bpm": 120,
+      "key": "F major",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 16
+        },
+        {
+          "name": "first",
+          "bar": 16,
+          "bars": 24
+        },
+        {
+          "name": "break",
+          "bar": 40,
+          "bars": 16
+        },
+        {
+          "name": "peak",
+          "bar": 56,
+          "bars": 24
+        },
+        {
+          "name": "outro",
+          "bar": 80,
+          "bars": 16
+        }
+      ],
+      "description": "A sung closing piece, rising from air into a gentle pulse and leaving as a voice beside the window.",
+      "instrument": "Breath flute, bowed cloud, electric piano and glass; no bass line, a soft backbeat only in the middle passages.",
+      "lyrics": [
+        "Windows still lit",
+        "The street has gone quiet",
+        "Keep a small flame",
+        "Beside the silence"
+      ],
+      "mp3": "mp3/08-windows-still-lit.mp3",
+      "wav": "wav/08-windows-still-lit.wav",
+      "midi": "midi/08-windows-still-lit.mid",
+      "sha256": {
+        "mp3": "a7195fe4a0023ab0081b16d77ffc3269e53ea5a1f9ffec95bd8ab1cb3382b33d",
+        "wav": "4959663a2c908a7faffcc0add044c2d9ebf288e537dd431559aa810fc0623d16",
+        "midi": "44d68de8a8b19f2b8050c5fc17759ad0f84bc586a25798fde0c285939874d2d1"
+      },
+      "timedLyrics": {
+        "json": "lyrics/site-export/tracks/08-windows-still-lit.json",
+        "webvtt": "lyrics/site-export/captions/08-windows-still-lit.vtt",
+        "karaokeWebvtt": "lyrics/site-export/captions/08-windows-still-lit.karaoke.vtt",
+        "lrc": "lyrics/site-export/lrc/08-windows-still-lit.lrc",
+        "schemaVersion": "1.0.0"
+      }
+    }
+  ],
+  "completeAlbum": "windows-still-lit-full-album.mp3",
+  "completeAlbumSha256": "762d7ca8bac3d03decb7e84d4348bbbd91a82676ff67e3f78ff0c392e64f3663",
+  "masterFormat": "44.1 kHz / 24-bit PCM stereo",
+  "mp3Format": "320 kb/s stereo",
+  "localOnly": true,
+  "timedLyricsManifest": "lyrics/site-export/manifest.json"
+}

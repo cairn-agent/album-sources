@@ -1,0 +1,2862 @@
+{
+  "schema_version": "1.0.0",
+  "document_type": "timed_lyrics",
+  "release_key": "windows-still-lit",
+  "track_key": "01-soft-return",
+  "title": "Soft Return",
+  "artist": "Cairn",
+  "language": "en",
+  "time_unit": "milliseconds",
+  "sample_rate": 44100,
+  "duration_samples": 10390301,
+  "duration_ms": 235608,
+  "recording": {
+    "id": "sha256:113079c838e1bf75f3d7fd2c696dbf19579cfa5fdc9e08546eb73b96f8f9b369",
+    "revision": 1,
+    "canonical_format": "wav",
+    "audio_assets": [
+      {
+        "format": "wav",
+        "album_relative_path": "wav/01-soft-return.wav",
+        "sha256": "113079c838e1bf75f3d7fd2c696dbf19579cfa5fdc9e08546eb73b96f8f9b369"
+      },
+      {
+        "format": "mp3",
+        "album_relative_path": "mp3/01-soft-return.mp3",
+        "sha256": "7e79c630d4bb47b310eb23ecb26041715cf972938296b189bce684ba8a7676ca"
+      }
+    ]
+  },
+  "alignment": {
+    "method": "composer_authored_render_events",
+    "audio_zero": "first decoded PCM sample",
+    "render_offset_ms": 40,
+    "intervals": "start inclusive; end exclusive",
+    "vocal_release_ms": 12,
+    "reverb_tails_excluded": true,
+    "manually_listening_verified": false
+  },
+  "cues": [
+    {
+      "id": "01-soft-return/lead/013",
+      "role": "lead",
+      "text": "Leave a light on",
+      "start_sample": 65780,
+      "end_sample": 215151,
+      "start_ms": 1492,
+      "end_ms": 4879,
+      "words": [
+        {
+          "id": "01-soft-return/word/0070",
+          "text": "Leave",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 65780,
+          "end_sample": 103063,
+          "start_ms": 1492,
+          "end_ms": 2337,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 65780,
+              "end_sample": 69262,
+              "start_ms": 1492,
+              "end_ms": 1571
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 68647,
+              "end_sample": 100196,
+              "start_ms": 1557,
+              "end_ms": 2272
+            },
+            {
+              "symbol": "V",
+              "start_sample": 99581,
+              "end_sample": 103063,
+              "start_ms": 2258,
+              "end_ms": 2337
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0071",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 103621,
+          "end_sample": 125767,
+          "start_ms": 2350,
+          "end_ms": 2852,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 103621,
+              "end_sample": 125767,
+              "start_ms": 2350,
+              "end_ms": 2852
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0072",
+          "text": "light",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 126325,
+          "end_sample": 163608,
+          "start_ms": 2865,
+          "end_ms": 3710,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 126325,
+              "end_sample": 129807,
+              "start_ms": 2865,
+              "end_ms": 2943
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 129192,
+              "end_sample": 161579,
+              "start_ms": 2930,
+              "end_ms": 3664
+            },
+            {
+              "symbol": "T",
+              "start_sample": 160964,
+              "end_sample": 163608,
+              "start_ms": 3650,
+              "end_ms": 3710
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0073",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 164166,
+          "end_sample": 207124,
+          "start_ms": 3723,
+          "end_ms": 4697,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 164166,
+              "end_sample": 204258,
+              "start_ms": 3723,
+              "end_ms": 4632
+            },
+            {
+              "symbol": "N",
+              "start_sample": 203642,
+              "end_sample": 207124,
+              "start_ms": 4618,
+              "end_ms": 4697
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/001",
+      "role": "chop",
+      "text": "on",
+      "start_sample": 428538,
+      "end_sample": 456894,
+      "start_ms": 9717,
+      "end_ms": 10360,
+      "words": [
+        {
+          "id": "01-soft-return/word/0074",
+          "text": "on",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 428538,
+          "end_sample": 456894,
+          "start_ms": 9717,
+          "end_ms": 10360,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 428538,
+              "end_sample": 454027,
+              "start_ms": 9717,
+              "end_ms": 10295
+            },
+            {
+              "symbol": "N",
+              "start_sample": 453412,
+              "end_sample": 456894,
+              "start_ms": 10281,
+              "end_ms": 10360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/002",
+      "role": "chop",
+      "text": "on",
+      "start_sample": 492554,
+      "end_sample": 531580,
+      "start_ms": 11169,
+      "end_ms": 12054,
+      "words": [
+        {
+          "id": "01-soft-return/word/0075",
+          "text": "on",
+          "role": "chop",
+          "note_midi": 68,
+          "start_sample": 492554,
+          "end_sample": 531580,
+          "start_ms": 11169,
+          "end_ms": 12054,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 492554,
+              "end_sample": 528712,
+              "start_ms": 11169,
+              "end_ms": 11989
+            },
+            {
+              "symbol": "N",
+              "start_sample": 528098,
+              "end_sample": 531580,
+              "start_ms": 11975,
+              "end_ms": 12054
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/003",
+      "role": "chop",
+      "text": "light",
+      "start_sample": 1367441,
+      "end_sample": 1377019,
+      "start_ms": 31008,
+      "end_ms": 31225,
+      "words": [
+        {
+          "id": "01-soft-return/word/0076",
+          "text": "light",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 1367441,
+          "end_sample": 1377019,
+          "start_ms": 31008,
+          "end_ms": 31225,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 1367441,
+              "end_sample": 1370470,
+              "start_ms": 31008,
+              "end_ms": 31076
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 1369856,
+              "end_sample": 1375311,
+              "start_ms": 31062,
+              "end_ms": 31186
+            },
+            {
+              "symbol": "T",
+              "start_sample": 1374695,
+              "end_sample": 1377019,
+              "start_ms": 31172,
+              "end_ms": 31225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/004",
+      "role": "chop",
+      "text": "light",
+      "start_sample": 1388780,
+      "end_sample": 1398358,
+      "start_ms": 31492,
+      "end_ms": 31709,
+      "words": [
+        {
+          "id": "01-soft-return/word/0077",
+          "text": "light",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 1388780,
+          "end_sample": 1398358,
+          "start_ms": 31492,
+          "end_ms": 31709,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 1388780,
+              "end_sample": 1391809,
+              "start_ms": 31492,
+              "end_ms": 31560
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 1391194,
+              "end_sample": 1396649,
+              "start_ms": 31546,
+              "end_ms": 31670
+            },
+            {
+              "symbol": "T",
+              "start_sample": 1396034,
+              "end_sample": 1398358,
+              "start_ms": 31656,
+              "end_ms": 31709
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/005",
+      "role": "chop",
+      "text": "light",
+      "start_sample": 1431458,
+      "end_sample": 1451278,
+      "start_ms": 32459,
+      "end_ms": 32909,
+      "words": [
+        {
+          "id": "01-soft-return/word/0078",
+          "text": "light",
+          "role": "chop",
+          "note_midi": 68,
+          "start_sample": 1431458,
+          "end_sample": 1451278,
+          "start_ms": 32459,
+          "end_ms": 32909,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 1431458,
+              "end_sample": 1434940,
+              "start_ms": 32459,
+              "end_ms": 32538
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 1434324,
+              "end_sample": 1449249,
+              "start_ms": 32524,
+              "end_ms": 32863
+            },
+            {
+              "symbol": "T",
+              "start_sample": 1448634,
+              "end_sample": 1451278,
+              "start_ms": 32849,
+              "end_ms": 32909
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/006",
+      "role": "chop",
+      "text": "light",
+      "start_sample": 2050280,
+      "end_sample": 2059858,
+      "start_ms": 46492,
+      "end_ms": 46709,
+      "words": [
+        {
+          "id": "01-soft-return/word/0079",
+          "text": "light",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 2050280,
+          "end_sample": 2059858,
+          "start_ms": 46492,
+          "end_ms": 46709,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 2050280,
+              "end_sample": 2053309,
+              "start_ms": 46492,
+              "end_ms": 46560
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 2052694,
+              "end_sample": 2058149,
+              "start_ms": 46546,
+              "end_ms": 46670
+            },
+            {
+              "symbol": "T",
+              "start_sample": 2057534,
+              "end_sample": 2059858,
+              "start_ms": 46656,
+              "end_ms": 46709
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/007",
+      "role": "chop",
+      "text": "light",
+      "start_sample": 2071619,
+      "end_sample": 2081197,
+      "start_ms": 46975,
+      "end_ms": 47193,
+      "words": [
+        {
+          "id": "01-soft-return/word/0080",
+          "text": "light",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 2071619,
+          "end_sample": 2081197,
+          "start_ms": 46975,
+          "end_ms": 47193,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 2071619,
+              "end_sample": 2074648,
+              "start_ms": 46975,
+              "end_ms": 47044
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 2074033,
+              "end_sample": 2079488,
+              "start_ms": 47030,
+              "end_ms": 47154
+            },
+            {
+              "symbol": "T",
+              "start_sample": 2078873,
+              "end_sample": 2081197,
+              "start_ms": 47140,
+              "end_ms": 47193
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/008",
+      "role": "chop",
+      "text": "light",
+      "start_sample": 2114296,
+      "end_sample": 2134116,
+      "start_ms": 47943,
+      "end_ms": 48393,
+      "words": [
+        {
+          "id": "01-soft-return/word/0081",
+          "text": "light",
+          "role": "chop",
+          "note_midi": 68,
+          "start_sample": 2114296,
+          "end_sample": 2134116,
+          "start_ms": 47943,
+          "end_ms": 48393,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 2114296,
+              "end_sample": 2117778,
+              "start_ms": 47943,
+              "end_ms": 48022
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 2117163,
+              "end_sample": 2132088,
+              "start_ms": 48008,
+              "end_ms": 48347
+            },
+            {
+              "symbol": "T",
+              "start_sample": 2131472,
+              "end_sample": 2134116,
+              "start_ms": 48333,
+              "end_ms": 48393
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/001",
+      "role": "lead",
+      "text": "Leave a light on",
+      "start_sample": 2733119,
+      "end_sample": 2903829,
+      "start_ms": 61975,
+      "end_ms": 65846,
+      "words": [
+        {
+          "id": "01-soft-return/word/0001",
+          "text": "Leave",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 2733119,
+          "end_sample": 2776092,
+          "start_ms": 61975,
+          "end_ms": 62950,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 2733119,
+              "end_sample": 2736601,
+              "start_ms": 61975,
+              "end_ms": 62054
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 2735985,
+              "end_sample": 2773224,
+              "start_ms": 62040,
+              "end_ms": 62885
+            },
+            {
+              "symbol": "V",
+              "start_sample": 2772610,
+              "end_sample": 2776092,
+              "start_ms": 62871,
+              "end_ms": 62950
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0002",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 2776650,
+          "end_sample": 2802210,
+          "start_ms": 62963,
+          "end_ms": 63542,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 2776650,
+              "end_sample": 2802210,
+              "start_ms": 62963,
+              "end_ms": 63542
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0003",
+          "text": "light",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 2802768,
+          "end_sample": 2845741,
+          "start_ms": 63555,
+          "end_ms": 64529,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 2802768,
+              "end_sample": 2806250,
+              "start_ms": 63555,
+              "end_ms": 63634
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 2805635,
+              "end_sample": 2843712,
+              "start_ms": 63620,
+              "end_ms": 64483
+            },
+            {
+              "symbol": "T",
+              "start_sample": 2843097,
+              "end_sample": 2845741,
+              "start_ms": 64469,
+              "end_ms": 64529
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0004",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 2846299,
+          "end_sample": 2895802,
+          "start_ms": 64542,
+          "end_ms": 65664,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 2846299,
+              "end_sample": 2892935,
+              "start_ms": 64542,
+              "end_ms": 65599
+            },
+            {
+              "symbol": "N",
+              "start_sample": 2892320,
+              "end_sample": 2895802,
+              "start_ms": 65585,
+              "end_ms": 65664
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/002",
+      "role": "lead",
+      "text": "I can find my way",
+      "start_sample": 2903829,
+      "end_sample": 3074538,
+      "start_ms": 65846,
+      "end_ms": 69717,
+      "words": [
+        {
+          "id": "01-soft-return/word/0005",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 2903829,
+          "end_sample": 2934968,
+          "start_ms": 65846,
+          "end_ms": 66553,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 2903829,
+              "end_sample": 2934968,
+              "start_ms": 65846,
+              "end_ms": 66553
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0006",
+          "text": "can",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 2935526,
+          "end_sample": 2966665,
+          "start_ms": 66565,
+          "end_ms": 67271,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 2935526,
+              "end_sample": 2938170,
+              "start_ms": 66565,
+              "end_ms": 66625
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 2937554,
+              "end_sample": 2963798,
+              "start_ms": 66611,
+              "end_ms": 67206
+            },
+            {
+              "symbol": "N",
+              "start_sample": 2963183,
+              "end_sample": 2966665,
+              "start_ms": 67192,
+              "end_ms": 67271
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0007",
+          "text": "find",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 2967223,
+          "end_sample": 2998362,
+          "start_ms": 67284,
+          "end_ms": 67990,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 2967223,
+              "end_sample": 2970705,
+              "start_ms": 67284,
+              "end_ms": 67363
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 2970090,
+              "end_sample": 2993467,
+              "start_ms": 67349,
+              "end_ms": 67879
+            },
+            {
+              "symbol": "N",
+              "start_sample": 2992852,
+              "end_sample": 2996334,
+              "start_ms": 67865,
+              "end_ms": 67944
+            },
+            {
+              "symbol": "D",
+              "start_sample": 2995718,
+              "end_sample": 2998362,
+              "start_ms": 67930,
+              "end_ms": 67990
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0008",
+          "text": "my",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 2998920,
+          "end_sample": 3030059,
+          "start_ms": 68003,
+          "end_ms": 68709,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 2998920,
+              "end_sample": 3002402,
+              "start_ms": 68003,
+              "end_ms": 68082
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 3001787,
+              "end_sample": 3030059,
+              "start_ms": 68068,
+              "end_ms": 68709
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0009",
+          "text": "way",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 3030618,
+          "end_sample": 3066511,
+          "start_ms": 68721,
+          "end_ms": 69535,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 3030618,
+              "end_sample": 3034100,
+              "start_ms": 68721,
+              "end_ms": 68800
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 3033484,
+              "end_sample": 3066511,
+              "start_ms": 68786,
+              "end_ms": 69535
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/003",
+      "role": "lead",
+      "text": "In the soft rain",
+      "start_sample": 3074538,
+      "end_sample": 3245248,
+      "start_ms": 69717,
+      "end_ms": 73588,
+      "words": [
+        {
+          "id": "01-soft-return/word/0010",
+          "text": "In",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 3074538,
+          "end_sample": 3117511,
+          "start_ms": 69717,
+          "end_ms": 70692,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 3074538,
+              "end_sample": 3114644,
+              "start_ms": 69717,
+              "end_ms": 70627
+            },
+            {
+              "symbol": "N",
+              "start_sample": 3114029,
+              "end_sample": 3117511,
+              "start_ms": 70613,
+              "end_ms": 70692
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0011",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 3118069,
+          "end_sample": 3143630,
+          "start_ms": 70705,
+          "end_ms": 71284,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 3118069,
+              "end_sample": 3121551,
+              "start_ms": 70705,
+              "end_ms": 70783
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 3120936,
+              "end_sample": 3143630,
+              "start_ms": 70770,
+              "end_ms": 71284
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0012",
+          "text": "soft",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 3144188,
+          "end_sample": 3187160,
+          "start_ms": 71297,
+          "end_ms": 72271,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 3144188,
+              "end_sample": 3147670,
+              "start_ms": 71297,
+              "end_ms": 71376
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 3147054,
+              "end_sample": 3182265,
+              "start_ms": 71362,
+              "end_ms": 72160
+            },
+            {
+              "symbol": "F",
+              "start_sample": 3181650,
+              "end_sample": 3185132,
+              "start_ms": 72146,
+              "end_ms": 72225
+            },
+            {
+              "symbol": "T",
+              "start_sample": 3184516,
+              "end_sample": 3187160,
+              "start_ms": 72211,
+              "end_ms": 72271
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0013",
+          "text": "rain",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 3187719,
+          "end_sample": 3237221,
+          "start_ms": 72284,
+          "end_ms": 73406,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 3187719,
+              "end_sample": 3191201,
+              "start_ms": 72284,
+              "end_ms": 72363
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 3190585,
+              "end_sample": 3234354,
+              "start_ms": 72349,
+              "end_ms": 73341
+            },
+            {
+              "symbol": "N",
+              "start_sample": 3233739,
+              "end_sample": 3237221,
+              "start_ms": 73327,
+              "end_ms": 73406
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/004",
+      "role": "lead",
+      "text": "Let the night stay",
+      "start_sample": 3245248,
+      "end_sample": 3415958,
+      "start_ms": 73588,
+      "end_ms": 77459,
+      "words": [
+        {
+          "id": "01-soft-return/word/0014",
+          "text": "Let",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 3245248,
+          "end_sample": 3288221,
+          "start_ms": 73588,
+          "end_ms": 74563,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 3245248,
+              "end_sample": 3248730,
+              "start_ms": 73588,
+              "end_ms": 73667
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 3248114,
+              "end_sample": 3286191,
+              "start_ms": 73653,
+              "end_ms": 74517
+            },
+            {
+              "symbol": "T",
+              "start_sample": 3285577,
+              "end_sample": 3288221,
+              "start_ms": 74503,
+              "end_ms": 74563
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0015",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 3288779,
+          "end_sample": 3314339,
+          "start_ms": 74575,
+          "end_ms": 75155,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 3288779,
+              "end_sample": 3292261,
+              "start_ms": 74575,
+              "end_ms": 74654
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 3291645,
+              "end_sample": 3314339,
+              "start_ms": 74640,
+              "end_ms": 75155
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0016",
+          "text": "night",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 3314897,
+          "end_sample": 3357870,
+          "start_ms": 75168,
+          "end_ms": 76142,
+          "phonemes": [
+            {
+              "symbol": "N",
+              "start_sample": 3314897,
+              "end_sample": 3318379,
+              "start_ms": 75168,
+              "end_ms": 75247
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 3317764,
+              "end_sample": 3355841,
+              "start_ms": 75233,
+              "end_ms": 76096
+            },
+            {
+              "symbol": "T",
+              "start_sample": 3355226,
+              "end_sample": 3357870,
+              "start_ms": 76082,
+              "end_ms": 76142
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0017",
+          "text": "stay",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 3358428,
+          "end_sample": 3407930,
+          "start_ms": 76155,
+          "end_ms": 77277,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 3358428,
+              "end_sample": 3361910,
+              "start_ms": 76155,
+              "end_ms": 76234
+            },
+            {
+              "symbol": "T",
+              "start_sample": 3361295,
+              "end_sample": 3363939,
+              "start_ms": 76220,
+              "end_ms": 76280
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 3363323,
+              "end_sample": 3407930,
+              "start_ms": 76266,
+              "end_ms": 77277
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/005",
+      "role": "lead",
+      "text": "Leave a light on",
+      "start_sample": 6830151,
+      "end_sample": 7000861,
+      "start_ms": 154879,
+      "end_ms": 158750,
+      "words": [
+        {
+          "id": "01-soft-return/word/0018",
+          "text": "Leave",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 6830151,
+          "end_sample": 6873124,
+          "start_ms": 154879,
+          "end_ms": 155853,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 6830151,
+              "end_sample": 6833633,
+              "start_ms": 154879,
+              "end_ms": 154958
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 6833018,
+              "end_sample": 6870257,
+              "start_ms": 154944,
+              "end_ms": 155788
+            },
+            {
+              "symbol": "V",
+              "start_sample": 6869642,
+              "end_sample": 6873124,
+              "start_ms": 155774,
+              "end_ms": 155853
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0019",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 6873682,
+          "end_sample": 6899242,
+          "start_ms": 155866,
+          "end_ms": 156445,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 6873682,
+              "end_sample": 6899242,
+              "start_ms": 155866,
+              "end_ms": 156445
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0020",
+          "text": "light",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 6899801,
+          "end_sample": 6942773,
+          "start_ms": 156458,
+          "end_ms": 157432,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 6899801,
+              "end_sample": 6903283,
+              "start_ms": 156458,
+              "end_ms": 156537
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 6902667,
+              "end_sample": 6940744,
+              "start_ms": 156523,
+              "end_ms": 157386
+            },
+            {
+              "symbol": "T",
+              "start_sample": 6940129,
+              "end_sample": 6942773,
+              "start_ms": 157373,
+              "end_ms": 157432
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0021",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 6943332,
+          "end_sample": 6992834,
+          "start_ms": 157445,
+          "end_ms": 158568,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 6943332,
+              "end_sample": 6989968,
+              "start_ms": 157445,
+              "end_ms": 158503
+            },
+            {
+              "symbol": "N",
+              "start_sample": 6989352,
+              "end_sample": 6992834,
+              "start_ms": 158489,
+              "end_ms": 158568
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/006",
+      "role": "lead",
+      "text": "I can find my way",
+      "start_sample": 7000861,
+      "end_sample": 7171570,
+      "start_ms": 158750,
+      "end_ms": 162621,
+      "words": [
+        {
+          "id": "01-soft-return/word/0022",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 7000861,
+          "end_sample": 7032000,
+          "start_ms": 158750,
+          "end_ms": 159456,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 7000861,
+              "end_sample": 7032000,
+              "start_ms": 158750,
+              "end_ms": 159456
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0023",
+          "text": "can",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 7032558,
+          "end_sample": 7063697,
+          "start_ms": 159468,
+          "end_ms": 160175,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 7032558,
+              "end_sample": 7035202,
+              "start_ms": 159468,
+              "end_ms": 159528
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 7034587,
+              "end_sample": 7060831,
+              "start_ms": 159514,
+              "end_ms": 160110
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7060215,
+              "end_sample": 7063697,
+              "start_ms": 160096,
+              "end_ms": 160175
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0024",
+          "text": "find",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 7064255,
+          "end_sample": 7095394,
+          "start_ms": 160187,
+          "end_ms": 160893,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 7064255,
+              "end_sample": 7067737,
+              "start_ms": 160187,
+              "end_ms": 160266
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 7067122,
+              "end_sample": 7090499,
+              "start_ms": 160252,
+              "end_ms": 160782
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7089884,
+              "end_sample": 7093366,
+              "start_ms": 160768,
+              "end_ms": 160847
+            },
+            {
+              "symbol": "D",
+              "start_sample": 7092750,
+              "end_sample": 7095394,
+              "start_ms": 160833,
+              "end_ms": 160893
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0025",
+          "text": "my",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 7095953,
+          "end_sample": 7127091,
+          "start_ms": 160906,
+          "end_ms": 161612,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 7095953,
+              "end_sample": 7099435,
+              "start_ms": 160906,
+              "end_ms": 160985
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 7098819,
+              "end_sample": 7127091,
+              "start_ms": 160971,
+              "end_ms": 161612
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0026",
+          "text": "way",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 7127650,
+          "end_sample": 7163544,
+          "start_ms": 161625,
+          "end_ms": 162439,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 7127650,
+              "end_sample": 7131132,
+              "start_ms": 161625,
+              "end_ms": 161704
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 7130517,
+              "end_sample": 7163544,
+              "start_ms": 161690,
+              "end_ms": 162439
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/harmony/001",
+      "role": "harmony",
+      "text": "I can find my way",
+      "start_sample": 7002568,
+      "end_sample": 7169010,
+      "start_ms": 158788,
+      "end_ms": 162563,
+      "words": [
+        {
+          "id": "01-soft-return/word/0027",
+          "text": "I",
+          "role": "harmony",
+          "note_midi": 53,
+          "start_sample": 7002568,
+          "end_sample": 7032878,
+          "start_ms": 158788,
+          "end_ms": 159476,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 7002568,
+              "end_sample": 7032878,
+              "start_ms": 158788,
+              "end_ms": 159476
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0028",
+          "text": "can",
+          "role": "harmony",
+          "note_midi": 56,
+          "start_sample": 7033436,
+          "end_sample": 7063747,
+          "start_ms": 159488,
+          "end_ms": 160176,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 7033436,
+              "end_sample": 7036080,
+              "start_ms": 159488,
+              "end_ms": 159548
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 7035465,
+              "end_sample": 7060880,
+              "start_ms": 159534,
+              "end_ms": 160111
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7060265,
+              "end_sample": 7063747,
+              "start_ms": 160097,
+              "end_ms": 160176
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0029",
+          "text": "find",
+          "role": "harmony",
+          "note_midi": 58,
+          "start_sample": 7064305,
+          "end_sample": 7094615,
+          "start_ms": 160188,
+          "end_ms": 160876,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 7064305,
+              "end_sample": 7067787,
+              "start_ms": 160188,
+              "end_ms": 160267
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 7067172,
+              "end_sample": 7089720,
+              "start_ms": 160253,
+              "end_ms": 160765
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7089105,
+              "end_sample": 7092587,
+              "start_ms": 160751,
+              "end_ms": 160830
+            },
+            {
+              "symbol": "D",
+              "start_sample": 7091971,
+              "end_sample": 7094615,
+              "start_ms": 160816,
+              "end_ms": 160876
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0030",
+          "text": "my",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 7095174,
+          "end_sample": 7125484,
+          "start_ms": 160888,
+          "end_ms": 161576,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 7095174,
+              "end_sample": 7098656,
+              "start_ms": 160888,
+              "end_ms": 160967
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 7098040,
+              "end_sample": 7125484,
+              "start_ms": 160953,
+              "end_ms": 161576
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0031",
+          "text": "way",
+          "role": "harmony",
+          "note_midi": 53,
+          "start_sample": 7126042,
+          "end_sample": 7160983,
+          "start_ms": 161588,
+          "end_ms": 162381,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 7126042,
+              "end_sample": 7129524,
+              "start_ms": 161588,
+              "end_ms": 161667
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 7128909,
+              "end_sample": 7160983,
+              "start_ms": 161653,
+              "end_ms": 162381
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/007",
+      "role": "lead",
+      "text": "In the soft rain",
+      "start_sample": 7171570,
+      "end_sample": 7342280,
+      "start_ms": 162621,
+      "end_ms": 166492,
+      "words": [
+        {
+          "id": "01-soft-return/word/0032",
+          "text": "In",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 7171570,
+          "end_sample": 7214543,
+          "start_ms": 162621,
+          "end_ms": 163595,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 7171570,
+              "end_sample": 7211676,
+              "start_ms": 162621,
+              "end_ms": 163530
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7211061,
+              "end_sample": 7214543,
+              "start_ms": 163516,
+              "end_ms": 163595
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0033",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 7215101,
+          "end_sample": 7240662,
+          "start_ms": 163608,
+          "end_ms": 164187,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 7215101,
+              "end_sample": 7218583,
+              "start_ms": 163608,
+              "end_ms": 163687
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 7217968,
+              "end_sample": 7240662,
+              "start_ms": 163673,
+              "end_ms": 164187
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0034",
+          "text": "soft",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 7241220,
+          "end_sample": 7284193,
+          "start_ms": 164200,
+          "end_ms": 165174,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 7241220,
+              "end_sample": 7244702,
+              "start_ms": 164200,
+              "end_ms": 164279
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 7244086,
+              "end_sample": 7279297,
+              "start_ms": 164265,
+              "end_ms": 165063
+            },
+            {
+              "symbol": "F",
+              "start_sample": 7278682,
+              "end_sample": 7282164,
+              "start_ms": 165049,
+              "end_ms": 165128
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7281549,
+              "end_sample": 7284193,
+              "start_ms": 165114,
+              "end_ms": 165174
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0035",
+          "text": "rain",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 7284751,
+          "end_sample": 7334253,
+          "start_ms": 165187,
+          "end_ms": 166310,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 7284751,
+              "end_sample": 7288233,
+              "start_ms": 165187,
+              "end_ms": 165266
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 7287617,
+              "end_sample": 7331386,
+              "start_ms": 165252,
+              "end_ms": 166245
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7330771,
+              "end_sample": 7334253,
+              "start_ms": 166231,
+              "end_ms": 166310
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/008",
+      "role": "lead",
+      "text": "Let the night stay",
+      "start_sample": 7342280,
+      "end_sample": 7512990,
+      "start_ms": 166492,
+      "end_ms": 170363,
+      "words": [
+        {
+          "id": "01-soft-return/word/0036",
+          "text": "Let",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 7342280,
+          "end_sample": 7385253,
+          "start_ms": 166492,
+          "end_ms": 167466,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 7342280,
+              "end_sample": 7345762,
+              "start_ms": 166492,
+              "end_ms": 166571
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 7345147,
+              "end_sample": 7383224,
+              "start_ms": 166557,
+              "end_ms": 167420
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7382609,
+              "end_sample": 7385253,
+              "start_ms": 167406,
+              "end_ms": 167466
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0037",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 7385811,
+          "end_sample": 7411372,
+          "start_ms": 167479,
+          "end_ms": 168058,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 7385811,
+              "end_sample": 7389293,
+              "start_ms": 167479,
+              "end_ms": 167558
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 7388678,
+              "end_sample": 7411372,
+              "start_ms": 167544,
+              "end_ms": 168058
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0038",
+          "text": "night",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 7411930,
+          "end_sample": 7454902,
+          "start_ms": 168071,
+          "end_ms": 169045,
+          "phonemes": [
+            {
+              "symbol": "N",
+              "start_sample": 7411930,
+              "end_sample": 7415412,
+              "start_ms": 168071,
+              "end_ms": 168150
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 7414796,
+              "end_sample": 7452873,
+              "start_ms": 168136,
+              "end_ms": 168999
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7452258,
+              "end_sample": 7454902,
+              "start_ms": 168985,
+              "end_ms": 169045
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0039",
+          "text": "stay",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 7455461,
+          "end_sample": 7504963,
+          "start_ms": 169058,
+          "end_ms": 170181,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 7455461,
+              "end_sample": 7458943,
+              "start_ms": 169058,
+              "end_ms": 169137
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7458327,
+              "end_sample": 7460971,
+              "start_ms": 169123,
+              "end_ms": 169183
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 7460356,
+              "end_sample": 7504963,
+              "start_ms": 169169,
+              "end_ms": 170181
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/harmony/002",
+      "role": "harmony",
+      "text": "Let the night stay",
+      "start_sample": 7343987,
+      "end_sample": 7510429,
+      "start_ms": 166530,
+      "end_ms": 170305,
+      "words": [
+        {
+          "id": "01-soft-return/word/0040",
+          "text": "Let",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 7343987,
+          "end_sample": 7385822,
+          "start_ms": 166530,
+          "end_ms": 167479,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 7343987,
+              "end_sample": 7347469,
+              "start_ms": 166530,
+              "end_ms": 166609
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 7346854,
+              "end_sample": 7383793,
+              "start_ms": 166595,
+              "end_ms": 167433
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7383178,
+              "end_sample": 7385822,
+              "start_ms": 167419,
+              "end_ms": 167479
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0041",
+          "text": "the",
+          "role": "harmony",
+          "note_midi": 58,
+          "start_sample": 7386380,
+          "end_sample": 7411258,
+          "start_ms": 167492,
+          "end_ms": 168056,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 7386380,
+              "end_sample": 7389862,
+              "start_ms": 167492,
+              "end_ms": 167571
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 7389247,
+              "end_sample": 7411258,
+              "start_ms": 167557,
+              "end_ms": 168056
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0042",
+          "text": "night",
+          "role": "harmony",
+          "note_midi": 56,
+          "start_sample": 7411816,
+          "end_sample": 7453651,
+          "start_ms": 168068,
+          "end_ms": 169017,
+          "phonemes": [
+            {
+              "symbol": "N",
+              "start_sample": 7411816,
+              "end_sample": 7415298,
+              "start_ms": 168068,
+              "end_ms": 168147
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 7414682,
+              "end_sample": 7451621,
+              "start_ms": 168133,
+              "end_ms": 168971
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7451007,
+              "end_sample": 7453651,
+              "start_ms": 168957,
+              "end_ms": 169017
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0043",
+          "text": "stay",
+          "role": "harmony",
+          "note_midi": 53,
+          "start_sample": 7454209,
+          "end_sample": 7502402,
+          "start_ms": 169030,
+          "end_ms": 170122,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 7454209,
+              "end_sample": 7457691,
+              "start_ms": 169030,
+              "end_ms": 169109
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7457075,
+              "end_sample": 7459719,
+              "start_ms": 169095,
+              "end_ms": 169155
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 7459104,
+              "end_sample": 7502402,
+              "start_ms": 169141,
+              "end_ms": 170122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/009",
+      "role": "lead",
+      "text": "Leave a light on",
+      "start_sample": 8195829,
+      "end_sample": 8366538,
+      "start_ms": 185846,
+      "end_ms": 189717,
+      "words": [
+        {
+          "id": "01-soft-return/word/0044",
+          "text": "Leave",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 8195829,
+          "end_sample": 8238801,
+          "start_ms": 185846,
+          "end_ms": 186821,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 8195829,
+              "end_sample": 8199311,
+              "start_ms": 185846,
+              "end_ms": 185925
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 8198695,
+              "end_sample": 8235934,
+              "start_ms": 185911,
+              "end_ms": 186756
+            },
+            {
+              "symbol": "V",
+              "start_sample": 8235319,
+              "end_sample": 8238801,
+              "start_ms": 186742,
+              "end_ms": 186821
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0045",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 8239359,
+          "end_sample": 8264919,
+          "start_ms": 186834,
+          "end_ms": 187413,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 8239359,
+              "end_sample": 8264919,
+              "start_ms": 186834,
+              "end_ms": 187413
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0046",
+          "text": "light",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 8265478,
+          "end_sample": 8308451,
+          "start_ms": 187426,
+          "end_ms": 188400,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 8265478,
+              "end_sample": 8268960,
+              "start_ms": 187426,
+              "end_ms": 187505
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8268345,
+              "end_sample": 8306422,
+              "start_ms": 187491,
+              "end_ms": 188354
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8305807,
+              "end_sample": 8308451,
+              "start_ms": 188340,
+              "end_ms": 188400
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0047",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 8309009,
+          "end_sample": 8358512,
+          "start_ms": 188413,
+          "end_ms": 189535,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 8309009,
+              "end_sample": 8355645,
+              "start_ms": 188413,
+              "end_ms": 189470
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8355030,
+              "end_sample": 8358512,
+              "start_ms": 189456,
+              "end_ms": 189535
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/010",
+      "role": "lead",
+      "text": "I can find my way",
+      "start_sample": 8366538,
+      "end_sample": 8537248,
+      "start_ms": 189717,
+      "end_ms": 193588,
+      "words": [
+        {
+          "id": "01-soft-return/word/0048",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 8366538,
+          "end_sample": 8397677,
+          "start_ms": 189717,
+          "end_ms": 190424,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 8366538,
+              "end_sample": 8397677,
+              "start_ms": 189717,
+              "end_ms": 190424
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0049",
+          "text": "can",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 8398236,
+          "end_sample": 8429375,
+          "start_ms": 190436,
+          "end_ms": 191142,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 8398236,
+              "end_sample": 8400880,
+              "start_ms": 190436,
+              "end_ms": 190496
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 8400264,
+              "end_sample": 8426508,
+              "start_ms": 190482,
+              "end_ms": 191077
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8425893,
+              "end_sample": 8429375,
+              "start_ms": 191063,
+              "end_ms": 191142
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0050",
+          "text": "find",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 8429933,
+          "end_sample": 8461072,
+          "start_ms": 191155,
+          "end_ms": 191861,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 8429933,
+              "end_sample": 8433415,
+              "start_ms": 191155,
+              "end_ms": 191234
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8432799,
+              "end_sample": 8456176,
+              "start_ms": 191220,
+              "end_ms": 191750
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8455561,
+              "end_sample": 8459043,
+              "start_ms": 191736,
+              "end_ms": 191815
+            },
+            {
+              "symbol": "D",
+              "start_sample": 8458428,
+              "end_sample": 8461072,
+              "start_ms": 191801,
+              "end_ms": 191861
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0051",
+          "text": "my",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 8461630,
+          "end_sample": 8492769,
+          "start_ms": 191874,
+          "end_ms": 192580,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 8461630,
+              "end_sample": 8465112,
+              "start_ms": 191874,
+              "end_ms": 191953
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8464497,
+              "end_sample": 8492769,
+              "start_ms": 191939,
+              "end_ms": 192580
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0052",
+          "text": "way",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 8493327,
+          "end_sample": 8529221,
+          "start_ms": 192592,
+          "end_ms": 193406,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 8493327,
+              "end_sample": 8496809,
+              "start_ms": 192592,
+              "end_ms": 192671
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 8496194,
+              "end_sample": 8529221,
+              "start_ms": 192657,
+              "end_ms": 193406
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/harmony/003",
+      "role": "harmony",
+      "text": "I can find my way",
+      "start_sample": 8368245,
+      "end_sample": 8534687,
+      "start_ms": 189756,
+      "end_ms": 193530,
+      "words": [
+        {
+          "id": "01-soft-return/word/0053",
+          "text": "I",
+          "role": "harmony",
+          "note_midi": 56,
+          "start_sample": 8368245,
+          "end_sample": 8398555,
+          "start_ms": 189756,
+          "end_ms": 190443,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 8368245,
+              "end_sample": 8398555,
+              "start_ms": 189756,
+              "end_ms": 190443
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0054",
+          "text": "can",
+          "role": "harmony",
+          "note_midi": 58,
+          "start_sample": 8399114,
+          "end_sample": 8429424,
+          "start_ms": 190456,
+          "end_ms": 191143,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 8399114,
+              "end_sample": 8401758,
+              "start_ms": 190456,
+              "end_ms": 190516
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 8401143,
+              "end_sample": 8426558,
+              "start_ms": 190502,
+              "end_ms": 191078
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8425942,
+              "end_sample": 8429424,
+              "start_ms": 191064,
+              "end_ms": 191143
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0055",
+          "text": "find",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 8429983,
+          "end_sample": 8460293,
+          "start_ms": 191156,
+          "end_ms": 191843,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 8429983,
+              "end_sample": 8433465,
+              "start_ms": 191156,
+              "end_ms": 191235
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8432849,
+              "end_sample": 8455397,
+              "start_ms": 191221,
+              "end_ms": 191732
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8454782,
+              "end_sample": 8458264,
+              "start_ms": 191718,
+              "end_ms": 191797
+            },
+            {
+              "symbol": "D",
+              "start_sample": 8457649,
+              "end_sample": 8460293,
+              "start_ms": 191783,
+              "end_ms": 191843
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0056",
+          "text": "my",
+          "role": "harmony",
+          "note_midi": 58,
+          "start_sample": 8460851,
+          "end_sample": 8491162,
+          "start_ms": 191856,
+          "end_ms": 192543,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 8460851,
+              "end_sample": 8464333,
+              "start_ms": 191856,
+              "end_ms": 191935
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8463718,
+              "end_sample": 8491162,
+              "start_ms": 191921,
+              "end_ms": 192543
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0057",
+          "text": "way",
+          "role": "harmony",
+          "note_midi": 56,
+          "start_sample": 8491720,
+          "end_sample": 8526660,
+          "start_ms": 192556,
+          "end_ms": 193348,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 8491720,
+              "end_sample": 8495202,
+              "start_ms": 192556,
+              "end_ms": 192635
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 8494586,
+              "end_sample": 8526660,
+              "start_ms": 192621,
+              "end_ms": 193348
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/011",
+      "role": "lead",
+      "text": "In the soft rain",
+      "start_sample": 8537248,
+      "end_sample": 8707958,
+      "start_ms": 193588,
+      "end_ms": 197459,
+      "words": [
+        {
+          "id": "01-soft-return/word/0058",
+          "text": "In",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 8537248,
+          "end_sample": 8580221,
+          "start_ms": 193588,
+          "end_ms": 194563,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 8537248,
+              "end_sample": 8577354,
+              "start_ms": 193588,
+              "end_ms": 194498
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8576739,
+              "end_sample": 8580221,
+              "start_ms": 194484,
+              "end_ms": 194563
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0059",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 8580779,
+          "end_sample": 8606339,
+          "start_ms": 194575,
+          "end_ms": 195155,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 8580779,
+              "end_sample": 8584261,
+              "start_ms": 194575,
+              "end_ms": 194654
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 8583645,
+              "end_sample": 8606339,
+              "start_ms": 194640,
+              "end_ms": 195155
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0060",
+          "text": "soft",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 8606897,
+          "end_sample": 8649870,
+          "start_ms": 195168,
+          "end_ms": 196142,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 8606897,
+              "end_sample": 8610379,
+              "start_ms": 195168,
+              "end_ms": 195247
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 8609764,
+              "end_sample": 8644975,
+              "start_ms": 195233,
+              "end_ms": 196031
+            },
+            {
+              "symbol": "F",
+              "start_sample": 8644360,
+              "end_sample": 8647842,
+              "start_ms": 196017,
+              "end_ms": 196096
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8647226,
+              "end_sample": 8649870,
+              "start_ms": 196082,
+              "end_ms": 196142
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0061",
+          "text": "rain",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 8650428,
+          "end_sample": 8699931,
+          "start_ms": 196155,
+          "end_ms": 197277,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 8650428,
+              "end_sample": 8653910,
+              "start_ms": 196155,
+              "end_ms": 196234
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 8653295,
+              "end_sample": 8697064,
+              "start_ms": 196220,
+              "end_ms": 197212
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8696449,
+              "end_sample": 8699931,
+              "start_ms": 197198,
+              "end_ms": 197277
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/lead/012",
+      "role": "lead",
+      "text": "Let the night stay",
+      "start_sample": 8707958,
+      "end_sample": 8878667,
+      "start_ms": 197459,
+      "end_ms": 201330,
+      "words": [
+        {
+          "id": "01-soft-return/word/0062",
+          "text": "Let",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 8707958,
+          "end_sample": 8750930,
+          "start_ms": 197459,
+          "end_ms": 198434,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 8707958,
+              "end_sample": 8711440,
+              "start_ms": 197459,
+              "end_ms": 197538
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 8710824,
+              "end_sample": 8748901,
+              "start_ms": 197524,
+              "end_ms": 198388
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8748286,
+              "end_sample": 8750930,
+              "start_ms": 198374,
+              "end_ms": 198434
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0063",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 8751489,
+          "end_sample": 8777049,
+          "start_ms": 198446,
+          "end_ms": 199026,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 8751489,
+              "end_sample": 8754971,
+              "start_ms": 198446,
+              "end_ms": 198525
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 8754355,
+              "end_sample": 8777049,
+              "start_ms": 198511,
+              "end_ms": 199026
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0064",
+          "text": "night",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 8777607,
+          "end_sample": 8820580,
+          "start_ms": 199039,
+          "end_ms": 200013,
+          "phonemes": [
+            {
+              "symbol": "N",
+              "start_sample": 8777607,
+              "end_sample": 8781089,
+              "start_ms": 199039,
+              "end_ms": 199118
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8780474,
+              "end_sample": 8818551,
+              "start_ms": 199104,
+              "end_ms": 199967
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8817936,
+              "end_sample": 8820580,
+              "start_ms": 199953,
+              "end_ms": 200013
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0065",
+          "text": "stay",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 8821138,
+          "end_sample": 8870640,
+          "start_ms": 200026,
+          "end_ms": 201148,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 8821138,
+              "end_sample": 8824620,
+              "start_ms": 200026,
+              "end_ms": 200105
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8824005,
+              "end_sample": 8826649,
+              "start_ms": 200091,
+              "end_ms": 200151
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 8826033,
+              "end_sample": 8870640,
+              "start_ms": 200137,
+              "end_ms": 201148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/harmony/004",
+      "role": "harmony",
+      "text": "Let the night stay",
+      "start_sample": 8709665,
+      "end_sample": 8876107,
+      "start_ms": 197498,
+      "end_ms": 201272,
+      "words": [
+        {
+          "id": "01-soft-return/word/0066",
+          "text": "Let",
+          "role": "harmony",
+          "note_midi": 58,
+          "start_sample": 8709665,
+          "end_sample": 8751499,
+          "start_ms": 197498,
+          "end_ms": 198447,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 8709665,
+              "end_sample": 8713147,
+              "start_ms": 197498,
+              "end_ms": 197577
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 8712531,
+              "end_sample": 8749470,
+              "start_ms": 197563,
+              "end_ms": 198401
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8748855,
+              "end_sample": 8751499,
+              "start_ms": 198387,
+              "end_ms": 198447
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0067",
+          "text": "the",
+          "role": "harmony",
+          "note_midi": 56,
+          "start_sample": 8752058,
+          "end_sample": 8776935,
+          "start_ms": 198459,
+          "end_ms": 199023,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 8752058,
+              "end_sample": 8755540,
+              "start_ms": 198459,
+              "end_ms": 198538
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 8754924,
+              "end_sample": 8776935,
+              "start_ms": 198524,
+              "end_ms": 199023
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0068",
+          "text": "night",
+          "role": "harmony",
+          "note_midi": 55,
+          "start_sample": 8777493,
+          "end_sample": 8819328,
+          "start_ms": 199036,
+          "end_ms": 199985,
+          "phonemes": [
+            {
+              "symbol": "N",
+              "start_sample": 8777493,
+              "end_sample": 8780975,
+              "start_ms": 199036,
+              "end_ms": 199115
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8780360,
+              "end_sample": 8817299,
+              "start_ms": 199101,
+              "end_ms": 199939
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8816684,
+              "end_sample": 8819328,
+              "start_ms": 199925,
+              "end_ms": 199985
+            }
+          ]
+        },
+        {
+          "id": "01-soft-return/word/0069",
+          "text": "stay",
+          "role": "harmony",
+          "note_midi": 53,
+          "start_sample": 8819886,
+          "end_sample": 8868079,
+          "start_ms": 199997,
+          "end_ms": 201090,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 8819886,
+              "end_sample": 8823368,
+              "start_ms": 199997,
+              "end_ms": 200076
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8822753,
+              "end_sample": 8825397,
+              "start_ms": 200062,
+              "end_ms": 200122
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 8824781,
+              "end_sample": 8868079,
+              "start_ms": 200108,
+              "end_ms": 201090
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/009",
+      "role": "chop",
+      "text": "light",
+      "start_sample": 9220087,
+      "end_sample": 9229664,
+      "start_ms": 209072,
+      "end_ms": 209289,
+      "words": [
+        {
+          "id": "01-soft-return/word/0082",
+          "text": "light",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 9220087,
+          "end_sample": 9229664,
+          "start_ms": 209072,
+          "end_ms": 209289,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 9220087,
+              "end_sample": 9223116,
+              "start_ms": 209072,
+              "end_ms": 209141
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 9222501,
+              "end_sample": 9227956,
+              "start_ms": 209127,
+              "end_ms": 209251
+            },
+            {
+              "symbol": "T",
+              "start_sample": 9227340,
+              "end_sample": 9229664,
+              "start_ms": 209237,
+              "end_ms": 209289
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/010",
+      "role": "chop",
+      "text": "light",
+      "start_sample": 9241425,
+      "end_sample": 9251003,
+      "start_ms": 209556,
+      "end_ms": 209773,
+      "words": [
+        {
+          "id": "01-soft-return/word/0083",
+          "text": "light",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 9241425,
+          "end_sample": 9251003,
+          "start_ms": 209556,
+          "end_ms": 209773,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 9241425,
+              "end_sample": 9244454,
+              "start_ms": 209556,
+              "end_ms": 209625
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 9243839,
+              "end_sample": 9249294,
+              "start_ms": 209611,
+              "end_ms": 209735
+            },
+            {
+              "symbol": "T",
+              "start_sample": 9248679,
+              "end_sample": 9251003,
+              "start_ms": 209721,
+              "end_ms": 209773
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-soft-return/chop/011",
+      "role": "chop",
+      "text": "light",
+      "start_sample": 9284103,
+      "end_sample": 9303923,
+      "start_ms": 210524,
+      "end_ms": 210973,
+      "words": [
+        {
+          "id": "01-soft-return/word/0084",
+          "text": "light",
+          "role": "chop",
+          "note_midi": 68,
+          "start_sample": 9284103,
+          "end_sample": 9303923,
+          "start_ms": 210524,
+          "end_ms": 210973,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 9284103,
+              "end_sample": 9287585,
+              "start_ms": 210524,
+              "end_ms": 210603
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 9286969,
+              "end_sample": 9301894,
+              "start_ms": 210589,
+              "end_ms": 210927
+            },
+            {
+              "symbol": "T",
+              "start_sample": 9301279,
+              "end_sample": 9303923,
+              "start_ms": 210913,
+              "end_ms": 210973
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

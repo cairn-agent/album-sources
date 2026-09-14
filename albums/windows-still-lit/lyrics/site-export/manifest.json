@@ -1,0 +1,446 @@
+{
+  "schema_version": "1.0.0",
+  "release_key": "windows-still-lit",
+  "title": "Windows Still Lit",
+  "artist": "Cairn",
+  "language": "en",
+  "time_unit": "milliseconds",
+  "path_base": "export directory; audio_assets paths are relative to album root",
+  "schema": "timed-lyrics.schema.json",
+  "integration_guide": "INTEGRATION.md",
+  "phoneme_dictionary": "phonemes.json",
+  "tracks": [
+    {
+      "track_key": "01-soft-return",
+      "number": 1,
+      "title": "Soft Return",
+      "recording": {
+        "id": "sha256:113079c838e1bf75f3d7fd2c696dbf19579cfa5fdc9e08546eb73b96f8f9b369",
+        "revision": 1,
+        "canonical_format": "wav",
+        "audio_assets": [
+          {
+            "format": "wav",
+            "album_relative_path": "wav/01-soft-return.wav",
+            "sha256": "113079c838e1bf75f3d7fd2c696dbf19579cfa5fdc9e08546eb73b96f8f9b369"
+          },
+          {
+            "format": "mp3",
+            "album_relative_path": "mp3/01-soft-return.mp3",
+            "sha256": "7e79c630d4bb47b310eb23ecb26041715cf972938296b189bce684ba8a7676ca"
+          }
+        ]
+      },
+      "duration_ms": 235608,
+      "full_album_start_sample": 0,
+      "full_album_start_ms": 0,
+      "assets": [
+        {
+          "path": "captions/01-soft-return.vtt",
+          "media_type": "text/vtt",
+          "sha256": "b1b494211b51f861f0899155df0c7567cc7166eecd55c72a14958a29d1a107e2"
+        },
+        {
+          "path": "captions/01-soft-return.karaoke.vtt",
+          "media_type": "text/vtt",
+          "sha256": "e0a1c4801c5316bdec3e3a81a5aabe1bbf0146c20da41ad800683994583c62fb"
+        },
+        {
+          "path": "captions/01-soft-return.harmony.vtt",
+          "media_type": "text/vtt",
+          "sha256": "5b947e739a22011f46f515ef497b572ed65aba1ec72f3c1c87ca6516ce0dc926"
+        },
+        {
+          "path": "tracks/01-soft-return.json",
+          "media_type": "application/json",
+          "sha256": "15e97b238fe0c059cdfb1be1be4a3c3941b9998889979ef12f780f799a489c06"
+        },
+        {
+          "path": "lrc/01-soft-return.lrc",
+          "media_type": "text/plain",
+          "sha256": "136e0711bad72f6f9aad8cb1f86f8864230b3a9a950a1f3b3fcf89419383a827"
+        }
+      ]
+    },
+    {
+      "track_key": "02-copper-current",
+      "number": 2,
+      "title": "Copper Current",
+      "recording": {
+        "id": "sha256:f76150d34ec0a71700b71755d7ecca7245f8984414a05abe6aafa93b04ddcb4c",
+        "revision": 1,
+        "canonical_format": "wav",
+        "audio_assets": [
+          {
+            "format": "wav",
+            "album_relative_path": "wav/02-copper-current.wav",
+            "sha256": "f76150d34ec0a71700b71755d7ecca7245f8984414a05abe6aafa93b04ddcb4c"
+          },
+          {
+            "format": "mp3",
+            "album_relative_path": "mp3/02-copper-current.mp3",
+            "sha256": "d93621e5a156e8d6a391b8280584c694318b41cf4f241885c0b7525f41e3fe6a"
+          }
+        ]
+      },
+      "duration_ms": 271651,
+      "full_album_start_sample": 10390301,
+      "full_album_start_ms": 235608,
+      "assets": [
+        {
+          "path": "captions/02-copper-current.vtt",
+          "media_type": "text/vtt",
+          "sha256": "1da0201981bfd43b13455f521ab6e5a0e8c3c1c1cc9a596cb2e82f0554c01c70"
+        },
+        {
+          "path": "captions/02-copper-current.karaoke.vtt",
+          "media_type": "text/vtt",
+          "sha256": "146eeb43993ae341aecd6882286f3f40fbfbc230f399d56beebb4975e68afae2"
+        },
+        {
+          "path": "captions/02-copper-current.harmony.vtt",
+          "media_type": "text/vtt",
+          "sha256": "8eb5aec53542eaedb7502b22fb677161abba1e265b1338f1af1369a1f689837c"
+        },
+        {
+          "path": "tracks/02-copper-current.json",
+          "media_type": "application/json",
+          "sha256": "9967d4e386b9f77227a52f04321da4d9a039242212287a452e7f1a6d1756e0e5"
+        },
+        {
+          "path": "lrc/02-copper-current.lrc",
+          "media_type": "text/plain",
+          "sha256": "f4016b593ceaa891c9451265817b428abb03fd7332248f42e782719b577977da"
+        }
+      ]
+    },
+    {
+      "track_key": "03-blue-hour-conversation",
+      "number": 3,
+      "title": "Blue Hour Conversation",
+      "recording": {
+        "id": "sha256:e429c4719636713d3d96126afb47ad53b1975f012d3b983522b6060f9d7f138c",
+        "revision": 1,
+        "canonical_format": "wav",
+        "audio_assets": [
+          {
+            "format": "wav",
+            "album_relative_path": "wav/03-blue-hour-conversation.wav",
+            "sha256": "e429c4719636713d3d96126afb47ad53b1975f012d3b983522b6060f9d7f138c"
+          },
+          {
+            "format": "mp3",
+            "album_relative_path": "mp3/03-blue-hour-conversation.mp3",
+            "sha256": "e26c18729630cc4ca4ad492de761cb611cb9ec849954d9ea8d48a0d5fb15b9ec"
+          }
+        ]
+      },
+      "duration_ms": 237411,
+      "full_album_start_sample": 22370124,
+      "full_album_start_ms": 507259,
+      "assets": [
+        {
+          "path": "captions/03-blue-hour-conversation.vtt",
+          "media_type": "text/vtt",
+          "sha256": "81aca9ef28338d7c3f5dd87981c663201ce3b37eaef44a7bb491eb159e376a03"
+        },
+        {
+          "path": "captions/03-blue-hour-conversation.karaoke.vtt",
+          "media_type": "text/vtt",
+          "sha256": "e97b1ffb77d2d4149c3c1fef36c50f1226416ed7412797f61f4b430c0dd993f7"
+        },
+        {
+          "path": "captions/03-blue-hour-conversation.harmony.vtt",
+          "media_type": "text/vtt",
+          "sha256": "96dfd1f03dd42ecaeb51aaab4e40956294f378424d503b52a5b41c3f767e5d9a"
+        },
+        {
+          "path": "tracks/03-blue-hour-conversation.json",
+          "media_type": "application/json",
+          "sha256": "79f42e4cd5181a98407219a7b56ce6e4ff04aabaf9e0f1875229ef29c047a275"
+        },
+        {
+          "path": "lrc/03-blue-hour-conversation.lrc",
+          "media_type": "text/plain",
+          "sha256": "02340d5c9f414c0fb0eec1fdbebaaf455e7ea7f4c225e8f4560695aac68c3453"
+        }
+      ]
+    },
+    {
+      "track_key": "04-the-room-above-the-rain",
+      "number": 4,
+      "title": "The Room Above the Rain",
+      "recording": {
+        "id": "sha256:b31a30b3c3070236ffb256c512514a7a141211a85226b35c2c3b6f44b838d009",
+        "revision": 1,
+        "canonical_format": "wav",
+        "audio_assets": [
+          {
+            "format": "wav",
+            "album_relative_path": "wav/04-the-room-above-the-rain.wav",
+            "sha256": "b31a30b3c3070236ffb256c512514a7a141211a85226b35c2c3b6f44b838d009"
+          },
+          {
+            "format": "mp3",
+            "album_relative_path": "mp3/04-the-room-above-the-rain.mp3",
+            "sha256": "e2787238c3375ba501f2b7c4cf70ed653f92eecd02d74dbba83acf12448c8522"
+          }
+        ]
+      },
+      "duration_ms": 167956,
+      "full_album_start_sample": 32839939,
+      "full_album_start_ms": 744670,
+      "assets": [
+        {
+          "path": "captions/04-the-room-above-the-rain.vtt",
+          "media_type": "text/vtt",
+          "sha256": "54033c99a8647905edf225242330b19f6274775132592bcc8d4bbdf8a055f68e"
+        },
+        {
+          "path": "captions/04-the-room-above-the-rain.karaoke.vtt",
+          "media_type": "text/vtt",
+          "sha256": "4fe58206832831fb4e8a5af51db49688fd414c0a9e5e647a6f35b7e4735de775"
+        },
+        {
+          "path": "captions/04-the-room-above-the-rain.harmony.vtt",
+          "media_type": "text/vtt",
+          "sha256": "8eb5aec53542eaedb7502b22fb677161abba1e265b1338f1af1369a1f689837c"
+        },
+        {
+          "path": "tracks/04-the-room-above-the-rain.json",
+          "media_type": "application/json",
+          "sha256": "d58aea432b7ae1f404e8278c9fe1e85ca4a34f053d99baab0a5f1cbca1e56db5"
+        },
+        {
+          "path": "lrc/04-the-room-above-the-rain.lrc",
+          "media_type": "text/plain",
+          "sha256": "1ce4cc11a51554ad9ee6955c85a38145f596a2c6a4a78e9addb4a1a762e8ab46"
+        }
+      ]
+    },
+    {
+      "track_key": "05-landing-light",
+      "number": 5,
+      "title": "Landing Light",
+      "recording": {
+        "id": "sha256:034b9a05866e2e3adc3e48cc305581fce39297475e28d268d8c9a94390211098",
+        "revision": 1,
+        "canonical_format": "wav",
+        "audio_assets": [
+          {
+            "format": "wav",
+            "album_relative_path": "wav/05-landing-light.wav",
+            "sha256": "034b9a05866e2e3adc3e48cc305581fce39297475e28d268d8c9a94390211098"
+          },
+          {
+            "format": "mp3",
+            "album_relative_path": "mp3/05-landing-light.mp3",
+            "sha256": "e99affeca242d363c4c5ff687f494cab5b0605334cf10da0ce791c52b17f5839"
+          }
+        ]
+      },
+      "duration_ms": 245274,
+      "full_album_start_sample": 40246818,
+      "full_album_start_ms": 912626,
+      "assets": [
+        {
+          "path": "captions/05-landing-light.vtt",
+          "media_type": "text/vtt",
+          "sha256": "c994800aac764879fe178fa27b7662e3b59a4956ecec8692899aba27e8652f32"
+        },
+        {
+          "path": "captions/05-landing-light.karaoke.vtt",
+          "media_type": "text/vtt",
+          "sha256": "a6730f1d76f50708e81741e85525f6a43c565a837c7086a7b18bd559892d2c3f"
+        },
+        {
+          "path": "captions/05-landing-light.harmony.vtt",
+          "media_type": "text/vtt",
+          "sha256": "30dfad4d4837cedf122fa1e7675710d7851be956980b22ca3a126fdee2292321"
+        },
+        {
+          "path": "tracks/05-landing-light.json",
+          "media_type": "application/json",
+          "sha256": "5ced5f3f654d0bf82766f380a757891ac450ba75a75323404461843c607f00e6"
+        },
+        {
+          "path": "lrc/05-landing-light.lrc",
+          "media_type": "text/plain",
+          "sha256": "d7228d4691b8628ae8eaed767012beaf3d556c8258b5b3c467b4a3a49aff6e47"
+        }
+      ]
+    },
+    {
+      "track_key": "06-low-water",
+      "number": 6,
+      "title": "Low Water",
+      "recording": {
+        "id": "sha256:93e41febf1dc02527992fe179f996ff9a356d0241f50f3fbd159e0a236ba096f",
+        "revision": 1,
+        "canonical_format": "wav",
+        "audio_assets": [
+          {
+            "format": "wav",
+            "album_relative_path": "wav/06-low-water.wav",
+            "sha256": "93e41febf1dc02527992fe179f996ff9a356d0241f50f3fbd159e0a236ba096f"
+          },
+          {
+            "format": "mp3",
+            "album_relative_path": "mp3/06-low-water.mp3",
+            "sha256": "617d868c6b8cfa0dbbea715b72f4ad46cf8fae2db99bf87473191dae89fbe195"
+          }
+        ]
+      },
+      "duration_ms": 236160,
+      "full_album_start_sample": 51063400,
+      "full_album_start_ms": 1157900,
+      "assets": [
+        {
+          "path": "captions/06-low-water.vtt",
+          "media_type": "text/vtt",
+          "sha256": "57ec9494924681b4af1fa284610e391610e7a5b1abb14f554d53c59c9abd1601"
+        },
+        {
+          "path": "captions/06-low-water.karaoke.vtt",
+          "media_type": "text/vtt",
+          "sha256": "9a12132594f704cbcb62ce682e919bca138eb112a02a0a7cfa76a1fa66510ed7"
+        },
+        {
+          "path": "captions/06-low-water.harmony.vtt",
+          "media_type": "text/vtt",
+          "sha256": "8eb5aec53542eaedb7502b22fb677161abba1e265b1338f1af1369a1f689837c"
+        },
+        {
+          "path": "tracks/06-low-water.json",
+          "media_type": "application/json",
+          "sha256": "543ec496f2cd90da55b84cc7fffb4d7dc69ae7bdab3cb1ae2a9a954d2bd59b7e"
+        },
+        {
+          "path": "lrc/06-low-water.lrc",
+          "media_type": "text/plain",
+          "sha256": "e8879f519b3666f89d87a8062c3b4844dd42deea8399cb9228f509cd50c26fb9"
+        }
+      ]
+    },
+    {
+      "track_key": "07-a-place-to-stay",
+      "number": 7,
+      "title": "A Place to Stay",
+      "recording": {
+        "id": "sha256:7bf538631815d4041e75de46adcc9362c0e49aebf6f655ab44b0341373c5dc03",
+        "revision": 1,
+        "canonical_format": "wav",
+        "audio_assets": [
+          {
+            "format": "wav",
+            "album_relative_path": "wav/07-a-place-to-stay.wav",
+            "sha256": "7bf538631815d4041e75de46adcc9362c0e49aebf6f655ab44b0341373c5dc03"
+          },
+          {
+            "format": "mp3",
+            "album_relative_path": "mp3/07-a-place-to-stay.mp3",
+            "sha256": "63c7d6df040ed39850ff7185133629da86e887518d24ef40b799be4bde109b42"
+          }
+        ]
+      },
+      "duration_ms": 272273,
+      "full_album_start_sample": 61478057,
+      "full_album_start_ms": 1394060,
+      "assets": [
+        {
+          "path": "captions/07-a-place-to-stay.vtt",
+          "media_type": "text/vtt",
+          "sha256": "8c6fbc65bdec7d76c45c9cb0dd51f9e4baaa2b0c1cb4e4c4e862c2861f685c19"
+        },
+        {
+          "path": "captions/07-a-place-to-stay.karaoke.vtt",
+          "media_type": "text/vtt",
+          "sha256": "de5b9c952ceaf53cb57f1891a447ae5ed98a9d1da4b0cfa339c1ab844fad9183"
+        },
+        {
+          "path": "captions/07-a-place-to-stay.harmony.vtt",
+          "media_type": "text/vtt",
+          "sha256": "3fbce396da75fa41aa2576d1241ffaede7dce189e6890de5dab3eb35820439d8"
+        },
+        {
+          "path": "tracks/07-a-place-to-stay.json",
+          "media_type": "application/json",
+          "sha256": "465a640c53160b6013a6a64585d426e6772f250bbe684592a95b1437a21d112e"
+        },
+        {
+          "path": "lrc/07-a-place-to-stay.lrc",
+          "media_type": "text/plain",
+          "sha256": "f462ba8cc1ab8d24e5bba10f820c091e3b85cb1c125b053af5d7fc2cffa219e5"
+        }
+      ]
+    },
+    {
+      "track_key": "08-windows-still-lit",
+      "number": 8,
+      "title": "Windows Still Lit",
+      "recording": {
+        "id": "sha256:4959663a2c908a7faffcc0add044c2d9ebf288e537dd431559aa810fc0623d16",
+        "revision": 1,
+        "canonical_format": "wav",
+        "audio_assets": [
+          {
+            "format": "wav",
+            "album_relative_path": "wav/08-windows-still-lit.wav",
+            "sha256": "4959663a2c908a7faffcc0add044c2d9ebf288e537dd431559aa810fc0623d16"
+          },
+          {
+            "format": "mp3",
+            "album_relative_path": "mp3/08-windows-still-lit.mp3",
+            "sha256": "a7195fe4a0023ab0081b16d77ffc3269e53ea5a1f9ffec95bd8ab1cb3382b33d"
+          }
+        ]
+      },
+      "duration_ms": 195937,
+      "full_album_start_sample": 73485281,
+      "full_album_start_ms": 1666333,
+      "assets": [
+        {
+          "path": "captions/08-windows-still-lit.vtt",
+          "media_type": "text/vtt",
+          "sha256": "40fcdfcd9c3b5fd6773b747523b28b92bf4dea2e41bb9e0eb9a7f58832b85f20"
+        },
+        {
+          "path": "captions/08-windows-still-lit.karaoke.vtt",
+          "media_type": "text/vtt",
+          "sha256": "94586f2f6c28d066071c6de6a183929c4a14d9597a86a9a42d33472bd51158ca"
+        },
+        {
+          "path": "captions/08-windows-still-lit.harmony.vtt",
+          "media_type": "text/vtt",
+          "sha256": "26e767f44775c1c7b6757ca6453696aa53295f402e37d4d970bfd1efaada9865"
+        },
+        {
+          "path": "tracks/08-windows-still-lit.json",
+          "media_type": "application/json",
+          "sha256": "e9b804e6d3971c071446f0967972a5be6c5d9e84c5d199d6bb9d136c359f641c"
+        },
+        {
+          "path": "lrc/08-windows-still-lit.lrc",
+          "media_type": "text/plain",
+          "sha256": "c717c757ef4b74d4ca44c278d88f7cf7172b106983f67da09288205908c3f799"
+        }
+      ]
+    }
+  ],
+  "full_album": {
+    "json": "full-album.json",
+    "vtt": "captions/full-album.vtt",
+    "audio_file": "windows-still-lit-full-album.mp3",
+    "audio_sha256": "762d7ca8bac3d03decb7e84d4348bbbd91a82676ff67e3f78ff0c392e64f3663",
+    "assets": [
+      {
+        "path": "full-album.json",
+        "sha256": "5e2af6c3eca962b81917c7d08c4da94af0a0c8a4514de440d875b6360da838dc"
+      },
+      {
+        "path": "captions/full-album.vtt",
+        "sha256": "b1509dc1f7b5e574f6b5d545742fc3750c9126cdc05085635581b86cb8c41cf5"
+      }
+    ]
+  }
+}

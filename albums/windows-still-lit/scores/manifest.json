@@ -1,0 +1,516 @@
+[
+  {
+    "title": "Soft Return",
+    "stem": "01-soft-return",
+    "number": 1,
+    "bpm": 124,
+    "key": "F minor",
+    "endBeat": 480,
+    "seed": 44423,
+    "engineTrack": 1,
+    "engine": "Window Engine 1 / phonetic singer",
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 12
+      },
+      {
+        "name": "verse",
+        "bar": 12,
+        "bars": 20
+      },
+      {
+        "name": "first",
+        "bar": 32,
+        "bars": 24
+      },
+      {
+        "name": "break",
+        "bar": 56,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 72,
+        "bars": 32
+      },
+      {
+        "name": "outro",
+        "bar": 104,
+        "bars": 16
+      }
+    ],
+    "description": "A vocal and glass opening gives way to a grounded, warm garage groove. The bass holds beneath it.",
+    "instrument": "FM tines, electric-piano responses, flute; smooth eight-beat bass holds. Gentle four-beat garage.",
+    "lyrics": [
+      "Leave a light on",
+      "I can find my way",
+      "In the soft rain",
+      "Let the night stay"
+    ],
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Copper Current",
+    "stem": "02-copper-current",
+    "number": 2,
+    "bpm": 128,
+    "key": "E minor",
+    "endBeat": 576,
+    "seed": 44736,
+    "engineTrack": 2,
+    "engine": "Window Engine 1 / phonetic singer",
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 8
+      },
+      {
+        "name": "verse",
+        "bar": 8,
+        "bars": 24
+      },
+      {
+        "name": "first",
+        "bar": 32,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 64,
+        "bars": 16
+      },
+      {
+        "name": "bridge",
+        "bar": 80,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 96,
+        "bars": 32
+      },
+      {
+        "name": "outro",
+        "bar": 128,
+        "bars": 16
+      }
+    ],
+    "description": "A steady machine groove, a talking acid synth, bright metallic answers and clipped sung hooks.",
+    "instrument": "Copper acid: the Service Tunnel oscillator with simpler eighth-note phrasing, a long filter arc and no separate bass line.",
+    "lyrics": [
+      "Stay on the line",
+      "Let the current flow",
+      "I can hear you",
+      "Take it slow"
+    ],
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Blue Hour Conversation",
+    "stem": "03-blue-hour-conversation",
+    "number": 3,
+    "bpm": 122,
+    "key": "B-flat major",
+    "endBeat": 480,
+    "seed": 45049,
+    "engineTrack": 3,
+    "engine": "Window Engine 1 / phonetic singer",
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 8
+      },
+      {
+        "name": "verse",
+        "bar": 8,
+        "bars": 24
+      },
+      {
+        "name": "first",
+        "bar": 32,
+        "bars": 16
+      },
+      {
+        "name": "break",
+        "bar": 48,
+        "bars": 16
+      },
+      {
+        "name": "bridge",
+        "bar": 64,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 80,
+        "bars": 24
+      },
+      {
+        "name": "outro",
+        "bar": 104,
+        "bars": 16
+      }
+    ],
+    "description": "A brighter room, rounded keys, a walking reply from the bass and a duet that leaves room between phrases.",
+    "instrument": "Electric piano and muted electric-string bass with a melodic quarter-note phrase; brushed noise and a relaxed backbeat.",
+    "lyrics": [
+      "You and I",
+      "In a room of blue",
+      "Time can wait",
+      "I am here with you"
+    ],
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "The Room Above the Rain",
+    "stem": "04-the-room-above-the-rain",
+    "number": 4,
+    "bpm": 116,
+    "key": "D minor",
+    "endBeat": 320,
+    "seed": 45362,
+    "engineTrack": 4,
+    "engine": "Window Engine 1 / phonetic singer",
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 12
+      },
+      {
+        "name": "first",
+        "bar": 12,
+        "bars": 20
+      },
+      {
+        "name": "break",
+        "bar": 32,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 48,
+        "bars": 20
+      },
+      {
+        "name": "outro",
+        "bar": 68,
+        "bars": 12
+      }
+    ],
+    "description": "The quiet centre: a full song for glass, breath and a synthetic voice, with no beat to hurry it.",
+    "instrument": "Glass resonators, breath flute, bowed high harmonics and slow phonetic singing; no drums or bass instrument.",
+    "lyrics": [
+      "Rain on glass",
+      "No need to run",
+      "Stay with me",
+      "Till the morning comes"
+    ],
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Landing Light",
+    "stem": "05-landing-light",
+    "number": 5,
+    "bpm": 126,
+    "key": "E-flat major",
+    "endBeat": 512,
+    "seed": 45675,
+    "engineTrack": 5,
+    "engine": "Window Engine 1 / phonetic singer",
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 8
+      },
+      {
+        "name": "verse",
+        "bar": 8,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 24,
+        "bars": 24
+      },
+      {
+        "name": "bridge",
+        "bar": 48,
+        "bars": 16
+      },
+      {
+        "name": "break",
+        "bar": 64,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 80,
+        "bars": 32
+      },
+      {
+        "name": "outro",
+        "bar": 112,
+        "bars": 16
+      }
+    ],
+    "description": "A light organ-led four-beat track, with a small ascending bass phrase and open, plainspoken lyrics.",
+    "instrument": "Reed-organ chords, hollow organ bass with held roots and a rising pickup, plucked strings and shaker.",
+    "lyrics": [
+      "Step into the light",
+      "Leave the door ajar",
+      "We can take our time",
+      "We are where we are"
+    ],
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Low Water",
+    "stem": "06-low-water",
+    "number": 6,
+    "bpm": 132,
+    "key": "C minor",
+    "endBeat": 512,
+    "seed": 45988,
+    "engineTrack": 6,
+    "engine": "Window Engine 1 / phonetic singer",
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "verse",
+        "bar": 16,
+        "bars": 24
+      },
+      {
+        "name": "first",
+        "bar": 40,
+        "bars": 24
+      },
+      {
+        "name": "break",
+        "bar": 64,
+        "bars": 24
+      },
+      {
+        "name": "peak",
+        "bar": 88,
+        "bars": 24
+      },
+      {
+        "name": "outro",
+        "bar": 112,
+        "bars": 16
+      }
+    ],
+    "description": "The one heavy passage: long bass pressure, sparse drums and two voices across a large empty space.",
+    "instrument": "Slow unmodulated Reese swells and long rests, half-time backbeat, folded sonar, muted bells and a low vocal answer.",
+    "lyrics": [
+      "Low water moves",
+      "Under the moon",
+      "Hold the sound",
+      "I will be home soon"
+    ],
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "A Place to Stay",
+    "stem": "07-a-place-to-stay",
+    "number": 7,
+    "bpm": 128,
+    "key": "A-flat major",
+    "endBeat": 576,
+    "seed": 46301,
+    "engineTrack": 7,
+    "engine": "Window Engine 1 / phonetic singer",
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 8
+      },
+      {
+        "name": "verse",
+        "bar": 8,
+        "bars": 24
+      },
+      {
+        "name": "first",
+        "bar": 32,
+        "bars": 24
+      },
+      {
+        "name": "break",
+        "bar": 56,
+        "bars": 24
+      },
+      {
+        "name": "bridge",
+        "bar": 80,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 96,
+        "bars": 32
+      },
+      {
+        "name": "outro",
+        "bar": 128,
+        "bars": 16
+      }
+    ],
+    "description": "An open chorus and an easy two-step pulse. The choir widens while the bass leaves whole bars free.",
+    "instrument": "Spectral choir, bright picked strings, a sparse triangle-pluck bass melody and layered sung octaves.",
+    "lyrics": [
+      "There is a place for you",
+      "Close your eyes",
+      "Through the rain",
+      "After all this time"
+    ],
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Windows Still Lit",
+    "stem": "08-windows-still-lit",
+    "number": 8,
+    "bpm": 120,
+    "key": "F major",
+    "endBeat": 384,
+    "seed": 46614,
+    "engineTrack": 8,
+    "engine": "Window Engine 1 / phonetic singer",
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 16,
+        "bars": 24
+      },
+      {
+        "name": "break",
+        "bar": 40,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 56,
+        "bars": 24
+      },
+      {
+        "name": "outro",
+        "bar": 80,
+        "bars": 16
+      }
+    ],
+    "description": "A sung closing piece, rising from air into a gentle pulse and leaving as a voice beside the window.",
+    "instrument": "Breath flute, bowed cloud, electric piano and glass; no bass line, a soft backbeat only in the middle passages.",
+    "lyrics": [
+      "Windows still lit",
+      "The street has gone quiet",
+      "Keep a small flame",
+      "Beside the silence"
+    ],
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  }
+]

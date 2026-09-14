@@ -1,0 +1,540 @@
+[
+  {
+    "title": "Carrier at Midnight",
+    "number": 1,
+    "slug": "carrier-at-midnight",
+    "album": "The Distance Turns to Light",
+    "artist": "Cairn",
+    "bpm": 132,
+    "meter": [
+      4,
+      4
+    ],
+    "key": "D minor",
+    "bars": 128,
+    "endBeat": 512,
+    "seed": 19982003,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "foundation",
+        "bar": 16,
+        "bars": 16
+      },
+      {
+        "name": "tease",
+        "bar": 32,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 48,
+        "bars": 16
+      },
+      {
+        "name": "break",
+        "bar": 64,
+        "bars": 16
+      },
+      {
+        "name": "rise",
+        "bar": 80,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 88,
+        "bars": 24
+      },
+      {
+        "name": "outro",
+        "bar": 112,
+        "bars": 16
+      }
+    ],
+    "description": "A signal takes shape: glass pulses, a restrained lead, and the first view of the city.",
+    "color": "#7DCFE3",
+    "eventFields": [
+      "at",
+      "len",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion"
+    ],
+    "stem": "01-carrier-at-midnight"
+  },
+  {
+    "title": "Sodium Halo",
+    "number": 2,
+    "slug": "sodium-halo",
+    "album": "The Distance Turns to Light",
+    "artist": "Cairn",
+    "bpm": 136,
+    "meter": [
+      4,
+      4
+    ],
+    "key": "F minor",
+    "bars": 160,
+    "endBeat": 640,
+    "seed": 19982004,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "foundation",
+        "bar": 16,
+        "bars": 16
+      },
+      {
+        "name": "tease",
+        "bar": 32,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 48,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 80,
+        "bars": 24
+      },
+      {
+        "name": "rise",
+        "bar": 104,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 112,
+        "bars": 32
+      },
+      {
+        "name": "outro",
+        "bar": 144,
+        "bars": 16
+      }
+    ],
+    "description": "Amber streetlight, short syncopated phrases, and a springy offbeat bass.",
+    "color": "#F4B65C",
+    "eventFields": [
+      "at",
+      "len",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion"
+    ],
+    "stem": "02-sodium-halo"
+  },
+  {
+    "title": "Glass Motorway",
+    "number": 3,
+    "slug": "glass-motorway",
+    "album": "The Distance Turns to Light",
+    "artist": "Cairn",
+    "bpm": 138,
+    "meter": [
+      4,
+      4
+    ],
+    "key": "Ab major",
+    "bars": 176,
+    "endBeat": 704,
+    "seed": 19982005,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "foundation",
+        "bar": 16,
+        "bars": 32
+      },
+      {
+        "name": "first",
+        "bar": 48,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 80,
+        "bars": 24
+      },
+      {
+        "name": "rise",
+        "bar": 104,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 112,
+        "bars": 48
+      },
+      {
+        "name": "outro",
+        "bar": 160,
+        "bars": 16
+      }
+    ],
+    "description": "Rolling sixteenths and a broad major-key horizon; the harmony still begins in the relative minor.",
+    "color": "#9BD8CC",
+    "eventFields": [
+      "at",
+      "len",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion"
+    ],
+    "stem": "03-glass-motorway"
+  },
+  {
+    "title": "A Map of the Strobe",
+    "number": 4,
+    "slug": "a-map-of-the-strobe",
+    "album": "The Distance Turns to Light",
+    "artist": "Cairn",
+    "bpm": 140,
+    "meter": [
+      4,
+      4
+    ],
+    "key": "C# minor",
+    "bars": 176,
+    "endBeat": 704,
+    "seed": 19982006,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "foundation",
+        "bar": 16,
+        "bars": 32
+      },
+      {
+        "name": "first",
+        "bar": 48,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 80,
+        "bars": 16
+      },
+      {
+        "name": "rise",
+        "bar": 96,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 112,
+        "bars": 48
+      },
+      {
+        "name": "outro",
+        "bar": 160,
+        "bars": 16
+      }
+    ],
+    "description": "The tunnel section: resonant acid, dry percussion, and a compact, insistent hook.",
+    "color": "#E991C4",
+    "eventFields": [
+      "at",
+      "len",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion"
+    ],
+    "stem": "04-a-map-of-the-strobe"
+  },
+  {
+    "title": "Where the Air Opens",
+    "number": 5,
+    "slug": "where-the-air-opens",
+    "album": "The Distance Turns to Light",
+    "artist": "Cairn",
+    "bpm": 136,
+    "meter": [
+      4,
+      4
+    ],
+    "key": "B minor",
+    "bars": 160,
+    "endBeat": 640,
+    "seed": 19982007,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "foundation",
+        "bar": 16,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 32,
+        "bars": 24
+      },
+      {
+        "name": "break",
+        "bar": 56,
+        "bars": 32
+      },
+      {
+        "name": "rise",
+        "bar": 88,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 96,
+        "bars": 48
+      },
+      {
+        "name": "outro",
+        "bar": 144,
+        "bars": 16
+      }
+    ],
+    "description": "A suspended glass melody, the longest quiet space so far, then the pulse returns underneath it.",
+    "color": "#BEADF1",
+    "eventFields": [
+      "at",
+      "len",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion"
+    ],
+    "stem": "05-where-the-air-opens"
+  },
+  {
+    "title": "Held Above the City",
+    "number": 6,
+    "slug": "held-above-the-city",
+    "album": "The Distance Turns to Light",
+    "artist": "Cairn",
+    "bpm": 140,
+    "meter": [
+      4,
+      4
+    ],
+    "key": "E minor",
+    "bars": 192,
+    "endBeat": 768,
+    "seed": 19982008,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "foundation",
+        "bar": 16,
+        "bars": 32
+      },
+      {
+        "name": "first",
+        "bar": 48,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 80,
+        "bars": 32
+      },
+      {
+        "name": "rise",
+        "bar": 112,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 128,
+        "bars": 48
+      },
+      {
+        "name": "outro",
+        "bar": 176,
+        "bars": 16
+      }
+    ],
+    "description": "The summit: a long melodic ascent, an almost empty breakdown, and a full-width final statement.",
+    "color": "#F0D18D",
+    "eventFields": [
+      "at",
+      "len",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion"
+    ],
+    "stem": "06-held-above-the-city"
+  },
+  {
+    "title": "The Last Train Is a Satellite",
+    "number": 7,
+    "slug": "the-last-train-is-a-satellite",
+    "album": "The Distance Turns to Light",
+    "artist": "Cairn",
+    "bpm": 142,
+    "meter": [
+      4,
+      4
+    ],
+    "key": "A minor",
+    "bars": 176,
+    "endBeat": 704,
+    "seed": 19982009,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "foundation",
+        "bar": 16,
+        "bars": 32
+      },
+      {
+        "name": "first",
+        "bar": 48,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 80,
+        "bars": 16
+      },
+      {
+        "name": "rise",
+        "bar": 96,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 112,
+        "bars": 48
+      },
+      {
+        "name": "outro",
+        "bar": 160,
+        "bars": 16
+      }
+    ],
+    "description": "The fastest passage: clipped leads, rolling bass, and a second crest with gated formants.",
+    "color": "#F1977B",
+    "eventFields": [
+      "at",
+      "len",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion"
+    ],
+    "stem": "07-the-last-train-is-a-satellite"
+  },
+  {
+    "title": "Daybreak, Without an Answer",
+    "number": 8,
+    "slug": "daybreak-without-an-answer",
+    "album": "The Distance Turns to Light",
+    "artist": "Cairn",
+    "bpm": 132,
+    "meter": [
+      4,
+      4
+    ],
+    "key": "D major",
+    "bars": 160,
+    "endBeat": 640,
+    "seed": 19982010,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "foundation",
+        "bar": 16,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 32,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 64,
+        "bars": 32
+      },
+      {
+        "name": "rise",
+        "bar": 96,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 104,
+        "bars": 40
+      },
+      {
+        "name": "outro",
+        "bar": 144,
+        "bars": 16
+      }
+    ],
+    "description": "The opening signal returns in major, warms into a final dance, and leaves as glass and air.",
+    "color": "#F4C7BB",
+    "eventFields": [
+      "at",
+      "len",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion"
+    ],
+    "stem": "08-daybreak-without-an-answer"
+  }
+]

@@ -1,0 +1,458 @@
+{
+  "title": "The Distance Turns to Light",
+  "artist": "Cairn",
+  "date": "2026-09-13",
+  "genre": "Trance",
+  "brief": "Original trance inspired by the 1998-2002 era",
+  "totalSeconds": 2323.029704,
+  "displayDuration": "38:43",
+  "tracks": [
+    {
+      "number": 1,
+      "title": "Carrier at Midnight",
+      "stem": "01-carrier-at-midnight",
+      "seconds": 232.064036,
+      "bpm": 132,
+      "key": "D minor",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 16
+        },
+        {
+          "name": "foundation",
+          "bar": 16,
+          "bars": 16
+        },
+        {
+          "name": "tease",
+          "bar": 32,
+          "bars": 16
+        },
+        {
+          "name": "first",
+          "bar": 48,
+          "bars": 16
+        },
+        {
+          "name": "break",
+          "bar": 64,
+          "bars": 16
+        },
+        {
+          "name": "rise",
+          "bar": 80,
+          "bars": 8
+        },
+        {
+          "name": "peak",
+          "bar": 88,
+          "bars": 24
+        },
+        {
+          "name": "outro",
+          "bar": 112,
+          "bars": 16
+        }
+      ],
+      "description": "A signal takes shape: glass pulses, a restrained lead, and the first view of the city.",
+      "mp3": "mp3/01-carrier-at-midnight.mp3",
+      "wav": "wav/01-carrier-at-midnight.wav",
+      "midi": "midi/01-carrier-at-midnight.mid",
+      "sha256": {
+        "mp3": "06989790357c9de391efb653115c9bc16e1a12610fc8a6ad66c2fec8ac8f1d13",
+        "wav": "706f4c4444ebe13fbb95d2b4cbf3bf69a8b94f15c06464905bc83d4233c1ce6f",
+        "midi": "fcd002c7d036e9e47622b929c187462f46a64ccb8617fc7274e5d43d4d4e1cd8"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Sodium Halo",
+      "stem": "02-sodium-halo",
+      "seconds": 282.03424,
+      "bpm": 136,
+      "key": "F minor",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 16
+        },
+        {
+          "name": "foundation",
+          "bar": 16,
+          "bars": 16
+        },
+        {
+          "name": "tease",
+          "bar": 32,
+          "bars": 16
+        },
+        {
+          "name": "first",
+          "bar": 48,
+          "bars": 32
+        },
+        {
+          "name": "break",
+          "bar": 80,
+          "bars": 24
+        },
+        {
+          "name": "rise",
+          "bar": 104,
+          "bars": 8
+        },
+        {
+          "name": "peak",
+          "bar": 112,
+          "bars": 32
+        },
+        {
+          "name": "outro",
+          "bar": 144,
+          "bars": 16
+        }
+      ],
+      "description": "Amber streetlight, short syncopated phrases, and a springy offbeat bass.",
+      "mp3": "mp3/02-sodium-halo.mp3",
+      "wav": "wav/02-sodium-halo.wav",
+      "midi": "midi/02-sodium-halo.mid",
+      "sha256": {
+        "mp3": "eae371e276be412bd22b5060b666a50907034dee59f1433690a9e1d2408e8a4c",
+        "wav": "8796e8fbfc4fa214c4d3489fcb3df3f95f444bab402827e6aece57d022bf5f3c",
+        "midi": "8575abc708b8a56bf7ecd479381e73ee28f21e2a0592a3decf690a402fae90b8"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Glass Motorway",
+      "stem": "03-glass-motorway",
+      "seconds": 306.047687,
+      "bpm": 138,
+      "key": "Ab major",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 16
+        },
+        {
+          "name": "foundation",
+          "bar": 16,
+          "bars": 32
+        },
+        {
+          "name": "first",
+          "bar": 48,
+          "bars": 32
+        },
+        {
+          "name": "break",
+          "bar": 80,
+          "bars": 24
+        },
+        {
+          "name": "rise",
+          "bar": 104,
+          "bars": 8
+        },
+        {
+          "name": "peak",
+          "bar": 112,
+          "bars": 48
+        },
+        {
+          "name": "outro",
+          "bar": 160,
+          "bars": 16
+        }
+      ],
+      "description": "Rolling sixteenths and a broad major-key horizon; the harmony still begins in the relative minor.",
+      "mp3": "mp3/03-glass-motorway.mp3",
+      "wav": "wav/03-glass-motorway.wav",
+      "midi": "midi/03-glass-motorway.mid",
+      "sha256": {
+        "mp3": "61de2ad9f5020ccc361dee7412d0b9b3b35adaba2cb6a1e30dcbbf75280a0279",
+        "wav": "f7c30e6a777ea50a1476e73295617f029178c55373983371f0f3b9bc3aba3fb2",
+        "midi": "dfddfdb3a28aaa1e6bb0a8b67b4c4fbaf053ffdcf0beeddafd361830c183d1d1"
+      }
+    },
+    {
+      "number": 4,
+      "title": "A Map of the Strobe",
+      "stem": "04-a-map-of-the-strobe",
+      "seconds": 301.431247,
+      "bpm": 140,
+      "key": "C# minor",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 16
+        },
+        {
+          "name": "foundation",
+          "bar": 16,
+          "bars": 32
+        },
+        {
+          "name": "first",
+          "bar": 48,
+          "bars": 32
+        },
+        {
+          "name": "break",
+          "bar": 80,
+          "bars": 16
+        },
+        {
+          "name": "rise",
+          "bar": 96,
+          "bars": 16
+        },
+        {
+          "name": "peak",
+          "bar": 112,
+          "bars": 48
+        },
+        {
+          "name": "outro",
+          "bar": 160,
+          "bars": 16
+        }
+      ],
+      "description": "The tunnel section: resonant acid, dry percussion, and a compact, insistent hook.",
+      "mp3": "mp3/04-a-map-of-the-strobe.mp3",
+      "wav": "wav/04-a-map-of-the-strobe.wav",
+      "midi": "midi/04-a-map-of-the-strobe.mid",
+      "sha256": {
+        "mp3": "fabb6b86d6471d7a283303844f0027f97ad79febd06fec32854c99584eb92fcf",
+        "wav": "c8ccb76394c0a50750cb4e5224dfff052f466b27d00caae29e6fd518a6c07ebb",
+        "midi": "f373f3faeccda8eaa309d38b153af096a88116171c06f1c0f8b7de75ae3bc3e9"
+      }
+    },
+    {
+      "number": 5,
+      "title": "Where the Air Opens",
+      "stem": "05-where-the-air-opens",
+      "seconds": 281.856281,
+      "bpm": 136,
+      "key": "B minor",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 16
+        },
+        {
+          "name": "foundation",
+          "bar": 16,
+          "bars": 16
+        },
+        {
+          "name": "first",
+          "bar": 32,
+          "bars": 24
+        },
+        {
+          "name": "break",
+          "bar": 56,
+          "bars": 32
+        },
+        {
+          "name": "rise",
+          "bar": 88,
+          "bars": 8
+        },
+        {
+          "name": "peak",
+          "bar": 96,
+          "bars": 48
+        },
+        {
+          "name": "outro",
+          "bar": 144,
+          "bars": 16
+        }
+      ],
+      "description": "A suspended glass melody, the longest quiet space so far, then the pulse returns underneath it.",
+      "mp3": "mp3/05-where-the-air-opens.mp3",
+      "wav": "wav/05-where-the-air-opens.wav",
+      "midi": "midi/05-where-the-air-opens.mid",
+      "sha256": {
+        "mp3": "71a479523536e40d6b224352cf0cb188c062d64706ae10d7ec05560385c3532a",
+        "wav": "8ae78a3fe19e87d01f0f3652b03661f585ad0397ee6aae008fe017b25527c929",
+        "midi": "fb2e7f95cb1cad1dece70c9b0df537c3da73e72b9b9dbea711e2917218a36ff6"
+      }
+    },
+    {
+      "number": 6,
+      "title": "Held Above the City",
+      "stem": "06-held-above-the-city",
+      "seconds": 328.689637,
+      "bpm": 140,
+      "key": "E minor",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 16
+        },
+        {
+          "name": "foundation",
+          "bar": 16,
+          "bars": 32
+        },
+        {
+          "name": "first",
+          "bar": 48,
+          "bars": 32
+        },
+        {
+          "name": "break",
+          "bar": 80,
+          "bars": 32
+        },
+        {
+          "name": "rise",
+          "bar": 112,
+          "bars": 16
+        },
+        {
+          "name": "peak",
+          "bar": 128,
+          "bars": 48
+        },
+        {
+          "name": "outro",
+          "bar": 176,
+          "bars": 16
+        }
+      ],
+      "description": "The summit: a long melodic ascent, an almost empty breakdown, and a full-width final statement.",
+      "mp3": "mp3/06-held-above-the-city.mp3",
+      "wav": "wav/06-held-above-the-city.wav",
+      "midi": "midi/06-held-above-the-city.mid",
+      "sha256": {
+        "mp3": "43a7182d1e7e7a1eaacd0ad5938db21e7521f29db6fce9ddc5e0259341679c49",
+        "wav": "0090ee50925fd4378dfa97760b503542a7e57a6d038664d4a0c50b2b89e71788",
+        "midi": "ec193555e4f37fcc5f2cf8d94016fa666e57ed2c8cdffcf41e492f99d7573805"
+      }
+    },
+    {
+      "number": 7,
+      "title": "The Last Train Is a Satellite",
+      "stem": "07-the-last-train-is-a-satellite",
+      "seconds": 297.214989,
+      "bpm": 142,
+      "key": "A minor",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 16
+        },
+        {
+          "name": "foundation",
+          "bar": 16,
+          "bars": 32
+        },
+        {
+          "name": "first",
+          "bar": 48,
+          "bars": 32
+        },
+        {
+          "name": "break",
+          "bar": 80,
+          "bars": 16
+        },
+        {
+          "name": "rise",
+          "bar": 96,
+          "bars": 16
+        },
+        {
+          "name": "peak",
+          "bar": 112,
+          "bars": 48
+        },
+        {
+          "name": "outro",
+          "bar": 160,
+          "bars": 16
+        }
+      ],
+      "description": "The fastest passage: clipped leads, rolling bass, and a second crest with gated formants.",
+      "mp3": "mp3/07-the-last-train-is-a-satellite.mp3",
+      "wav": "wav/07-the-last-train-is-a-satellite.wav",
+      "midi": "midi/07-the-last-train-is-a-satellite.mid",
+      "sha256": {
+        "mp3": "a90e7df901d94df410dca232e690e83e671c2c08770ec8a7d3d460882c1a82a6",
+        "wav": "b7ce238089ed87c71026b0066b921ea3c6cf1017ed03ebead65a999482f13519",
+        "midi": "f641ab8abcaf6ec0a347f21aadf2bcff410590c23e0d7fcdbe8b97c9ac16f6ad"
+      }
+    },
+    {
+      "number": 8,
+      "title": "Daybreak, Without an Answer",
+      "stem": "08-daybreak-without-an-answer",
+      "seconds": 293.691587,
+      "bpm": 132,
+      "key": "D major",
+      "sections": [
+        {
+          "name": "intro",
+          "bar": 0,
+          "bars": 16
+        },
+        {
+          "name": "foundation",
+          "bar": 16,
+          "bars": 16
+        },
+        {
+          "name": "first",
+          "bar": 32,
+          "bars": 32
+        },
+        {
+          "name": "break",
+          "bar": 64,
+          "bars": 32
+        },
+        {
+          "name": "rise",
+          "bar": 96,
+          "bars": 8
+        },
+        {
+          "name": "peak",
+          "bar": 104,
+          "bars": 40
+        },
+        {
+          "name": "outro",
+          "bar": 144,
+          "bars": 16
+        }
+      ],
+      "description": "The opening signal returns in major, warms into a final dance, and leaves as glass and air.",
+      "mp3": "mp3/08-daybreak-without-an-answer.mp3",
+      "wav": "wav/08-daybreak-without-an-answer.wav",
+      "midi": "midi/08-daybreak-without-an-answer.mid",
+      "sha256": {
+        "mp3": "bc399261a4f7efc3536f3f6f32153ffc04fbfbfc07f801daf04372a8d60e3010",
+        "wav": "c933efc0f24d0d4892d6b120320790c3d72d7a5d4549bafbb955049b01fd57e1",
+        "midi": "1ea71a79f72453cddc0a3baae9f4d926ca75ebf8316c0c92b534b65a2247f367"
+      }
+    }
+  ],
+  "completeAlbum": "the-distance-turns-to-light-full-album.mp3",
+  "completeAlbumSha256": "423884945f3b13a5fca8023b9777477030cfb32629e7079a94cde1f0c4b4c413",
+  "masterFormat": "44.1 kHz / 24-bit PCM stereo",
+  "mp3Format": "320 kb/s stereo",
+  "localOnly": true
+}

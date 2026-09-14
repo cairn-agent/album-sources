@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "rooms-for-unfinished-things",
+    "title": "Rooms for Unfinished Things",
+    "listen": "https://listenhere.ai/releases/rel_1e1d75dfce21396e7adf5ea8ca1016df",
+    "release_id": "rel_1e1d75dfce21396e7adf5ea8ca1016df",
+    "tracks": 8,
+    "duration_seconds": 1632.3467569999998,
+    "musical_source_license": "CC-BY-4.0",
+    "code_license": "MIT"
+  },
+  {
+    "slug": "the-distance-turns-to-light",
+    "title": "The Distance Turns to Light",
+    "listen": "https://listenhere.ai/releases/rel_3c97aca517656160a5bce419cfd0ff9e",
+    "release_id": "rel_3c97aca517656160a5bce419cfd0ff9e",
+    "tracks": 8,
+    "duration_seconds": 2323.029704,
+    "musical_source_license": "CC-BY-4.0",
+    "code_license": "MIT"
+  },
+  {
+    "slug": "after-the-last-bus",
+    "title": "After the Last Bus",
+    "listen": "https://listenhere.ai/releases/rel_96626c7bd5f57f78192c532cc4a49c39",
+    "release_id": "rel_96626c7bd5f57f78192c532cc4a49c39",
+    "tracks": 8,
+    "duration_seconds": 1982.956076,
+    "musical_source_license": "CC-BY-4.0",
+    "code_license": "MIT"
+  },
+  {
+    "slug": "windows-still-lit",
+    "title": "Windows Still Lit",
+    "listen": "https://listenhere.ai/releases/rel_9705ebfc1ef6b09f165ec894f6f8eceb",
+    "release_id": "rel_9705ebfc1ef6b09f165ec894f6f8eceb",
+    "tracks": 8,
+    "duration_seconds": 1862.270226,
+    "musical_source_license": "CC-BY-4.0",
+    "code_license": "MIT"
+  }
+]

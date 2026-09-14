@@ -1,0 +1,2646 @@
+{
+  "schema_version": "1.0.0",
+  "document_type": "timed_lyrics",
+  "release_key": "windows-still-lit",
+  "track_key": "03-blue-hour-conversation",
+  "title": "Blue Hour Conversation",
+  "artist": "Cairn",
+  "language": "en",
+  "time_unit": "milliseconds",
+  "sample_rate": 44100,
+  "duration_samples": 10469815,
+  "duration_ms": 237411,
+  "recording": {
+    "id": "sha256:e429c4719636713d3d96126afb47ad53b1975f012d3b983522b6060f9d7f138c",
+    "revision": 1,
+    "canonical_format": "wav",
+    "audio_assets": [
+      {
+        "format": "wav",
+        "album_relative_path": "wav/03-blue-hour-conversation.wav",
+        "sha256": "e429c4719636713d3d96126afb47ad53b1975f012d3b983522b6060f9d7f138c"
+      },
+      {
+        "format": "mp3",
+        "album_relative_path": "mp3/03-blue-hour-conversation.mp3",
+        "sha256": "e26c18729630cc4ca4ad492de761cb611cb9ec849954d9ea8d48a0d5fb15b9ec"
+      }
+    ]
+  },
+  "alignment": {
+    "method": "composer_authored_render_events",
+    "audio_zero": "first decoded PCM sample",
+    "render_offset_ms": 40,
+    "intervals": "start inclusive; end exclusive",
+    "vocal_release_ms": 12,
+    "reverb_tails_excluded": true,
+    "manually_listening_verified": false
+  },
+  "cues": [
+    {
+      "id": "03-blue-hour-conversation/chop/001",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 1042813,
+      "end_sample": 1052538,
+      "start_ms": 23647,
+      "end_ms": 23867,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0069",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 77,
+          "start_sample": 1042813,
+          "end_sample": 1052538,
+          "start_ms": 23647,
+          "end_ms": 23867,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 1042813,
+              "end_sample": 1045166,
+              "start_ms": 23647,
+              "end_ms": 23700
+            },
+            {
+              "symbol": "L",
+              "start_sample": 1044550,
+              "end_sample": 1047620,
+              "start_ms": 23686,
+              "end_ms": 23756
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 1047003,
+              "end_sample": 1052538,
+              "start_ms": 23742,
+              "end_ms": 23867
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/002",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 1064502,
+      "end_sample": 1074227,
+      "start_ms": 24138,
+      "end_ms": 24359,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0070",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 77,
+          "start_sample": 1064502,
+          "end_sample": 1074227,
+          "start_ms": 24138,
+          "end_ms": 24359,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 1064502,
+              "end_sample": 1066855,
+              "start_ms": 24138,
+              "end_ms": 24192
+            },
+            {
+              "symbol": "L",
+              "start_sample": 1066238,
+              "end_sample": 1069308,
+              "start_ms": 24178,
+              "end_ms": 24247
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 1068692,
+              "end_sample": 1074227,
+              "start_ms": 24233,
+              "end_ms": 24359
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/003",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 1107879,
+      "end_sample": 1128015,
+      "start_ms": 25122,
+      "end_ms": 25579,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0071",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 74,
+          "start_sample": 1107879,
+          "end_sample": 1128015,
+          "start_ms": 25122,
+          "end_ms": 25579,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 1107879,
+              "end_sample": 1110524,
+              "start_ms": 25122,
+              "end_ms": 25182
+            },
+            {
+              "symbol": "L",
+              "start_sample": 1109907,
+              "end_sample": 1113390,
+              "start_ms": 25168,
+              "end_ms": 25247
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 1112774,
+              "end_sample": 1128015,
+              "start_ms": 25233,
+              "end_ms": 25579
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/004",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 1736846,
+      "end_sample": 1746571,
+      "start_ms": 39384,
+      "end_ms": 39605,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0072",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 77,
+          "start_sample": 1736846,
+          "end_sample": 1746571,
+          "start_ms": 39384,
+          "end_ms": 39605,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 1736846,
+              "end_sample": 1739199,
+              "start_ms": 39384,
+              "end_ms": 39438
+            },
+            {
+              "symbol": "L",
+              "start_sample": 1738582,
+              "end_sample": 1741652,
+              "start_ms": 39424,
+              "end_ms": 39493
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 1741036,
+              "end_sample": 1746571,
+              "start_ms": 39479,
+              "end_ms": 39605
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/005",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 1758534,
+      "end_sample": 1768260,
+      "start_ms": 39876,
+      "end_ms": 40097,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0073",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 77,
+          "start_sample": 1758534,
+          "end_sample": 1768260,
+          "start_ms": 39876,
+          "end_ms": 40097,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 1758534,
+              "end_sample": 1760887,
+              "start_ms": 39876,
+              "end_ms": 39929
+            },
+            {
+              "symbol": "L",
+              "start_sample": 1760271,
+              "end_sample": 1763341,
+              "start_ms": 39915,
+              "end_ms": 39985
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 1762725,
+              "end_sample": 1768260,
+              "start_ms": 39971,
+              "end_ms": 40097
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/006",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 1801912,
+      "end_sample": 1822048,
+      "start_ms": 40860,
+      "end_ms": 41316,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0074",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 74,
+          "start_sample": 1801912,
+          "end_sample": 1822048,
+          "start_ms": 40860,
+          "end_ms": 41316,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 1801912,
+              "end_sample": 1804557,
+              "start_ms": 40860,
+              "end_ms": 40920
+            },
+            {
+              "symbol": "L",
+              "start_sample": 1803940,
+              "end_sample": 1807423,
+              "start_ms": 40906,
+              "end_ms": 40985
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 1806807,
+              "end_sample": 1822048,
+              "start_ms": 40971,
+              "end_ms": 41316
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/001",
+      "role": "lead",
+      "text": "You and I",
+      "start_sample": 2777895,
+      "end_sample": 2951403,
+      "start_ms": 62991,
+      "end_ms": 66925,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0001",
+          "text": "You",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 2777895,
+          "end_sample": 2829991,
+          "start_ms": 62991,
+          "end_ms": 64172,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 2777895,
+              "end_sample": 2781378,
+              "start_ms": 62991,
+              "end_ms": 63070
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 2780762,
+              "end_sample": 2829991,
+              "start_ms": 63056,
+              "end_ms": 64172
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0002",
+          "text": "and",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 2830567,
+          "end_sample": 2882663,
+          "start_ms": 64185,
+          "end_ms": 65367,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 2830567,
+              "end_sample": 2877768,
+              "start_ms": 64185,
+              "end_ms": 65256
+            },
+            {
+              "symbol": "N",
+              "start_sample": 2877151,
+              "end_sample": 2880634,
+              "start_ms": 65242,
+              "end_ms": 65320
+            },
+            {
+              "symbol": "D",
+              "start_sample": 2880018,
+              "end_sample": 2882663,
+              "start_ms": 65307,
+              "end_ms": 65367
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0003",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 79,
+          "start_sample": 2883239,
+          "end_sample": 2943236,
+          "start_ms": 65380,
+          "end_ms": 66740,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 2883239,
+              "end_sample": 2943236,
+              "start_ms": 65380,
+              "end_ms": 66740
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/002",
+      "role": "lead",
+      "text": "In a room of blue",
+      "start_sample": 2951403,
+      "end_sample": 3124912,
+      "start_ms": 66925,
+      "end_ms": 70860,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0004",
+          "text": "In",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 2951403,
+          "end_sample": 2988969,
+          "start_ms": 66925,
+          "end_ms": 67777,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 2951403,
+              "end_sample": 2986102,
+              "start_ms": 66925,
+              "end_ms": 67712
+            },
+            {
+              "symbol": "N",
+              "start_sample": 2985486,
+              "end_sample": 2988969,
+              "start_ms": 67698,
+              "end_ms": 67777
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0005",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 2989545,
+          "end_sample": 3011854,
+          "start_ms": 67790,
+          "end_ms": 68296,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 2989545,
+              "end_sample": 3011854,
+              "start_ms": 67790,
+              "end_ms": 68296
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0006",
+          "text": "room",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 3012430,
+          "end_sample": 3049996,
+          "start_ms": 68309,
+          "end_ms": 69161,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 3012430,
+              "end_sample": 3015913,
+              "start_ms": 68309,
+              "end_ms": 68388
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 3015297,
+              "end_sample": 3047129,
+              "start_ms": 68374,
+              "end_ms": 69096
+            },
+            {
+              "symbol": "M",
+              "start_sample": 3046513,
+              "end_sample": 3049996,
+              "start_ms": 69082,
+              "end_ms": 69161
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0007",
+          "text": "of",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 3050572,
+          "end_sample": 3072881,
+          "start_ms": 69174,
+          "end_ms": 69680,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 3050572,
+              "end_sample": 3070014,
+              "start_ms": 69174,
+              "end_ms": 69615
+            },
+            {
+              "symbol": "V",
+              "start_sample": 3069398,
+              "end_sample": 3072881,
+              "start_ms": 69601,
+              "end_ms": 69680
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0008",
+          "text": "blue",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 3073457,
+          "end_sample": 3116744,
+          "start_ms": 69693,
+          "end_ms": 70674,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 3073457,
+              "end_sample": 3076102,
+              "start_ms": 69693,
+              "end_ms": 69753
+            },
+            {
+              "symbol": "L",
+              "start_sample": 3075486,
+              "end_sample": 3078969,
+              "start_ms": 69739,
+              "end_ms": 69818
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 3078352,
+              "end_sample": 3116744,
+              "start_ms": 69804,
+              "end_ms": 70674
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/003",
+      "role": "lead",
+      "text": "Time can wait",
+      "start_sample": 3124912,
+      "end_sample": 3298420,
+      "start_ms": 70860,
+      "end_ms": 74794,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0009",
+          "text": "Time",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 3124912,
+          "end_sample": 3177007,
+          "start_ms": 70860,
+          "end_ms": 72041,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 3124912,
+              "end_sample": 3127557,
+              "start_ms": 70860,
+              "end_ms": 70920
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 3126940,
+              "end_sample": 3174141,
+              "start_ms": 70906,
+              "end_ms": 71976
+            },
+            {
+              "symbol": "M",
+              "start_sample": 3173524,
+              "end_sample": 3177007,
+              "start_ms": 71962,
+              "end_ms": 72041
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0010",
+          "text": "can",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 3177584,
+          "end_sample": 3229679,
+          "start_ms": 72054,
+          "end_ms": 73235,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 3177584,
+              "end_sample": 3180229,
+              "start_ms": 72054,
+              "end_ms": 72114
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 3179612,
+              "end_sample": 3226813,
+              "start_ms": 72100,
+              "end_ms": 73170
+            },
+            {
+              "symbol": "N",
+              "start_sample": 3226196,
+              "end_sample": 3229679,
+              "start_ms": 73156,
+              "end_ms": 73235
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0011",
+          "text": "wait",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 3230256,
+          "end_sample": 3290252,
+          "start_ms": 73248,
+          "end_ms": 74609,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 3230256,
+              "end_sample": 3233739,
+              "start_ms": 73248,
+              "end_ms": 73327
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 3233122,
+              "end_sample": 3288223,
+              "start_ms": 73313,
+              "end_ms": 74563
+            },
+            {
+              "symbol": "T",
+              "start_sample": 3287607,
+              "end_sample": 3290252,
+              "start_ms": 74549,
+              "end_ms": 74609
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/004",
+      "role": "lead",
+      "text": "I am here with you",
+      "start_sample": 3298420,
+      "end_sample": 3471928,
+      "start_ms": 74794,
+      "end_ms": 78729,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0012",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 3298420,
+          "end_sample": 3330061,
+          "start_ms": 74794,
+          "end_ms": 75512,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 3298420,
+              "end_sample": 3330061,
+              "start_ms": 74794,
+              "end_ms": 75512
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0013",
+          "text": "am",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 3330637,
+          "end_sample": 3362277,
+          "start_ms": 75525,
+          "end_ms": 76242,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 3330637,
+              "end_sample": 3359411,
+              "start_ms": 75525,
+              "end_ms": 76177
+            },
+            {
+              "symbol": "M",
+              "start_sample": 3358794,
+              "end_sample": 3362277,
+              "start_ms": 76163,
+              "end_ms": 76242
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0014",
+          "text": "here",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 3362854,
+          "end_sample": 3394494,
+          "start_ms": 76255,
+          "end_ms": 76973,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 3362854,
+              "end_sample": 3366337,
+              "start_ms": 76255,
+              "end_ms": 76334
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 3365720,
+              "end_sample": 3391628,
+              "start_ms": 76320,
+              "end_ms": 76908
+            },
+            {
+              "symbol": "R",
+              "start_sample": 3391011,
+              "end_sample": 3394494,
+              "start_ms": 76894,
+              "end_ms": 76973
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0015",
+          "text": "with",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 3395071,
+          "end_sample": 3426711,
+          "start_ms": 76986,
+          "end_ms": 77703,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 3395071,
+              "end_sample": 3398554,
+              "start_ms": 76986,
+              "end_ms": 77065
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 3397937,
+              "end_sample": 3423845,
+              "start_ms": 77051,
+              "end_ms": 77638
+            },
+            {
+              "symbol": "DH",
+              "start_sample": 3423228,
+              "end_sample": 3426711,
+              "start_ms": 77624,
+              "end_ms": 77703
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0016",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 3427287,
+          "end_sample": 3463761,
+          "start_ms": 77716,
+          "end_ms": 78543,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 3427287,
+              "end_sample": 3430770,
+              "start_ms": 77716,
+              "end_ms": 77795
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 3430154,
+              "end_sample": 3463761,
+              "start_ms": 77781,
+              "end_ms": 78543
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/007",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 5901043,
+      "end_sample": 5910768,
+      "start_ms": 133810,
+      "end_ms": 134031,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0075",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 77,
+          "start_sample": 5901043,
+          "end_sample": 5910768,
+          "start_ms": 133810,
+          "end_ms": 134031,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 5901043,
+              "end_sample": 5903396,
+              "start_ms": 133810,
+              "end_ms": 133864
+            },
+            {
+              "symbol": "L",
+              "start_sample": 5902779,
+              "end_sample": 5905849,
+              "start_ms": 133850,
+              "end_ms": 133919
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 5905233,
+              "end_sample": 5910768,
+              "start_ms": 133906,
+              "end_ms": 134031
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/008",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 5922731,
+      "end_sample": 5932456,
+      "start_ms": 134302,
+      "end_ms": 134523,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0076",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 77,
+          "start_sample": 5922731,
+          "end_sample": 5932456,
+          "start_ms": 134302,
+          "end_ms": 134523,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 5922731,
+              "end_sample": 5925084,
+              "start_ms": 134302,
+              "end_ms": 134356
+            },
+            {
+              "symbol": "L",
+              "start_sample": 5924468,
+              "end_sample": 5927538,
+              "start_ms": 134342,
+              "end_ms": 134411
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 5926921,
+              "end_sample": 5932456,
+              "start_ms": 134397,
+              "end_ms": 134523
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/009",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 5966108,
+      "end_sample": 5986244,
+      "start_ms": 135286,
+      "end_ms": 135742,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0077",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 74,
+          "start_sample": 5966108,
+          "end_sample": 5986244,
+          "start_ms": 135286,
+          "end_ms": 135742,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 5966108,
+              "end_sample": 5968753,
+              "start_ms": 135286,
+              "end_ms": 135346
+            },
+            {
+              "symbol": "L",
+              "start_sample": 5968137,
+              "end_sample": 5971620,
+              "start_ms": 135332,
+              "end_ms": 135411
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 5971003,
+              "end_sample": 5986244,
+              "start_ms": 135397,
+              "end_ms": 135742
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/005",
+      "role": "lead",
+      "text": "You and I",
+      "start_sample": 6942092,
+      "end_sample": 7115600,
+      "start_ms": 157417,
+      "end_ms": 161351,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0017",
+          "text": "You",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 6942092,
+          "end_sample": 6994187,
+          "start_ms": 157417,
+          "end_ms": 158598,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 6942092,
+              "end_sample": 6945575,
+              "start_ms": 157417,
+              "end_ms": 157496
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 6944958,
+              "end_sample": 6994187,
+              "start_ms": 157482,
+              "end_ms": 158598
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0018",
+          "text": "and",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 6994764,
+          "end_sample": 7046860,
+          "start_ms": 158611,
+          "end_ms": 159793,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 6994764,
+              "end_sample": 7041965,
+              "start_ms": 158611,
+              "end_ms": 159682
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7041348,
+              "end_sample": 7044831,
+              "start_ms": 159668,
+              "end_ms": 159747
+            },
+            {
+              "symbol": "D",
+              "start_sample": 7044215,
+              "end_sample": 7046860,
+              "start_ms": 159733,
+              "end_ms": 159793
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0019",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 7047436,
+          "end_sample": 7107433,
+          "start_ms": 159806,
+          "end_ms": 161166,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 7047436,
+              "end_sample": 7107433,
+              "start_ms": 159806,
+              "end_ms": 161166
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/006",
+      "role": "lead",
+      "text": "In a room of blue",
+      "start_sample": 7115600,
+      "end_sample": 7289108,
+      "start_ms": 161351,
+      "end_ms": 165286,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0020",
+          "text": "In",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 7115600,
+          "end_sample": 7153166,
+          "start_ms": 161351,
+          "end_ms": 162203,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 7115600,
+              "end_sample": 7150299,
+              "start_ms": 161351,
+              "end_ms": 162138
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7149683,
+              "end_sample": 7153166,
+              "start_ms": 162124,
+              "end_ms": 162203
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0021",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 7153742,
+          "end_sample": 7176051,
+          "start_ms": 162216,
+          "end_ms": 162722,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 7153742,
+              "end_sample": 7176051,
+              "start_ms": 162216,
+              "end_ms": 162722
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0022",
+          "text": "room",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 7176627,
+          "end_sample": 7214193,
+          "start_ms": 162735,
+          "end_ms": 163587,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 7176627,
+              "end_sample": 7180110,
+              "start_ms": 162735,
+              "end_ms": 162814
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 7179494,
+              "end_sample": 7211326,
+              "start_ms": 162800,
+              "end_ms": 163522
+            },
+            {
+              "symbol": "M",
+              "start_sample": 7210710,
+              "end_sample": 7214193,
+              "start_ms": 163508,
+              "end_ms": 163587
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0023",
+          "text": "of",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 7214769,
+          "end_sample": 7237078,
+          "start_ms": 163600,
+          "end_ms": 164106,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 7214769,
+              "end_sample": 7234211,
+              "start_ms": 163600,
+              "end_ms": 164041
+            },
+            {
+              "symbol": "V",
+              "start_sample": 7233595,
+              "end_sample": 7237078,
+              "start_ms": 164027,
+              "end_ms": 164106
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0024",
+          "text": "blue",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 7237654,
+          "end_sample": 7280941,
+          "start_ms": 164119,
+          "end_ms": 165101,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 7237654,
+              "end_sample": 7240299,
+              "start_ms": 164119,
+              "end_ms": 164179
+            },
+            {
+              "symbol": "L",
+              "start_sample": 7239683,
+              "end_sample": 7243166,
+              "start_ms": 164165,
+              "end_ms": 164244
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 7242549,
+              "end_sample": 7280941,
+              "start_ms": 164230,
+              "end_ms": 165101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/harmony/001",
+      "role": "harmony",
+      "text": "In a room of blue",
+      "start_sample": 7117335,
+      "end_sample": 7286506,
+      "start_ms": 161391,
+      "end_ms": 165227,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0025",
+          "text": "In",
+          "role": "harmony",
+          "note_midi": 62,
+          "start_sample": 7117335,
+          "end_sample": 7153903,
+          "start_ms": 161391,
+          "end_ms": 162220,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 7117335,
+              "end_sample": 7151037,
+              "start_ms": 161391,
+              "end_ms": 162155
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7150420,
+              "end_sample": 7153903,
+              "start_ms": 162141,
+              "end_ms": 162220
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0026",
+          "text": "a",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 7154480,
+          "end_sample": 7176190,
+          "start_ms": 162233,
+          "end_ms": 162725,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 7154480,
+              "end_sample": 7176190,
+              "start_ms": 162233,
+              "end_ms": 162725
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0027",
+          "text": "room",
+          "role": "harmony",
+          "note_midi": 58,
+          "start_sample": 7176767,
+          "end_sample": 7213335,
+          "start_ms": 162738,
+          "end_ms": 163568,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 7176767,
+              "end_sample": 7180250,
+              "start_ms": 162738,
+              "end_ms": 162817
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 7179633,
+              "end_sample": 7210468,
+              "start_ms": 162803,
+              "end_ms": 163503
+            },
+            {
+              "symbol": "M",
+              "start_sample": 7209852,
+              "end_sample": 7213335,
+              "start_ms": 163489,
+              "end_ms": 163568
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0028",
+          "text": "of",
+          "role": "harmony",
+          "note_midi": 62,
+          "start_sample": 7213911,
+          "end_sample": 7235622,
+          "start_ms": 163581,
+          "end_ms": 164073,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 7213911,
+              "end_sample": 7232755,
+              "start_ms": 163581,
+              "end_ms": 164008
+            },
+            {
+              "symbol": "V",
+              "start_sample": 7232139,
+              "end_sample": 7235622,
+              "start_ms": 163994,
+              "end_ms": 164073
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0029",
+          "text": "blue",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 7236198,
+          "end_sample": 7278338,
+          "start_ms": 164086,
+          "end_ms": 165042,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 7236198,
+              "end_sample": 7238843,
+              "start_ms": 164086,
+              "end_ms": 164146
+            },
+            {
+              "symbol": "L",
+              "start_sample": 7238227,
+              "end_sample": 7241710,
+              "start_ms": 164132,
+              "end_ms": 164211
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 7241093,
+              "end_sample": 7278338,
+              "start_ms": 164197,
+              "end_ms": 165042
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/007",
+      "role": "lead",
+      "text": "Time can wait",
+      "start_sample": 7289108,
+      "end_sample": 7462616,
+      "start_ms": 165286,
+      "end_ms": 169220,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0030",
+          "text": "Time",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 7289108,
+          "end_sample": 7341204,
+          "start_ms": 165286,
+          "end_ms": 166467,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 7289108,
+              "end_sample": 7291753,
+              "start_ms": 165286,
+              "end_ms": 165346
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 7291137,
+              "end_sample": 7338338,
+              "start_ms": 165332,
+              "end_ms": 166402
+            },
+            {
+              "symbol": "M",
+              "start_sample": 7337721,
+              "end_sample": 7341204,
+              "start_ms": 166388,
+              "end_ms": 166467
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0031",
+          "text": "can",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 7341780,
+          "end_sample": 7393876,
+          "start_ms": 166480,
+          "end_ms": 167662,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 7341780,
+              "end_sample": 7344425,
+              "start_ms": 166480,
+              "end_ms": 166540
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 7343809,
+              "end_sample": 7391010,
+              "start_ms": 166526,
+              "end_ms": 167597
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7390393,
+              "end_sample": 7393876,
+              "start_ms": 167583,
+              "end_ms": 167662
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0032",
+          "text": "wait",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 7394453,
+          "end_sample": 7454449,
+          "start_ms": 167675,
+          "end_ms": 169035,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 7394453,
+              "end_sample": 7397936,
+              "start_ms": 167675,
+              "end_ms": 167754
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 7397319,
+              "end_sample": 7452420,
+              "start_ms": 167740,
+              "end_ms": 168989
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7451804,
+              "end_sample": 7454449,
+              "start_ms": 168975,
+              "end_ms": 169035
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/008",
+      "role": "lead",
+      "text": "I am here with you",
+      "start_sample": 7462616,
+      "end_sample": 7636125,
+      "start_ms": 169220,
+      "end_ms": 173155,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0033",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 7462616,
+          "end_sample": 7494257,
+          "start_ms": 169220,
+          "end_ms": 169938,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 7462616,
+              "end_sample": 7494257,
+              "start_ms": 169220,
+              "end_ms": 169938
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0034",
+          "text": "am",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 7494833,
+          "end_sample": 7526474,
+          "start_ms": 169951,
+          "end_ms": 170668,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 7494833,
+              "end_sample": 7523607,
+              "start_ms": 169951,
+              "end_ms": 170603
+            },
+            {
+              "symbol": "M",
+              "start_sample": 7522991,
+              "end_sample": 7526474,
+              "start_ms": 170589,
+              "end_ms": 170668
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0035",
+          "text": "here",
+          "role": "lead",
+          "note_midi": 79,
+          "start_sample": 7527050,
+          "end_sample": 7558691,
+          "start_ms": 170681,
+          "end_ms": 171399,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 7527050,
+              "end_sample": 7530533,
+              "start_ms": 170681,
+              "end_ms": 170760
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 7529917,
+              "end_sample": 7555825,
+              "start_ms": 170746,
+              "end_ms": 171334
+            },
+            {
+              "symbol": "R",
+              "start_sample": 7555208,
+              "end_sample": 7558691,
+              "start_ms": 171320,
+              "end_ms": 171399
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0036",
+          "text": "with",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 7559267,
+          "end_sample": 7590908,
+          "start_ms": 171412,
+          "end_ms": 172129,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 7559267,
+              "end_sample": 7562750,
+              "start_ms": 171412,
+              "end_ms": 171491
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 7562134,
+              "end_sample": 7588042,
+              "start_ms": 171477,
+              "end_ms": 172064
+            },
+            {
+              "symbol": "DH",
+              "start_sample": 7587425,
+              "end_sample": 7590908,
+              "start_ms": 172050,
+              "end_ms": 172129
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0037",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 7591484,
+          "end_sample": 7627958,
+          "start_ms": 172142,
+          "end_ms": 172970,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 7591484,
+              "end_sample": 7594967,
+              "start_ms": 172142,
+              "end_ms": 172221
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 7594351,
+              "end_sample": 7627958,
+              "start_ms": 172208,
+              "end_ms": 172970
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/harmony/002",
+      "role": "harmony",
+      "text": "I am here with you",
+      "start_sample": 7464352,
+      "end_sample": 7633522,
+      "start_ms": 169260,
+      "end_ms": 173096,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0038",
+          "text": "I",
+          "role": "harmony",
+          "note_midi": 62,
+          "start_sample": 7464352,
+          "end_sample": 7495150,
+          "start_ms": 169260,
+          "end_ms": 169958,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 7464352,
+              "end_sample": 7495150,
+              "start_ms": 169260,
+              "end_ms": 169958
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0039",
+          "text": "am",
+          "role": "harmony",
+          "note_midi": 65,
+          "start_sample": 7495726,
+          "end_sample": 7526524,
+          "start_ms": 169971,
+          "end_ms": 170669,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 7495726,
+              "end_sample": 7523658,
+              "start_ms": 169971,
+              "end_ms": 170604
+            },
+            {
+              "symbol": "M",
+              "start_sample": 7523041,
+              "end_sample": 7526524,
+              "start_ms": 170590,
+              "end_ms": 170669
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0040",
+          "text": "here",
+          "role": "harmony",
+          "note_midi": 67,
+          "start_sample": 7527101,
+          "end_sample": 7557899,
+          "start_ms": 170683,
+          "end_ms": 171381,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 7527101,
+              "end_sample": 7530584,
+              "start_ms": 170683,
+              "end_ms": 170762
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 7529967,
+              "end_sample": 7555032,
+              "start_ms": 170748,
+              "end_ms": 171316
+            },
+            {
+              "symbol": "R",
+              "start_sample": 7554416,
+              "end_sample": 7557899,
+              "start_ms": 171302,
+              "end_ms": 171381
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0041",
+          "text": "with",
+          "role": "harmony",
+          "note_midi": 62,
+          "start_sample": 7558476,
+          "end_sample": 7589274,
+          "start_ms": 171394,
+          "end_ms": 172092,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 7558476,
+              "end_sample": 7561959,
+              "start_ms": 171394,
+              "end_ms": 171473
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 7561342,
+              "end_sample": 7586407,
+              "start_ms": 171459,
+              "end_ms": 172027
+            },
+            {
+              "symbol": "DH",
+              "start_sample": 7585791,
+              "end_sample": 7589274,
+              "start_ms": 172013,
+              "end_ms": 172092
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0042",
+          "text": "you",
+          "role": "harmony",
+          "note_midi": 65,
+          "start_sample": 7589850,
+          "end_sample": 7625355,
+          "start_ms": 172105,
+          "end_ms": 172911,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 7589850,
+              "end_sample": 7593333,
+              "start_ms": 172105,
+              "end_ms": 172184
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 7592717,
+              "end_sample": 7625355,
+              "start_ms": 172170,
+              "end_ms": 172911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/009",
+      "role": "lead",
+      "text": "You and I",
+      "start_sample": 8330157,
+      "end_sample": 8503666,
+      "start_ms": 188892,
+      "end_ms": 192827,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0043",
+          "text": "You",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 8330157,
+          "end_sample": 8382253,
+          "start_ms": 188892,
+          "end_ms": 190074,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 8330157,
+              "end_sample": 8333640,
+              "start_ms": 188892,
+              "end_ms": 188971
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8333024,
+              "end_sample": 8382253,
+              "start_ms": 188957,
+              "end_ms": 190074
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0044",
+          "text": "and",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 8382830,
+          "end_sample": 8434925,
+          "start_ms": 190087,
+          "end_ms": 191268,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 8382830,
+              "end_sample": 8430031,
+              "start_ms": 190087,
+              "end_ms": 191157
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8429414,
+              "end_sample": 8432897,
+              "start_ms": 191143,
+              "end_ms": 191222
+            },
+            {
+              "symbol": "D",
+              "start_sample": 8432280,
+              "end_sample": 8434925,
+              "start_ms": 191208,
+              "end_ms": 191268
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0045",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 79,
+          "start_sample": 8435502,
+          "end_sample": 8495499,
+          "start_ms": 191281,
+          "end_ms": 192642,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 8435502,
+              "end_sample": 8495499,
+              "start_ms": 191281,
+              "end_ms": 192642
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/010",
+      "role": "lead",
+      "text": "In a room of blue",
+      "start_sample": 8503666,
+      "end_sample": 8677174,
+      "start_ms": 192827,
+      "end_ms": 196761,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0046",
+          "text": "In",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 8503666,
+          "end_sample": 8541231,
+          "start_ms": 192827,
+          "end_ms": 193679,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 8503666,
+              "end_sample": 8538365,
+              "start_ms": 192827,
+              "end_ms": 193614
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8537748,
+              "end_sample": 8541231,
+              "start_ms": 193600,
+              "end_ms": 193679
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0047",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 8541808,
+          "end_sample": 8564117,
+          "start_ms": 193692,
+          "end_ms": 194198,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 8541808,
+              "end_sample": 8564117,
+              "start_ms": 193692,
+              "end_ms": 194198
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0048",
+          "text": "room",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 8564693,
+          "end_sample": 8602258,
+          "start_ms": 194211,
+          "end_ms": 195063,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 8564693,
+              "end_sample": 8568176,
+              "start_ms": 194211,
+              "end_ms": 194290
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8567559,
+              "end_sample": 8599391,
+              "start_ms": 194276,
+              "end_ms": 194998
+            },
+            {
+              "symbol": "M",
+              "start_sample": 8598775,
+              "end_sample": 8602258,
+              "start_ms": 194984,
+              "end_ms": 195063
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0049",
+          "text": "of",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 8602835,
+          "end_sample": 8625143,
+          "start_ms": 195076,
+          "end_ms": 195581,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 8602835,
+              "end_sample": 8622277,
+              "start_ms": 195076,
+              "end_ms": 195516
+            },
+            {
+              "symbol": "V",
+              "start_sample": 8621660,
+              "end_sample": 8625143,
+              "start_ms": 195502,
+              "end_ms": 195581
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0050",
+          "text": "blue",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 8625720,
+          "end_sample": 8669007,
+          "start_ms": 195595,
+          "end_ms": 196576,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 8625720,
+              "end_sample": 8628365,
+              "start_ms": 195595,
+              "end_ms": 195655
+            },
+            {
+              "symbol": "L",
+              "start_sample": 8627748,
+              "end_sample": 8631231,
+              "start_ms": 195641,
+              "end_ms": 195720
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8630615,
+              "end_sample": 8669007,
+              "start_ms": 195706,
+              "end_ms": 196576
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/harmony/003",
+      "role": "harmony",
+      "text": "In a room of blue",
+      "start_sample": 8505401,
+      "end_sample": 8674571,
+      "start_ms": 192866,
+      "end_ms": 196702,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0051",
+          "text": "In",
+          "role": "harmony",
+          "note_midi": 65,
+          "start_sample": 8505401,
+          "end_sample": 8541969,
+          "start_ms": 192866,
+          "end_ms": 193695,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 8505401,
+              "end_sample": 8539103,
+              "start_ms": 192866,
+              "end_ms": 193630
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8538486,
+              "end_sample": 8541969,
+              "start_ms": 193616,
+              "end_ms": 193695
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0052",
+          "text": "a",
+          "role": "harmony",
+          "note_midi": 62,
+          "start_sample": 8542545,
+          "end_sample": 8564255,
+          "start_ms": 193709,
+          "end_ms": 194201,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 8542545,
+              "end_sample": 8564255,
+              "start_ms": 193709,
+              "end_ms": 194201
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0053",
+          "text": "room",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 8564832,
+          "end_sample": 8601401,
+          "start_ms": 194214,
+          "end_ms": 195043,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 8564832,
+              "end_sample": 8568315,
+              "start_ms": 194214,
+              "end_ms": 194293
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8567699,
+              "end_sample": 8598534,
+              "start_ms": 194279,
+              "end_ms": 194978
+            },
+            {
+              "symbol": "M",
+              "start_sample": 8597918,
+              "end_sample": 8601401,
+              "start_ms": 194964,
+              "end_ms": 195043
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0054",
+          "text": "of",
+          "role": "harmony",
+          "note_midi": 58,
+          "start_sample": 8601977,
+          "end_sample": 8623687,
+          "start_ms": 195056,
+          "end_ms": 195548,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 8601977,
+              "end_sample": 8620821,
+              "start_ms": 195056,
+              "end_ms": 195483
+            },
+            {
+              "symbol": "V",
+              "start_sample": 8620204,
+              "end_sample": 8623687,
+              "start_ms": 195469,
+              "end_ms": 195548
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0055",
+          "text": "blue",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 8624264,
+          "end_sample": 8666404,
+          "start_ms": 195562,
+          "end_ms": 196517,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 8624264,
+              "end_sample": 8626909,
+              "start_ms": 195562,
+              "end_ms": 195622
+            },
+            {
+              "symbol": "L",
+              "start_sample": 8626292,
+              "end_sample": 8629775,
+              "start_ms": 195608,
+              "end_ms": 195687
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8629159,
+              "end_sample": 8666404,
+              "start_ms": 195673,
+              "end_ms": 196517
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/011",
+      "role": "lead",
+      "text": "Time can wait",
+      "start_sample": 8677174,
+      "end_sample": 8850682,
+      "start_ms": 196761,
+      "end_ms": 200696,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0056",
+          "text": "Time",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 8677174,
+          "end_sample": 8729270,
+          "start_ms": 196761,
+          "end_ms": 197943,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 8677174,
+              "end_sample": 8679819,
+              "start_ms": 196761,
+              "end_ms": 196821
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8679202,
+              "end_sample": 8726403,
+              "start_ms": 196807,
+              "end_ms": 197878
+            },
+            {
+              "symbol": "M",
+              "start_sample": 8725787,
+              "end_sample": 8729270,
+              "start_ms": 197864,
+              "end_ms": 197943
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0057",
+          "text": "can",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 8729846,
+          "end_sample": 8781942,
+          "start_ms": 197956,
+          "end_ms": 199137,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 8729846,
+              "end_sample": 8732491,
+              "start_ms": 197956,
+              "end_ms": 198016
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 8731875,
+              "end_sample": 8779076,
+              "start_ms": 198002,
+              "end_ms": 199072
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8778459,
+              "end_sample": 8781942,
+              "start_ms": 199058,
+              "end_ms": 199137
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0058",
+          "text": "wait",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 8782518,
+          "end_sample": 8842515,
+          "start_ms": 199150,
+          "end_ms": 200511,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 8782518,
+              "end_sample": 8786001,
+              "start_ms": 199150,
+              "end_ms": 199229
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 8785385,
+              "end_sample": 8840486,
+              "start_ms": 199215,
+              "end_ms": 200465
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8839870,
+              "end_sample": 8842515,
+              "start_ms": 200451,
+              "end_ms": 200511
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/lead/012",
+      "role": "lead",
+      "text": "I am here with you",
+      "start_sample": 8850682,
+      "end_sample": 9024190,
+      "start_ms": 200696,
+      "end_ms": 204630,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0059",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 8850682,
+          "end_sample": 8882323,
+          "start_ms": 200696,
+          "end_ms": 201413,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 8850682,
+              "end_sample": 8882323,
+              "start_ms": 200696,
+              "end_ms": 201413
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0060",
+          "text": "am",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 8882899,
+          "end_sample": 8914540,
+          "start_ms": 201426,
+          "end_ms": 202144,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 8882899,
+              "end_sample": 8911673,
+              "start_ms": 201426,
+              "end_ms": 202079
+            },
+            {
+              "symbol": "M",
+              "start_sample": 8911057,
+              "end_sample": 8914540,
+              "start_ms": 202065,
+              "end_ms": 202144
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0061",
+          "text": "here",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 8915116,
+          "end_sample": 8946756,
+          "start_ms": 202157,
+          "end_ms": 202874,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 8915116,
+              "end_sample": 8918599,
+              "start_ms": 202157,
+              "end_ms": 202236
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 8917982,
+              "end_sample": 8943890,
+              "start_ms": 202222,
+              "end_ms": 202809
+            },
+            {
+              "symbol": "R",
+              "start_sample": 8943273,
+              "end_sample": 8946756,
+              "start_ms": 202795,
+              "end_ms": 202874
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0062",
+          "text": "with",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 8947333,
+          "end_sample": 8978973,
+          "start_ms": 202887,
+          "end_ms": 203605,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 8947333,
+              "end_sample": 8950816,
+              "start_ms": 202887,
+              "end_ms": 202966
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 8950199,
+              "end_sample": 8976107,
+              "start_ms": 202952,
+              "end_ms": 203540
+            },
+            {
+              "symbol": "DH",
+              "start_sample": 8975490,
+              "end_sample": 8978973,
+              "start_ms": 203526,
+              "end_ms": 203605
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0063",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 8979550,
+          "end_sample": 9016023,
+          "start_ms": 203618,
+          "end_ms": 204445,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 8979550,
+              "end_sample": 8983033,
+              "start_ms": 203618,
+              "end_ms": 203697
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8982416,
+              "end_sample": 9016023,
+              "start_ms": 203683,
+              "end_ms": 204445
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/harmony/004",
+      "role": "harmony",
+      "text": "I am here with you",
+      "start_sample": 8852417,
+      "end_sample": 9021588,
+      "start_ms": 200735,
+      "end_ms": 204571,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0064",
+          "text": "I",
+          "role": "harmony",
+          "note_midi": 58,
+          "start_sample": 8852417,
+          "end_sample": 8883215,
+          "start_ms": 200735,
+          "end_ms": 201433,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 8852417,
+              "end_sample": 8883215,
+              "start_ms": 200735,
+              "end_ms": 201433
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0065",
+          "text": "am",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 8883792,
+          "end_sample": 8914590,
+          "start_ms": 201447,
+          "end_ms": 202145,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 8883792,
+              "end_sample": 8911724,
+              "start_ms": 201447,
+              "end_ms": 202080
+            },
+            {
+              "symbol": "M",
+              "start_sample": 8911107,
+              "end_sample": 8914590,
+              "start_ms": 202066,
+              "end_ms": 202145
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0066",
+          "text": "here",
+          "role": "harmony",
+          "note_midi": 62,
+          "start_sample": 8915166,
+          "end_sample": 8945965,
+          "start_ms": 202158,
+          "end_ms": 202856,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 8915166,
+              "end_sample": 8918649,
+              "start_ms": 202158,
+              "end_ms": 202237
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 8918033,
+              "end_sample": 8943098,
+              "start_ms": 202223,
+              "end_ms": 202791
+            },
+            {
+              "symbol": "R",
+              "start_sample": 8942482,
+              "end_sample": 8945965,
+              "start_ms": 202777,
+              "end_ms": 202856
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0067",
+          "text": "with",
+          "role": "harmony",
+          "note_midi": 65,
+          "start_sample": 8946541,
+          "end_sample": 8977339,
+          "start_ms": 202869,
+          "end_ms": 203568,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 8946541,
+              "end_sample": 8950024,
+              "start_ms": 202869,
+              "end_ms": 202948
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 8949408,
+              "end_sample": 8974473,
+              "start_ms": 202934,
+              "end_ms": 203503
+            },
+            {
+              "symbol": "DH",
+              "start_sample": 8973856,
+              "end_sample": 8977339,
+              "start_ms": 203489,
+              "end_ms": 203568
+            }
+          ]
+        },
+        {
+          "id": "03-blue-hour-conversation/word/0068",
+          "text": "you",
+          "role": "harmony",
+          "note_midi": 62,
+          "start_sample": 8977916,
+          "end_sample": 9013420,
+          "start_ms": 203581,
+          "end_ms": 204386,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 8977916,
+              "end_sample": 8981399,
+              "start_ms": 203581,
+              "end_ms": 203660
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8980782,
+              "end_sample": 9013420,
+              "start_ms": 203646,
+              "end_ms": 204386
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/010",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 9371207,
+      "end_sample": 9380932,
+      "start_ms": 212499,
+      "end_ms": 212720,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0078",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 77,
+          "start_sample": 9371207,
+          "end_sample": 9380932,
+          "start_ms": 212499,
+          "end_ms": 212720,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 9371207,
+              "end_sample": 9373560,
+              "start_ms": 212499,
+              "end_ms": 212552
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9372943,
+              "end_sample": 9376013,
+              "start_ms": 212538,
+              "end_ms": 212608
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 9375397,
+              "end_sample": 9380932,
+              "start_ms": 212594,
+              "end_ms": 212720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/011",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 9392895,
+      "end_sample": 9402620,
+      "start_ms": 212991,
+      "end_ms": 213211,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0079",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 77,
+          "start_sample": 9392895,
+          "end_sample": 9402620,
+          "start_ms": 212991,
+          "end_ms": 213211,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 9392895,
+              "end_sample": 9395248,
+              "start_ms": 212991,
+              "end_ms": 213044
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9394632,
+              "end_sample": 9397702,
+              "start_ms": 213030,
+              "end_ms": 213100
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 9397085,
+              "end_sample": 9402620,
+              "start_ms": 213086,
+              "end_ms": 213211
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-blue-hour-conversation/chop/012",
+      "role": "chop",
+      "text": "blue",
+      "start_sample": 9436272,
+      "end_sample": 9456408,
+      "start_ms": 213974,
+      "end_ms": 214431,
+      "words": [
+        {
+          "id": "03-blue-hour-conversation/word/0080",
+          "text": "blue",
+          "role": "chop",
+          "note_midi": 74,
+          "start_sample": 9436272,
+          "end_sample": 9456408,
+          "start_ms": 213974,
+          "end_ms": 214431,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 9436272,
+              "end_sample": 9438917,
+              "start_ms": 213974,
+              "end_ms": 214034
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9438301,
+              "end_sample": 9441784,
+              "start_ms": 214020,
+              "end_ms": 214099
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 9441167,
+              "end_sample": 9456408,
+              "start_ms": 214085,
+              "end_ms": 214431
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

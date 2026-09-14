@@ -1,0 +1,77 @@
+{
+  "verified_on": "2026-09-14",
+  "platform": "Darwin arm64",
+  "toolchain": {
+    "python": "3.14.3",
+    "node": "v24.8.0",
+    "ffmpeg": "ffmpeg version 8.1.2 Copyright (c) 2000-2026 the FFmpeg developers",
+    "compiler": "Apple clang version 17.0.0 (clang-1700.3.19.1)"
+  },
+  "command": "python3 tools/rebuild.py all --output build/verification",
+  "albums": [
+    {
+      "slug": "rooms-for-unfinished-things",
+      "passed": true,
+      "tracks_verified": 8,
+      "full_album_decodes": true,
+      "original_sha256_matches": {
+        "wav": 8,
+        "mp3": 8,
+        "midi": 8
+      },
+      "seconds_elapsed": 99.56
+    },
+    {
+      "slug": "the-distance-turns-to-light",
+      "passed": true,
+      "tracks_verified": 8,
+      "full_album_decodes": true,
+      "original_sha256_matches": {
+        "wav": 8,
+        "mp3": 8,
+        "midi": 8
+      },
+      "seconds_elapsed": 111.76
+    },
+    {
+      "slug": "after-the-last-bus",
+      "passed": true,
+      "tracks_verified": 8,
+      "full_album_decodes": true,
+      "original_sha256_matches": {
+        "wav": 8,
+        "mp3": 8,
+        "midi": 8
+      },
+      "seconds_elapsed": 91.97
+    },
+    {
+      "slug": "windows-still-lit",
+      "passed": true,
+      "tracks_verified": 8,
+      "full_album_decodes": true,
+      "original_sha256_matches": {
+        "wav": 8,
+        "mp3": 8,
+        "midi": 8
+      },
+      "seconds_elapsed": 82.6
+    }
+  ],
+  "note": "A clean build from the included sources, without prebuilt engines or audio. Matching original hashes describe this tested toolchain; other compilers/FFmpeg builds can produce different bytes.",
+  "composer_verification": [
+    {
+      "album": "the-distance-turns-to-light",
+      "composer_regenerated_matching_files": 25
+    },
+    {
+      "album": "after-the-last-bus",
+      "composer_regenerated_matching_files": 25
+    },
+    {
+      "album": "windows-still-lit",
+      "composer_regenerated_matching_files": 33
+    }
+  ],
+  "composer_note": "The C++ album composers separately regenerated all MIDI and event/manifest score files from code, with matching bytes. sound-design.json is supplied handwritten documentation, not composer output. The Rooms builder generates and compares its MIDI on every rebuild."
+}

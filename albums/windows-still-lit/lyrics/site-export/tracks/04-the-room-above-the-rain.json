@@ -1,0 +1,1163 @@
+{
+  "schema_version": "1.0.0",
+  "document_type": "timed_lyrics",
+  "release_key": "windows-still-lit",
+  "track_key": "04-the-room-above-the-rain",
+  "title": "The Room Above the Rain",
+  "artist": "Cairn",
+  "language": "en",
+  "time_unit": "milliseconds",
+  "sample_rate": 44100,
+  "duration_samples": 7406879,
+  "duration_ms": 167956,
+  "recording": {
+    "id": "sha256:b31a30b3c3070236ffb256c512514a7a141211a85226b35c2c3b6f44b838d009",
+    "revision": 1,
+    "canonical_format": "wav",
+    "audio_assets": [
+      {
+        "format": "wav",
+        "album_relative_path": "wav/04-the-room-above-the-rain.wav",
+        "sha256": "b31a30b3c3070236ffb256c512514a7a141211a85226b35c2c3b6f44b838d009"
+      },
+      {
+        "format": "mp3",
+        "album_relative_path": "mp3/04-the-room-above-the-rain.mp3",
+        "sha256": "e2787238c3375ba501f2b7c4cf70ed653f92eecd02d74dbba83acf12448c8522"
+      }
+    ]
+  },
+  "alignment": {
+    "method": "composer_authored_render_events",
+    "audio_zero": "first decoded PCM sample",
+    "render_offset_ms": 40,
+    "intervals": "start inclusive; end exclusive",
+    "vocal_release_ms": 12,
+    "reverb_tails_excluded": true,
+    "manually_listening_verified": false
+  },
+  "cues": [
+    {
+      "id": "04-the-room-above-the-rain/lead/009",
+      "role": "lead",
+      "text": "Rain on glass",
+      "start_sample": 138626,
+      "end_sample": 343919,
+      "start_ms": 3143,
+      "end_ms": 7799,
+      "words": [
+        {
+          "id": "04-the-room-above-the-rain/word/0029",
+          "text": "Rain",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 138626,
+          "end_sample": 200630,
+          "start_ms": 3143,
+          "end_ms": 4549,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 138626,
+              "end_sample": 142113,
+              "start_ms": 3143,
+              "end_ms": 3223
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 141493,
+              "end_sample": 197764,
+              "start_ms": 3208,
+              "end_ms": 4484
+            },
+            {
+              "symbol": "N",
+              "start_sample": 197143,
+              "end_sample": 200630,
+              "start_ms": 4470,
+              "end_ms": 4549
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0030",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 201264,
+          "end_sample": 263268,
+          "start_ms": 4564,
+          "end_ms": 5970,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 201264,
+              "end_sample": 260402,
+              "start_ms": 4564,
+              "end_ms": 5905
+            },
+            {
+              "symbol": "N",
+              "start_sample": 259781,
+              "end_sample": 263268,
+              "start_ms": 5891,
+              "end_ms": 5970
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0031",
+          "text": "glass",
+          "role": "lead",
+          "note_midi": 62,
+          "start_sample": 263902,
+          "end_sample": 335301,
+          "start_ms": 5984,
+          "end_ms": 7603,
+          "phonemes": [
+            {
+              "symbol": "G",
+              "start_sample": 263902,
+              "end_sample": 266552,
+              "start_ms": 5984,
+              "end_ms": 6044
+            },
+            {
+              "symbol": "L",
+              "start_sample": 265931,
+              "end_sample": 269418,
+              "start_ms": 6030,
+              "end_ms": 6109
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 268797,
+              "end_sample": 332435,
+              "start_ms": 6095,
+              "end_ms": 7538
+            },
+            {
+              "symbol": "S",
+              "start_sample": 331814,
+              "end_sample": 335301,
+              "start_ms": 7524,
+              "end_ms": 7603
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-the-room-above-the-rain/lead/001",
+      "role": "lead",
+      "text": "Rain on glass",
+      "start_sample": 1096661,
+      "end_sample": 1370385,
+      "start_ms": 24868,
+      "end_ms": 31074,
+      "words": [
+        {
+          "id": "04-the-room-above-the-rain/word/0001",
+          "text": "Rain",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 1096661,
+          "end_sample": 1180389,
+          "start_ms": 24868,
+          "end_ms": 26766,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 1096661,
+              "end_sample": 1100148,
+              "start_ms": 24868,
+              "end_ms": 24947
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 1099527,
+              "end_sample": 1177522,
+              "start_ms": 24933,
+              "end_ms": 26701
+            },
+            {
+              "symbol": "N",
+              "start_sample": 1176902,
+              "end_sample": 1180389,
+              "start_ms": 26687,
+              "end_ms": 26766
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0002",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 1181023,
+          "end_sample": 1264751,
+          "start_ms": 26781,
+          "end_ms": 28679,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 1181023,
+              "end_sample": 1261885,
+              "start_ms": 26781,
+              "end_ms": 28614
+            },
+            {
+              "symbol": "N",
+              "start_sample": 1261264,
+              "end_sample": 1264751,
+              "start_ms": 28600,
+              "end_ms": 28679
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0003",
+          "text": "glass",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 1265385,
+          "end_sample": 1361767,
+          "start_ms": 28694,
+          "end_ms": 30879,
+          "phonemes": [
+            {
+              "symbol": "G",
+              "start_sample": 1265385,
+              "end_sample": 1268035,
+              "start_ms": 28694,
+              "end_ms": 28754
+            },
+            {
+              "symbol": "L",
+              "start_sample": 1267413,
+              "end_sample": 1270900,
+              "start_ms": 28740,
+              "end_ms": 28819
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 1270280,
+              "end_sample": 1358901,
+              "start_ms": 28805,
+              "end_ms": 30814
+            },
+            {
+              "symbol": "S",
+              "start_sample": 1358280,
+              "end_sample": 1361767,
+              "start_ms": 30800,
+              "end_ms": 30879
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-the-room-above-the-rain/lead/002",
+      "role": "lead",
+      "text": "No need to run",
+      "start_sample": 1370385,
+      "end_sample": 1644109,
+      "start_ms": 31074,
+      "end_ms": 37281,
+      "words": [
+        {
+          "id": "04-the-room-above-the-rain/word/0004",
+          "text": "No",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 1370385,
+          "end_sample": 1440615,
+          "start_ms": 31074,
+          "end_ms": 32667,
+          "phonemes": [
+            {
+              "symbol": "N",
+              "start_sample": 1370385,
+              "end_sample": 1373872,
+              "start_ms": 31074,
+              "end_ms": 31154
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 1373251,
+              "end_sample": 1440615,
+              "start_ms": 31139,
+              "end_ms": 32667
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0005",
+          "text": "need",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 1441249,
+          "end_sample": 1511480,
+          "start_ms": 32681,
+          "end_ms": 34274,
+          "phonemes": [
+            {
+              "symbol": "N",
+              "start_sample": 1441249,
+              "end_sample": 1444736,
+              "start_ms": 32681,
+              "end_ms": 32760
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 1444115,
+              "end_sample": 1509450,
+              "start_ms": 32746,
+              "end_ms": 34228
+            },
+            {
+              "symbol": "D",
+              "start_sample": 1508830,
+              "end_sample": 1511480,
+              "start_ms": 34214,
+              "end_ms": 34274
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0006",
+          "text": "to",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 1512113,
+          "end_sample": 1553998,
+          "start_ms": 34288,
+          "end_ms": 35238,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 1512113,
+              "end_sample": 1514763,
+              "start_ms": 34288,
+              "end_ms": 34348
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 1514142,
+              "end_sample": 1553998,
+              "start_ms": 34334,
+              "end_ms": 35238
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0007",
+          "text": "run",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 1554631,
+          "end_sample": 1635491,
+          "start_ms": 35252,
+          "end_ms": 37086,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 1554631,
+              "end_sample": 1558118,
+              "start_ms": 35252,
+              "end_ms": 35331
+            },
+            {
+              "symbol": "AH",
+              "start_sample": 1557498,
+              "end_sample": 1632625,
+              "start_ms": 35317,
+              "end_ms": 37021
+            },
+            {
+              "symbol": "N",
+              "start_sample": 1632004,
+              "end_sample": 1635491,
+              "start_ms": 37007,
+              "end_ms": 37086
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-the-room-above-the-rain/lead/003",
+      "role": "lead",
+      "text": "Stay with me",
+      "start_sample": 1644109,
+      "end_sample": 1917833,
+      "start_ms": 37281,
+      "end_ms": 43488,
+      "words": [
+        {
+          "id": "04-the-room-above-the-rain/word/0008",
+          "text": "Stay",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 1644109,
+          "end_sample": 1727837,
+          "start_ms": 37281,
+          "end_ms": 39180,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 1644109,
+              "end_sample": 1647596,
+              "start_ms": 37281,
+              "end_ms": 37360
+            },
+            {
+              "symbol": "T",
+              "start_sample": 1646975,
+              "end_sample": 1649625,
+              "start_ms": 37346,
+              "end_ms": 37406
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 1649004,
+              "end_sample": 1727837,
+              "start_ms": 37392,
+              "end_ms": 39180
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0009",
+          "text": "with",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 1728471,
+          "end_sample": 1812199,
+          "start_ms": 39194,
+          "end_ms": 41093,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 1728471,
+              "end_sample": 1731958,
+              "start_ms": 39194,
+              "end_ms": 39273
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 1731337,
+              "end_sample": 1809332,
+              "start_ms": 39259,
+              "end_ms": 41028
+            },
+            {
+              "symbol": "DH",
+              "start_sample": 1808712,
+              "end_sample": 1812199,
+              "start_ms": 41014,
+              "end_ms": 41093
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0010",
+          "text": "me",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 1812833,
+          "end_sample": 1909215,
+          "start_ms": 41107,
+          "end_ms": 43293,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 1812833,
+              "end_sample": 1816320,
+              "start_ms": 41107,
+              "end_ms": 41186
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 1815699,
+              "end_sample": 1909215,
+              "start_ms": 41172,
+              "end_ms": 43293
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-the-room-above-the-rain/lead/004",
+      "role": "lead",
+      "text": "Till the morning comes",
+      "start_sample": 1917833,
+      "end_sample": 2191557,
+      "start_ms": 43488,
+      "end_ms": 49695,
+      "words": [
+        {
+          "id": "04-the-room-above-the-rain/word/0011",
+          "text": "Till",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 1917833,
+          "end_sample": 1988063,
+          "start_ms": 43488,
+          "end_ms": 45081,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 1917833,
+              "end_sample": 1920483,
+              "start_ms": 43488,
+              "end_ms": 43548
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 1919862,
+              "end_sample": 1985197,
+              "start_ms": 43534,
+              "end_ms": 45016
+            },
+            {
+              "symbol": "L",
+              "start_sample": 1984576,
+              "end_sample": 1988063,
+              "start_ms": 45002,
+              "end_ms": 45081
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0012",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 1988697,
+          "end_sample": 2030582,
+          "start_ms": 45095,
+          "end_ms": 46045,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 1988697,
+              "end_sample": 1992184,
+              "start_ms": 45095,
+              "end_ms": 45174
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 1991564,
+              "end_sample": 2030582,
+              "start_ms": 45160,
+              "end_ms": 46045
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0013",
+          "text": "morning",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 2031216,
+          "end_sample": 2101446,
+          "start_ms": 46059,
+          "end_ms": 47652,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 2031216,
+              "end_sample": 2034703,
+              "start_ms": 46059,
+              "end_ms": 46138
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 2034082,
+              "end_sample": 2063775,
+              "start_ms": 46124,
+              "end_ms": 46798
+            },
+            {
+              "symbol": "R",
+              "start_sample": 2063154,
+              "end_sample": 2066641,
+              "start_ms": 46784,
+              "end_ms": 46863
+            },
+            {
+              "symbol": "N",
+              "start_sample": 2066020,
+              "end_sample": 2069507,
+              "start_ms": 46849,
+              "end_ms": 46928
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 2068887,
+              "end_sample": 2098580,
+              "start_ms": 46914,
+              "end_ms": 47587
+            },
+            {
+              "symbol": "NG",
+              "start_sample": 2097959,
+              "end_sample": 2101446,
+              "start_ms": 47573,
+              "end_ms": 47652
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0014",
+          "text": "comes",
+          "role": "lead",
+          "note_midi": 62,
+          "start_sample": 2102080,
+          "end_sample": 2182939,
+          "start_ms": 47666,
+          "end_ms": 49500,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 2102080,
+              "end_sample": 2104730,
+              "start_ms": 47666,
+              "end_ms": 47726
+            },
+            {
+              "symbol": "AH",
+              "start_sample": 2104108,
+              "end_sample": 2177207,
+              "start_ms": 47712,
+              "end_ms": 49370
+            },
+            {
+              "symbol": "M",
+              "start_sample": 2176586,
+              "end_sample": 2180073,
+              "start_ms": 49356,
+              "end_ms": 49435
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 2179452,
+              "end_sample": 2182939,
+              "start_ms": 49421,
+              "end_ms": 49500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-the-room-above-the-rain/lead/005",
+      "role": "lead",
+      "text": "Rain on glass",
+      "start_sample": 4381350,
+      "end_sample": 4655074,
+      "start_ms": 99350,
+      "end_ms": 105557,
+      "words": [
+        {
+          "id": "04-the-room-above-the-rain/word/0015",
+          "text": "Rain",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 4381350,
+          "end_sample": 4465078,
+          "start_ms": 99350,
+          "end_ms": 101249,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 4381350,
+              "end_sample": 4384837,
+              "start_ms": 99350,
+              "end_ms": 99429
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 4384217,
+              "end_sample": 4462212,
+              "start_ms": 99415,
+              "end_ms": 101184
+            },
+            {
+              "symbol": "N",
+              "start_sample": 4461591,
+              "end_sample": 4465078,
+              "start_ms": 101170,
+              "end_ms": 101249
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0016",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 4465712,
+          "end_sample": 4549440,
+          "start_ms": 101263,
+          "end_ms": 103162,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 4465712,
+              "end_sample": 4546574,
+              "start_ms": 101263,
+              "end_ms": 103097
+            },
+            {
+              "symbol": "N",
+              "start_sample": 4545953,
+              "end_sample": 4549440,
+              "start_ms": 103083,
+              "end_ms": 103162
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0017",
+          "text": "glass",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 4550074,
+          "end_sample": 4646457,
+          "start_ms": 103176,
+          "end_ms": 105362,
+          "phonemes": [
+            {
+              "symbol": "G",
+              "start_sample": 4550074,
+              "end_sample": 4552724,
+              "start_ms": 103176,
+              "end_ms": 103236
+            },
+            {
+              "symbol": "L",
+              "start_sample": 4552103,
+              "end_sample": 4555590,
+              "start_ms": 103222,
+              "end_ms": 103301
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 4554969,
+              "end_sample": 4643590,
+              "start_ms": 103287,
+              "end_ms": 105297
+            },
+            {
+              "symbol": "S",
+              "start_sample": 4642970,
+              "end_sample": 4646457,
+              "start_ms": 105283,
+              "end_ms": 105362
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-the-room-above-the-rain/lead/006",
+      "role": "lead",
+      "text": "No need to run",
+      "start_sample": 4655074,
+      "end_sample": 4928798,
+      "start_ms": 105557,
+      "end_ms": 111764,
+      "words": [
+        {
+          "id": "04-the-room-above-the-rain/word/0018",
+          "text": "No",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 4655074,
+          "end_sample": 4725305,
+          "start_ms": 105557,
+          "end_ms": 107150,
+          "phonemes": [
+            {
+              "symbol": "N",
+              "start_sample": 4655074,
+              "end_sample": 4658561,
+              "start_ms": 105557,
+              "end_ms": 105636
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 4657941,
+              "end_sample": 4725305,
+              "start_ms": 105622,
+              "end_ms": 107150
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0019",
+          "text": "need",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 4725938,
+          "end_sample": 4796169,
+          "start_ms": 107164,
+          "end_ms": 108757,
+          "phonemes": [
+            {
+              "symbol": "N",
+              "start_sample": 4725938,
+              "end_sample": 4729425,
+              "start_ms": 107164,
+              "end_ms": 107243
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 4728805,
+              "end_sample": 4794140,
+              "start_ms": 107229,
+              "end_ms": 108711
+            },
+            {
+              "symbol": "D",
+              "start_sample": 4793519,
+              "end_sample": 4796169,
+              "start_ms": 108697,
+              "end_ms": 108757
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0020",
+          "text": "to",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 4796803,
+          "end_sample": 4838687,
+          "start_ms": 108771,
+          "end_ms": 109721,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 4796803,
+              "end_sample": 4799453,
+              "start_ms": 108771,
+              "end_ms": 108831
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 4798831,
+              "end_sample": 4838687,
+              "start_ms": 108817,
+              "end_ms": 109721
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0021",
+          "text": "run",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 4839321,
+          "end_sample": 4920181,
+          "start_ms": 109735,
+          "end_ms": 111569,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 4839321,
+              "end_sample": 4842808,
+              "start_ms": 109735,
+              "end_ms": 109814
+            },
+            {
+              "symbol": "AH",
+              "start_sample": 4842188,
+              "end_sample": 4917315,
+              "start_ms": 109800,
+              "end_ms": 111504
+            },
+            {
+              "symbol": "N",
+              "start_sample": 4916694,
+              "end_sample": 4920181,
+              "start_ms": 111490,
+              "end_ms": 111569
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-the-room-above-the-rain/lead/007",
+      "role": "lead",
+      "text": "Stay with me",
+      "start_sample": 4928798,
+      "end_sample": 5202523,
+      "start_ms": 111764,
+      "end_ms": 117971,
+      "words": [
+        {
+          "id": "04-the-room-above-the-rain/word/0022",
+          "text": "Stay",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 4928798,
+          "end_sample": 5012527,
+          "start_ms": 111764,
+          "end_ms": 113663,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 4928798,
+              "end_sample": 4932285,
+              "start_ms": 111764,
+              "end_ms": 111843
+            },
+            {
+              "symbol": "T",
+              "start_sample": 4931665,
+              "end_sample": 4934315,
+              "start_ms": 111829,
+              "end_ms": 111889
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 4933694,
+              "end_sample": 5012527,
+              "start_ms": 111875,
+              "end_ms": 113663
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0023",
+          "text": "with",
+          "role": "lead",
+          "note_midi": 65,
+          "start_sample": 5013161,
+          "end_sample": 5096889,
+          "start_ms": 113677,
+          "end_ms": 115576,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 5013161,
+              "end_sample": 5016648,
+              "start_ms": 113677,
+              "end_ms": 113756
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 5016027,
+              "end_sample": 5094022,
+              "start_ms": 113742,
+              "end_ms": 115511
+            },
+            {
+              "symbol": "DH",
+              "start_sample": 5093402,
+              "end_sample": 5096889,
+              "start_ms": 115497,
+              "end_ms": 115576
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0024",
+          "text": "me",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 5097523,
+          "end_sample": 5193905,
+          "start_ms": 115590,
+          "end_ms": 117776,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 5097523,
+              "end_sample": 5101010,
+              "start_ms": 115590,
+              "end_ms": 115669
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 5100389,
+              "end_sample": 5193905,
+              "start_ms": 115655,
+              "end_ms": 117776
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-the-room-above-the-rain/lead/008",
+      "role": "lead",
+      "text": "Till the morning comes",
+      "start_sample": 5202523,
+      "end_sample": 5476247,
+      "start_ms": 117971,
+      "end_ms": 124178,
+      "words": [
+        {
+          "id": "04-the-room-above-the-rain/word/0025",
+          "text": "Till",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 5202523,
+          "end_sample": 5272753,
+          "start_ms": 117971,
+          "end_ms": 119564,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 5202523,
+              "end_sample": 5205173,
+              "start_ms": 117971,
+              "end_ms": 118031
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 5204551,
+              "end_sample": 5269886,
+              "start_ms": 118017,
+              "end_ms": 119499
+            },
+            {
+              "symbol": "L",
+              "start_sample": 5269266,
+              "end_sample": 5272753,
+              "start_ms": 119484,
+              "end_ms": 119564
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0026",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 5273387,
+          "end_sample": 5315271,
+          "start_ms": 119578,
+          "end_ms": 120528,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 5273387,
+              "end_sample": 5276874,
+              "start_ms": 119578,
+              "end_ms": 119657
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 5276253,
+              "end_sample": 5315271,
+              "start_ms": 119643,
+              "end_ms": 120528
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0027",
+          "text": "morning",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 5315905,
+          "end_sample": 5386135,
+          "start_ms": 120542,
+          "end_ms": 122135,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 5315905,
+              "end_sample": 5319392,
+              "start_ms": 120542,
+              "end_ms": 120621
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 5318772,
+              "end_sample": 5348465,
+              "start_ms": 120607,
+              "end_ms": 121280
+            },
+            {
+              "symbol": "R",
+              "start_sample": 5347844,
+              "end_sample": 5351331,
+              "start_ms": 121266,
+              "end_ms": 121345
+            },
+            {
+              "symbol": "N",
+              "start_sample": 5350710,
+              "end_sample": 5354197,
+              "start_ms": 121331,
+              "end_ms": 121410
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 5353577,
+              "end_sample": 5383270,
+              "start_ms": 121396,
+              "end_ms": 122070
+            },
+            {
+              "symbol": "NG",
+              "start_sample": 5382648,
+              "end_sample": 5386135,
+              "start_ms": 122056,
+              "end_ms": 122135
+            }
+          ]
+        },
+        {
+          "id": "04-the-room-above-the-rain/word/0028",
+          "text": "comes",
+          "role": "lead",
+          "note_midi": 74,
+          "start_sample": 5386769,
+          "end_sample": 5467629,
+          "start_ms": 122149,
+          "end_ms": 123983,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 5386769,
+              "end_sample": 5389419,
+              "start_ms": 122149,
+              "end_ms": 122209
+            },
+            {
+              "symbol": "AH",
+              "start_sample": 5388798,
+              "end_sample": 5461897,
+              "start_ms": 122195,
+              "end_ms": 123853
+            },
+            {
+              "symbol": "M",
+              "start_sample": 5461276,
+              "end_sample": 5464763,
+              "start_ms": 123838,
+              "end_ms": 123918
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 5464142,
+              "end_sample": 5467629,
+              "start_ms": 123903,
+              "end_ms": 123983
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

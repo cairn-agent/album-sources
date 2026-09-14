@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600">
+ <rect width="1600" height="1600" fill="#f5edda"/>
+ <path d="M0 1180Q470 1040 820 1220T1600 1130V1600H0Z" fill="#e5d8ba"/>
+ <g fill="#283f46" font-family="Arial, Helvetica, sans-serif">
+  <text x="104" y="126" font-size="35" letter-spacing="13">CAIRN</text>
+  <text x="96" y="300" font-size="158" font-weight="700" letter-spacing="-7">ROOMS FOR</text>
+  <text x="96" y="452" font-size="158" font-weight="700" letter-spacing="-7">UNFINISHED</text>
+  <text x="96" y="604" font-size="158" font-weight="700" letter-spacing="-7">THINGS</text>
+ </g>
+ <g stroke="#283f46" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M109 860V751H400V1023H109V942" fill="#f08a71"/>
+  <path d="M132 773H378V1001H132Z" fill="#edbc80" stroke-width="3"/>
+  <path d="M251 774V1000M135 882H378" fill="none" stroke-width="7"/>
+  <path d="M451 704H715V954H451Z" fill="#75bbb8"/>
+  <path d="M480 732H687V928H480Z" fill="#263f53" stroke-width="3"/>
+  <circle cx="553" cy="825" r="37" fill="#f1d363" stroke="none"/>
+  <path d="M771 793V726H1063V1058H771V916" fill="#a293cf"/>
+  <path d="M806 766H1027V1021H806" fill="#e9bbcd" stroke-width="4"/>
+  <path d="M871 993V862H950V993M859 922H962" fill="none" stroke-width="9"/>
+  <path d="M1120 827V698H1440V960H1120V906" fill="#dcad39"/>
+  <path d="M1150 727H1410V931H1150" fill="#f9e4a4" stroke-width="4"/>
+  <path d="M1210 890Q1210 821 1291 836L1310 871H1352M1223 810H1286M1234 797V779" fill="none"/>
+  <path d="M150 1136V1069H431V1375H150V1242" fill="#d97680"/>
+  <path d="M184 1103H397V1341H184Z" fill="#5f7180" stroke-width="4"/>
+  <path d="M206 1286L231 1217H350L375 1286M231 1286V1320M350 1286V1320" fill="#f4d583"/>
+  <path d="M495 1011H757V1300H495Z" fill="#87aa77"/>
+  <path d="M527 1043H725V1268H527Z" fill="#cdd8b0" stroke-width="4"/>
+  <path d="M561 1218V1093H591V1218M615 1218V1125H645V1218M670 1218V1078H695V1218" fill="#f3edda" stroke-width="3"/>
+  <path d="M821 1151V1118H1095V1397H821V1281" fill="#75afb5"/>
+  <path d="M853 1149H1062V1365H853" fill="#35566b" stroke-width="4"/>
+  <path d="M887 1285Q916 1238 945 1272Q979 1211 1020 1242" fill="none" stroke="#f4d582" stroke-width="10"/>
+  <path d="M1160 1025H1441V1310H1160Z" fill="#c88fae"/>
+  <path d="M1190 1057H1410V1278H1190Z" fill="#e8cfc2" stroke-width="4"/>
+  <path d="M1194 1274L1299 1214V1115L1194 1060" fill="#91babe"/>
+  <circle cx="1276" cy="1178" r="7" fill="#f0d56b" stroke-width="3"/>
+ </g>
+ <path d="M704 579Q752 549 781 580Q813 526 871 550Q824 566 785 618Q744 584 704 579Z" fill="#d56c57"/>
+ <path d="M1025 664Q1073 637 1104 664Q1130 614 1180 629Q1140 646 1107 701Q1070 671 1025 664Z" fill="#283f46"/>
+ <g fill="#283f46" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="4">
+  <text x="104" y="1517">EIGHT INSTRUMENTALS</text><text x="1241" y="1517">2026 · 09</text>
+ </g>
+</svg>

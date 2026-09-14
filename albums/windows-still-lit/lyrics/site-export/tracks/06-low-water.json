@@ -1,0 +1,1757 @@
+{
+  "schema_version": "1.0.0",
+  "document_type": "timed_lyrics",
+  "release_key": "windows-still-lit",
+  "track_key": "06-low-water",
+  "title": "Low Water",
+  "artist": "Cairn",
+  "language": "en",
+  "time_unit": "milliseconds",
+  "sample_rate": 44100,
+  "duration_samples": 10414657,
+  "duration_ms": 236160,
+  "recording": {
+    "id": "sha256:93e41febf1dc02527992fe179f996ff9a356d0241f50f3fbd159e0a236ba096f",
+    "revision": 1,
+    "canonical_format": "wav",
+    "audio_assets": [
+      {
+        "format": "wav",
+        "album_relative_path": "wav/06-low-water.wav",
+        "sha256": "93e41febf1dc02527992fe179f996ff9a356d0241f50f3fbd159e0a236ba096f"
+      },
+      {
+        "format": "mp3",
+        "album_relative_path": "mp3/06-low-water.mp3",
+        "sha256": "617d868c6b8cfa0dbbea715b72f4ad46cf8fae2db99bf87473191dae89fbe195"
+      }
+    ]
+  },
+  "alignment": {
+    "method": "composer_authored_render_events",
+    "audio_zero": "first decoded PCM sample",
+    "render_offset_ms": 40,
+    "intervals": "start inclusive; end exclusive",
+    "vocal_release_ms": 12,
+    "reverb_tails_excluded": true,
+    "manually_listening_verified": false
+  },
+  "cues": [
+    {
+      "id": "06-low-water/lead/013",
+      "role": "lead",
+      "text": "Low water moves",
+      "start_sample": 61900,
+      "end_sample": 202219,
+      "start_ms": 1404,
+      "end_ms": 4585,
+      "words": [
+        {
+          "id": "06-low-water/word/0043",
+          "text": "Low",
+          "role": "lead",
+          "note_midi": 55,
+          "start_sample": 61900,
+          "end_sample": 103726,
+          "start_ms": 1404,
+          "end_ms": 2352,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 61900,
+              "end_sample": 65376,
+              "start_ms": 1404,
+              "end_ms": 1482
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 64767,
+              "end_sample": 103726,
+              "start_ms": 1469,
+              "end_ms": 2352
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0044",
+          "text": "water",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 104219,
+          "end_sample": 146044,
+          "start_ms": 2363,
+          "end_ms": 3312,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 104219,
+              "end_sample": 107695,
+              "start_ms": 2363,
+              "end_ms": 2442
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 107085,
+              "end_sample": 125855,
+              "start_ms": 2428,
+              "end_ms": 2854
+            },
+            {
+              "symbol": "T",
+              "start_sample": 125245,
+              "end_sample": 127883,
+              "start_ms": 2840,
+              "end_ms": 2900
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 127274,
+              "end_sample": 146044,
+              "start_ms": 2886,
+              "end_ms": 3312
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0045",
+          "text": "moves",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 146537,
+          "end_sample": 194710,
+          "start_ms": 3323,
+          "end_ms": 4415,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 146537,
+              "end_sample": 150013,
+              "start_ms": 3323,
+              "end_ms": 3402
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 149403,
+              "end_sample": 188977,
+              "start_ms": 3388,
+              "end_ms": 4285
+            },
+            {
+              "symbol": "V",
+              "start_sample": 188367,
+              "end_sample": 191843,
+              "start_ms": 4271,
+              "end_ms": 4350
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 191234,
+              "end_sample": 194710,
+              "start_ms": 4336,
+              "end_ms": 4415
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/chop/001",
+      "role": "chop",
+      "text": "moves",
+      "start_sample": 402673,
+      "end_sample": 429342,
+      "start_ms": 9131,
+      "end_ms": 9736,
+      "words": [
+        {
+          "id": "06-low-water/word/0046",
+          "text": "moves",
+          "role": "chop",
+          "note_midi": 55,
+          "start_sample": 402673,
+          "end_sample": 429342,
+          "start_ms": 9131,
+          "end_ms": 9736,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 402673,
+              "end_sample": 406149,
+              "start_ms": 9131,
+              "end_ms": 9210
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 405540,
+              "end_sample": 423609,
+              "start_ms": 9196,
+              "end_ms": 9606
+            },
+            {
+              "symbol": "V",
+              "start_sample": 422999,
+              "end_sample": 426475,
+              "start_ms": 9592,
+              "end_ms": 9671
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 425866,
+              "end_sample": 429342,
+              "start_ms": 9657,
+              "end_ms": 9736
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/chop/002",
+      "role": "chop",
+      "text": "moves",
+      "start_sample": 462809,
+      "end_sample": 499501,
+      "start_ms": 10495,
+      "end_ms": 11327,
+      "words": [
+        {
+          "id": "06-low-water/word/0047",
+          "text": "moves",
+          "role": "chop",
+          "note_midi": 51,
+          "start_sample": 462809,
+          "end_sample": 499501,
+          "start_ms": 10495,
+          "end_ms": 11327,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 462809,
+              "end_sample": 466285,
+              "start_ms": 10495,
+              "end_ms": 10573
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 465676,
+              "end_sample": 493768,
+              "start_ms": 10560,
+              "end_ms": 11197
+            },
+            {
+              "symbol": "V",
+              "start_sample": 493158,
+              "end_sample": 496634,
+              "start_ms": 11183,
+              "end_ms": 11262
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 496025,
+              "end_sample": 499501,
+              "start_ms": 11248,
+              "end_ms": 11327
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/001",
+      "role": "lead",
+      "text": "Low water moves",
+      "start_sample": 3209037,
+      "end_sample": 3449582,
+      "start_ms": 72767,
+      "end_ms": 78222,
+      "words": [
+        {
+          "id": "06-low-water/word/0001",
+          "text": "Low",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 3209037,
+          "end_sample": 3282680,
+          "start_ms": 72767,
+          "end_ms": 74437,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 3209037,
+              "end_sample": 3212513,
+              "start_ms": 72767,
+              "end_ms": 72846
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 3211903,
+              "end_sample": 3282680,
+              "start_ms": 72832,
+              "end_ms": 74437
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0002",
+          "text": "water",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 3283173,
+          "end_sample": 3356817,
+          "start_ms": 74448,
+          "end_ms": 76118,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 3283173,
+              "end_sample": 3286649,
+              "start_ms": 74448,
+              "end_ms": 74527
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 3286040,
+              "end_sample": 3320719,
+              "start_ms": 74513,
+              "end_ms": 75300
+            },
+            {
+              "symbol": "T",
+              "start_sample": 3320109,
+              "end_sample": 3322747,
+              "start_ms": 75286,
+              "end_ms": 75346
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 3322138,
+              "end_sample": 3356817,
+              "start_ms": 75332,
+              "end_ms": 76118
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0003",
+          "text": "moves",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 3357309,
+          "end_sample": 3442073,
+          "start_ms": 76129,
+          "end_ms": 78052,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 3357309,
+              "end_sample": 3360785,
+              "start_ms": 76129,
+              "end_ms": 76208
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 3360176,
+              "end_sample": 3436341,
+              "start_ms": 76194,
+              "end_ms": 77922
+            },
+            {
+              "symbol": "V",
+              "start_sample": 3435731,
+              "end_sample": 3439207,
+              "start_ms": 77908,
+              "end_ms": 77987
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 3438597,
+              "end_sample": 3442073,
+              "start_ms": 77973,
+              "end_ms": 78052
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/002",
+      "role": "lead",
+      "text": "Under the moon",
+      "start_sample": 3449582,
+      "end_sample": 3690128,
+      "start_ms": 78222,
+      "end_ms": 83676,
+      "words": [
+        {
+          "id": "06-low-water/word/0004",
+          "text": "Under",
+          "role": "lead",
+          "note_midi": 55,
+          "start_sample": 3449582,
+          "end_sample": 3534009,
+          "start_ms": 78222,
+          "end_ms": 80136,
+          "phonemes": [
+            {
+              "symbol": "AH",
+              "start_sample": 3449582,
+              "end_sample": 3489653,
+              "start_ms": 78222,
+              "end_ms": 79130
+            },
+            {
+              "symbol": "N",
+              "start_sample": 3489043,
+              "end_sample": 3492519,
+              "start_ms": 79117,
+              "end_ms": 79195
+            },
+            {
+              "symbol": "D",
+              "start_sample": 3491910,
+              "end_sample": 3494548,
+              "start_ms": 79182,
+              "end_ms": 79241
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 3493938,
+              "end_sample": 3534009,
+              "start_ms": 79228,
+              "end_ms": 80136
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0005",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 53,
+          "start_sample": 3534502,
+          "end_sample": 3584962,
+          "start_ms": 80147,
+          "end_ms": 81292,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 3534502,
+              "end_sample": 3537978,
+              "start_ms": 80147,
+              "end_ms": 80226
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 3537369,
+              "end_sample": 3584962,
+              "start_ms": 80212,
+              "end_ms": 81292
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0006",
+          "text": "moon",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 3585454,
+          "end_sample": 3682619,
+          "start_ms": 81303,
+          "end_ms": 83506,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 3585454,
+              "end_sample": 3588930,
+              "start_ms": 81303,
+              "end_ms": 81382
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 3588320,
+              "end_sample": 3679752,
+              "start_ms": 81368,
+              "end_ms": 83441
+            },
+            {
+              "symbol": "N",
+              "start_sample": 3679143,
+              "end_sample": 3682619,
+              "start_ms": 83427,
+              "end_ms": 83506
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/003",
+      "role": "lead",
+      "text": "Hold the sound",
+      "start_sample": 3690128,
+      "end_sample": 3930673,
+      "start_ms": 83676,
+      "end_ms": 89131,
+      "words": [
+        {
+          "id": "06-low-water/word/0007",
+          "text": "Hold",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 3690128,
+          "end_sample": 3774554,
+          "start_ms": 83676,
+          "end_ms": 85591,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 3690128,
+              "end_sample": 3693604,
+              "start_ms": 83676,
+              "end_ms": 83755
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 3692994,
+              "end_sample": 3769660,
+              "start_ms": 83741,
+              "end_ms": 85480
+            },
+            {
+              "symbol": "L",
+              "start_sample": 3769050,
+              "end_sample": 3772526,
+              "start_ms": 85466,
+              "end_ms": 85545
+            },
+            {
+              "symbol": "D",
+              "start_sample": 3771916,
+              "end_sample": 3774554,
+              "start_ms": 85531,
+              "end_ms": 85591
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0008",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 50,
+          "start_sample": 3775047,
+          "end_sample": 3825507,
+          "start_ms": 85602,
+          "end_ms": 86746,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 3775047,
+              "end_sample": 3778523,
+              "start_ms": 85602,
+              "end_ms": 85681
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 3777914,
+              "end_sample": 3825507,
+              "start_ms": 85667,
+              "end_ms": 86746
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0009",
+          "text": "sound",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 3825999,
+          "end_sample": 3923164,
+          "start_ms": 86757,
+          "end_ms": 88961,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 3825999,
+              "end_sample": 3829475,
+              "start_ms": 86757,
+              "end_ms": 86836
+            },
+            {
+              "symbol": "AW",
+              "start_sample": 3828866,
+              "end_sample": 3918270,
+              "start_ms": 86822,
+              "end_ms": 88850
+            },
+            {
+              "symbol": "N",
+              "start_sample": 3917660,
+              "end_sample": 3921136,
+              "start_ms": 88836,
+              "end_ms": 88915
+            },
+            {
+              "symbol": "D",
+              "start_sample": 3920526,
+              "end_sample": 3923164,
+              "start_ms": 88901,
+              "end_ms": 88961
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/004",
+      "role": "lead",
+      "text": "I will be home soon",
+      "start_sample": 3930673,
+      "end_sample": 4171219,
+      "start_ms": 89131,
+      "end_ms": 94585,
+      "words": [
+        {
+          "id": "06-low-water/word/0010",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 3930673,
+          "end_sample": 3975526,
+          "start_ms": 89131,
+          "end_ms": 90148,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 3930673,
+              "end_sample": 3975526,
+              "start_ms": 89131,
+              "end_ms": 90148
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0011",
+          "text": "will",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 3976019,
+          "end_sample": 4020871,
+          "start_ms": 90159,
+          "end_ms": 91176,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 3976019,
+              "end_sample": 3979495,
+              "start_ms": 90159,
+              "end_ms": 90238
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 3978885,
+              "end_sample": 4018005,
+              "start_ms": 90224,
+              "end_ms": 91111
+            },
+            {
+              "symbol": "L",
+              "start_sample": 4017395,
+              "end_sample": 4020871,
+              "start_ms": 91097,
+              "end_ms": 91176
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0012",
+          "text": "be",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 4021364,
+          "end_sample": 4066217,
+          "start_ms": 91187,
+          "end_ms": 92204,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 4021364,
+              "end_sample": 4024002,
+              "start_ms": 91187,
+              "end_ms": 91247
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 4023393,
+              "end_sample": 4066217,
+              "start_ms": 91233,
+              "end_ms": 92204
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0013",
+          "text": "home",
+          "role": "lead",
+          "note_midi": 50,
+          "start_sample": 4066710,
+          "end_sample": 4111562,
+          "start_ms": 92216,
+          "end_ms": 93233,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 4066710,
+              "end_sample": 4070186,
+              "start_ms": 92216,
+              "end_ms": 92294
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 4069576,
+              "end_sample": 4108696,
+              "start_ms": 92281,
+              "end_ms": 93168
+            },
+            {
+              "symbol": "M",
+              "start_sample": 4108086,
+              "end_sample": 4111562,
+              "start_ms": 93154,
+              "end_ms": 93233
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0014",
+          "text": "soon",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 4112055,
+          "end_sample": 4163710,
+          "start_ms": 93244,
+          "end_ms": 94415,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 4112055,
+              "end_sample": 4115531,
+              "start_ms": 93244,
+              "end_ms": 93323
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 4114922,
+              "end_sample": 4160844,
+              "start_ms": 93309,
+              "end_ms": 94350
+            },
+            {
+              "symbol": "N",
+              "start_sample": 4160234,
+              "end_sample": 4163710,
+              "start_ms": 94336,
+              "end_ms": 94415
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/005",
+      "role": "lead",
+      "text": "Low water moves",
+      "start_sample": 7057764,
+      "end_sample": 7298309,
+      "start_ms": 160040,
+      "end_ms": 165495,
+      "words": [
+        {
+          "id": "06-low-water/word/0015",
+          "text": "Low",
+          "role": "lead",
+          "note_midi": 55,
+          "start_sample": 7057764,
+          "end_sample": 7131407,
+          "start_ms": 160040,
+          "end_ms": 161710,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 7057764,
+              "end_sample": 7061240,
+              "start_ms": 160040,
+              "end_ms": 160119
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 7060630,
+              "end_sample": 7131407,
+              "start_ms": 160105,
+              "end_ms": 161710
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0016",
+          "text": "water",
+          "role": "lead",
+          "note_midi": 53,
+          "start_sample": 7131900,
+          "end_sample": 7205544,
+          "start_ms": 161721,
+          "end_ms": 163391,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 7131900,
+              "end_sample": 7135376,
+              "start_ms": 161721,
+              "end_ms": 161800
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 7134767,
+              "end_sample": 7169446,
+              "start_ms": 161786,
+              "end_ms": 162572
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7168836,
+              "end_sample": 7171474,
+              "start_ms": 162559,
+              "end_ms": 162618
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 7170865,
+              "end_sample": 7205544,
+              "start_ms": 162605,
+              "end_ms": 163391
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0017",
+          "text": "moves",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 7206037,
+          "end_sample": 7290801,
+          "start_ms": 163402,
+          "end_ms": 165324,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 7206037,
+              "end_sample": 7209513,
+              "start_ms": 163402,
+              "end_ms": 163481
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 7208903,
+              "end_sample": 7285068,
+              "start_ms": 163467,
+              "end_ms": 165194
+            },
+            {
+              "symbol": "V",
+              "start_sample": 7284458,
+              "end_sample": 7287934,
+              "start_ms": 165180,
+              "end_ms": 165259
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 7287325,
+              "end_sample": 7290801,
+              "start_ms": 165245,
+              "end_ms": 165324
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/006",
+      "role": "lead",
+      "text": "Under the moon",
+      "start_sample": 7298309,
+      "end_sample": 7538855,
+      "start_ms": 165495,
+      "end_ms": 170949,
+      "words": [
+        {
+          "id": "06-low-water/word/0018",
+          "text": "Under",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 7298309,
+          "end_sample": 7382737,
+          "start_ms": 165495,
+          "end_ms": 167409,
+          "phonemes": [
+            {
+              "symbol": "AH",
+              "start_sample": 7298309,
+              "end_sample": 7338380,
+              "start_ms": 165495,
+              "end_ms": 166403
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7337771,
+              "end_sample": 7341247,
+              "start_ms": 166389,
+              "end_ms": 166468
+            },
+            {
+              "symbol": "D",
+              "start_sample": 7340637,
+              "end_sample": 7343275,
+              "start_ms": 166454,
+              "end_ms": 166514
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 7342666,
+              "end_sample": 7382737,
+              "start_ms": 166500,
+              "end_ms": 167409
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0019",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 50,
+          "start_sample": 7383229,
+          "end_sample": 7433689,
+          "start_ms": 167420,
+          "end_ms": 168564,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 7383229,
+              "end_sample": 7386705,
+              "start_ms": 167420,
+              "end_ms": 167499
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 7386096,
+              "end_sample": 7433689,
+              "start_ms": 167485,
+              "end_ms": 168564
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0020",
+          "text": "moon",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 7434181,
+          "end_sample": 7531346,
+          "start_ms": 168576,
+          "end_ms": 170779,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 7434181,
+              "end_sample": 7437657,
+              "start_ms": 168576,
+              "end_ms": 168654
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 7437048,
+              "end_sample": 7528480,
+              "start_ms": 168641,
+              "end_ms": 170714
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7527870,
+              "end_sample": 7531346,
+              "start_ms": 170700,
+              "end_ms": 170779
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/007",
+      "role": "lead",
+      "text": "Hold the sound",
+      "start_sample": 7538855,
+      "end_sample": 7779400,
+      "start_ms": 170949,
+      "end_ms": 176404,
+      "words": [
+        {
+          "id": "06-low-water/word/0021",
+          "text": "Hold",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 7538855,
+          "end_sample": 7623282,
+          "start_ms": 170949,
+          "end_ms": 172864,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 7538855,
+              "end_sample": 7542331,
+              "start_ms": 170949,
+              "end_ms": 171028
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 7541721,
+              "end_sample": 7618387,
+              "start_ms": 171014,
+              "end_ms": 172753
+            },
+            {
+              "symbol": "L",
+              "start_sample": 7617777,
+              "end_sample": 7621253,
+              "start_ms": 172739,
+              "end_ms": 172818
+            },
+            {
+              "symbol": "D",
+              "start_sample": 7620644,
+              "end_sample": 7623282,
+              "start_ms": 172804,
+              "end_ms": 172864
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0022",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 7623775,
+          "end_sample": 7674234,
+          "start_ms": 172875,
+          "end_ms": 174019,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 7623775,
+              "end_sample": 7627251,
+              "start_ms": 172875,
+              "end_ms": 172954
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 7626641,
+              "end_sample": 7674234,
+              "start_ms": 172940,
+              "end_ms": 174019
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0023",
+          "text": "sound",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 7674727,
+          "end_sample": 7771891,
+          "start_ms": 174030,
+          "end_ms": 176233,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 7674727,
+              "end_sample": 7678203,
+              "start_ms": 174030,
+              "end_ms": 174109
+            },
+            {
+              "symbol": "AW",
+              "start_sample": 7677593,
+              "end_sample": 7766997,
+              "start_ms": 174095,
+              "end_ms": 176122
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7766387,
+              "end_sample": 7769863,
+              "start_ms": 176109,
+              "end_ms": 176187
+            },
+            {
+              "symbol": "D",
+              "start_sample": 7769253,
+              "end_sample": 7771891,
+              "start_ms": 176174,
+              "end_ms": 176233
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/008",
+      "role": "lead",
+      "text": "I will be home soon",
+      "start_sample": 7779400,
+      "end_sample": 8019946,
+      "start_ms": 176404,
+      "end_ms": 181858,
+      "words": [
+        {
+          "id": "06-low-water/word/0024",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 7779400,
+          "end_sample": 7824253,
+          "start_ms": 176404,
+          "end_ms": 177421,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 7779400,
+              "end_sample": 7824253,
+              "start_ms": 176404,
+              "end_ms": 177421
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0025",
+          "text": "will",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 7824746,
+          "end_sample": 7869598,
+          "start_ms": 177432,
+          "end_ms": 178449,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 7824746,
+              "end_sample": 7828222,
+              "start_ms": 177432,
+              "end_ms": 177511
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 7827612,
+              "end_sample": 7866732,
+              "start_ms": 177497,
+              "end_ms": 178384
+            },
+            {
+              "symbol": "L",
+              "start_sample": 7866122,
+              "end_sample": 7869598,
+              "start_ms": 178370,
+              "end_ms": 178449
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0026",
+          "text": "be",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 7870091,
+          "end_sample": 7914944,
+          "start_ms": 178460,
+          "end_ms": 179477,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 7870091,
+              "end_sample": 7872729,
+              "start_ms": 178460,
+              "end_ms": 178520
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 7872120,
+              "end_sample": 7914944,
+              "start_ms": 178506,
+              "end_ms": 179477
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0027",
+          "text": "home",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 7915437,
+          "end_sample": 7960290,
+          "start_ms": 179488,
+          "end_ms": 180505,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 7915437,
+              "end_sample": 7918913,
+              "start_ms": 179488,
+              "end_ms": 179567
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 7918303,
+              "end_sample": 7957423,
+              "start_ms": 179553,
+              "end_ms": 180440
+            },
+            {
+              "symbol": "M",
+              "start_sample": 7956814,
+              "end_sample": 7960290,
+              "start_ms": 180427,
+              "end_ms": 180505
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0028",
+          "text": "soon",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 7960783,
+          "end_sample": 8012437,
+          "start_ms": 180517,
+          "end_ms": 181688,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 7960783,
+              "end_sample": 7964259,
+              "start_ms": 180517,
+              "end_ms": 180595
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 7963649,
+              "end_sample": 8009571,
+              "start_ms": 180582,
+              "end_ms": 181623
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8008961,
+              "end_sample": 8012437,
+              "start_ms": 181609,
+              "end_ms": 181688
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/009",
+      "role": "lead",
+      "text": "Low water moves",
+      "start_sample": 8340673,
+      "end_sample": 8581219,
+      "start_ms": 189131,
+      "end_ms": 194585,
+      "words": [
+        {
+          "id": "06-low-water/word/0029",
+          "text": "Low",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 8340673,
+          "end_sample": 8414317,
+          "start_ms": 189131,
+          "end_ms": 190801,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 8340673,
+              "end_sample": 8344149,
+              "start_ms": 189131,
+              "end_ms": 189210
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 8343540,
+              "end_sample": 8414317,
+              "start_ms": 189196,
+              "end_ms": 190801
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0030",
+          "text": "water",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 8414809,
+          "end_sample": 8488453,
+          "start_ms": 190812,
+          "end_ms": 192482,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 8414809,
+              "end_sample": 8418285,
+              "start_ms": 190812,
+              "end_ms": 190891
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 8417676,
+              "end_sample": 8452355,
+              "start_ms": 190877,
+              "end_ms": 191663
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8451745,
+              "end_sample": 8454383,
+              "start_ms": 191650,
+              "end_ms": 191709
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 8453774,
+              "end_sample": 8488453,
+              "start_ms": 191696,
+              "end_ms": 192482
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0031",
+          "text": "moves",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 8488946,
+          "end_sample": 8573710,
+          "start_ms": 192493,
+          "end_ms": 194415,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 8488946,
+              "end_sample": 8492422,
+              "start_ms": 192493,
+              "end_ms": 192572
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8491812,
+              "end_sample": 8567977,
+              "start_ms": 192558,
+              "end_ms": 194285
+            },
+            {
+              "symbol": "V",
+              "start_sample": 8567367,
+              "end_sample": 8570843,
+              "start_ms": 194271,
+              "end_ms": 194350
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 8570234,
+              "end_sample": 8573710,
+              "start_ms": 194336,
+              "end_ms": 194415
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/010",
+      "role": "lead",
+      "text": "Under the moon",
+      "start_sample": 8581219,
+      "end_sample": 8821764,
+      "start_ms": 194585,
+      "end_ms": 200040,
+      "words": [
+        {
+          "id": "06-low-water/word/0032",
+          "text": "Under",
+          "role": "lead",
+          "note_midi": 55,
+          "start_sample": 8581219,
+          "end_sample": 8665646,
+          "start_ms": 194585,
+          "end_ms": 196500,
+          "phonemes": [
+            {
+              "symbol": "AH",
+              "start_sample": 8581219,
+              "end_sample": 8621290,
+              "start_ms": 194585,
+              "end_ms": 195494
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8620680,
+              "end_sample": 8624156,
+              "start_ms": 195480,
+              "end_ms": 195559
+            },
+            {
+              "symbol": "D",
+              "start_sample": 8623546,
+              "end_sample": 8626184,
+              "start_ms": 195545,
+              "end_ms": 195605
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 8625575,
+              "end_sample": 8665646,
+              "start_ms": 195591,
+              "end_ms": 196500
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0033",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 53,
+          "start_sample": 8666138,
+          "end_sample": 8716598,
+          "start_ms": 196511,
+          "end_ms": 197655,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 8666138,
+              "end_sample": 8669614,
+              "start_ms": 196511,
+              "end_ms": 196590
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 8669005,
+              "end_sample": 8716598,
+              "start_ms": 196576,
+              "end_ms": 197655
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0034",
+          "text": "moon",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 8717090,
+          "end_sample": 8814255,
+          "start_ms": 197666,
+          "end_ms": 199870,
+          "phonemes": [
+            {
+              "symbol": "M",
+              "start_sample": 8717090,
+              "end_sample": 8720566,
+              "start_ms": 197666,
+              "end_ms": 197745
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8719957,
+              "end_sample": 8811389,
+              "start_ms": 197731,
+              "end_ms": 199805
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8810779,
+              "end_sample": 8814255,
+              "start_ms": 199791,
+              "end_ms": 199870
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/011",
+      "role": "lead",
+      "text": "Hold the sound",
+      "start_sample": 8821764,
+      "end_sample": 9062309,
+      "start_ms": 200040,
+      "end_ms": 205495,
+      "words": [
+        {
+          "id": "06-low-water/word/0035",
+          "text": "Hold",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 8821764,
+          "end_sample": 8906191,
+          "start_ms": 200040,
+          "end_ms": 201954,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 8821764,
+              "end_sample": 8825240,
+              "start_ms": 200040,
+              "end_ms": 200119
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 8824630,
+              "end_sample": 8901296,
+              "start_ms": 200105,
+              "end_ms": 201843
+            },
+            {
+              "symbol": "L",
+              "start_sample": 8900686,
+              "end_sample": 8904162,
+              "start_ms": 201830,
+              "end_ms": 201908
+            },
+            {
+              "symbol": "D",
+              "start_sample": 8903553,
+              "end_sample": 8906191,
+              "start_ms": 201895,
+              "end_ms": 201954
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0036",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 50,
+          "start_sample": 8906684,
+          "end_sample": 8957143,
+          "start_ms": 201966,
+          "end_ms": 203110,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 8906684,
+              "end_sample": 8910160,
+              "start_ms": 201966,
+              "end_ms": 202044
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 8909550,
+              "end_sample": 8957143,
+              "start_ms": 202031,
+              "end_ms": 203110
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0037",
+          "text": "sound",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 8957636,
+          "end_sample": 9054800,
+          "start_ms": 203121,
+          "end_ms": 205324,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 8957636,
+              "end_sample": 8961112,
+              "start_ms": 203121,
+              "end_ms": 203200
+            },
+            {
+              "symbol": "AW",
+              "start_sample": 8960502,
+              "end_sample": 9049906,
+              "start_ms": 203186,
+              "end_ms": 205213
+            },
+            {
+              "symbol": "N",
+              "start_sample": 9049296,
+              "end_sample": 9052772,
+              "start_ms": 205199,
+              "end_ms": 205278
+            },
+            {
+              "symbol": "D",
+              "start_sample": 9052162,
+              "end_sample": 9054800,
+              "start_ms": 205264,
+              "end_ms": 205324
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-low-water/lead/012",
+      "role": "lead",
+      "text": "I will be home soon",
+      "start_sample": 9062309,
+      "end_sample": 9302855,
+      "start_ms": 205495,
+      "end_ms": 210949,
+      "words": [
+        {
+          "id": "06-low-water/word/0038",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 9062309,
+          "end_sample": 9107162,
+          "start_ms": 205495,
+          "end_ms": 206512,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 9062309,
+              "end_sample": 9107162,
+              "start_ms": 205495,
+              "end_ms": 206512
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0039",
+          "text": "will",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 9107655,
+          "end_sample": 9152508,
+          "start_ms": 206523,
+          "end_ms": 207540,
+          "phonemes": [
+            {
+              "symbol": "W",
+              "start_sample": 9107655,
+              "end_sample": 9111131,
+              "start_ms": 206523,
+              "end_ms": 206602
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 9110521,
+              "end_sample": 9149641,
+              "start_ms": 206588,
+              "end_ms": 207475
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9149032,
+              "end_sample": 9152508,
+              "start_ms": 207461,
+              "end_ms": 207540
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0040",
+          "text": "be",
+          "role": "lead",
+          "note_midi": 51,
+          "start_sample": 9153001,
+          "end_sample": 9197853,
+          "start_ms": 207551,
+          "end_ms": 208568,
+          "phonemes": [
+            {
+              "symbol": "B",
+              "start_sample": 9153001,
+              "end_sample": 9155639,
+              "start_ms": 207551,
+              "end_ms": 207611
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 9155029,
+              "end_sample": 9197853,
+              "start_ms": 207597,
+              "end_ms": 208568
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0041",
+          "text": "home",
+          "role": "lead",
+          "note_midi": 50,
+          "start_sample": 9198346,
+          "end_sample": 9243199,
+          "start_ms": 208579,
+          "end_ms": 209596,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 9198346,
+              "end_sample": 9201822,
+              "start_ms": 208579,
+              "end_ms": 208658
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 9201213,
+              "end_sample": 9240333,
+              "start_ms": 208644,
+              "end_ms": 209531
+            },
+            {
+              "symbol": "M",
+              "start_sample": 9239723,
+              "end_sample": 9243199,
+              "start_ms": 209518,
+              "end_ms": 209596
+            }
+          ]
+        },
+        {
+          "id": "06-low-water/word/0042",
+          "text": "soon",
+          "role": "lead",
+          "note_midi": 48,
+          "start_sample": 9243692,
+          "end_sample": 9295346,
+          "start_ms": 209608,
+          "end_ms": 210779,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 9243692,
+              "end_sample": 9247168,
+              "start_ms": 209608,
+              "end_ms": 209686
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 9246558,
+              "end_sample": 9292480,
+              "start_ms": 209673,
+              "end_ms": 210714
+            },
+            {
+              "symbol": "N",
+              "start_sample": 9291870,
+              "end_sample": 9295346,
+              "start_ms": 210700,
+              "end_ms": 210779
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

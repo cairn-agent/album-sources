@@ -1,0 +1,2802 @@
+{
+  "schema_version": "1.0.0",
+  "document_type": "timed_lyrics",
+  "release_key": "windows-still-lit",
+  "track_key": "02-copper-current",
+  "title": "Copper Current",
+  "artist": "Cairn",
+  "language": "en",
+  "time_unit": "milliseconds",
+  "sample_rate": 44100,
+  "duration_samples": 11979823,
+  "duration_ms": 271651,
+  "recording": {
+    "id": "sha256:f76150d34ec0a71700b71755d7ecca7245f8984414a05abe6aafa93b04ddcb4c",
+    "revision": 1,
+    "canonical_format": "wav",
+    "audio_assets": [
+      {
+        "format": "wav",
+        "album_relative_path": "wav/02-copper-current.wav",
+        "sha256": "f76150d34ec0a71700b71755d7ecca7245f8984414a05abe6aafa93b04ddcb4c"
+      },
+      {
+        "format": "mp3",
+        "album_relative_path": "mp3/02-copper-current.mp3",
+        "sha256": "d93621e5a156e8d6a391b8280584c694318b41cf4f241885c0b7525f41e3fe6a"
+      }
+    ]
+  },
+  "alignment": {
+    "method": "composer_authored_render_events",
+    "audio_zero": "first decoded PCM sample",
+    "render_offset_ms": 40,
+    "intervals": "start inclusive; end exclusive",
+    "vocal_release_ms": 12,
+    "reverb_tails_excluded": true,
+    "manually_listening_verified": false
+  },
+  "cues": [
+    {
+      "id": "02-copper-current/lead/017",
+      "role": "lead",
+      "text": "Stay on the line",
+      "start_sample": 63780,
+      "end_sample": 208483,
+      "start_ms": 1446,
+      "end_ms": 4728,
+      "words": [
+        {
+          "id": "02-copper-current/word/0061",
+          "text": "Stay",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 63780,
+          "end_sample": 99913,
+          "start_ms": 1446,
+          "end_ms": 2266,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 63780,
+              "end_sample": 67259,
+              "start_ms": 1446,
+              "end_ms": 1525
+            },
+            {
+              "symbol": "T",
+              "start_sample": 66646,
+              "end_sample": 69287,
+              "start_ms": 1511,
+              "end_ms": 1571
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 68675,
+              "end_sample": 99913,
+              "start_ms": 1557,
+              "end_ms": 2266
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0062",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 100438,
+          "end_sample": 136571,
+          "start_ms": 2278,
+          "end_ms": 3097,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 100438,
+              "end_sample": 133705,
+              "start_ms": 2278,
+              "end_ms": 3032
+            },
+            {
+              "symbol": "N",
+              "start_sample": 133092,
+              "end_sample": 136571,
+              "start_ms": 3018,
+              "end_ms": 3097
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0063",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 137096,
+          "end_sample": 158566,
+          "start_ms": 3109,
+          "end_ms": 3596,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 137096,
+              "end_sample": 140575,
+              "start_ms": 3109,
+              "end_ms": 3188
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 139962,
+              "end_sample": 158566,
+              "start_ms": 3174,
+              "end_ms": 3596
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0064",
+          "text": "line",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 159091,
+          "end_sample": 200723,
+          "start_ms": 3608,
+          "end_ms": 4552,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 159091,
+              "end_sample": 162570,
+              "start_ms": 3608,
+              "end_ms": 3686
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 161957,
+              "end_sample": 197856,
+              "start_ms": 3672,
+              "end_ms": 4487
+            },
+            {
+              "symbol": "N",
+              "start_sample": 197244,
+              "end_sample": 200723,
+              "start_ms": 4473,
+              "end_ms": 4552
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/001",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 415201,
+      "end_sample": 442687,
+      "start_ms": 9415,
+      "end_ms": 10038,
+      "words": [
+        {
+          "id": "02-copper-current/word/0065",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 71,
+          "start_sample": 415201,
+          "end_sample": 442687,
+          "start_ms": 9415,
+          "end_ms": 10038,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 415201,
+              "end_sample": 418680,
+              "start_ms": 9415,
+              "end_ms": 9494
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 418068,
+              "end_sample": 439821,
+              "start_ms": 9480,
+              "end_ms": 9973
+            },
+            {
+              "symbol": "N",
+              "start_sample": 439208,
+              "end_sample": 442687,
+              "start_ms": 9959,
+              "end_ms": 10038
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/002",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 477217,
+      "end_sample": 515039,
+      "start_ms": 10821,
+      "end_ms": 11679,
+      "words": [
+        {
+          "id": "02-copper-current/word/0066",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 67,
+          "start_sample": 477217,
+          "end_sample": 515039,
+          "start_ms": 10821,
+          "end_ms": 11679,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 477217,
+              "end_sample": 480696,
+              "start_ms": 10821,
+              "end_ms": 10900
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 480084,
+              "end_sample": 512173,
+              "start_ms": 10886,
+              "end_ms": 11614
+            },
+            {
+              "symbol": "N",
+              "start_sample": 511560,
+              "end_sample": 515039,
+              "start_ms": 11600,
+              "end_ms": 11679
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/003",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 994014,
+      "end_sample": 1003308,
+      "start_ms": 22540,
+      "end_ms": 22751,
+      "words": [
+        {
+          "id": "02-copper-current/word/0067",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 71,
+          "start_sample": 994014,
+          "end_sample": 1003308,
+          "start_ms": 22540,
+          "end_ms": 22751,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 994014,
+              "end_sample": 996623,
+              "start_ms": 22540,
+              "end_ms": 22599
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 996011,
+              "end_sample": 1001312,
+              "start_ms": 22585,
+              "end_ms": 22705
+            },
+            {
+              "symbol": "N",
+              "start_sample": 1000699,
+              "end_sample": 1003308,
+              "start_ms": 22692,
+              "end_ms": 22751
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/004",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 1014686,
+      "end_sample": 1023980,
+      "start_ms": 23009,
+      "end_ms": 23220,
+      "words": [
+        {
+          "id": "02-copper-current/word/0068",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 71,
+          "start_sample": 1014686,
+          "end_sample": 1023980,
+          "start_ms": 23009,
+          "end_ms": 23220,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 1014686,
+              "end_sample": 1017295,
+              "start_ms": 23009,
+              "end_ms": 23068
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 1016683,
+              "end_sample": 1021984,
+              "start_ms": 23054,
+              "end_ms": 23174
+            },
+            {
+              "symbol": "N",
+              "start_sample": 1021371,
+              "end_sample": 1023980,
+              "start_ms": 23160,
+              "end_ms": 23220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/005",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 1056030,
+      "end_sample": 1075247,
+      "start_ms": 23946,
+      "end_ms": 24382,
+      "words": [
+        {
+          "id": "02-copper-current/word/0069",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 67,
+          "start_sample": 1056030,
+          "end_sample": 1075247,
+          "start_ms": 23946,
+          "end_ms": 24382,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 1056030,
+              "end_sample": 1059509,
+              "start_ms": 23946,
+              "end_ms": 24025
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 1058896,
+              "end_sample": 1072380,
+              "start_ms": 24011,
+              "end_ms": 24317
+            },
+            {
+              "symbol": "N",
+              "start_sample": 1071768,
+              "end_sample": 1075247,
+              "start_ms": 24303,
+              "end_ms": 24382
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/006",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 1655514,
+      "end_sample": 1664808,
+      "start_ms": 37540,
+      "end_ms": 37751,
+      "words": [
+        {
+          "id": "02-copper-current/word/0070",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 71,
+          "start_sample": 1655514,
+          "end_sample": 1664808,
+          "start_ms": 37540,
+          "end_ms": 37751,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 1655514,
+              "end_sample": 1658123,
+              "start_ms": 37540,
+              "end_ms": 37599
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 1657511,
+              "end_sample": 1662812,
+              "start_ms": 37585,
+              "end_ms": 37705
+            },
+            {
+              "symbol": "N",
+              "start_sample": 1662199,
+              "end_sample": 1664808,
+              "start_ms": 37692,
+              "end_ms": 37751
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/007",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 1676186,
+      "end_sample": 1685480,
+      "start_ms": 38009,
+      "end_ms": 38220,
+      "words": [
+        {
+          "id": "02-copper-current/word/0071",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 71,
+          "start_sample": 1676186,
+          "end_sample": 1685480,
+          "start_ms": 38009,
+          "end_ms": 38220,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 1676186,
+              "end_sample": 1678795,
+              "start_ms": 38009,
+              "end_ms": 38068
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 1678183,
+              "end_sample": 1683484,
+              "start_ms": 38054,
+              "end_ms": 38174
+            },
+            {
+              "symbol": "N",
+              "start_sample": 1682871,
+              "end_sample": 1685480,
+              "start_ms": 38160,
+              "end_ms": 38220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/008",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 1717530,
+      "end_sample": 1736747,
+      "start_ms": 38946,
+      "end_ms": 39382,
+      "words": [
+        {
+          "id": "02-copper-current/word/0072",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 67,
+          "start_sample": 1717530,
+          "end_sample": 1736747,
+          "start_ms": 38946,
+          "end_ms": 39382,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 1717530,
+              "end_sample": 1721009,
+              "start_ms": 38946,
+              "end_ms": 39025
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 1720396,
+              "end_sample": 1733880,
+              "start_ms": 39011,
+              "end_ms": 39317
+            },
+            {
+              "symbol": "N",
+              "start_sample": 1733268,
+              "end_sample": 1736747,
+              "start_ms": 39303,
+              "end_ms": 39382
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/001",
+      "role": "lead",
+      "text": "Stay on the line",
+      "start_sample": 2647764,
+      "end_sample": 2813139,
+      "start_ms": 60040,
+      "end_ms": 63790,
+      "words": [
+        {
+          "id": "02-copper-current/word/0001",
+          "text": "Stay",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 2647764,
+          "end_sample": 2689410,
+          "start_ms": 60040,
+          "end_ms": 60984,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 2647764,
+              "end_sample": 2651243,
+              "start_ms": 60040,
+              "end_ms": 60119
+            },
+            {
+              "symbol": "T",
+              "start_sample": 2650631,
+              "end_sample": 2653272,
+              "start_ms": 60105,
+              "end_ms": 60165
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 2652659,
+              "end_sample": 2689410,
+              "start_ms": 60151,
+              "end_ms": 60984
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0002",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 2689935,
+          "end_sample": 2731581,
+          "start_ms": 60996,
+          "end_ms": 61941,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 2689935,
+              "end_sample": 2728715,
+              "start_ms": 60996,
+              "end_ms": 61876
+            },
+            {
+              "symbol": "N",
+              "start_sample": 2728102,
+              "end_sample": 2731581,
+              "start_ms": 61862,
+              "end_ms": 61941
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0003",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 2732105,
+          "end_sample": 2756883,
+          "start_ms": 61952,
+          "end_ms": 62514,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 2732105,
+              "end_sample": 2735584,
+              "start_ms": 61952,
+              "end_ms": 62031
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 2734972,
+              "end_sample": 2756883,
+              "start_ms": 62018,
+              "end_ms": 62514
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0004",
+          "text": "line",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 2757408,
+          "end_sample": 2805379,
+          "start_ms": 62526,
+          "end_ms": 63614,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 2757408,
+              "end_sample": 2760887,
+              "start_ms": 62526,
+              "end_ms": 62605
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 2760274,
+              "end_sample": 2802513,
+              "start_ms": 62591,
+              "end_ms": 63549
+            },
+            {
+              "symbol": "N",
+              "start_sample": 2801900,
+              "end_sample": 2805379,
+              "start_ms": 63535,
+              "end_ms": 63614
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/002",
+      "role": "lead",
+      "text": "Let the current flow",
+      "start_sample": 2813139,
+      "end_sample": 2978514,
+      "start_ms": 63790,
+      "end_ms": 67540,
+      "words": [
+        {
+          "id": "02-copper-current/word/0005",
+          "text": "Let",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 2813139,
+          "end_sample": 2854785,
+          "start_ms": 63790,
+          "end_ms": 64734,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 2813139,
+              "end_sample": 2816618,
+              "start_ms": 63790,
+              "end_ms": 63869
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 2816006,
+              "end_sample": 2852757,
+              "start_ms": 63855,
+              "end_ms": 64688
+            },
+            {
+              "symbol": "T",
+              "start_sample": 2852144,
+              "end_sample": 2854785,
+              "start_ms": 64674,
+              "end_ms": 64734
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0006",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 2855310,
+          "end_sample": 2880087,
+          "start_ms": 64746,
+          "end_ms": 65308,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 2855310,
+              "end_sample": 2858789,
+              "start_ms": 64746,
+              "end_ms": 64825
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 2858176,
+              "end_sample": 2880087,
+              "start_ms": 64811,
+              "end_ms": 65308
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0007",
+          "text": "current",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 2880612,
+          "end_sample": 2922258,
+          "start_ms": 65320,
+          "end_ms": 66264,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 2880612,
+              "end_sample": 2883253,
+              "start_ms": 65320,
+              "end_ms": 65380
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 2882641,
+              "end_sample": 2900308,
+              "start_ms": 65366,
+              "end_ms": 65767
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 2899696,
+              "end_sample": 2917363,
+              "start_ms": 65753,
+              "end_ms": 66153
+            },
+            {
+              "symbol": "N",
+              "start_sample": 2916751,
+              "end_sample": 2920230,
+              "start_ms": 66139,
+              "end_ms": 66218
+            },
+            {
+              "symbol": "T",
+              "start_sample": 2919617,
+              "end_sample": 2922258,
+              "start_ms": 66204,
+              "end_ms": 66264
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0008",
+          "text": "flow",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 2922783,
+          "end_sample": 2970755,
+          "start_ms": 66276,
+          "end_ms": 67364,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 2922783,
+              "end_sample": 2926262,
+              "start_ms": 66276,
+              "end_ms": 66355
+            },
+            {
+              "symbol": "L",
+              "start_sample": 2925649,
+              "end_sample": 2929128,
+              "start_ms": 66341,
+              "end_ms": 66420
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 2928516,
+              "end_sample": 2970755,
+              "start_ms": 66406,
+              "end_ms": 67364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/003",
+      "role": "lead",
+      "text": "I can hear you",
+      "start_sample": 2978514,
+      "end_sample": 3143889,
+      "start_ms": 67540,
+      "end_ms": 71290,
+      "words": [
+        {
+          "id": "02-copper-current/word/0009",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 2978514,
+          "end_sample": 3016095,
+          "start_ms": 67540,
+          "end_ms": 68392,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 2978514,
+              "end_sample": 3016095,
+              "start_ms": 67540,
+              "end_ms": 68392
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0010",
+          "text": "can",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 3016620,
+          "end_sample": 3054202,
+          "start_ms": 68404,
+          "end_ms": 69256,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 3016620,
+              "end_sample": 3019261,
+              "start_ms": 68404,
+              "end_ms": 68464
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 3018649,
+              "end_sample": 3051335,
+              "start_ms": 68450,
+              "end_ms": 69191
+            },
+            {
+              "symbol": "N",
+              "start_sample": 3050723,
+              "end_sample": 3054202,
+              "start_ms": 69177,
+              "end_ms": 69256
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0011",
+          "text": "hear",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 3054726,
+          "end_sample": 3092308,
+          "start_ms": 69268,
+          "end_ms": 70120,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 3054726,
+              "end_sample": 3058205,
+              "start_ms": 69268,
+              "end_ms": 69347
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 3057592,
+              "end_sample": 3089440,
+              "start_ms": 69333,
+              "end_ms": 70055
+            },
+            {
+              "symbol": "R",
+              "start_sample": 3088829,
+              "end_sample": 3092308,
+              "start_ms": 70041,
+              "end_ms": 70120
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0012",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 3092832,
+          "end_sample": 3136129,
+          "start_ms": 70132,
+          "end_ms": 71114,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 3092832,
+              "end_sample": 3096311,
+              "start_ms": 70132,
+              "end_ms": 70211
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 3095698,
+              "end_sample": 3136129,
+              "start_ms": 70197,
+              "end_ms": 71114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/004",
+      "role": "lead",
+      "text": "Take it slow",
+      "start_sample": 3143889,
+      "end_sample": 3309264,
+      "start_ms": 71290,
+      "end_ms": 75040,
+      "words": [
+        {
+          "id": "02-copper-current/word/0013",
+          "text": "Take",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 3143889,
+          "end_sample": 3200870,
+          "start_ms": 71290,
+          "end_ms": 72582,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 3143889,
+              "end_sample": 3146530,
+              "start_ms": 71290,
+              "end_ms": 71350
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 3145918,
+              "end_sample": 3198842,
+              "start_ms": 71336,
+              "end_ms": 72536
+            },
+            {
+              "symbol": "K",
+              "start_sample": 3198229,
+              "end_sample": 3200870,
+              "start_ms": 72522,
+              "end_ms": 72582
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0014",
+          "text": "it",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 3201394,
+          "end_sample": 3235373,
+          "start_ms": 72594,
+          "end_ms": 73364,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 3201394,
+              "end_sample": 3233344,
+              "start_ms": 72594,
+              "end_ms": 73318
+            },
+            {
+              "symbol": "T",
+              "start_sample": 3232732,
+              "end_sample": 3235373,
+              "start_ms": 73305,
+              "end_ms": 73364
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0015",
+          "text": "slow",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 3235898,
+          "end_sample": 3301505,
+          "start_ms": 73376,
+          "end_ms": 74864,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 3235898,
+              "end_sample": 3239377,
+              "start_ms": 73376,
+              "end_ms": 73455
+            },
+            {
+              "symbol": "L",
+              "start_sample": 3238764,
+              "end_sample": 3242243,
+              "start_ms": 73441,
+              "end_ms": 73520
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 3241631,
+              "end_sample": 3301505,
+              "start_ms": 73506,
+              "end_ms": 74864
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/005",
+      "role": "lead",
+      "text": "Stay on the line",
+      "start_sample": 3970764,
+      "end_sample": 4136139,
+      "start_ms": 90040,
+      "end_ms": 93790,
+      "words": [
+        {
+          "id": "02-copper-current/word/0016",
+          "text": "Stay",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 3970764,
+          "end_sample": 4012410,
+          "start_ms": 90040,
+          "end_ms": 90984,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 3970764,
+              "end_sample": 3974243,
+              "start_ms": 90040,
+              "end_ms": 90119
+            },
+            {
+              "symbol": "T",
+              "start_sample": 3973631,
+              "end_sample": 3976272,
+              "start_ms": 90105,
+              "end_ms": 90165
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 3975659,
+              "end_sample": 4012410,
+              "start_ms": 90151,
+              "end_ms": 90984
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0017",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 4012935,
+          "end_sample": 4054581,
+          "start_ms": 90996,
+          "end_ms": 91941,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 4012935,
+              "end_sample": 4051715,
+              "start_ms": 90996,
+              "end_ms": 91876
+            },
+            {
+              "symbol": "N",
+              "start_sample": 4051102,
+              "end_sample": 4054581,
+              "start_ms": 91862,
+              "end_ms": 91941
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0018",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 4055105,
+          "end_sample": 4079883,
+          "start_ms": 91952,
+          "end_ms": 92514,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 4055105,
+              "end_sample": 4058584,
+              "start_ms": 91952,
+              "end_ms": 92031
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 4057972,
+              "end_sample": 4079883,
+              "start_ms": 92018,
+              "end_ms": 92514
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0019",
+          "text": "line",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 4080408,
+          "end_sample": 4128379,
+          "start_ms": 92526,
+          "end_ms": 93614,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 4080408,
+              "end_sample": 4083887,
+              "start_ms": 92526,
+              "end_ms": 92605
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 4083274,
+              "end_sample": 4125513,
+              "start_ms": 92591,
+              "end_ms": 93549
+            },
+            {
+              "symbol": "N",
+              "start_sample": 4124900,
+              "end_sample": 4128379,
+              "start_ms": 93535,
+              "end_ms": 93614
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/006",
+      "role": "lead",
+      "text": "Let the current flow",
+      "start_sample": 4136139,
+      "end_sample": 4301514,
+      "start_ms": 93790,
+      "end_ms": 97540,
+      "words": [
+        {
+          "id": "02-copper-current/word/0020",
+          "text": "Let",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 4136139,
+          "end_sample": 4177785,
+          "start_ms": 93790,
+          "end_ms": 94734,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 4136139,
+              "end_sample": 4139618,
+              "start_ms": 93790,
+              "end_ms": 93869
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 4139006,
+              "end_sample": 4175757,
+              "start_ms": 93855,
+              "end_ms": 94688
+            },
+            {
+              "symbol": "T",
+              "start_sample": 4175144,
+              "end_sample": 4177785,
+              "start_ms": 94674,
+              "end_ms": 94734
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0021",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 4178310,
+          "end_sample": 4203087,
+          "start_ms": 94746,
+          "end_ms": 95308,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 4178310,
+              "end_sample": 4181789,
+              "start_ms": 94746,
+              "end_ms": 94825
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 4181176,
+              "end_sample": 4203087,
+              "start_ms": 94811,
+              "end_ms": 95308
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0022",
+          "text": "current",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 4203612,
+          "end_sample": 4245258,
+          "start_ms": 95320,
+          "end_ms": 96264,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 4203612,
+              "end_sample": 4206253,
+              "start_ms": 95320,
+              "end_ms": 95380
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 4205641,
+              "end_sample": 4223308,
+              "start_ms": 95366,
+              "end_ms": 95767
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 4222696,
+              "end_sample": 4240363,
+              "start_ms": 95753,
+              "end_ms": 96153
+            },
+            {
+              "symbol": "N",
+              "start_sample": 4239751,
+              "end_sample": 4243230,
+              "start_ms": 96139,
+              "end_ms": 96218
+            },
+            {
+              "symbol": "T",
+              "start_sample": 4242617,
+              "end_sample": 4245258,
+              "start_ms": 96204,
+              "end_ms": 96264
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0023",
+          "text": "flow",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 4245783,
+          "end_sample": 4293755,
+          "start_ms": 96276,
+          "end_ms": 97364,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 4245783,
+              "end_sample": 4249262,
+              "start_ms": 96276,
+              "end_ms": 96355
+            },
+            {
+              "symbol": "L",
+              "start_sample": 4248649,
+              "end_sample": 4252128,
+              "start_ms": 96341,
+              "end_ms": 96420
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 4251516,
+              "end_sample": 4293755,
+              "start_ms": 96406,
+              "end_ms": 97364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/007",
+      "role": "lead",
+      "text": "I can hear you",
+      "start_sample": 4301514,
+      "end_sample": 4466889,
+      "start_ms": 97540,
+      "end_ms": 101290,
+      "words": [
+        {
+          "id": "02-copper-current/word/0024",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 4301514,
+          "end_sample": 4339095,
+          "start_ms": 97540,
+          "end_ms": 98392,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 4301514,
+              "end_sample": 4339095,
+              "start_ms": 97540,
+              "end_ms": 98392
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0025",
+          "text": "can",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 4339620,
+          "end_sample": 4377202,
+          "start_ms": 98404,
+          "end_ms": 99256,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 4339620,
+              "end_sample": 4342261,
+              "start_ms": 98404,
+              "end_ms": 98464
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 4341649,
+              "end_sample": 4374335,
+              "start_ms": 98450,
+              "end_ms": 99191
+            },
+            {
+              "symbol": "N",
+              "start_sample": 4373723,
+              "end_sample": 4377202,
+              "start_ms": 99177,
+              "end_ms": 99256
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0026",
+          "text": "hear",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 4377726,
+          "end_sample": 4415308,
+          "start_ms": 99268,
+          "end_ms": 100120,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 4377726,
+              "end_sample": 4381205,
+              "start_ms": 99268,
+              "end_ms": 99347
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 4380592,
+              "end_sample": 4412440,
+              "start_ms": 99333,
+              "end_ms": 100055
+            },
+            {
+              "symbol": "R",
+              "start_sample": 4411829,
+              "end_sample": 4415308,
+              "start_ms": 100041,
+              "end_ms": 100120
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0027",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 4415832,
+          "end_sample": 4459129,
+          "start_ms": 100132,
+          "end_ms": 101114,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 4415832,
+              "end_sample": 4419311,
+              "start_ms": 100132,
+              "end_ms": 100211
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 4418698,
+              "end_sample": 4459129,
+              "start_ms": 100197,
+              "end_ms": 101114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/008",
+      "role": "lead",
+      "text": "Take it slow",
+      "start_sample": 4466889,
+      "end_sample": 4632264,
+      "start_ms": 101290,
+      "end_ms": 105040,
+      "words": [
+        {
+          "id": "02-copper-current/word/0028",
+          "text": "Take",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 4466889,
+          "end_sample": 4523870,
+          "start_ms": 101290,
+          "end_ms": 102582,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 4466889,
+              "end_sample": 4469530,
+              "start_ms": 101290,
+              "end_ms": 101350
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 4468918,
+              "end_sample": 4521842,
+              "start_ms": 101336,
+              "end_ms": 102536
+            },
+            {
+              "symbol": "K",
+              "start_sample": 4521229,
+              "end_sample": 4523870,
+              "start_ms": 102522,
+              "end_ms": 102582
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0029",
+          "text": "it",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 4524394,
+          "end_sample": 4558373,
+          "start_ms": 102594,
+          "end_ms": 103364,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 4524394,
+              "end_sample": 4556344,
+              "start_ms": 102594,
+              "end_ms": 103318
+            },
+            {
+              "symbol": "T",
+              "start_sample": 4555732,
+              "end_sample": 4558373,
+              "start_ms": 103305,
+              "end_ms": 103364
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0030",
+          "text": "slow",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 4558898,
+          "end_sample": 4624505,
+          "start_ms": 103376,
+          "end_ms": 104864,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 4558898,
+              "end_sample": 4562377,
+              "start_ms": 103376,
+              "end_ms": 103455
+            },
+            {
+              "symbol": "L",
+              "start_sample": 4561764,
+              "end_sample": 4565243,
+              "start_ms": 103441,
+              "end_ms": 103520
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 4564631,
+              "end_sample": 4624505,
+              "start_ms": 103506,
+              "end_ms": 104864
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/009",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 6947514,
+      "end_sample": 6956808,
+      "start_ms": 157540,
+      "end_ms": 157751,
+      "words": [
+        {
+          "id": "02-copper-current/word/0073",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 71,
+          "start_sample": 6947514,
+          "end_sample": 6956808,
+          "start_ms": 157540,
+          "end_ms": 157751,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 6947514,
+              "end_sample": 6950123,
+              "start_ms": 157540,
+              "end_ms": 157599
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 6949511,
+              "end_sample": 6954812,
+              "start_ms": 157585,
+              "end_ms": 157705
+            },
+            {
+              "symbol": "N",
+              "start_sample": 6954199,
+              "end_sample": 6956808,
+              "start_ms": 157692,
+              "end_ms": 157751
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/010",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 6968186,
+      "end_sample": 6977480,
+      "start_ms": 158009,
+      "end_ms": 158220,
+      "words": [
+        {
+          "id": "02-copper-current/word/0074",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 71,
+          "start_sample": 6968186,
+          "end_sample": 6977480,
+          "start_ms": 158009,
+          "end_ms": 158220,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 6968186,
+              "end_sample": 6970795,
+              "start_ms": 158009,
+              "end_ms": 158068
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 6970183,
+              "end_sample": 6975484,
+              "start_ms": 158054,
+              "end_ms": 158174
+            },
+            {
+              "symbol": "N",
+              "start_sample": 6974871,
+              "end_sample": 6977480,
+              "start_ms": 158160,
+              "end_ms": 158220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/011",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 7009530,
+      "end_sample": 7028747,
+      "start_ms": 158946,
+      "end_ms": 159382,
+      "words": [
+        {
+          "id": "02-copper-current/word/0075",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 67,
+          "start_sample": 7009530,
+          "end_sample": 7028747,
+          "start_ms": 158946,
+          "end_ms": 159382,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 7009530,
+              "end_sample": 7013009,
+              "start_ms": 158946,
+              "end_ms": 159025
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 7012396,
+              "end_sample": 7025880,
+              "start_ms": 159011,
+              "end_ms": 159317
+            },
+            {
+              "symbol": "N",
+              "start_sample": 7025268,
+              "end_sample": 7028747,
+              "start_ms": 159303,
+              "end_ms": 159382
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/009",
+      "role": "lead",
+      "text": "Stay on the line",
+      "start_sample": 7939764,
+      "end_sample": 8105139,
+      "start_ms": 180040,
+      "end_ms": 183790,
+      "words": [
+        {
+          "id": "02-copper-current/word/0031",
+          "text": "Stay",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 7939764,
+          "end_sample": 7981410,
+          "start_ms": 180040,
+          "end_ms": 180984,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 7939764,
+              "end_sample": 7943243,
+              "start_ms": 180040,
+              "end_ms": 180119
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7942631,
+              "end_sample": 7945272,
+              "start_ms": 180105,
+              "end_ms": 180165
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 7944659,
+              "end_sample": 7981410,
+              "start_ms": 180151,
+              "end_ms": 180984
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0032",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 7981935,
+          "end_sample": 8023581,
+          "start_ms": 180996,
+          "end_ms": 181941,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 7981935,
+              "end_sample": 8020715,
+              "start_ms": 180996,
+              "end_ms": 181876
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8020102,
+              "end_sample": 8023581,
+              "start_ms": 181862,
+              "end_ms": 181941
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0033",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 8024105,
+          "end_sample": 8048883,
+          "start_ms": 181952,
+          "end_ms": 182514,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 8024105,
+              "end_sample": 8027584,
+              "start_ms": 181952,
+              "end_ms": 182031
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 8026972,
+              "end_sample": 8048883,
+              "start_ms": 182018,
+              "end_ms": 182514
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0034",
+          "text": "line",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 8049408,
+          "end_sample": 8097379,
+          "start_ms": 182526,
+          "end_ms": 183614,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 8049408,
+              "end_sample": 8052887,
+              "start_ms": 182526,
+              "end_ms": 182605
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8052274,
+              "end_sample": 8094513,
+              "start_ms": 182591,
+              "end_ms": 183549
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8093900,
+              "end_sample": 8097379,
+              "start_ms": 183535,
+              "end_ms": 183614
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/010",
+      "role": "lead",
+      "text": "Let the current flow",
+      "start_sample": 8105139,
+      "end_sample": 8270514,
+      "start_ms": 183790,
+      "end_ms": 187540,
+      "words": [
+        {
+          "id": "02-copper-current/word/0035",
+          "text": "Let",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 8105139,
+          "end_sample": 8146785,
+          "start_ms": 183790,
+          "end_ms": 184734,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 8105139,
+              "end_sample": 8108618,
+              "start_ms": 183790,
+              "end_ms": 183869
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 8108006,
+              "end_sample": 8144757,
+              "start_ms": 183855,
+              "end_ms": 184688
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8144144,
+              "end_sample": 8146785,
+              "start_ms": 184674,
+              "end_ms": 184734
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0036",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 8147310,
+          "end_sample": 8172087,
+          "start_ms": 184746,
+          "end_ms": 185308,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 8147310,
+              "end_sample": 8150789,
+              "start_ms": 184746,
+              "end_ms": 184825
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 8150176,
+              "end_sample": 8172087,
+              "start_ms": 184811,
+              "end_ms": 185308
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0037",
+          "text": "current",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 8172612,
+          "end_sample": 8214258,
+          "start_ms": 185320,
+          "end_ms": 186264,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 8172612,
+              "end_sample": 8175253,
+              "start_ms": 185320,
+              "end_ms": 185380
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 8174641,
+              "end_sample": 8192308,
+              "start_ms": 185366,
+              "end_ms": 185767
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 8191696,
+              "end_sample": 8209363,
+              "start_ms": 185753,
+              "end_ms": 186153
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8208751,
+              "end_sample": 8212230,
+              "start_ms": 186139,
+              "end_ms": 186218
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8211617,
+              "end_sample": 8214258,
+              "start_ms": 186204,
+              "end_ms": 186264
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0038",
+          "text": "flow",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 8214783,
+          "end_sample": 8262755,
+          "start_ms": 186276,
+          "end_ms": 187364,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 8214783,
+              "end_sample": 8218262,
+              "start_ms": 186276,
+              "end_ms": 186355
+            },
+            {
+              "symbol": "L",
+              "start_sample": 8217649,
+              "end_sample": 8221128,
+              "start_ms": 186341,
+              "end_ms": 186420
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 8220516,
+              "end_sample": 8262755,
+              "start_ms": 186406,
+              "end_ms": 187364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/011",
+      "role": "lead",
+      "text": "I can hear you",
+      "start_sample": 8270514,
+      "end_sample": 8435889,
+      "start_ms": 187540,
+      "end_ms": 191290,
+      "words": [
+        {
+          "id": "02-copper-current/word/0039",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 8270514,
+          "end_sample": 8308095,
+          "start_ms": 187540,
+          "end_ms": 188392,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 8270514,
+              "end_sample": 8308095,
+              "start_ms": 187540,
+              "end_ms": 188392
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0040",
+          "text": "can",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 8308620,
+          "end_sample": 8346202,
+          "start_ms": 188404,
+          "end_ms": 189256,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 8308620,
+              "end_sample": 8311261,
+              "start_ms": 188404,
+              "end_ms": 188464
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 8310649,
+              "end_sample": 8343335,
+              "start_ms": 188450,
+              "end_ms": 189191
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8342723,
+              "end_sample": 8346202,
+              "start_ms": 189177,
+              "end_ms": 189256
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0041",
+          "text": "hear",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 8346726,
+          "end_sample": 8384308,
+          "start_ms": 189268,
+          "end_ms": 190120,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 8346726,
+              "end_sample": 8350205,
+              "start_ms": 189268,
+              "end_ms": 189347
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 8349592,
+              "end_sample": 8381440,
+              "start_ms": 189333,
+              "end_ms": 190055
+            },
+            {
+              "symbol": "R",
+              "start_sample": 8380829,
+              "end_sample": 8384308,
+              "start_ms": 190041,
+              "end_ms": 190120
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0042",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 8384832,
+          "end_sample": 8428129,
+          "start_ms": 190132,
+          "end_ms": 191114,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 8384832,
+              "end_sample": 8388311,
+              "start_ms": 190132,
+              "end_ms": 190211
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8387698,
+              "end_sample": 8428129,
+              "start_ms": 190197,
+              "end_ms": 191114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/012",
+      "role": "lead",
+      "text": "Take it slow",
+      "start_sample": 8435889,
+      "end_sample": 8601264,
+      "start_ms": 191290,
+      "end_ms": 195040,
+      "words": [
+        {
+          "id": "02-copper-current/word/0043",
+          "text": "Take",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 8435889,
+          "end_sample": 8492870,
+          "start_ms": 191290,
+          "end_ms": 192582,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 8435889,
+              "end_sample": 8438530,
+              "start_ms": 191290,
+              "end_ms": 191350
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 8437918,
+              "end_sample": 8490842,
+              "start_ms": 191336,
+              "end_ms": 192536
+            },
+            {
+              "symbol": "K",
+              "start_sample": 8490229,
+              "end_sample": 8492870,
+              "start_ms": 192522,
+              "end_ms": 192582
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0044",
+          "text": "it",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 8493394,
+          "end_sample": 8527373,
+          "start_ms": 192594,
+          "end_ms": 193364,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 8493394,
+              "end_sample": 8525344,
+              "start_ms": 192594,
+              "end_ms": 193318
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8524732,
+              "end_sample": 8527373,
+              "start_ms": 193305,
+              "end_ms": 193364
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0045",
+          "text": "slow",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 8527898,
+          "end_sample": 8593505,
+          "start_ms": 193376,
+          "end_ms": 194864,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 8527898,
+              "end_sample": 8531377,
+              "start_ms": 193376,
+              "end_ms": 193455
+            },
+            {
+              "symbol": "L",
+              "start_sample": 8530764,
+              "end_sample": 8534243,
+              "start_ms": 193441,
+              "end_ms": 193520
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 8533631,
+              "end_sample": 8593505,
+              "start_ms": 193506,
+              "end_ms": 194864
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/013",
+      "role": "lead",
+      "text": "Stay on the line",
+      "start_sample": 9262764,
+      "end_sample": 9428139,
+      "start_ms": 210040,
+      "end_ms": 213790,
+      "words": [
+        {
+          "id": "02-copper-current/word/0046",
+          "text": "Stay",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 9262764,
+          "end_sample": 9304410,
+          "start_ms": 210040,
+          "end_ms": 210984,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 9262764,
+              "end_sample": 9266243,
+              "start_ms": 210040,
+              "end_ms": 210119
+            },
+            {
+              "symbol": "T",
+              "start_sample": 9265631,
+              "end_sample": 9268272,
+              "start_ms": 210105,
+              "end_ms": 210165
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 9267659,
+              "end_sample": 9304410,
+              "start_ms": 210151,
+              "end_ms": 210984
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0047",
+          "text": "on",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 9304935,
+          "end_sample": 9346581,
+          "start_ms": 210996,
+          "end_ms": 211941,
+          "phonemes": [
+            {
+              "symbol": "AA",
+              "start_sample": 9304935,
+              "end_sample": 9343715,
+              "start_ms": 210996,
+              "end_ms": 211876
+            },
+            {
+              "symbol": "N",
+              "start_sample": 9343102,
+              "end_sample": 9346581,
+              "start_ms": 211862,
+              "end_ms": 211941
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0048",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 9347105,
+          "end_sample": 9371883,
+          "start_ms": 211952,
+          "end_ms": 212514,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 9347105,
+              "end_sample": 9350584,
+              "start_ms": 211952,
+              "end_ms": 212031
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 9349972,
+              "end_sample": 9371883,
+              "start_ms": 212018,
+              "end_ms": 212514
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0049",
+          "text": "line",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 9372408,
+          "end_sample": 9420379,
+          "start_ms": 212526,
+          "end_ms": 213614,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 9372408,
+              "end_sample": 9375887,
+              "start_ms": 212526,
+              "end_ms": 212605
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 9375274,
+              "end_sample": 9417513,
+              "start_ms": 212591,
+              "end_ms": 213549
+            },
+            {
+              "symbol": "N",
+              "start_sample": 9416900,
+              "end_sample": 9420379,
+              "start_ms": 213535,
+              "end_ms": 213614
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/014",
+      "role": "lead",
+      "text": "Let the current flow",
+      "start_sample": 9428139,
+      "end_sample": 9593514,
+      "start_ms": 213790,
+      "end_ms": 217540,
+      "words": [
+        {
+          "id": "02-copper-current/word/0050",
+          "text": "Let",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 9428139,
+          "end_sample": 9469785,
+          "start_ms": 213790,
+          "end_ms": 214734,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 9428139,
+              "end_sample": 9431618,
+              "start_ms": 213790,
+              "end_ms": 213869
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 9431006,
+              "end_sample": 9467757,
+              "start_ms": 213855,
+              "end_ms": 214688
+            },
+            {
+              "symbol": "T",
+              "start_sample": 9467144,
+              "end_sample": 9469785,
+              "start_ms": 214674,
+              "end_ms": 214734
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0051",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 9470310,
+          "end_sample": 9495087,
+          "start_ms": 214746,
+          "end_ms": 215308,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 9470310,
+              "end_sample": 9473789,
+              "start_ms": 214746,
+              "end_ms": 214825
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 9473176,
+              "end_sample": 9495087,
+              "start_ms": 214811,
+              "end_ms": 215308
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0052",
+          "text": "current",
+          "role": "lead",
+          "note_midi": 69,
+          "start_sample": 9495612,
+          "end_sample": 9537258,
+          "start_ms": 215320,
+          "end_ms": 216264,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 9495612,
+              "end_sample": 9498253,
+              "start_ms": 215320,
+              "end_ms": 215380
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 9497641,
+              "end_sample": 9515308,
+              "start_ms": 215366,
+              "end_ms": 215767
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 9514696,
+              "end_sample": 9532363,
+              "start_ms": 215753,
+              "end_ms": 216153
+            },
+            {
+              "symbol": "N",
+              "start_sample": 9531751,
+              "end_sample": 9535230,
+              "start_ms": 216139,
+              "end_ms": 216218
+            },
+            {
+              "symbol": "T",
+              "start_sample": 9534617,
+              "end_sample": 9537258,
+              "start_ms": 216204,
+              "end_ms": 216264
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0053",
+          "text": "flow",
+          "role": "lead",
+          "note_midi": 67,
+          "start_sample": 9537783,
+          "end_sample": 9585755,
+          "start_ms": 216276,
+          "end_ms": 217364,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 9537783,
+              "end_sample": 9541262,
+              "start_ms": 216276,
+              "end_ms": 216355
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9540649,
+              "end_sample": 9544128,
+              "start_ms": 216341,
+              "end_ms": 216420
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 9543516,
+              "end_sample": 9585755,
+              "start_ms": 216406,
+              "end_ms": 217364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/015",
+      "role": "lead",
+      "text": "I can hear you",
+      "start_sample": 9593514,
+      "end_sample": 9758889,
+      "start_ms": 217540,
+      "end_ms": 221290,
+      "words": [
+        {
+          "id": "02-copper-current/word/0054",
+          "text": "I",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 9593514,
+          "end_sample": 9631095,
+          "start_ms": 217540,
+          "end_ms": 218392,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 9593514,
+              "end_sample": 9631095,
+              "start_ms": 217540,
+              "end_ms": 218392
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0055",
+          "text": "can",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 9631620,
+          "end_sample": 9669202,
+          "start_ms": 218404,
+          "end_ms": 219256,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 9631620,
+              "end_sample": 9634261,
+              "start_ms": 218404,
+              "end_ms": 218464
+            },
+            {
+              "symbol": "AE",
+              "start_sample": 9633649,
+              "end_sample": 9666335,
+              "start_ms": 218450,
+              "end_ms": 219191
+            },
+            {
+              "symbol": "N",
+              "start_sample": 9665723,
+              "end_sample": 9669202,
+              "start_ms": 219177,
+              "end_ms": 219256
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0056",
+          "text": "hear",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 9669726,
+          "end_sample": 9707308,
+          "start_ms": 219268,
+          "end_ms": 220120,
+          "phonemes": [
+            {
+              "symbol": "H",
+              "start_sample": 9669726,
+              "end_sample": 9673205,
+              "start_ms": 219268,
+              "end_ms": 219347
+            },
+            {
+              "symbol": "IY",
+              "start_sample": 9672592,
+              "end_sample": 9704440,
+              "start_ms": 219333,
+              "end_ms": 220055
+            },
+            {
+              "symbol": "R",
+              "start_sample": 9703829,
+              "end_sample": 9707308,
+              "start_ms": 220041,
+              "end_ms": 220120
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0057",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 66,
+          "start_sample": 9707832,
+          "end_sample": 9751129,
+          "start_ms": 220132,
+          "end_ms": 221114,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 9707832,
+              "end_sample": 9711311,
+              "start_ms": 220132,
+              "end_ms": 220211
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 9710698,
+              "end_sample": 9751129,
+              "start_ms": 220197,
+              "end_ms": 221114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/lead/016",
+      "role": "lead",
+      "text": "Take it slow",
+      "start_sample": 9758889,
+      "end_sample": 9924264,
+      "start_ms": 221290,
+      "end_ms": 225040,
+      "words": [
+        {
+          "id": "02-copper-current/word/0058",
+          "text": "Take",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 9758889,
+          "end_sample": 9815870,
+          "start_ms": 221290,
+          "end_ms": 222582,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 9758889,
+              "end_sample": 9761530,
+              "start_ms": 221290,
+              "end_ms": 221350
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 9760918,
+              "end_sample": 9813842,
+              "start_ms": 221336,
+              "end_ms": 222536
+            },
+            {
+              "symbol": "K",
+              "start_sample": 9813229,
+              "end_sample": 9815870,
+              "start_ms": 222522,
+              "end_ms": 222582
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0059",
+          "text": "it",
+          "role": "lead",
+          "note_midi": 64,
+          "start_sample": 9816394,
+          "end_sample": 9850373,
+          "start_ms": 222594,
+          "end_ms": 223364,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 9816394,
+              "end_sample": 9848344,
+              "start_ms": 222594,
+              "end_ms": 223318
+            },
+            {
+              "symbol": "T",
+              "start_sample": 9847732,
+              "end_sample": 9850373,
+              "start_ms": 223305,
+              "end_ms": 223364
+            }
+          ]
+        },
+        {
+          "id": "02-copper-current/word/0060",
+          "text": "slow",
+          "role": "lead",
+          "note_midi": 71,
+          "start_sample": 9850898,
+          "end_sample": 9916505,
+          "start_ms": 223376,
+          "end_ms": 224864,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 9850898,
+              "end_sample": 9854377,
+              "start_ms": 223376,
+              "end_ms": 223455
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9853764,
+              "end_sample": 9857243,
+              "start_ms": 223441,
+              "end_ms": 223520
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 9856631,
+              "end_sample": 9916505,
+              "start_ms": 223506,
+              "end_ms": 224864
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/012",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 10916514,
+      "end_sample": 10925808,
+      "start_ms": 247540,
+      "end_ms": 247751,
+      "words": [
+        {
+          "id": "02-copper-current/word/0076",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 71,
+          "start_sample": 10916514,
+          "end_sample": 10925808,
+          "start_ms": 247540,
+          "end_ms": 247751,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 10916514,
+              "end_sample": 10919123,
+              "start_ms": 247540,
+              "end_ms": 247599
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 10918511,
+              "end_sample": 10923812,
+              "start_ms": 247585,
+              "end_ms": 247705
+            },
+            {
+              "symbol": "N",
+              "start_sample": 10923199,
+              "end_sample": 10925808,
+              "start_ms": 247692,
+              "end_ms": 247751
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/013",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 10937186,
+      "end_sample": 10946480,
+      "start_ms": 248009,
+      "end_ms": 248220,
+      "words": [
+        {
+          "id": "02-copper-current/word/0077",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 71,
+          "start_sample": 10937186,
+          "end_sample": 10946480,
+          "start_ms": 248009,
+          "end_ms": 248220,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 10937186,
+              "end_sample": 10939795,
+              "start_ms": 248009,
+              "end_ms": 248068
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 10939183,
+              "end_sample": 10944484,
+              "start_ms": 248054,
+              "end_ms": 248174
+            },
+            {
+              "symbol": "N",
+              "start_sample": 10943871,
+              "end_sample": 10946480,
+              "start_ms": 248160,
+              "end_ms": 248220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-copper-current/chop/014",
+      "role": "chop",
+      "text": "line",
+      "start_sample": 10978530,
+      "end_sample": 10997747,
+      "start_ms": 248946,
+      "end_ms": 249382,
+      "words": [
+        {
+          "id": "02-copper-current/word/0078",
+          "text": "line",
+          "role": "chop",
+          "note_midi": 67,
+          "start_sample": 10978530,
+          "end_sample": 10997747,
+          "start_ms": 248946,
+          "end_ms": 249382,
+          "phonemes": [
+            {
+              "symbol": "L",
+              "start_sample": 10978530,
+              "end_sample": 10982009,
+              "start_ms": 248946,
+              "end_ms": 249025
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 10981396,
+              "end_sample": 10994880,
+              "start_ms": 249011,
+              "end_ms": 249317
+            },
+            {
+              "symbol": "N",
+              "start_sample": 10994268,
+              "end_sample": 10997747,
+              "start_ms": 249303,
+              "end_ms": 249382
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

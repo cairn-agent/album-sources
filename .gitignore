@@ -1,0 +1,17 @@
+/build/
+**/work/
+**/checks/
+**/__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.env
+**/source/night-engine
+**/source/shelter-engine
+**/source/window-engine
+**/wav/
+**/mp3/
+*.zip
+*-full-album.mp3
+*-sampler.mp3

@@ -1,0 +1,496 @@
+[
+  {
+    "title": "Shelter Glass",
+    "number": 1,
+    "stem": "01-shelter-glass",
+    "bpm": 132,
+    "key": "F minor",
+    "seed": 13092223,
+    "engine": "Shelter Engine 1",
+    "engineTrack": 1,
+    "endBeat": 448,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 8
+      },
+      {
+        "name": "approach",
+        "bar": 8,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 24,
+        "bars": 24
+      },
+      {
+        "name": "break",
+        "bar": 48,
+        "bars": 16
+      },
+      {
+        "name": "rebuild",
+        "bar": 64,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 72,
+        "bars": 32
+      },
+      {
+        "name": "outro",
+        "bar": 104,
+        "bars": 8
+      }
+    ],
+    "description": "A few notes on wet glass. Crooked two-step grows around a small, warm signal.",
+    "instrument": "Shelter Tine: softened two-operator FM, unstable tuning, dotted-eighth tape echo.",
+    "swingSixteenth": 0.15,
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Someone on the Other Line",
+    "number": 2,
+    "stem": "02-someone-on-the-other-line",
+    "bpm": 134,
+    "key": "E-flat minor",
+    "seed": 13092420,
+    "engine": "Shelter Engine 1",
+    "engineTrack": 2,
+    "endBeat": 576,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 8
+      },
+      {
+        "name": "approach",
+        "bar": 8,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 24,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 56,
+        "bars": 24
+      },
+      {
+        "name": "rebuild",
+        "bar": 80,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 88,
+        "bars": 40
+      },
+      {
+        "name": "outro",
+        "bar": 128,
+        "bars": 16
+      }
+    ],
+    "description": "A call that never quite becomes a sentence; loose shuffles, missing kicks, and fragments answering across the stereo field.",
+    "instrument": "Granular Caller: a three-formant glottal synth under 87 ms grains, glides and reverse envelopes; five-sixteenth echo.",
+    "swingSixteenth": 0.19,
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Underpass Pressure",
+    "number": 3,
+    "stem": "03-underpass-pressure",
+    "bpm": 140,
+    "key": "D minor",
+    "seed": 13092617,
+    "engine": "Shelter Engine 1",
+    "engineTrack": 3,
+    "endBeat": 608,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "approach",
+        "bar": 16,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 32,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 64,
+        "bars": 24
+      },
+      {
+        "name": "rebuild",
+        "bar": 88,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 96,
+        "bars": 40
+      },
+      {
+        "name": "outro",
+        "bar": 136,
+        "bars": 16
+      }
+    ],
+    "description": "Half-time weight and a distant sonar motif. The second passage lets the garage rhythm leak back through.",
+    "instrument": "Folded Sonar: sine-wave phase modulation through a changing wavefolder; restrained filtered Reese beneath, long cross-fed echo.",
+    "swingSixteenth": 0.11,
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Estate of Echoes",
+    "number": 4,
+    "stem": "04-estate-of-echoes",
+    "bpm": 130,
+    "key": "G minor",
+    "seed": 13092814,
+    "engine": "Shelter Engine 1",
+    "engineTrack": 4,
+    "endBeat": 576,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 8
+      },
+      {
+        "name": "approach",
+        "bar": 8,
+        "bars": 24
+      },
+      {
+        "name": "first",
+        "bar": 32,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 64,
+        "bars": 16
+      },
+      {
+        "name": "rebuild",
+        "bar": 80,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 88,
+        "bars": 40
+      },
+      {
+        "name": "outro",
+        "bar": 128,
+        "bars": 16
+      }
+    ],
+    "description": "Short chord stabs ricochet between buildings. Two-step periodically straightens into a muted four-beat pulse.",
+    "instrument": "Concrete Chord: detuned band-limited saw pairs with a closing resonant filter; high-feedback, high-passed dub tape returns.",
+    "swingSixteenth": 0.14,
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "03:17, No Reply",
+    "number": 5,
+    "stem": "05-0317-no-reply",
+    "bpm": 120,
+    "key": "C minor",
+    "seed": 13093011,
+    "engine": "Shelter Engine 1",
+    "engineTrack": 5,
+    "endBeat": 320,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 8
+      },
+      {
+        "name": "first",
+        "bar": 8,
+        "bars": 16
+      },
+      {
+        "name": "break",
+        "bar": 24,
+        "bars": 24
+      },
+      {
+        "name": "peak",
+        "bar": 48,
+        "bars": 24
+      },
+      {
+        "name": "outro",
+        "bar": 72,
+        "bars": 8
+      }
+    ],
+    "description": "A short shelter from the drums: glass resonance, wordless air, rain and a nearly submerged pulse.",
+    "instrument": "Glass Resonator: three inharmonic modes with independent damping; reverse swells and a large, slow, dark room.",
+    "swingSixteenth": 0.08,
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Service Tunnel",
+    "number": 6,
+    "stem": "06-service-tunnel",
+    "bpm": 136,
+    "key": "F-sharp minor",
+    "seed": 13093208,
+    "engine": "Shelter Engine 1",
+    "engineTrack": 6,
+    "endBeat": 640,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "approach",
+        "bar": 16,
+        "bars": 24
+      },
+      {
+        "name": "first",
+        "bar": 40,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 72,
+        "bars": 16
+      },
+      {
+        "name": "rebuild",
+        "bar": 88,
+        "bars": 16
+      },
+      {
+        "name": "peak",
+        "bar": 104,
+        "bars": 40
+      },
+      {
+        "name": "outro",
+        "bar": 144,
+        "bars": 16
+      }
+    ],
+    "description": "The machine room: a dry, impatient acid line, metallic syncopation and a four-on-the-floor crest with broken edges.",
+    "instrument": "Service Acid: band-limited saw, nonlinear drive and an accented resonant envelope; shorter room and half-beat tape.",
+    "swingSixteenth": 0.075,
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Borrowed Dawn",
+    "number": 7,
+    "stem": "07-borrowed-dawn",
+    "bpm": 138,
+    "key": "A minor",
+    "seed": 13093405,
+    "engine": "Shelter Engine 1",
+    "engineTrack": 7,
+    "endBeat": 640,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 16
+      },
+      {
+        "name": "approach",
+        "bar": 16,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 32,
+        "bars": 32
+      },
+      {
+        "name": "break",
+        "bar": 64,
+        "bars": 32
+      },
+      {
+        "name": "rebuild",
+        "bar": 96,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 104,
+        "bars": 40
+      },
+      {
+        "name": "outro",
+        "bar": 144,
+        "bars": 16
+      }
+    ],
+    "description": "The most open track: wide choir harmonics, a high wordless response, then the heaviest shuffle on the record.",
+    "instrument": "Spectral Choir: nine additive partials with moving weights and subtle beating; wide, modulated late reflections.",
+    "swingSixteenth": 0.17,
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  },
+  {
+    "title": "Footsteps Home",
+    "number": 8,
+    "stem": "08-footsteps-home",
+    "bpm": 128,
+    "key": "F minor",
+    "seed": 13093602,
+    "engine": "Shelter Engine 1",
+    "engineTrack": 8,
+    "endBeat": 512,
+    "sections": [
+      {
+        "name": "intro",
+        "bar": 0,
+        "bars": 8
+      },
+      {
+        "name": "approach",
+        "bar": 8,
+        "bars": 16
+      },
+      {
+        "name": "first",
+        "bar": 24,
+        "bars": 24
+      },
+      {
+        "name": "break",
+        "bar": 48,
+        "bars": 24
+      },
+      {
+        "name": "rebuild",
+        "bar": 72,
+        "bars": 8
+      },
+      {
+        "name": "peak",
+        "bar": 80,
+        "bars": 24
+      },
+      {
+        "name": "outro",
+        "bar": 104,
+        "bars": 24
+      }
+    ],
+    "description": "A warmer, slower walk back. The first track leaves a small reflection in the final bars.",
+    "instrument": "Reed Memory: four sine drawbars, tremolo, tape-like pitch drift and long alternating echoes; opening FM motif returns in the coda.",
+    "swingSixteenth": 0.16,
+    "eventColumns": [
+      "at",
+      "length",
+      "voice",
+      "note",
+      "gain",
+      "pan",
+      "tone",
+      "motion",
+      "delay",
+      "reverb"
+    ]
+  }
+]

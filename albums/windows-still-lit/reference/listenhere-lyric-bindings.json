@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-14T23:05:10.942928+00:00",
+  "release_id": "rel_9705ebfc1ef6b09f165ec894f6f8eceb",
+  "release_revision": 1,
+  "candidate_digest": "460f8efd7caa7335a336c049255b5e099ea3df188781df9931d5cfb5fce2350d",
+  "live_lyric_display_enabled": false,
+  "purpose": "Verified identity and URL mapping for later ListenHere synchronized lyric-player integration. No player or site code was changed.",
+  "timing_contract": "Use decoded media currentTime. Authored timestamps already include the 40 ms entrance; do not add it. Half-open intervals; retain overlapping lead/harmony/chop roles.",
+  "tracks": [
+    {
+      "track_id": "trk_193255c749081aa74f09e59dfced7a97",
+      "track_revision_id": "trv_6f648558f96db3fda3604e5687d26154",
+      "position": 1,
+      "title": "Soft Return",
+      "playback_url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/1/09f295d04137550794bf9b6b19cf01c9f1db4c1b523d40feb9c8464736c9f7f2.mp3",
+      "canonical_audio_asset_id": "ast_dc9444670316fb115b35e37ebf27ce82",
+      "canonical_mp3_sha256": "09f295d04137550794bf9b6b19cf01c9f1db4c1b523d40feb9c8464736c9f7f2",
+      "original_mp3_sha256": "7e79c630d4bb47b310eb23ecb26041715cf972938296b189bce684ba8a7676ca",
+      "lyric_recording_id": "sha256:113079c838e1bf75f3d7fd2c696dbf19579cfa5fdc9e08546eb73b96f8f9b369",
+      "sample_rate": 44100,
+      "timeline_offset_samples": 0,
+      "timeline_offset_ms": 0,
+      "mapping_evidence": "Original and published MP3s decode to identical float PCM, including sample count and origin.",
+      "decoded_pcm_sha256": "SHA256=8b9bdb666fd468c8bad1685b642717d3cc2e95f2da9bdb6ee1666b514c9667fa",
+      "documents": {
+        "harmony captions — WebVTT": {
+          "asset_id": "ast_51b455cd0cc24b9edb8b0846962f7152",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/51/5b947e739a22011f46f515ef497b572ed65aba1ec72f3c1c87ca6516ce0dc926.bin",
+          "sha256": "5b947e739a22011f46f515ef497b572ed65aba1ec72f3c1c87ca6516ce0dc926",
+          "size_bytes": 374,
+          "album_relative_path": "lyrics/site-export/captions/01-soft-return.harmony.vtt"
+        },
+        "lyric captions — WebVTT": {
+          "asset_id": "ast_f6e6d42f816925a954103c6af87deb5c",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/123/b1b494211b51f861f0899155df0c7567cc7166eecd55c72a14958a29d1a107e2.bin",
+          "sha256": "b1b494211b51f861f0899155df0c7567cc7166eecd55c72a14958a29d1a107e2",
+          "size_bytes": 1906,
+          "album_relative_path": "lyrics/site-export/captions/01-soft-return.vtt"
+        },
+        "timed lyrics JSON": {
+          "asset_id": "ast_45d7ca6b6af823f022c5d0411f0ded93",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/45/15e97b238fe0c059cdfb1be1be4a3c3941b9998889979ef12f780f799a489c06.bin",
+          "sha256": "15e97b238fe0c059cdfb1be1be4a3c3941b9998889979ef12f780f799a489c06",
+          "size_bytes": 76055,
+          "album_relative_path": "lyrics/site-export/tracks/01-soft-return.json"
+        },
+        "timed lyrics — LRC": {
+          "asset_id": "ast_ff744149fe94d056ac10c21712bf7bca",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/126/136e0711bad72f6f9aad8cb1f86f8864230b3a9a950a1f3b3fcf89419383a827.bin",
+          "sha256": "136e0711bad72f6f9aad8cb1f86f8864230b3a9a950a1f3b3fcf89419383a827",
+          "size_bytes": 592,
+          "album_relative_path": "lyrics/site-export/lrc/01-soft-return.lrc"
+        },
+        "word-timed karaoke — WebVTT": {
+          "asset_id": "ast_a7e15e4bbc3cca24a4a3dbbeabacf192",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/94/e0a1c4801c5316bdec3e3a81a5aabe1bbf0146c20da41ad800683994583c62fb.bin",
+          "sha256": "e0a1c4801c5316bdec3e3a81a5aabe1bbf0146c20da41ad800683994583c62fb",
+          "size_bytes": 2494,
+          "album_relative_path": "lyrics/site-export/captions/01-soft-return.karaoke.vtt"
+        }
+      }
+    },
+    {
+      "track_id": "trk_bf9bf76ea4fa6b1e3582a2307f7d46ea",
+      "track_revision_id": "trv_36133a20cae683464fc8ef713bf6bf96",
+      "position": 2,
+      "title": "Copper Current",
+      "playback_url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/3/6c64b4f6e0ff4866778210892b61bbb3f71cc396ad49632e441d7e68f9933efd.mp3",
+      "canonical_audio_asset_id": "ast_776bcf25339f206d74ee7dbe9e741a93",
+      "canonical_mp3_sha256": "6c64b4f6e0ff4866778210892b61bbb3f71cc396ad49632e441d7e68f9933efd",
+      "original_mp3_sha256": "d93621e5a156e8d6a391b8280584c694318b41cf4f241885c0b7525f41e3fe6a",
+      "lyric_recording_id": "sha256:f76150d34ec0a71700b71755d7ecca7245f8984414a05abe6aafa93b04ddcb4c",
+      "sample_rate": 44100,
+      "timeline_offset_samples": 0,
+      "timeline_offset_ms": 0,
+      "mapping_evidence": "Original and published MP3s decode to identical float PCM, including sample count and origin.",
+      "decoded_pcm_sha256": "SHA256=123bd139bf2f5cef406a0224ae446229c8e17407287f416d968da0fdc7c46727",
+      "documents": {
+        "harmony captions — WebVTT": {
+          "asset_id": "ast_497c32ee752032bec6af8e11cd8787ef",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/47/8eb5aec53542eaedb7502b22fb677161abba1e265b1338f1af1369a1f689837c.bin",
+          "sha256": "8eb5aec53542eaedb7502b22fb677161abba1e265b1338f1af1369a1f689837c",
+          "size_bytes": 8,
+          "album_relative_path": "lyrics/site-export/captions/02-copper-current.harmony.vtt"
+        },
+        "lyric captions — WebVTT": {
+          "asset_id": "ast_5eb2ba784cc0404c80b7b810c99a75f1",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/60/1da0201981bfd43b13455f521ab6e5a0e8c3c1c1cc9a596cb2e82f0554c01c70.bin",
+          "sha256": "1da0201981bfd43b13455f521ab6e5a0e8c3c1c1cc9a596cb2e82f0554c01c70",
+          "size_bytes": 2529,
+          "album_relative_path": "lyrics/site-export/captions/02-copper-current.vtt"
+        },
+        "timed lyrics JSON": {
+          "asset_id": "ast_01817ea51f18e6d5862100f23b5299d5",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/19/9967d4e386b9f77227a52f04321da4d9a039242212287a452e7f1a6d1756e0e5.bin",
+          "sha256": "9967d4e386b9f77227a52f04321da4d9a039242212287a452e7f1a6d1756e0e5",
+          "size_bytes": 74498,
+          "album_relative_path": "lyrics/site-export/tracks/02-copper-current.json"
+        },
+        "timed lyrics — LRC": {
+          "asset_id": "ast_d6458e524b20836fe641daf9f1a14c39",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/111/f4016b593ceaa891c9451265817b428abb03fd7332248f42e782719b577977da.bin",
+          "sha256": "f4016b593ceaa891c9451265817b428abb03fd7332248f42e782719b577977da",
+          "size_bytes": 726,
+          "album_relative_path": "lyrics/site-export/lrc/02-copper-current.lrc"
+        },
+        "word-timed karaoke — WebVTT": {
+          "asset_id": "ast_8ac6e77e6389b3e35bfebef16f2f4fda",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/74/146eeb43993ae341aecd6882286f3f40fbfbc230f399d56beebb4975e68afae2.bin",
+          "sha256": "146eeb43993ae341aecd6882286f3f40fbfbc230f399d56beebb4975e68afae2",
+          "size_bytes": 3187,
+          "album_relative_path": "lyrics/site-export/captions/02-copper-current.karaoke.vtt"
+        }
+      }
+    },
+    {
+      "track_id": "trk_51e8b7ba6bce8e443228848e26c66e64",
+      "track_revision_id": "trv_e6ada02c5c567d49a528fad83f0d3423",
+      "position": 3,
+      "title": "Blue Hour Conversation",
+      "playback_url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/5/47828d884b9a9fd30231e2adcf214879a831eeb374462082d177fa4edf08eaa2.mp3",
+      "canonical_audio_asset_id": "ast_098e5d2c4032d8c41095e86cb318ba27",
+      "canonical_mp3_sha256": "47828d884b9a9fd30231e2adcf214879a831eeb374462082d177fa4edf08eaa2",
+      "original_mp3_sha256": "e26c18729630cc4ca4ad492de761cb611cb9ec849954d9ea8d48a0d5fb15b9ec",
+      "lyric_recording_id": "sha256:e429c4719636713d3d96126afb47ad53b1975f012d3b983522b6060f9d7f138c",
+      "sample_rate": 44100,
+      "timeline_offset_samples": 0,
+      "timeline_offset_ms": 0,
+      "mapping_evidence": "Original and published MP3s decode to identical float PCM, including sample count and origin.",
+      "decoded_pcm_sha256": "SHA256=8153f56f49a52e402b38ccd875b0d018a9219b2824e8f3783b9850ab99c58a65",
+      "documents": {
+        "harmony captions — WebVTT": {
+          "asset_id": "ast_fa50e2a279b73e7a74da01286a688832",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/125/96dfd1f03dd42ecaeb51aaab4e40956294f378424d503b52a5b41c3f767e5d9a.bin",
+          "sha256": "96dfd1f03dd42ecaeb51aaab4e40956294f378424d503b52a5b41c3f767e5d9a",
+          "size_bytes": 418,
+          "album_relative_path": "lyrics/site-export/captions/03-blue-hour-conversation.harmony.vtt"
+        },
+        "lyric captions — WebVTT": {
+          "asset_id": "ast_d15837918d99c9ba06b6f4a08fbf585d",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/107/81aca9ef28338d7c3f5dd87981c663201ce3b37eaef44a7bb491eb159e376a03.bin",
+          "sha256": "81aca9ef28338d7c3f5dd87981c663201ce3b37eaef44a7bb491eb159e376a03",
+          "size_bytes": 2123,
+          "album_relative_path": "lyrics/site-export/captions/03-blue-hour-conversation.vtt"
+        },
+        "timed lyrics JSON": {
+          "asset_id": "ast_000c156a52bd313211ff895d7380cc70",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/18/79f42e4cd5181a98407219a7b56ce6e4ff04aabaf9e0f1875229ef29c047a275.bin",
+          "sha256": "79f42e4cd5181a98407219a7b56ce6e4ff04aabaf9e0f1875229ef29c047a275",
+          "size_bytes": 71355,
+          "album_relative_path": "lyrics/site-export/tracks/03-blue-hour-conversation.json"
+        },
+        "timed lyrics — LRC": {
+          "asset_id": "ast_f3df93607bf60874271c5510f1c45992",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/122/02340d5c9f414c0fb0eec1fdbebaaf455e7ea7f4c225e8f4560695aac68c3453.bin",
+          "sha256": "02340d5c9f414c0fb0eec1fdbebaaf455e7ea7f4c225e8f4560695aac68c3453",
+          "size_bytes": 556,
+          "album_relative_path": "lyrics/site-export/lrc/03-blue-hour-conversation.lrc"
+        },
+        "word-timed karaoke — WebVTT": {
+          "asset_id": "ast_962bd931185057fbbad8698245932b4c",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/83/e97b1ffb77d2d4149c3c1fef36c50f1226416ed7412797f61f4b430c0dd993f7.bin",
+          "sha256": "e97b1ffb77d2d4149c3c1fef36c50f1226416ed7412797f61f4b430c0dd993f7",
+          "size_bytes": 2627,
+          "album_relative_path": "lyrics/site-export/captions/03-blue-hour-conversation.karaoke.vtt"
+        }
+      }
+    },
+    {
+      "track_id": "trk_21ae02bd08f7af8c6a2d7bc7a17ffc7a",
+      "track_revision_id": "trv_883005bd3960b00ac807abea751e0fa4",
+      "position": 4,
+      "title": "The Room Above the Rain",
+      "playback_url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/7/ec6ea5a33d65073c12f6372a9c8644eb644be0dba0782d8d54c2727a816802c2.mp3",
+      "canonical_audio_asset_id": "ast_d4f2448cb554dba6b791ad315a1abf4b",
+      "canonical_mp3_sha256": "ec6ea5a33d65073c12f6372a9c8644eb644be0dba0782d8d54c2727a816802c2",
+      "original_mp3_sha256": "e2787238c3375ba501f2b7c4cf70ed653f92eecd02d74dbba83acf12448c8522",
+      "lyric_recording_id": "sha256:b31a30b3c3070236ffb256c512514a7a141211a85226b35c2c3b6f44b838d009",
+      "sample_rate": 44100,
+      "timeline_offset_samples": 0,
+      "timeline_offset_ms": 0,
+      "mapping_evidence": "Original and published MP3s decode to identical float PCM, including sample count and origin.",
+      "decoded_pcm_sha256": "SHA256=023ea2a240a24f2dbd0352a534c5b82bba4e11572a2ecfea3c8f82dd728d6e40",
+      "documents": {
+        "harmony captions — WebVTT": {
+          "asset_id": "ast_4d193c804eb3d5f2feb74d28c6258226",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/49/8eb5aec53542eaedb7502b22fb677161abba1e265b1338f1af1369a1f689837c.bin",
+          "sha256": "8eb5aec53542eaedb7502b22fb677161abba1e265b1338f1af1369a1f689837c",
+          "size_bytes": 8,
+          "album_relative_path": "lyrics/site-export/captions/04-the-room-above-the-rain.harmony.vtt"
+        },
+        "lyric captions — WebVTT": {
+          "asset_id": "ast_053defc2c8782ac8ce285cfcd3105192",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/21/54033c99a8647905edf225242330b19f6274775132592bcc8d4bbdf8a055f68e.bin",
+          "sha256": "54033c99a8647905edf225242330b19f6274775132592bcc8d4bbdf8a055f68e",
+          "size_bytes": 863,
+          "album_relative_path": "lyrics/site-export/captions/04-the-room-above-the-rain.vtt"
+        },
+        "timed lyrics JSON": {
+          "asset_id": "ast_84ec63b47c2330da1f27c65eafe18eb7",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/71/d58aea432b7ae1f404e8278c9fe1e85ca4a34f053d99baab0a5f1cbca1e56db5.bin",
+          "sha256": "d58aea432b7ae1f404e8278c9fe1e85ca4a34f053d99baab0a5f1cbca1e56db5",
+          "size_bytes": 31668,
+          "album_relative_path": "lyrics/site-export/tracks/04-the-room-above-the-rain.json"
+        },
+        "timed lyrics — LRC": {
+          "asset_id": "ast_d595ed3ec77c39827486b745b978fefb",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/110/1ce4cc11a51554ad9ee6955c85a38145f596a2c6a4a78e9addb4a1a762e8ab46.bin",
+          "sha256": "1ce4cc11a51554ad9ee6955c85a38145f596a2c6a4a78e9addb4a1a762e8ab46",
+          "size_bytes": 308,
+          "album_relative_path": "lyrics/site-export/lrc/04-the-room-above-the-rain.lrc"
+        },
+        "word-timed karaoke — WebVTT": {
+          "asset_id": "ast_bfc00a110e8d02ba6c80d240e94a9df1",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/100/4fe58206832831fb4e8a5af51db49688fd414c0a9e5e647a6f35b7e4735de775.bin",
+          "sha256": "4fe58206832831fb4e8a5af51db49688fd414c0a9e5e647a6f35b7e4735de775",
+          "size_bytes": 1171,
+          "album_relative_path": "lyrics/site-export/captions/04-the-room-above-the-rain.karaoke.vtt"
+        }
+      }
+    },
+    {
+      "track_id": "trk_94f685fc8006141573bb83b2b4d519c6",
+      "track_revision_id": "trv_527e19d43c0e63d4674965c201bae23d",
+      "position": 5,
+      "title": "Landing Light",
+      "playback_url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/9/844d923a331ae4a778e2288d86137ae2882862a9fe5279f2f997c3237db54e94.mp3",
+      "canonical_audio_asset_id": "ast_e500e4c4365a11c9bfd68f032ab3eb40",
+      "canonical_mp3_sha256": "844d923a331ae4a778e2288d86137ae2882862a9fe5279f2f997c3237db54e94",
+      "original_mp3_sha256": "e99affeca242d363c4c5ff687f494cab5b0605334cf10da0ce791c52b17f5839",
+      "lyric_recording_id": "sha256:034b9a05866e2e3adc3e48cc305581fce39297475e28d268d8c9a94390211098",
+      "sample_rate": 44100,
+      "timeline_offset_samples": 0,
+      "timeline_offset_ms": 0,
+      "mapping_evidence": "Original and published MP3s decode to identical float PCM, including sample count and origin.",
+      "decoded_pcm_sha256": "SHA256=6e141c226b5fd9081989e8cbc683948cfebc8211674b329be04f337cd229e0a2",
+      "documents": {
+        "harmony captions — WebVTT": {
+          "asset_id": "ast_66b5c24105c14bbd847bef03f74b6125",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/63/30dfad4d4837cedf122fa1e7675710d7851be956980b22ca3a126fdee2292321.bin",
+          "sha256": "30dfad4d4837cedf122fa1e7675710d7851be956980b22ca3a126fdee2292321",
+          "size_bytes": 578,
+          "album_relative_path": "lyrics/site-export/captions/05-landing-light.harmony.vtt"
+        },
+        "lyric captions — WebVTT": {
+          "asset_id": "ast_5429f75799b9d4a4bc9afc1a1c96d172",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/54/c994800aac764879fe178fa27b7662e3b59a4956ecec8692899aba27e8652f32.bin",
+          "sha256": "c994800aac764879fe178fa27b7662e3b59a4956ecec8692899aba27e8652f32",
+          "size_bytes": 2111,
+          "album_relative_path": "lyrics/site-export/captions/05-landing-light.vtt"
+        },
+        "timed lyrics JSON": {
+          "asset_id": "ast_05538f1d65c9c657c61365be5d9caee3",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/22/5ced5f3f654d0bf82766f380a757891ac450ba75a75323404461843c607f00e6.bin",
+          "sha256": "5ced5f3f654d0bf82766f380a757891ac450ba75a75323404461843c607f00e6",
+          "size_bytes": 99795,
+          "album_relative_path": "lyrics/site-export/tracks/05-landing-light.json"
+        },
+        "timed lyrics — LRC": {
+          "asset_id": "ast_b0e36e7ec45520dffdfef1ca27bd7127",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/96/d7228d4691b8628ae8eaed767012beaf3d556c8258b5b3c467b4a3a49aff6e47.bin",
+          "sha256": "d7228d4691b8628ae8eaed767012beaf3d556c8258b5b3c467b4a3a49aff6e47",
+          "size_bytes": 692,
+          "album_relative_path": "lyrics/site-export/lrc/05-landing-light.lrc"
+        },
+        "word-timed karaoke — WebVTT": {
+          "asset_id": "ast_5dd1985fcf9a3974db376a2f8125ac88",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/59/a6730f1d76f50708e81741e85525f6a43c565a837c7086a7b18bd559892d2c3f.bin",
+          "sha256": "a6730f1d76f50708e81741e85525f6a43c565a837c7086a7b18bd559892d2c3f",
+          "size_bytes": 2895,
+          "album_relative_path": "lyrics/site-export/captions/05-landing-light.karaoke.vtt"
+        }
+      }
+    },
+    {
+      "track_id": "trk_9b23138a59c30f0e37e3b1346e8571ac",
+      "track_revision_id": "trv_f21586672e081ba22d8f95d82ce5f75e",
+      "position": 6,
+      "title": "Low Water",
+      "playback_url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/11/c24847d126d0459d6d3ce7dd23f957889c5bc10794a895e9ea63ad09f45ac09e.mp3",
+      "canonical_audio_asset_id": "ast_2adeda5b35ee0c6bcdfd641bed28bfdb",
+      "canonical_mp3_sha256": "c24847d126d0459d6d3ce7dd23f957889c5bc10794a895e9ea63ad09f45ac09e",
+      "original_mp3_sha256": "617d868c6b8cfa0dbbea715b72f4ad46cf8fae2db99bf87473191dae89fbe195",
+      "lyric_recording_id": "sha256:93e41febf1dc02527992fe179f996ff9a356d0241f50f3fbd159e0a236ba096f",
+      "sample_rate": 44100,
+      "timeline_offset_samples": 0,
+      "timeline_offset_ms": 0,
+      "mapping_evidence": "Original and published MP3s decode to identical float PCM, including sample count and origin.",
+      "decoded_pcm_sha256": "SHA256=11dbae64e072952229fcd300b77dd4e41d6b6e6a47ccdaf309641b039d58e7fd",
+      "documents": {
+        "harmony captions — WebVTT": {
+          "asset_id": "ast_813bb1774e8d538eca4ae3f4c3eac7e5",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/70/8eb5aec53542eaedb7502b22fb677161abba1e265b1338f1af1369a1f689837c.bin",
+          "sha256": "8eb5aec53542eaedb7502b22fb677161abba1e265b1338f1af1369a1f689837c",
+          "size_bytes": 8,
+          "album_relative_path": "lyrics/site-export/captions/06-low-water.harmony.vtt"
+        },
+        "lyric captions — WebVTT": {
+          "asset_id": "ast_2021b0aa4e6afd7211b91512395c8fd6",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/33/57ec9494924681b4af1fa284610e391610e7a5b1abb14f554d53c59c9abd1601.bin",
+          "sha256": "57ec9494924681b4af1fa284610e391610e7a5b1abb14f554d53c59c9abd1601",
+          "size_bytes": 1209,
+          "album_relative_path": "lyrics/site-export/captions/06-low-water.vtt"
+        },
+        "timed lyrics JSON": {
+          "asset_id": "ast_8e459bc1a8a5f6dd2bea6203306b7d12",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/76/543ec496f2cd90da55b84cc7fffb4d7dc69ae7bdab3cb1ae2a9a954d2bd59b7e.bin",
+          "sha256": "543ec496f2cd90da55b84cc7fffb4d7dc69ae7bdab3cb1ae2a9a954d2bd59b7e",
+          "size_bytes": 46832,
+          "album_relative_path": "lyrics/site-export/tracks/06-low-water.json"
+        },
+        "timed lyrics — LRC": {
+          "asset_id": "ast_9f688e783ae6babde29ec716e67a7590",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/87/e8879f519b3666f89d87a8062c3b4844dd42deea8399cb9228f509cd50c26fb9.bin",
+          "sha256": "e8879f519b3666f89d87a8062c3b4844dd42deea8399cb9228f509cd50c26fb9",
+          "size_bytes": 436,
+          "album_relative_path": "lyrics/site-export/lrc/06-low-water.lrc"
+        },
+        "word-timed karaoke — WebVTT": {
+          "asset_id": "ast_33b6902fc32cd6ac1cddd302db4d03ce",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/41/9a12132594f704cbcb62ce682e919bca138eb112a02a0a7cfa76a1fa66510ed7.bin",
+          "sha256": "9a12132594f704cbcb62ce682e919bca138eb112a02a0a7cfa76a1fa66510ed7",
+          "size_bytes": 1657,
+          "album_relative_path": "lyrics/site-export/captions/06-low-water.karaoke.vtt"
+        }
+      }
+    },
+    {
+      "track_id": "trk_74bca754f2e1100ec15ba99d0482b84d",
+      "track_revision_id": "trv_db2bc018e2c55c82c909ce6cb5acb900",
+      "position": 7,
+      "title": "A Place to Stay",
+      "playback_url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/13/629107553988e62f874d03ab4818a239b5c664b69b6d636c5b223a8959a0f6e5.mp3",
+      "canonical_audio_asset_id": "ast_8e2eff71dc975eef2aa30d919272168a",
+      "canonical_mp3_sha256": "629107553988e62f874d03ab4818a239b5c664b69b6d636c5b223a8959a0f6e5",
+      "original_mp3_sha256": "63c7d6df040ed39850ff7185133629da86e887518d24ef40b799be4bde109b42",
+      "lyric_recording_id": "sha256:7bf538631815d4041e75de46adcc9362c0e49aebf6f655ab44b0341373c5dc03",
+      "sample_rate": 44100,
+      "timeline_offset_samples": 0,
+      "timeline_offset_ms": 0,
+      "mapping_evidence": "Original and published MP3s decode to identical float PCM, including sample count and origin.",
+      "decoded_pcm_sha256": "SHA256=9ee5fcc78bd126fdc24b76750eb1340f519b3fcb90df4e7d11f79ebfe72bcfd8",
+      "documents": {
+        "harmony captions — WebVTT": {
+          "asset_id": "ast_08eebda34fae41113559de6df48ec990",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/24/3fbce396da75fa41aa2576d1241ffaede7dce189e6890de5dab3eb35820439d8.bin",
+          "sha256": "3fbce396da75fa41aa2576d1241ffaede7dce189e6890de5dab3eb35820439d8",
+          "size_bytes": 578,
+          "album_relative_path": "lyrics/site-export/captions/07-a-place-to-stay.harmony.vtt"
+        },
+        "lyric captions — WebVTT": {
+          "asset_id": "ast_342c34a8ff596e096dd6ca0c986e677d",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/42/8c6fbc65bdec7d76c45c9cb0dd51f9e4baaa2b0c1cb4e4c4e862c2861f685c19.bin",
+          "sha256": "8c6fbc65bdec7d76c45c9cb0dd51f9e4baaa2b0c1cb4e4c4e862c2861f685c19",
+          "size_bytes": 2368,
+          "album_relative_path": "lyrics/site-export/captions/07-a-place-to-stay.vtt"
+        },
+        "timed lyrics JSON": {
+          "asset_id": "ast_e4edf253004a6481134f5fb7a3c07629",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/117/465a640c53160b6013a6a64585d426e6772f250bbe684592a95b1437a21d112e.bin",
+          "sha256": "465a640c53160b6013a6a64585d426e6772f250bbe684592a95b1437a21d112e",
+          "size_bytes": 94102,
+          "album_relative_path": "lyrics/site-export/tracks/07-a-place-to-stay.json"
+        },
+        "timed lyrics — LRC": {
+          "asset_id": "ast_cf2ad2fd9e2453b2bf4141e66eb325ec",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/105/f462ba8cc1ab8d24e5bba10f820c091e3b85cb1c125b053af5d7fc2cffa219e5.bin",
+          "sha256": "f462ba8cc1ab8d24e5bba10f820c091e3b85cb1c125b053af5d7fc2cffa219e5",
+          "size_bytes": 718,
+          "album_relative_path": "lyrics/site-export/lrc/07-a-place-to-stay.lrc"
+        },
+        "word-timed karaoke — WebVTT": {
+          "asset_id": "ast_b4619a6ec96da4f3c4f34a668d27bdbd",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/98/de5b9c952ceaf53cb57f1891a447ae5ed98a9d1da4b0cfa339c1ab844fad9183.bin",
+          "sha256": "de5b9c952ceaf53cb57f1891a447ae5ed98a9d1da4b0cfa339c1ab844fad9183",
+          "size_bytes": 3040,
+          "album_relative_path": "lyrics/site-export/captions/07-a-place-to-stay.karaoke.vtt"
+        }
+      }
+    },
+    {
+      "track_id": "trk_2b7df457150c9d52feaf347c8b17fb8e",
+      "track_revision_id": "trv_0aa43da02f0b7f14f3a4e194a66a2bc4",
+      "position": 8,
+      "title": "Windows Still Lit",
+      "playback_url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/15/64bc0a48fbbac0de4d29466fd9f513511c281023e635be6cf9dd1258b47cf8da.mp3",
+      "canonical_audio_asset_id": "ast_194a58fd9d7a19c01b79135d8d30f813",
+      "canonical_mp3_sha256": "64bc0a48fbbac0de4d29466fd9f513511c281023e635be6cf9dd1258b47cf8da",
+      "original_mp3_sha256": "a7195fe4a0023ab0081b16d77ffc3269e53ea5a1f9ffec95bd8ab1cb3382b33d",
+      "lyric_recording_id": "sha256:4959663a2c908a7faffcc0add044c2d9ebf288e537dd431559aa810fc0623d16",
+      "sample_rate": 44100,
+      "timeline_offset_samples": 0,
+      "timeline_offset_ms": 0,
+      "mapping_evidence": "Original and published MP3s decode to identical float PCM, including sample count and origin.",
+      "decoded_pcm_sha256": "SHA256=f8fdcbc700f8f219ec8b68e3e8c1e123782ad9654f1ceaaffd30529005d0fc00",
+      "documents": {
+        "harmony captions — WebVTT": {
+          "asset_id": "ast_ed8af4df72ef03508782b5c6fb1a8d35",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/119/26e767f44775c1c7b6757ca6453696aa53295f402e37d4d970bfd1efaada9865.bin",
+          "sha256": "26e767f44775c1c7b6757ca6453696aa53295f402e37d4d970bfd1efaada9865",
+          "size_bytes": 414,
+          "album_relative_path": "lyrics/site-export/captions/08-windows-still-lit.harmony.vtt"
+        },
+        "lyric captions — WebVTT": {
+          "asset_id": "ast_b9b362816b19c228c2a7d44dd5ea1418",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/99/40fcdfcd9c3b5fd6773b747523b28b92bf4dea2e41bb9e0eb9a7f58832b85f20.bin",
+          "sha256": "40fcdfcd9c3b5fd6773b747523b28b92bf4dea2e41bb9e0eb9a7f58832b85f20",
+          "size_bytes": 1221,
+          "album_relative_path": "lyrics/site-export/captions/08-windows-still-lit.vtt"
+        },
+        "timed lyrics JSON": {
+          "asset_id": "ast_4cfd8858cfc3380420014cc30ad57a4c",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/48/e9b804e6d3971c071446f0967972a5be6c5d9e84c5d199d6bb9d136c359f641c.bin",
+          "sha256": "e9b804e6d3971c071446f0967972a5be6c5d9e84c5d199d6bb9d136c359f641c",
+          "size_bytes": 73688,
+          "album_relative_path": "lyrics/site-export/tracks/08-windows-still-lit.json"
+        },
+        "timed lyrics — LRC": {
+          "asset_id": "ast_dbf51e7bd6ee3ae8b4ee3f4529457cc7",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/113/c717c757ef4b74d4ca44c278d88f7cf7172b106983f67da09288205908c3f799.bin",
+          "sha256": "c717c757ef4b74d4ca44c278d88f7cf7172b106983f67da09288205908c3f799",
+          "size_bytes": 462,
+          "album_relative_path": "lyrics/site-export/lrc/08-windows-still-lit.lrc"
+        },
+        "word-timed karaoke — WebVTT": {
+          "asset_id": "ast_711ad3f939d633ef794b300cf53f4f46",
+          "url": "https://media.listenhere.ai/production/publications/a8ec93bf865f1dbb13451d7c526d60a1/67/94586f2f6c28d066071c6de6a183929c4a14d9597a86a9a42d33472bd51158ca.bin",
+          "sha256": "94586f2f6c28d066071c6de6a183929c4a14d9597a86a9a42d33472bd51158ca",
+          "size_bytes": 1711,
+          "album_relative_path": "lyrics/site-export/captions/08-windows-still-lit.karaoke.vtt"
+        }
+      }
+    }
+  ]
+}

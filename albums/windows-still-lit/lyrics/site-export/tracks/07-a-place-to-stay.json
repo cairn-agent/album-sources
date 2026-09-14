@@ -1,0 +1,3504 @@
+{
+  "schema_version": "1.0.0",
+  "document_type": "timed_lyrics",
+  "release_key": "windows-still-lit",
+  "track_key": "07-a-place-to-stay",
+  "title": "A Place to Stay",
+  "artist": "Cairn",
+  "language": "en",
+  "time_unit": "milliseconds",
+  "sample_rate": 44100,
+  "duration_samples": 12007224,
+  "duration_ms": 272273,
+  "recording": {
+    "id": "sha256:7bf538631815d4041e75de46adcc9362c0e49aebf6f655ab44b0341373c5dc03",
+    "revision": 1,
+    "canonical_format": "wav",
+    "audio_assets": [
+      {
+        "format": "wav",
+        "album_relative_path": "wav/07-a-place-to-stay.wav",
+        "sha256": "7bf538631815d4041e75de46adcc9362c0e49aebf6f655ab44b0341373c5dc03"
+      },
+      {
+        "format": "mp3",
+        "album_relative_path": "mp3/07-a-place-to-stay.mp3",
+        "sha256": "63c7d6df040ed39850ff7185133629da86e887518d24ef40b799be4bde109b42"
+      }
+    ]
+  },
+  "alignment": {
+    "method": "composer_authored_render_events",
+    "audio_zero": "first decoded PCM sample",
+    "render_offset_ms": 40,
+    "intervals": "start inclusive; end exclusive",
+    "vocal_release_ms": 12,
+    "reverb_tails_excluded": true,
+    "manually_listening_verified": false
+  },
+  "cues": [
+    {
+      "id": "07-a-place-to-stay/chop/001",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 994014,
+      "end_sample": 1003309,
+      "start_ms": 22540,
+      "end_ms": 22751,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0086",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 75,
+          "start_sample": 994014,
+          "end_sample": 1003309,
+          "start_ms": 22540,
+          "end_ms": 22751,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 994014,
+              "end_sample": 996965,
+              "start_ms": 22540,
+              "end_ms": 22607
+            },
+            {
+              "symbol": "T",
+              "start_sample": 996353,
+              "end_sample": 998620,
+              "start_ms": 22593,
+              "end_ms": 22644
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 998008,
+              "end_sample": 1003309,
+              "start_ms": 22631,
+              "end_ms": 22751
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/002",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 1014686,
+      "end_sample": 1023981,
+      "start_ms": 23009,
+      "end_ms": 23220,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0087",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 75,
+          "start_sample": 1014686,
+          "end_sample": 1023981,
+          "start_ms": 23009,
+          "end_ms": 23220,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 1014686,
+              "end_sample": 1017637,
+              "start_ms": 23009,
+              "end_ms": 23076
+            },
+            {
+              "symbol": "T",
+              "start_sample": 1017025,
+              "end_sample": 1019292,
+              "start_ms": 23062,
+              "end_ms": 23113
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 1018680,
+              "end_sample": 1023981,
+              "start_ms": 23099,
+              "end_ms": 23220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/003",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 1056030,
+      "end_sample": 1075247,
+      "start_ms": 23946,
+      "end_ms": 24382,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0088",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 1056030,
+          "end_sample": 1075247,
+          "start_ms": 23946,
+          "end_ms": 24382,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 1056030,
+              "end_sample": 1059509,
+              "start_ms": 23946,
+              "end_ms": 24025
+            },
+            {
+              "symbol": "T",
+              "start_sample": 1058896,
+              "end_sample": 1061537,
+              "start_ms": 24011,
+              "end_ms": 24071
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 1060925,
+              "end_sample": 1075247,
+              "start_ms": 24057,
+              "end_ms": 24382
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/004",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 1655514,
+      "end_sample": 1664809,
+      "start_ms": 37540,
+      "end_ms": 37751,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0089",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 75,
+          "start_sample": 1655514,
+          "end_sample": 1664809,
+          "start_ms": 37540,
+          "end_ms": 37751,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 1655514,
+              "end_sample": 1658465,
+              "start_ms": 37540,
+              "end_ms": 37607
+            },
+            {
+              "symbol": "T",
+              "start_sample": 1657853,
+              "end_sample": 1660120,
+              "start_ms": 37593,
+              "end_ms": 37644
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 1659508,
+              "end_sample": 1664809,
+              "start_ms": 37631,
+              "end_ms": 37751
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/005",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 1676186,
+      "end_sample": 1685481,
+      "start_ms": 38009,
+      "end_ms": 38220,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0090",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 75,
+          "start_sample": 1676186,
+          "end_sample": 1685481,
+          "start_ms": 38009,
+          "end_ms": 38220,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 1676186,
+              "end_sample": 1679137,
+              "start_ms": 38009,
+              "end_ms": 38076
+            },
+            {
+              "symbol": "T",
+              "start_sample": 1678525,
+              "end_sample": 1680792,
+              "start_ms": 38062,
+              "end_ms": 38113
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 1680180,
+              "end_sample": 1685481,
+              "start_ms": 38099,
+              "end_ms": 38220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/006",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 1717530,
+      "end_sample": 1736747,
+      "start_ms": 38946,
+      "end_ms": 39382,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0091",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 1717530,
+          "end_sample": 1736747,
+          "start_ms": 38946,
+          "end_ms": 39382,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 1717530,
+              "end_sample": 1721009,
+              "start_ms": 38946,
+              "end_ms": 39025
+            },
+            {
+              "symbol": "T",
+              "start_sample": 1720396,
+              "end_sample": 1723037,
+              "start_ms": 39011,
+              "end_ms": 39071
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 1722425,
+              "end_sample": 1736747,
+              "start_ms": 39057,
+              "end_ms": 39382
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/001",
+      "role": "lead",
+      "text": "There is a place for you",
+      "start_sample": 2647764,
+      "end_sample": 2813139,
+      "start_ms": 60040,
+      "end_ms": 63790,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0001",
+          "text": "There",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 2647764,
+          "end_sample": 2676798,
+          "start_ms": 60040,
+          "end_ms": 60698,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 2647764,
+              "end_sample": 2651243,
+              "start_ms": 60040,
+              "end_ms": 60119
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 2650631,
+              "end_sample": 2673932,
+              "start_ms": 60105,
+              "end_ms": 60633
+            },
+            {
+              "symbol": "R",
+              "start_sample": 2673319,
+              "end_sample": 2676798,
+              "start_ms": 60619,
+              "end_ms": 60698
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0002",
+          "text": "is",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 2677323,
+          "end_sample": 2694534,
+          "start_ms": 60710,
+          "end_ms": 61101,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 2677323,
+              "end_sample": 2691667,
+              "start_ms": 60710,
+              "end_ms": 61036
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 2691055,
+              "end_sample": 2694534,
+              "start_ms": 61022,
+              "end_ms": 61101
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0003",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 80,
+          "start_sample": 2695058,
+          "end_sample": 2712269,
+          "start_ms": 61112,
+          "end_ms": 61503,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 2695058,
+              "end_sample": 2712269,
+              "start_ms": 61112,
+              "end_ms": 61503
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0004",
+          "text": "place",
+          "role": "lead",
+          "note_midi": 79,
+          "start_sample": 2712793,
+          "end_sample": 2741828,
+          "start_ms": 61515,
+          "end_ms": 62173,
+          "phonemes": [
+            {
+              "symbol": "P",
+              "start_sample": 2712793,
+              "end_sample": 2715434,
+              "start_ms": 61515,
+              "end_ms": 61574
+            },
+            {
+              "symbol": "L",
+              "start_sample": 2714822,
+              "end_sample": 2718301,
+              "start_ms": 61561,
+              "end_ms": 61639
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 2717689,
+              "end_sample": 2738962,
+              "start_ms": 61626,
+              "end_ms": 62108
+            },
+            {
+              "symbol": "S",
+              "start_sample": 2738349,
+              "end_sample": 2741828,
+              "start_ms": 62094,
+              "end_ms": 62173
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0005",
+          "text": "for",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 2742352,
+          "end_sample": 2771387,
+          "start_ms": 62185,
+          "end_ms": 62843,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 2742352,
+              "end_sample": 2745831,
+              "start_ms": 62185,
+              "end_ms": 62264
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 2745219,
+              "end_sample": 2768520,
+              "start_ms": 62250,
+              "end_ms": 62778
+            },
+            {
+              "symbol": "R",
+              "start_sample": 2767908,
+              "end_sample": 2771387,
+              "start_ms": 62764,
+              "end_ms": 62843
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0006",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 2771911,
+          "end_sample": 2805380,
+          "start_ms": 62855,
+          "end_ms": 63614,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 2771911,
+              "end_sample": 2775390,
+              "start_ms": 62855,
+              "end_ms": 62934
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 2774778,
+              "end_sample": 2805380,
+              "start_ms": 62920,
+              "end_ms": 63614
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/002",
+      "role": "lead",
+      "text": "Close your eyes",
+      "start_sample": 2813139,
+      "end_sample": 2978514,
+      "start_ms": 63790,
+      "end_ms": 67540,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0007",
+          "text": "Close",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 2813139,
+          "end_sample": 2862818,
+          "start_ms": 63790,
+          "end_ms": 64917,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 2813139,
+              "end_sample": 2815780,
+              "start_ms": 63790,
+              "end_ms": 63850
+            },
+            {
+              "symbol": "L",
+              "start_sample": 2815168,
+              "end_sample": 2818647,
+              "start_ms": 63836,
+              "end_ms": 63915
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 2818034,
+              "end_sample": 2859951,
+              "start_ms": 63901,
+              "end_ms": 64851
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 2859339,
+              "end_sample": 2862818,
+              "start_ms": 64838,
+              "end_ms": 64917
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0008",
+          "text": "your",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 2863342,
+          "end_sample": 2913021,
+          "start_ms": 64928,
+          "end_ms": 66055,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 2863342,
+              "end_sample": 2866821,
+              "start_ms": 64928,
+              "end_ms": 65007
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 2866209,
+              "end_sample": 2910155,
+              "start_ms": 64993,
+              "end_ms": 65990
+            },
+            {
+              "symbol": "R",
+              "start_sample": 2909542,
+              "end_sample": 2913021,
+              "start_ms": 65976,
+              "end_ms": 66055
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0009",
+          "text": "eyes",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 2913545,
+          "end_sample": 2970754,
+          "start_ms": 66067,
+          "end_ms": 67364,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 2913545,
+              "end_sample": 2967888,
+              "start_ms": 66067,
+              "end_ms": 67299
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 2967275,
+              "end_sample": 2970754,
+              "start_ms": 67285,
+              "end_ms": 67364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/003",
+      "role": "lead",
+      "text": "Through the rain",
+      "start_sample": 2978514,
+      "end_sample": 3143889,
+      "start_ms": 67540,
+      "end_ms": 71290,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0010",
+          "text": "Through",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 2978514,
+          "end_sample": 3035495,
+          "start_ms": 67540,
+          "end_ms": 68832,
+          "phonemes": [
+            {
+              "symbol": "TH",
+              "start_sample": 2978514,
+              "end_sample": 2981993,
+              "start_ms": 67540,
+              "end_ms": 67619
+            },
+            {
+              "symbol": "R",
+              "start_sample": 2981381,
+              "end_sample": 2984860,
+              "start_ms": 67605,
+              "end_ms": 67684
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 2984247,
+              "end_sample": 3035495,
+              "start_ms": 67670,
+              "end_ms": 68832
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0011",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 73,
+          "start_sample": 3036019,
+          "end_sample": 3069998,
+          "start_ms": 68844,
+          "end_ms": 69614,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 3036019,
+              "end_sample": 3039498,
+              "start_ms": 68844,
+              "end_ms": 68923
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 3038886,
+              "end_sample": 3069998,
+              "start_ms": 68909,
+              "end_ms": 69614
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0012",
+          "text": "rain",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 3070523,
+          "end_sample": 3136129,
+          "start_ms": 69626,
+          "end_ms": 71114,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 3070523,
+              "end_sample": 3074002,
+              "start_ms": 69626,
+              "end_ms": 69705
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 3073389,
+              "end_sample": 3133263,
+              "start_ms": 69691,
+              "end_ms": 71049
+            },
+            {
+              "symbol": "N",
+              "start_sample": 3132650,
+              "end_sample": 3136129,
+              "start_ms": 71035,
+              "end_ms": 71114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/004",
+      "role": "lead",
+      "text": "After all this time",
+      "start_sample": 3143889,
+      "end_sample": 3309264,
+      "start_ms": 71290,
+      "end_ms": 75040,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0013",
+          "text": "After",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 3143889,
+          "end_sample": 3181470,
+          "start_ms": 71290,
+          "end_ms": 72142,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 3143889,
+              "end_sample": 3160538,
+              "start_ms": 71290,
+              "end_ms": 71668
+            },
+            {
+              "symbol": "F",
+              "start_sample": 3159926,
+              "end_sample": 3163405,
+              "start_ms": 71654,
+              "end_ms": 71733
+            },
+            {
+              "symbol": "T",
+              "start_sample": 3162792,
+              "end_sample": 3165433,
+              "start_ms": 71719,
+              "end_ms": 71779
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 3164821,
+              "end_sample": 3181470,
+              "start_ms": 71765,
+              "end_ms": 72142
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0014",
+          "text": "all",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 3181995,
+          "end_sample": 3219577,
+          "start_ms": 72154,
+          "end_ms": 73006,
+          "phonemes": [
+            {
+              "symbol": "AO",
+              "start_sample": 3181995,
+              "end_sample": 3216710,
+              "start_ms": 72154,
+              "end_ms": 72941
+            },
+            {
+              "symbol": "L",
+              "start_sample": 3216098,
+              "end_sample": 3219577,
+              "start_ms": 72927,
+              "end_ms": 73006
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0015",
+          "text": "this",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 3220101,
+          "end_sample": 3257683,
+          "start_ms": 73018,
+          "end_ms": 73870,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 3220101,
+              "end_sample": 3223580,
+              "start_ms": 73018,
+              "end_ms": 73097
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 3222967,
+              "end_sample": 3254815,
+              "start_ms": 73083,
+              "end_ms": 73805
+            },
+            {
+              "symbol": "S",
+              "start_sample": 3254204,
+              "end_sample": 3257683,
+              "start_ms": 73791,
+              "end_ms": 73870
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0016",
+          "text": "time",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 3258207,
+          "end_sample": 3301504,
+          "start_ms": 73882,
+          "end_ms": 74864,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 3258207,
+              "end_sample": 3260848,
+              "start_ms": 73882,
+              "end_ms": 73942
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 3260236,
+              "end_sample": 3298638,
+              "start_ms": 73928,
+              "end_ms": 74799
+            },
+            {
+              "symbol": "M",
+              "start_sample": 3298025,
+              "end_sample": 3301504,
+              "start_ms": 74785,
+              "end_ms": 74864
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/005",
+      "role": "lead",
+      "text": "There is a place for you",
+      "start_sample": 3970764,
+      "end_sample": 4136139,
+      "start_ms": 90040,
+      "end_ms": 93790,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0017",
+          "text": "There",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 3970764,
+          "end_sample": 3999798,
+          "start_ms": 90040,
+          "end_ms": 90698,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 3970764,
+              "end_sample": 3974243,
+              "start_ms": 90040,
+              "end_ms": 90119
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 3973631,
+              "end_sample": 3996932,
+              "start_ms": 90105,
+              "end_ms": 90633
+            },
+            {
+              "symbol": "R",
+              "start_sample": 3996319,
+              "end_sample": 3999798,
+              "start_ms": 90619,
+              "end_ms": 90698
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0018",
+          "text": "is",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 4000323,
+          "end_sample": 4017534,
+          "start_ms": 90710,
+          "end_ms": 91101,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 4000323,
+              "end_sample": 4014667,
+              "start_ms": 90710,
+              "end_ms": 91036
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 4014055,
+              "end_sample": 4017534,
+              "start_ms": 91022,
+              "end_ms": 91101
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0019",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 4018058,
+          "end_sample": 4035269,
+          "start_ms": 91112,
+          "end_ms": 91503,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 4018058,
+              "end_sample": 4035269,
+              "start_ms": 91112,
+              "end_ms": 91503
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0020",
+          "text": "place",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 4035793,
+          "end_sample": 4064828,
+          "start_ms": 91515,
+          "end_ms": 92173,
+          "phonemes": [
+            {
+              "symbol": "P",
+              "start_sample": 4035793,
+              "end_sample": 4038434,
+              "start_ms": 91515,
+              "end_ms": 91574
+            },
+            {
+              "symbol": "L",
+              "start_sample": 4037822,
+              "end_sample": 4041301,
+              "start_ms": 91561,
+              "end_ms": 91639
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 4040689,
+              "end_sample": 4061962,
+              "start_ms": 91626,
+              "end_ms": 92108
+            },
+            {
+              "symbol": "S",
+              "start_sample": 4061349,
+              "end_sample": 4064828,
+              "start_ms": 92094,
+              "end_ms": 92173
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0021",
+          "text": "for",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 4065352,
+          "end_sample": 4094387,
+          "start_ms": 92185,
+          "end_ms": 92843,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 4065352,
+              "end_sample": 4068831,
+              "start_ms": 92185,
+              "end_ms": 92264
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 4068219,
+              "end_sample": 4091520,
+              "start_ms": 92250,
+              "end_ms": 92778
+            },
+            {
+              "symbol": "R",
+              "start_sample": 4090908,
+              "end_sample": 4094387,
+              "start_ms": 92764,
+              "end_ms": 92843
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0022",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 4094911,
+          "end_sample": 4128380,
+          "start_ms": 92855,
+          "end_ms": 93614,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 4094911,
+              "end_sample": 4098390,
+              "start_ms": 92855,
+              "end_ms": 92934
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 4097778,
+              "end_sample": 4128380,
+              "start_ms": 92920,
+              "end_ms": 93614
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/006",
+      "role": "lead",
+      "text": "Close your eyes",
+      "start_sample": 4136139,
+      "end_sample": 4301514,
+      "start_ms": 93790,
+      "end_ms": 97540,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0023",
+          "text": "Close",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 4136139,
+          "end_sample": 4185818,
+          "start_ms": 93790,
+          "end_ms": 94917,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 4136139,
+              "end_sample": 4138780,
+              "start_ms": 93790,
+              "end_ms": 93850
+            },
+            {
+              "symbol": "L",
+              "start_sample": 4138168,
+              "end_sample": 4141647,
+              "start_ms": 93836,
+              "end_ms": 93915
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 4141034,
+              "end_sample": 4182951,
+              "start_ms": 93901,
+              "end_ms": 94851
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 4182339,
+              "end_sample": 4185818,
+              "start_ms": 94838,
+              "end_ms": 94917
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0024",
+          "text": "your",
+          "role": "lead",
+          "note_midi": 73,
+          "start_sample": 4186342,
+          "end_sample": 4236021,
+          "start_ms": 94928,
+          "end_ms": 96055,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 4186342,
+              "end_sample": 4189821,
+              "start_ms": 94928,
+              "end_ms": 95007
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 4189209,
+              "end_sample": 4233155,
+              "start_ms": 94993,
+              "end_ms": 95990
+            },
+            {
+              "symbol": "R",
+              "start_sample": 4232542,
+              "end_sample": 4236021,
+              "start_ms": 95976,
+              "end_ms": 96055
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0025",
+          "text": "eyes",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 4236545,
+          "end_sample": 4293754,
+          "start_ms": 96067,
+          "end_ms": 97364,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 4236545,
+              "end_sample": 4290888,
+              "start_ms": 96067,
+              "end_ms": 97299
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 4290275,
+              "end_sample": 4293754,
+              "start_ms": 97285,
+              "end_ms": 97364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/harmony/001",
+      "role": "harmony",
+      "text": "Close your eyes",
+      "start_sample": 4137793,
+      "end_sample": 4299033,
+      "start_ms": 93828,
+      "end_ms": 97484,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0026",
+          "text": "Close",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 4137793,
+          "end_sample": 4186159,
+          "start_ms": 93828,
+          "end_ms": 94924,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 4137793,
+              "end_sample": 4140434,
+              "start_ms": 93828,
+              "end_ms": 93887
+            },
+            {
+              "symbol": "L",
+              "start_sample": 4139821,
+              "end_sample": 4143300,
+              "start_ms": 93873,
+              "end_ms": 93952
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 4142688,
+              "end_sample": 4183292,
+              "start_ms": 93939,
+              "end_ms": 94859
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 4182680,
+              "end_sample": 4186159,
+              "start_ms": 94845,
+              "end_ms": 94924
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0027",
+          "text": "your",
+          "role": "harmony",
+          "note_midi": 61,
+          "start_sample": 4186683,
+          "end_sample": 4235050,
+          "start_ms": 94936,
+          "end_ms": 96033,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 4186683,
+              "end_sample": 4190162,
+              "start_ms": 94936,
+              "end_ms": 95015
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 4189550,
+              "end_sample": 4232183,
+              "start_ms": 95001,
+              "end_ms": 95968
+            },
+            {
+              "symbol": "R",
+              "start_sample": 4231571,
+              "end_sample": 4235050,
+              "start_ms": 95954,
+              "end_ms": 96033
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0028",
+          "text": "eyes",
+          "role": "harmony",
+          "note_midi": 63,
+          "start_sample": 4235574,
+          "end_sample": 4291274,
+          "start_ms": 96045,
+          "end_ms": 97308,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 4235574,
+              "end_sample": 4288407,
+              "start_ms": 96045,
+              "end_ms": 97243
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 4287795,
+              "end_sample": 4291274,
+              "start_ms": 97229,
+              "end_ms": 97308
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/007",
+      "role": "lead",
+      "text": "Through the rain",
+      "start_sample": 4301514,
+      "end_sample": 4466889,
+      "start_ms": 97540,
+      "end_ms": 101290,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0029",
+          "text": "Through",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 4301514,
+          "end_sample": 4358495,
+          "start_ms": 97540,
+          "end_ms": 98832,
+          "phonemes": [
+            {
+              "symbol": "TH",
+              "start_sample": 4301514,
+              "end_sample": 4304993,
+              "start_ms": 97540,
+              "end_ms": 97619
+            },
+            {
+              "symbol": "R",
+              "start_sample": 4304381,
+              "end_sample": 4307860,
+              "start_ms": 97605,
+              "end_ms": 97684
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 4307247,
+              "end_sample": 4358495,
+              "start_ms": 97670,
+              "end_ms": 98832
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0030",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 4359019,
+          "end_sample": 4392998,
+          "start_ms": 98844,
+          "end_ms": 99614,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 4359019,
+              "end_sample": 4362498,
+              "start_ms": 98844,
+              "end_ms": 98923
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 4361886,
+              "end_sample": 4392998,
+              "start_ms": 98909,
+              "end_ms": 99614
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0031",
+          "text": "rain",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 4393523,
+          "end_sample": 4459129,
+          "start_ms": 99626,
+          "end_ms": 101114,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 4393523,
+              "end_sample": 4397002,
+              "start_ms": 99626,
+              "end_ms": 99705
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 4396389,
+              "end_sample": 4456263,
+              "start_ms": 99691,
+              "end_ms": 101049
+            },
+            {
+              "symbol": "N",
+              "start_sample": 4455650,
+              "end_sample": 4459129,
+              "start_ms": 101035,
+              "end_ms": 101114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/008",
+      "role": "lead",
+      "text": "After all this time",
+      "start_sample": 4466889,
+      "end_sample": 4632264,
+      "start_ms": 101290,
+      "end_ms": 105040,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0032",
+          "text": "After",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 4466889,
+          "end_sample": 4504470,
+          "start_ms": 101290,
+          "end_ms": 102142,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 4466889,
+              "end_sample": 4483538,
+              "start_ms": 101290,
+              "end_ms": 101668
+            },
+            {
+              "symbol": "F",
+              "start_sample": 4482926,
+              "end_sample": 4486405,
+              "start_ms": 101654,
+              "end_ms": 101733
+            },
+            {
+              "symbol": "T",
+              "start_sample": 4485792,
+              "end_sample": 4488433,
+              "start_ms": 101719,
+              "end_ms": 101779
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 4487821,
+              "end_sample": 4504470,
+              "start_ms": 101765,
+              "end_ms": 102142
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0033",
+          "text": "all",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 4504995,
+          "end_sample": 4542577,
+          "start_ms": 102154,
+          "end_ms": 103006,
+          "phonemes": [
+            {
+              "symbol": "AO",
+              "start_sample": 4504995,
+              "end_sample": 4539710,
+              "start_ms": 102154,
+              "end_ms": 102941
+            },
+            {
+              "symbol": "L",
+              "start_sample": 4539098,
+              "end_sample": 4542577,
+              "start_ms": 102927,
+              "end_ms": 103006
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0034",
+          "text": "this",
+          "role": "lead",
+          "note_midi": 80,
+          "start_sample": 4543101,
+          "end_sample": 4580683,
+          "start_ms": 103018,
+          "end_ms": 103870,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 4543101,
+              "end_sample": 4546580,
+              "start_ms": 103018,
+              "end_ms": 103097
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 4545967,
+              "end_sample": 4577815,
+              "start_ms": 103083,
+              "end_ms": 103805
+            },
+            {
+              "symbol": "S",
+              "start_sample": 4577204,
+              "end_sample": 4580683,
+              "start_ms": 103791,
+              "end_ms": 103870
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0035",
+          "text": "time",
+          "role": "lead",
+          "note_midi": 79,
+          "start_sample": 4581207,
+          "end_sample": 4624504,
+          "start_ms": 103882,
+          "end_ms": 104864,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 4581207,
+              "end_sample": 4583848,
+              "start_ms": 103882,
+              "end_ms": 103942
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 4583236,
+              "end_sample": 4621638,
+              "start_ms": 103928,
+              "end_ms": 104799
+            },
+            {
+              "symbol": "M",
+              "start_sample": 4621025,
+              "end_sample": 4624504,
+              "start_ms": 104785,
+              "end_ms": 104864
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/harmony/002",
+      "role": "harmony",
+      "text": "After all this time",
+      "start_sample": 4468543,
+      "end_sample": 4629783,
+      "start_ms": 101328,
+      "end_ms": 104984,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0036",
+          "text": "After",
+          "role": "harmony",
+          "note_midi": 63,
+          "start_sample": 4468543,
+          "end_sample": 4505128,
+          "start_ms": 101328,
+          "end_ms": 102157,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 4468543,
+              "end_sample": 4484694,
+              "start_ms": 101328,
+              "end_ms": 101694
+            },
+            {
+              "symbol": "F",
+              "start_sample": 4484082,
+              "end_sample": 4487561,
+              "start_ms": 101680,
+              "end_ms": 101759
+            },
+            {
+              "symbol": "T",
+              "start_sample": 4486948,
+              "end_sample": 4489589,
+              "start_ms": 101745,
+              "end_ms": 101805
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 4488977,
+              "end_sample": 4505128,
+              "start_ms": 101791,
+              "end_ms": 102157
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0037",
+          "text": "all",
+          "role": "harmony",
+          "note_midi": 65,
+          "start_sample": 4505653,
+          "end_sample": 4542238,
+          "start_ms": 102169,
+          "end_ms": 102999,
+          "phonemes": [
+            {
+              "symbol": "AO",
+              "start_sample": 4505653,
+              "end_sample": 4539372,
+              "start_ms": 102169,
+              "end_ms": 102934
+            },
+            {
+              "symbol": "L",
+              "start_sample": 4538759,
+              "end_sample": 4542238,
+              "start_ms": 102920,
+              "end_ms": 102999
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0038",
+          "text": "this",
+          "role": "harmony",
+          "note_midi": 68,
+          "start_sample": 4542762,
+          "end_sample": 4579348,
+          "start_ms": 103010,
+          "end_ms": 103840,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 4542762,
+              "end_sample": 4546241,
+              "start_ms": 103010,
+              "end_ms": 103089
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 4545629,
+              "end_sample": 4576481,
+              "start_ms": 103075,
+              "end_ms": 103775
+            },
+            {
+              "symbol": "S",
+              "start_sample": 4575869,
+              "end_sample": 4579348,
+              "start_ms": 103761,
+              "end_ms": 103840
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0039",
+          "text": "time",
+          "role": "harmony",
+          "note_midi": 67,
+          "start_sample": 4579872,
+          "end_sample": 4622024,
+          "start_ms": 103852,
+          "end_ms": 104808,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 4579872,
+              "end_sample": 4582513,
+              "start_ms": 103852,
+              "end_ms": 103912
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 4581901,
+              "end_sample": 4619158,
+              "start_ms": 103898,
+              "end_ms": 104743
+            },
+            {
+              "symbol": "M",
+              "start_sample": 4618545,
+              "end_sample": 4622024,
+              "start_ms": 104729,
+              "end_ms": 104808
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/007",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 6947514,
+      "end_sample": 6956809,
+      "start_ms": 157540,
+      "end_ms": 157751,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0092",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 75,
+          "start_sample": 6947514,
+          "end_sample": 6956809,
+          "start_ms": 157540,
+          "end_ms": 157751,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 6947514,
+              "end_sample": 6950465,
+              "start_ms": 157540,
+              "end_ms": 157607
+            },
+            {
+              "symbol": "T",
+              "start_sample": 6949853,
+              "end_sample": 6952120,
+              "start_ms": 157593,
+              "end_ms": 157644
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 6951508,
+              "end_sample": 6956809,
+              "start_ms": 157631,
+              "end_ms": 157751
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/008",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 6968186,
+      "end_sample": 6977481,
+      "start_ms": 158009,
+      "end_ms": 158220,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0093",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 75,
+          "start_sample": 6968186,
+          "end_sample": 6977481,
+          "start_ms": 158009,
+          "end_ms": 158220,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 6968186,
+              "end_sample": 6971137,
+              "start_ms": 158009,
+              "end_ms": 158076
+            },
+            {
+              "symbol": "T",
+              "start_sample": 6970525,
+              "end_sample": 6972792,
+              "start_ms": 158062,
+              "end_ms": 158113
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 6972180,
+              "end_sample": 6977481,
+              "start_ms": 158099,
+              "end_ms": 158220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/009",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 7009530,
+      "end_sample": 7028747,
+      "start_ms": 158946,
+      "end_ms": 159382,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0094",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 7009530,
+          "end_sample": 7028747,
+          "start_ms": 158946,
+          "end_ms": 159382,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 7009530,
+              "end_sample": 7013009,
+              "start_ms": 158946,
+              "end_ms": 159025
+            },
+            {
+              "symbol": "T",
+              "start_sample": 7012396,
+              "end_sample": 7015037,
+              "start_ms": 159011,
+              "end_ms": 159071
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 7014425,
+              "end_sample": 7028747,
+              "start_ms": 159057,
+              "end_ms": 159382
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/009",
+      "role": "lead",
+      "text": "There is a place for you",
+      "start_sample": 7939764,
+      "end_sample": 8105139,
+      "start_ms": 180040,
+      "end_ms": 183790,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0040",
+          "text": "There",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 7939764,
+          "end_sample": 7968798,
+          "start_ms": 180040,
+          "end_ms": 180698,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 7939764,
+              "end_sample": 7943243,
+              "start_ms": 180040,
+              "end_ms": 180119
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 7942631,
+              "end_sample": 7965932,
+              "start_ms": 180105,
+              "end_ms": 180633
+            },
+            {
+              "symbol": "R",
+              "start_sample": 7965319,
+              "end_sample": 7968798,
+              "start_ms": 180619,
+              "end_ms": 180698
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0041",
+          "text": "is",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 7969323,
+          "end_sample": 7986534,
+          "start_ms": 180710,
+          "end_ms": 181101,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 7969323,
+              "end_sample": 7983667,
+              "start_ms": 180710,
+              "end_ms": 181036
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 7983055,
+              "end_sample": 7986534,
+              "start_ms": 181022,
+              "end_ms": 181101
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0042",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 80,
+          "start_sample": 7987058,
+          "end_sample": 8004269,
+          "start_ms": 181112,
+          "end_ms": 181503,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 7987058,
+              "end_sample": 8004269,
+              "start_ms": 181112,
+              "end_ms": 181503
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0043",
+          "text": "place",
+          "role": "lead",
+          "note_midi": 79,
+          "start_sample": 8004793,
+          "end_sample": 8033828,
+          "start_ms": 181515,
+          "end_ms": 182173,
+          "phonemes": [
+            {
+              "symbol": "P",
+              "start_sample": 8004793,
+              "end_sample": 8007434,
+              "start_ms": 181515,
+              "end_ms": 181574
+            },
+            {
+              "symbol": "L",
+              "start_sample": 8006822,
+              "end_sample": 8010301,
+              "start_ms": 181561,
+              "end_ms": 181639
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 8009689,
+              "end_sample": 8030962,
+              "start_ms": 181626,
+              "end_ms": 182108
+            },
+            {
+              "symbol": "S",
+              "start_sample": 8030349,
+              "end_sample": 8033828,
+              "start_ms": 182094,
+              "end_ms": 182173
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0044",
+          "text": "for",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 8034352,
+          "end_sample": 8063387,
+          "start_ms": 182185,
+          "end_ms": 182843,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 8034352,
+              "end_sample": 8037831,
+              "start_ms": 182185,
+              "end_ms": 182264
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 8037219,
+              "end_sample": 8060520,
+              "start_ms": 182250,
+              "end_ms": 182778
+            },
+            {
+              "symbol": "R",
+              "start_sample": 8059908,
+              "end_sample": 8063387,
+              "start_ms": 182764,
+              "end_ms": 182843
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0045",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 8063911,
+          "end_sample": 8097380,
+          "start_ms": 182855,
+          "end_ms": 183614,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 8063911,
+              "end_sample": 8067390,
+              "start_ms": 182855,
+              "end_ms": 182934
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8066778,
+              "end_sample": 8097380,
+              "start_ms": 182920,
+              "end_ms": 183614
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/010",
+      "role": "lead",
+      "text": "Close your eyes",
+      "start_sample": 8105139,
+      "end_sample": 8270514,
+      "start_ms": 183790,
+      "end_ms": 187540,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0046",
+          "text": "Close",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 8105139,
+          "end_sample": 8154818,
+          "start_ms": 183790,
+          "end_ms": 184917,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 8105139,
+              "end_sample": 8107780,
+              "start_ms": 183790,
+              "end_ms": 183850
+            },
+            {
+              "symbol": "L",
+              "start_sample": 8107168,
+              "end_sample": 8110647,
+              "start_ms": 183836,
+              "end_ms": 183915
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 8110034,
+              "end_sample": 8151951,
+              "start_ms": 183901,
+              "end_ms": 184851
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 8151339,
+              "end_sample": 8154818,
+              "start_ms": 184838,
+              "end_ms": 184917
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0047",
+          "text": "your",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 8155342,
+          "end_sample": 8205021,
+          "start_ms": 184928,
+          "end_ms": 186055,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 8155342,
+              "end_sample": 8158821,
+              "start_ms": 184928,
+              "end_ms": 185007
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 8158209,
+              "end_sample": 8202155,
+              "start_ms": 184993,
+              "end_ms": 185990
+            },
+            {
+              "symbol": "R",
+              "start_sample": 8201542,
+              "end_sample": 8205021,
+              "start_ms": 185976,
+              "end_ms": 186055
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0048",
+          "text": "eyes",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 8205545,
+          "end_sample": 8262754,
+          "start_ms": 186067,
+          "end_ms": 187364,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 8205545,
+              "end_sample": 8259888,
+              "start_ms": 186067,
+              "end_ms": 187299
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 8259275,
+              "end_sample": 8262754,
+              "start_ms": 187285,
+              "end_ms": 187364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/harmony/003",
+      "role": "harmony",
+      "text": "Close your eyes",
+      "start_sample": 8106793,
+      "end_sample": 8268033,
+      "start_ms": 183828,
+      "end_ms": 187484,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0049",
+          "text": "Close",
+          "role": "harmony",
+          "note_midi": 65,
+          "start_sample": 8106793,
+          "end_sample": 8155159,
+          "start_ms": 183828,
+          "end_ms": 184924,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 8106793,
+              "end_sample": 8109434,
+              "start_ms": 183828,
+              "end_ms": 183887
+            },
+            {
+              "symbol": "L",
+              "start_sample": 8108821,
+              "end_sample": 8112300,
+              "start_ms": 183873,
+              "end_ms": 183952
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 8111688,
+              "end_sample": 8152292,
+              "start_ms": 183939,
+              "end_ms": 184859
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 8151680,
+              "end_sample": 8155159,
+              "start_ms": 184845,
+              "end_ms": 184924
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0050",
+          "text": "your",
+          "role": "harmony",
+          "note_midi": 63,
+          "start_sample": 8155683,
+          "end_sample": 8204050,
+          "start_ms": 184936,
+          "end_ms": 186033,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 8155683,
+              "end_sample": 8159162,
+              "start_ms": 184936,
+              "end_ms": 185015
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 8158550,
+              "end_sample": 8201183,
+              "start_ms": 185001,
+              "end_ms": 185968
+            },
+            {
+              "symbol": "R",
+              "start_sample": 8200571,
+              "end_sample": 8204050,
+              "start_ms": 185954,
+              "end_ms": 186033
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0051",
+          "text": "eyes",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 8204574,
+          "end_sample": 8260274,
+          "start_ms": 186045,
+          "end_ms": 187308,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 8204574,
+              "end_sample": 8257407,
+              "start_ms": 186045,
+              "end_ms": 187243
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 8256795,
+              "end_sample": 8260274,
+              "start_ms": 187229,
+              "end_ms": 187308
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/011",
+      "role": "lead",
+      "text": "Through the rain",
+      "start_sample": 8270514,
+      "end_sample": 8435889,
+      "start_ms": 187540,
+      "end_ms": 191290,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0052",
+          "text": "Through",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 8270514,
+          "end_sample": 8327495,
+          "start_ms": 187540,
+          "end_ms": 188832,
+          "phonemes": [
+            {
+              "symbol": "TH",
+              "start_sample": 8270514,
+              "end_sample": 8273993,
+              "start_ms": 187540,
+              "end_ms": 187619
+            },
+            {
+              "symbol": "R",
+              "start_sample": 8273381,
+              "end_sample": 8276860,
+              "start_ms": 187605,
+              "end_ms": 187684
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 8276247,
+              "end_sample": 8327495,
+              "start_ms": 187670,
+              "end_ms": 188832
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0053",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 73,
+          "start_sample": 8328019,
+          "end_sample": 8361998,
+          "start_ms": 188844,
+          "end_ms": 189614,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 8328019,
+              "end_sample": 8331498,
+              "start_ms": 188844,
+              "end_ms": 188923
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 8330886,
+              "end_sample": 8361998,
+              "start_ms": 188909,
+              "end_ms": 189614
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0054",
+          "text": "rain",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 8362523,
+          "end_sample": 8428129,
+          "start_ms": 189626,
+          "end_ms": 191114,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 8362523,
+              "end_sample": 8366002,
+              "start_ms": 189626,
+              "end_ms": 189705
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 8365389,
+              "end_sample": 8425263,
+              "start_ms": 189691,
+              "end_ms": 191049
+            },
+            {
+              "symbol": "N",
+              "start_sample": 8424650,
+              "end_sample": 8428129,
+              "start_ms": 191035,
+              "end_ms": 191114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/012",
+      "role": "lead",
+      "text": "After all this time",
+      "start_sample": 8435889,
+      "end_sample": 8601264,
+      "start_ms": 191290,
+      "end_ms": 195040,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0055",
+          "text": "After",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 8435889,
+          "end_sample": 8473470,
+          "start_ms": 191290,
+          "end_ms": 192142,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 8435889,
+              "end_sample": 8452538,
+              "start_ms": 191290,
+              "end_ms": 191668
+            },
+            {
+              "symbol": "F",
+              "start_sample": 8451926,
+              "end_sample": 8455405,
+              "start_ms": 191654,
+              "end_ms": 191733
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8454792,
+              "end_sample": 8457433,
+              "start_ms": 191719,
+              "end_ms": 191779
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 8456821,
+              "end_sample": 8473470,
+              "start_ms": 191765,
+              "end_ms": 192142
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0056",
+          "text": "all",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 8473995,
+          "end_sample": 8511577,
+          "start_ms": 192154,
+          "end_ms": 193006,
+          "phonemes": [
+            {
+              "symbol": "AO",
+              "start_sample": 8473995,
+              "end_sample": 8508710,
+              "start_ms": 192154,
+              "end_ms": 192941
+            },
+            {
+              "symbol": "L",
+              "start_sample": 8508098,
+              "end_sample": 8511577,
+              "start_ms": 192927,
+              "end_ms": 193006
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0057",
+          "text": "this",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 8512101,
+          "end_sample": 8549683,
+          "start_ms": 193018,
+          "end_ms": 193870,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 8512101,
+              "end_sample": 8515580,
+              "start_ms": 193018,
+              "end_ms": 193097
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 8514967,
+              "end_sample": 8546815,
+              "start_ms": 193083,
+              "end_ms": 193805
+            },
+            {
+              "symbol": "S",
+              "start_sample": 8546204,
+              "end_sample": 8549683,
+              "start_ms": 193791,
+              "end_ms": 193870
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0058",
+          "text": "time",
+          "role": "lead",
+          "note_midi": 68,
+          "start_sample": 8550207,
+          "end_sample": 8593504,
+          "start_ms": 193882,
+          "end_ms": 194864,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 8550207,
+              "end_sample": 8552848,
+              "start_ms": 193882,
+              "end_ms": 193942
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8552236,
+              "end_sample": 8590638,
+              "start_ms": 193928,
+              "end_ms": 194799
+            },
+            {
+              "symbol": "M",
+              "start_sample": 8590025,
+              "end_sample": 8593504,
+              "start_ms": 194785,
+              "end_ms": 194864
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/harmony/004",
+      "role": "harmony",
+      "text": "After all this time",
+      "start_sample": 8437543,
+      "end_sample": 8598783,
+      "start_ms": 191328,
+      "end_ms": 194984,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0059",
+          "text": "After",
+          "role": "harmony",
+          "note_midi": 63,
+          "start_sample": 8437543,
+          "end_sample": 8474128,
+          "start_ms": 191328,
+          "end_ms": 192157,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 8437543,
+              "end_sample": 8453694,
+              "start_ms": 191328,
+              "end_ms": 191694
+            },
+            {
+              "symbol": "F",
+              "start_sample": 8453082,
+              "end_sample": 8456561,
+              "start_ms": 191680,
+              "end_ms": 191759
+            },
+            {
+              "symbol": "T",
+              "start_sample": 8455948,
+              "end_sample": 8458589,
+              "start_ms": 191745,
+              "end_ms": 191805
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 8457977,
+              "end_sample": 8474128,
+              "start_ms": 191791,
+              "end_ms": 192157
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0060",
+          "text": "all",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 8474653,
+          "end_sample": 8511238,
+          "start_ms": 192169,
+          "end_ms": 192999,
+          "phonemes": [
+            {
+              "symbol": "AO",
+              "start_sample": 8474653,
+              "end_sample": 8508372,
+              "start_ms": 192169,
+              "end_ms": 192934
+            },
+            {
+              "symbol": "L",
+              "start_sample": 8507759,
+              "end_sample": 8511238,
+              "start_ms": 192920,
+              "end_ms": 192999
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0061",
+          "text": "this",
+          "role": "harmony",
+          "note_midi": 58,
+          "start_sample": 8511762,
+          "end_sample": 8548348,
+          "start_ms": 193010,
+          "end_ms": 193840,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 8511762,
+              "end_sample": 8515241,
+              "start_ms": 193010,
+              "end_ms": 193089
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 8514629,
+              "end_sample": 8545481,
+              "start_ms": 193075,
+              "end_ms": 193775
+            },
+            {
+              "symbol": "S",
+              "start_sample": 8544869,
+              "end_sample": 8548348,
+              "start_ms": 193761,
+              "end_ms": 193840
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0062",
+          "text": "time",
+          "role": "harmony",
+          "note_midi": 56,
+          "start_sample": 8548872,
+          "end_sample": 8591024,
+          "start_ms": 193852,
+          "end_ms": 194808,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 8548872,
+              "end_sample": 8551513,
+              "start_ms": 193852,
+              "end_ms": 193912
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 8550901,
+              "end_sample": 8588158,
+              "start_ms": 193898,
+              "end_ms": 194743
+            },
+            {
+              "symbol": "M",
+              "start_sample": 8587545,
+              "end_sample": 8591024,
+              "start_ms": 194729,
+              "end_ms": 194808
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/013",
+      "role": "lead",
+      "text": "There is a place for you",
+      "start_sample": 9262764,
+      "end_sample": 9428139,
+      "start_ms": 210040,
+      "end_ms": 213790,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0063",
+          "text": "There",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 9262764,
+          "end_sample": 9291798,
+          "start_ms": 210040,
+          "end_ms": 210698,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 9262764,
+              "end_sample": 9266243,
+              "start_ms": 210040,
+              "end_ms": 210119
+            },
+            {
+              "symbol": "EH",
+              "start_sample": 9265631,
+              "end_sample": 9288932,
+              "start_ms": 210105,
+              "end_ms": 210633
+            },
+            {
+              "symbol": "R",
+              "start_sample": 9288319,
+              "end_sample": 9291798,
+              "start_ms": 210619,
+              "end_ms": 210698
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0064",
+          "text": "is",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 9292323,
+          "end_sample": 9309534,
+          "start_ms": 210710,
+          "end_ms": 211101,
+          "phonemes": [
+            {
+              "symbol": "IH",
+              "start_sample": 9292323,
+              "end_sample": 9306667,
+              "start_ms": 210710,
+              "end_ms": 211036
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 9306055,
+              "end_sample": 9309534,
+              "start_ms": 211022,
+              "end_ms": 211101
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0065",
+          "text": "a",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 9310058,
+          "end_sample": 9327269,
+          "start_ms": 211112,
+          "end_ms": 211503,
+          "phonemes": [
+            {
+              "symbol": "AX",
+              "start_sample": 9310058,
+              "end_sample": 9327269,
+              "start_ms": 211112,
+              "end_ms": 211503
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0066",
+          "text": "place",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 9327793,
+          "end_sample": 9356828,
+          "start_ms": 211515,
+          "end_ms": 212173,
+          "phonemes": [
+            {
+              "symbol": "P",
+              "start_sample": 9327793,
+              "end_sample": 9330434,
+              "start_ms": 211515,
+              "end_ms": 211574
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9329822,
+              "end_sample": 9333301,
+              "start_ms": 211561,
+              "end_ms": 211639
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 9332689,
+              "end_sample": 9353962,
+              "start_ms": 211626,
+              "end_ms": 212108
+            },
+            {
+              "symbol": "S",
+              "start_sample": 9353349,
+              "end_sample": 9356828,
+              "start_ms": 212094,
+              "end_ms": 212173
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0067",
+          "text": "for",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 9357352,
+          "end_sample": 9386387,
+          "start_ms": 212185,
+          "end_ms": 212843,
+          "phonemes": [
+            {
+              "symbol": "F",
+              "start_sample": 9357352,
+              "end_sample": 9360831,
+              "start_ms": 212185,
+              "end_ms": 212264
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 9360219,
+              "end_sample": 9383520,
+              "start_ms": 212250,
+              "end_ms": 212778
+            },
+            {
+              "symbol": "R",
+              "start_sample": 9382908,
+              "end_sample": 9386387,
+              "start_ms": 212764,
+              "end_ms": 212843
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0068",
+          "text": "you",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 9386911,
+          "end_sample": 9420380,
+          "start_ms": 212855,
+          "end_ms": 213614,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 9386911,
+              "end_sample": 9390390,
+              "start_ms": 212855,
+              "end_ms": 212934
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 9389778,
+              "end_sample": 9420380,
+              "start_ms": 212920,
+              "end_ms": 213614
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/014",
+      "role": "lead",
+      "text": "Close your eyes",
+      "start_sample": 9428139,
+      "end_sample": 9593514,
+      "start_ms": 213790,
+      "end_ms": 217540,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0069",
+          "text": "Close",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 9428139,
+          "end_sample": 9477818,
+          "start_ms": 213790,
+          "end_ms": 214917,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 9428139,
+              "end_sample": 9430780,
+              "start_ms": 213790,
+              "end_ms": 213850
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9430168,
+              "end_sample": 9433647,
+              "start_ms": 213836,
+              "end_ms": 213915
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 9433034,
+              "end_sample": 9474951,
+              "start_ms": 213901,
+              "end_ms": 214851
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 9474339,
+              "end_sample": 9477818,
+              "start_ms": 214838,
+              "end_ms": 214917
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0070",
+          "text": "your",
+          "role": "lead",
+          "note_midi": 73,
+          "start_sample": 9478342,
+          "end_sample": 9528021,
+          "start_ms": 214928,
+          "end_ms": 216055,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 9478342,
+              "end_sample": 9481821,
+              "start_ms": 214928,
+              "end_ms": 215007
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 9481209,
+              "end_sample": 9525155,
+              "start_ms": 214993,
+              "end_ms": 215990
+            },
+            {
+              "symbol": "R",
+              "start_sample": 9524542,
+              "end_sample": 9528021,
+              "start_ms": 215976,
+              "end_ms": 216055
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0071",
+          "text": "eyes",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 9528545,
+          "end_sample": 9585754,
+          "start_ms": 216067,
+          "end_ms": 217364,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 9528545,
+              "end_sample": 9582888,
+              "start_ms": 216067,
+              "end_ms": 217299
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 9582275,
+              "end_sample": 9585754,
+              "start_ms": 217285,
+              "end_ms": 217364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/harmony/005",
+      "role": "harmony",
+      "text": "Close your eyes",
+      "start_sample": 9429793,
+      "end_sample": 9591033,
+      "start_ms": 213828,
+      "end_ms": 217484,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0072",
+          "text": "Close",
+          "role": "harmony",
+          "note_midi": 60,
+          "start_sample": 9429793,
+          "end_sample": 9478159,
+          "start_ms": 213828,
+          "end_ms": 214924,
+          "phonemes": [
+            {
+              "symbol": "K",
+              "start_sample": 9429793,
+              "end_sample": 9432434,
+              "start_ms": 213828,
+              "end_ms": 213887
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9431821,
+              "end_sample": 9435300,
+              "start_ms": 213873,
+              "end_ms": 213952
+            },
+            {
+              "symbol": "OW",
+              "start_sample": 9434688,
+              "end_sample": 9475292,
+              "start_ms": 213939,
+              "end_ms": 214859
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 9474680,
+              "end_sample": 9478159,
+              "start_ms": 214845,
+              "end_ms": 214924
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0073",
+          "text": "your",
+          "role": "harmony",
+          "note_midi": 61,
+          "start_sample": 9478683,
+          "end_sample": 9527050,
+          "start_ms": 214936,
+          "end_ms": 216033,
+          "phonemes": [
+            {
+              "symbol": "Y",
+              "start_sample": 9478683,
+              "end_sample": 9482162,
+              "start_ms": 214936,
+              "end_ms": 215015
+            },
+            {
+              "symbol": "AO",
+              "start_sample": 9481550,
+              "end_sample": 9524183,
+              "start_ms": 215001,
+              "end_ms": 215968
+            },
+            {
+              "symbol": "R",
+              "start_sample": 9523571,
+              "end_sample": 9527050,
+              "start_ms": 215954,
+              "end_ms": 216033
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0074",
+          "text": "eyes",
+          "role": "harmony",
+          "note_midi": 63,
+          "start_sample": 9527574,
+          "end_sample": 9583274,
+          "start_ms": 216045,
+          "end_ms": 217308,
+          "phonemes": [
+            {
+              "symbol": "AY",
+              "start_sample": 9527574,
+              "end_sample": 9580407,
+              "start_ms": 216045,
+              "end_ms": 217243
+            },
+            {
+              "symbol": "Z",
+              "start_sample": 9579795,
+              "end_sample": 9583274,
+              "start_ms": 217229,
+              "end_ms": 217308
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/015",
+      "role": "lead",
+      "text": "Through the rain",
+      "start_sample": 9593514,
+      "end_sample": 9758889,
+      "start_ms": 217540,
+      "end_ms": 221290,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0075",
+          "text": "Through",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 9593514,
+          "end_sample": 9650495,
+          "start_ms": 217540,
+          "end_ms": 218832,
+          "phonemes": [
+            {
+              "symbol": "TH",
+              "start_sample": 9593514,
+              "end_sample": 9596993,
+              "start_ms": 217540,
+              "end_ms": 217619
+            },
+            {
+              "symbol": "R",
+              "start_sample": 9596381,
+              "end_sample": 9599860,
+              "start_ms": 217605,
+              "end_ms": 217684
+            },
+            {
+              "symbol": "UW",
+              "start_sample": 9599247,
+              "end_sample": 9650495,
+              "start_ms": 217670,
+              "end_ms": 218832
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0076",
+          "text": "the",
+          "role": "lead",
+          "note_midi": 72,
+          "start_sample": 9651019,
+          "end_sample": 9684998,
+          "start_ms": 218844,
+          "end_ms": 219614,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 9651019,
+              "end_sample": 9654498,
+              "start_ms": 218844,
+              "end_ms": 218923
+            },
+            {
+              "symbol": "AX",
+              "start_sample": 9653886,
+              "end_sample": 9684998,
+              "start_ms": 218909,
+              "end_ms": 219614
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0077",
+          "text": "rain",
+          "role": "lead",
+          "note_midi": 70,
+          "start_sample": 9685523,
+          "end_sample": 9751129,
+          "start_ms": 219626,
+          "end_ms": 221114,
+          "phonemes": [
+            {
+              "symbol": "R",
+              "start_sample": 9685523,
+              "end_sample": 9689002,
+              "start_ms": 219626,
+              "end_ms": 219705
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 9688389,
+              "end_sample": 9748263,
+              "start_ms": 219691,
+              "end_ms": 221049
+            },
+            {
+              "symbol": "N",
+              "start_sample": 9747650,
+              "end_sample": 9751129,
+              "start_ms": 221035,
+              "end_ms": 221114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/lead/016",
+      "role": "lead",
+      "text": "After all this time",
+      "start_sample": 9758889,
+      "end_sample": 9924264,
+      "start_ms": 221290,
+      "end_ms": 225040,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0078",
+          "text": "After",
+          "role": "lead",
+          "note_midi": 75,
+          "start_sample": 9758889,
+          "end_sample": 9796470,
+          "start_ms": 221290,
+          "end_ms": 222142,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 9758889,
+              "end_sample": 9775538,
+              "start_ms": 221290,
+              "end_ms": 221668
+            },
+            {
+              "symbol": "F",
+              "start_sample": 9774926,
+              "end_sample": 9778405,
+              "start_ms": 221654,
+              "end_ms": 221733
+            },
+            {
+              "symbol": "T",
+              "start_sample": 9777792,
+              "end_sample": 9780433,
+              "start_ms": 221719,
+              "end_ms": 221779
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 9779821,
+              "end_sample": 9796470,
+              "start_ms": 221765,
+              "end_ms": 222142
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0079",
+          "text": "all",
+          "role": "lead",
+          "note_midi": 77,
+          "start_sample": 9796995,
+          "end_sample": 9834577,
+          "start_ms": 222154,
+          "end_ms": 223006,
+          "phonemes": [
+            {
+              "symbol": "AO",
+              "start_sample": 9796995,
+              "end_sample": 9831710,
+              "start_ms": 222154,
+              "end_ms": 222941
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9831098,
+              "end_sample": 9834577,
+              "start_ms": 222927,
+              "end_ms": 223006
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0080",
+          "text": "this",
+          "role": "lead",
+          "note_midi": 80,
+          "start_sample": 9835101,
+          "end_sample": 9872683,
+          "start_ms": 223018,
+          "end_ms": 223870,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 9835101,
+              "end_sample": 9838580,
+              "start_ms": 223018,
+              "end_ms": 223097
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 9837967,
+              "end_sample": 9869815,
+              "start_ms": 223083,
+              "end_ms": 223805
+            },
+            {
+              "symbol": "S",
+              "start_sample": 9869204,
+              "end_sample": 9872683,
+              "start_ms": 223791,
+              "end_ms": 223870
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0081",
+          "text": "time",
+          "role": "lead",
+          "note_midi": 79,
+          "start_sample": 9873207,
+          "end_sample": 9916504,
+          "start_ms": 223882,
+          "end_ms": 224864,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 9873207,
+              "end_sample": 9875848,
+              "start_ms": 223882,
+              "end_ms": 223942
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 9875236,
+              "end_sample": 9913638,
+              "start_ms": 223928,
+              "end_ms": 224799
+            },
+            {
+              "symbol": "M",
+              "start_sample": 9913025,
+              "end_sample": 9916504,
+              "start_ms": 224785,
+              "end_ms": 224864
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/harmony/006",
+      "role": "harmony",
+      "text": "After all this time",
+      "start_sample": 9760543,
+      "end_sample": 9921783,
+      "start_ms": 221328,
+      "end_ms": 224984,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0082",
+          "text": "After",
+          "role": "harmony",
+          "note_midi": 63,
+          "start_sample": 9760543,
+          "end_sample": 9797128,
+          "start_ms": 221328,
+          "end_ms": 222157,
+          "phonemes": [
+            {
+              "symbol": "AE",
+              "start_sample": 9760543,
+              "end_sample": 9776694,
+              "start_ms": 221328,
+              "end_ms": 221694
+            },
+            {
+              "symbol": "F",
+              "start_sample": 9776082,
+              "end_sample": 9779561,
+              "start_ms": 221680,
+              "end_ms": 221759
+            },
+            {
+              "symbol": "T",
+              "start_sample": 9778948,
+              "end_sample": 9781589,
+              "start_ms": 221745,
+              "end_ms": 221805
+            },
+            {
+              "symbol": "ER",
+              "start_sample": 9780977,
+              "end_sample": 9797128,
+              "start_ms": 221791,
+              "end_ms": 222157
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0083",
+          "text": "all",
+          "role": "harmony",
+          "note_midi": 65,
+          "start_sample": 9797653,
+          "end_sample": 9834238,
+          "start_ms": 222169,
+          "end_ms": 222999,
+          "phonemes": [
+            {
+              "symbol": "AO",
+              "start_sample": 9797653,
+              "end_sample": 9831372,
+              "start_ms": 222169,
+              "end_ms": 222934
+            },
+            {
+              "symbol": "L",
+              "start_sample": 9830759,
+              "end_sample": 9834238,
+              "start_ms": 222920,
+              "end_ms": 222999
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0084",
+          "text": "this",
+          "role": "harmony",
+          "note_midi": 68,
+          "start_sample": 9834762,
+          "end_sample": 9871348,
+          "start_ms": 223010,
+          "end_ms": 223840,
+          "phonemes": [
+            {
+              "symbol": "DH",
+              "start_sample": 9834762,
+              "end_sample": 9838241,
+              "start_ms": 223010,
+              "end_ms": 223089
+            },
+            {
+              "symbol": "IH",
+              "start_sample": 9837629,
+              "end_sample": 9868481,
+              "start_ms": 223075,
+              "end_ms": 223775
+            },
+            {
+              "symbol": "S",
+              "start_sample": 9867869,
+              "end_sample": 9871348,
+              "start_ms": 223761,
+              "end_ms": 223840
+            }
+          ]
+        },
+        {
+          "id": "07-a-place-to-stay/word/0085",
+          "text": "time",
+          "role": "harmony",
+          "note_midi": 67,
+          "start_sample": 9871872,
+          "end_sample": 9914024,
+          "start_ms": 223852,
+          "end_ms": 224808,
+          "phonemes": [
+            {
+              "symbol": "T",
+              "start_sample": 9871872,
+              "end_sample": 9874513,
+              "start_ms": 223852,
+              "end_ms": 223912
+            },
+            {
+              "symbol": "AY",
+              "start_sample": 9873901,
+              "end_sample": 9911158,
+              "start_ms": 223898,
+              "end_ms": 224743
+            },
+            {
+              "symbol": "M",
+              "start_sample": 9910545,
+              "end_sample": 9914024,
+              "start_ms": 224729,
+              "end_ms": 224808
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/010",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 10916514,
+      "end_sample": 10925809,
+      "start_ms": 247540,
+      "end_ms": 247751,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0095",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 75,
+          "start_sample": 10916514,
+          "end_sample": 10925809,
+          "start_ms": 247540,
+          "end_ms": 247751,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 10916514,
+              "end_sample": 10919465,
+              "start_ms": 247540,
+              "end_ms": 247607
+            },
+            {
+              "symbol": "T",
+              "start_sample": 10918853,
+              "end_sample": 10921120,
+              "start_ms": 247593,
+              "end_ms": 247644
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 10920508,
+              "end_sample": 10925809,
+              "start_ms": 247631,
+              "end_ms": 247751
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/011",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 10937186,
+      "end_sample": 10946481,
+      "start_ms": 248009,
+      "end_ms": 248220,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0096",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 75,
+          "start_sample": 10937186,
+          "end_sample": 10946481,
+          "start_ms": 248009,
+          "end_ms": 248220,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 10937186,
+              "end_sample": 10940137,
+              "start_ms": 248009,
+              "end_ms": 248076
+            },
+            {
+              "symbol": "T",
+              "start_sample": 10939525,
+              "end_sample": 10941792,
+              "start_ms": 248062,
+              "end_ms": 248113
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 10941180,
+              "end_sample": 10946481,
+              "start_ms": 248099,
+              "end_ms": 248220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-a-place-to-stay/chop/012",
+      "role": "chop",
+      "text": "stay",
+      "start_sample": 10978530,
+      "end_sample": 10997747,
+      "start_ms": 248946,
+      "end_ms": 249382,
+      "words": [
+        {
+          "id": "07-a-place-to-stay/word/0097",
+          "text": "stay",
+          "role": "chop",
+          "note_midi": 72,
+          "start_sample": 10978530,
+          "end_sample": 10997747,
+          "start_ms": 248946,
+          "end_ms": 249382,
+          "phonemes": [
+            {
+              "symbol": "S",
+              "start_sample": 10978530,
+              "end_sample": 10982009,
+              "start_ms": 248946,
+              "end_ms": 249025
+            },
+            {
+              "symbol": "T",
+              "start_sample": 10981396,
+              "end_sample": 10984037,
+              "start_ms": 249011,
+              "end_ms": 249071
+            },
+            {
+              "symbol": "EY",
+              "start_sample": 10983425,
+              "end_sample": 10997747,
+              "start_ms": 249057,
+              "end_ms": 249382
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
