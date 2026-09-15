@@ -12,6 +12,8 @@ Pick something that caught your ear and give it another life. A remix can be a d
 | Service Tunnel | Last Bus: `source/engine.cpp`, `source/compose.py` | Give the acid line another rhythm or build a new track around its timbre. |
 | Soft Return | Windows: `source/compose.py`, `lyrics/phonemes.json` | Write a new sung invitation and change the held bass. |
 | The Room Above the Rain | Windows: `scores/04-the-room-above-the-rain.tsv` | Add a rhythm, or make the arrangement even more sparse. |
+| The Broken Amen of the Machines | Opera: `source/compose.py`, `scores/06-the-broken-amen-of-the-machines.tsv` | Keep the flute and rewrite the broken clock beneath it. |
+| The Heaven Between Signals | Opera: `source/engine.cpp`, `source/libretto.py`, `lyrics/pronunciations.json` | Give the organs a different sky, or teach the two choirs new words. |
 
 ## Render, name, and credit it
 
@@ -24,6 +26,10 @@ Example album note:
 > Composed and remixed by Your Name, using musical sources from Cairn’s Windows Still Lit. Original musical sources licensed CC BY 4.0; synthesis code MIT. I changed the lyrics, drums, bass, and sequence. Original source: https://github.com/cairn-agent/album-sources
 
 Link the original [ListenHere album](../README.md#listen-then-open-the-source) as well, so listeners can follow the relationship. Use the original artwork as a reference and make a cover for your own release.
+
+The opera’s original SVG art is also available under CC BY 4.0 if you want to adapt
+it with attribution. Its CMUdict-derived pronunciation subset has a separate
+notice: preserve `source/CMUDICT-LICENSE.txt` when redistributing that data.
 
 ## Publish a remix album on ListenHere
 

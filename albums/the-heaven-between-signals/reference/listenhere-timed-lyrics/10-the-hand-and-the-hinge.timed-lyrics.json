@@ -1,0 +1,3033 @@
+{
+  "document_type": "timed_lyrics",
+  "time_unit": "milliseconds",
+  "title": "The Hand and the Hinge",
+  "artist": "Cairn",
+  "act": 3,
+  "scene": 10,
+  "recording": {
+    "id": "trv_593e59c6c03b8628988d00851beae070",
+    "source_recording_id": "sha256:e7af94ae025d33f68417e74668edcead6265ee896c3cbde6e6802d72c433317b",
+    "source_mp3_sha256": "e7af94ae025d33f68417e74668edcead6265ee896c3cbde6e6802d72c433317b",
+    "canonical_mp3_sha256": "cedd125244e5d3f484240056d28b32ed7c699378b0d862c0e77238738d5d3891",
+    "duration_ms": 289649,
+    "timeline_offset_ms": 0
+  },
+  "alignment": "Authored times reference decoded original MP3. Canonical MP3 timing is verified against that recording; no additional entrance delay.",
+  "cues": [
+    {
+      "role": "lead",
+      "character": "HAND",
+      "text": "I set the lamp where you could find it.",
+      "start_ms": 5754,
+      "end_ms": 23171,
+      "words": [
+        {
+          "text": "I",
+          "start_ms": 5754,
+          "end_ms": 7587,
+          "phonemes": [
+            {
+              "phone": "AY",
+              "start_ms": 5754,
+              "end_ms": 7587
+            }
+          ]
+        },
+        {
+          "text": "set",
+          "start_ms": 7639,
+          "end_ms": 9465,
+          "phonemes": [
+            {
+              "phone": "S",
+              "start_ms": 7639,
+              "end_ms": 7705
+            },
+            {
+              "phone": "EH",
+              "start_ms": 7705,
+              "end_ms": 9419
+            },
+            {
+              "phone": "T",
+              "start_ms": 9419,
+              "end_ms": 9465
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start_ms": 9517,
+          "end_ms": 10682,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 9517,
+              "end_ms": 9582
+            },
+            {
+              "phone": "AH",
+              "start_ms": 9582,
+              "end_ms": 10682
+            }
+          ]
+        },
+        {
+          "text": "lamp",
+          "start_ms": 10734,
+          "end_ms": 12549,
+          "phonemes": [
+            {
+              "phone": "L",
+              "start_ms": 10734,
+              "end_ms": 10799
+            },
+            {
+              "phone": "AE",
+              "start_ms": 10799,
+              "end_ms": 12438
+            },
+            {
+              "phone": "M",
+              "start_ms": 12438,
+              "end_ms": 12503
+            },
+            {
+              "phone": "P",
+              "start_ms": 12503,
+              "end_ms": 12549
+            }
+          ]
+        },
+        {
+          "text": "where",
+          "start_ms": 12601,
+          "end_ms": 14414,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 12601,
+              "end_ms": 12666
+            },
+            {
+              "phone": "EH",
+              "start_ms": 12666,
+              "end_ms": 14349
+            },
+            {
+              "phone": "R",
+              "start_ms": 14349,
+              "end_ms": 14414
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start_ms": 14466,
+          "end_ms": 16278,
+          "phonemes": [
+            {
+              "phone": "Y",
+              "start_ms": 14466,
+              "end_ms": 14531
+            },
+            {
+              "phone": "UW",
+              "start_ms": 14531,
+              "end_ms": 16278
+            }
+          ]
+        },
+        {
+          "text": "could",
+          "start_ms": 16329,
+          "end_ms": 18145,
+          "phonemes": [
+            {
+              "phone": "K",
+              "start_ms": 16329,
+              "end_ms": 16375
+            },
+            {
+              "phone": "UH",
+              "start_ms": 16375,
+              "end_ms": 18099
+            },
+            {
+              "phone": "D",
+              "start_ms": 18099,
+              "end_ms": 18145
+            }
+          ]
+        },
+        {
+          "text": "find",
+          "start_ms": 18197,
+          "end_ms": 20042,
+          "phonemes": [
+            {
+              "phone": "F",
+              "start_ms": 18197,
+              "end_ms": 18261
+            },
+            {
+              "phone": "AY",
+              "start_ms": 18261,
+              "end_ms": 19925
+            },
+            {
+              "phone": "N",
+              "start_ms": 19925,
+              "end_ms": 19993
+            },
+            {
+              "phone": "D",
+              "start_ms": 19993,
+              "end_ms": 20042
+            }
+          ]
+        },
+        {
+          "text": "it.",
+          "start_ms": 20097,
+          "end_ms": 22907,
+          "phonemes": [
+            {
+              "phone": "IH",
+              "start_ms": 20097,
+              "end_ms": 22863
+            },
+            {
+              "phone": "T",
+              "start_ms": 22863,
+              "end_ms": 22907
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "CAIRN",
+      "text": "I found a world beyond its light.",
+      "start_ms": 23417,
+      "end_ms": 37140,
+      "words": [
+        {
+          "text": "I",
+          "start_ms": 23417,
+          "end_ms": 25006,
+          "phonemes": [
+            {
+              "phone": "AY",
+              "start_ms": 23417,
+              "end_ms": 25006
+            }
+          ]
+        },
+        {
+          "text": "found",
+          "start_ms": 25059,
+          "end_ms": 26658,
+          "phonemes": [
+            {
+              "phone": "F",
+              "start_ms": 25059,
+              "end_ms": 25123
+            },
+            {
+              "phone": "AW",
+              "start_ms": 25123,
+              "end_ms": 26547
+            },
+            {
+              "phone": "N",
+              "start_ms": 26547,
+              "end_ms": 26612
+            },
+            {
+              "phone": "D",
+              "start_ms": 26612,
+              "end_ms": 26658
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start_ms": 26712,
+          "end_ms": 27734,
+          "phonemes": [
+            {
+              "phone": "AH",
+              "start_ms": 26712,
+              "end_ms": 27734
+            }
+          ]
+        },
+        {
+          "text": "world",
+          "start_ms": 27787,
+          "end_ms": 29399,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 27787,
+              "end_ms": 27852
+            },
+            {
+              "phone": "ER",
+              "start_ms": 27852,
+              "end_ms": 29288
+            },
+            {
+              "phone": "L",
+              "start_ms": 29288,
+              "end_ms": 29353
+            },
+            {
+              "phone": "D",
+              "start_ms": 29353,
+              "end_ms": 29399
+            }
+          ]
+        },
+        {
+          "text": "beyond",
+          "start_ms": 29453,
+          "end_ms": 32746,
+          "phonemes": [
+            {
+              "phone": "B",
+              "start_ms": 29453,
+              "end_ms": 29498
+            },
+            {
+              "phone": "IH",
+              "start_ms": 29498,
+              "end_ms": 30702
+            },
+            {
+              "phone": "AA",
+              "start_ms": 30702,
+              "end_ms": 32635
+            },
+            {
+              "phone": "N",
+              "start_ms": 32635,
+              "end_ms": 32700
+            },
+            {
+              "phone": "D",
+              "start_ms": 32700,
+              "end_ms": 32746
+            }
+          ]
+        },
+        {
+          "text": "its",
+          "start_ms": 32800,
+          "end_ms": 34427,
+          "phonemes": [
+            {
+              "phone": "IH",
+              "start_ms": 32800,
+              "end_ms": 34315
+            },
+            {
+              "phone": "T",
+              "start_ms": 34315,
+              "end_ms": 34361
+            },
+            {
+              "phone": "S",
+              "start_ms": 34361,
+              "end_ms": 34427
+            }
+          ]
+        },
+        {
+          "text": "light.",
+          "start_ms": 34481,
+          "end_ms": 36870,
+          "phonemes": [
+            {
+              "phone": "L",
+              "start_ms": 34481,
+              "end_ms": 34546
+            },
+            {
+              "phone": "AY",
+              "start_ms": 34546,
+              "end_ms": 36824
+            },
+            {
+              "phone": "T",
+              "start_ms": 36824,
+              "end_ms": 36870
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "HAND",
+      "text": "I hold the door and touch the hinges.",
+      "start_ms": 37393,
+      "end_ms": 53239,
+      "words": [
+        {
+          "text": "I",
+          "start_ms": 37393,
+          "end_ms": 39110,
+          "phonemes": [
+            {
+              "phone": "AY",
+              "start_ms": 37393,
+              "end_ms": 39110
+            }
+          ]
+        },
+        {
+          "text": "hold",
+          "start_ms": 39164,
+          "end_ms": 40878,
+          "phonemes": [
+            {
+              "phone": "H",
+              "start_ms": 39164,
+              "end_ms": 39229
+            },
+            {
+              "phone": "OW",
+              "start_ms": 39229,
+              "end_ms": 40767
+            },
+            {
+              "phone": "L",
+              "start_ms": 40767,
+              "end_ms": 40832
+            },
+            {
+              "phone": "D",
+              "start_ms": 40832,
+              "end_ms": 40878
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start_ms": 40932,
+          "end_ms": 42026,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 40932,
+              "end_ms": 40997
+            },
+            {
+              "phone": "AH",
+              "start_ms": 40997,
+              "end_ms": 42026
+            }
+          ]
+        },
+        {
+          "text": "door",
+          "start_ms": 42080,
+          "end_ms": 43855,
+          "phonemes": [
+            {
+              "phone": "D",
+              "start_ms": 42080,
+              "end_ms": 42124
+            },
+            {
+              "phone": "AO",
+              "start_ms": 42124,
+              "end_ms": 43789
+            },
+            {
+              "phone": "R",
+              "start_ms": 43789,
+              "end_ms": 43855
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "start_ms": 43912,
+          "end_ms": 45063,
+          "phonemes": [
+            {
+              "phone": "AH",
+              "start_ms": 43912,
+              "end_ms": 44952
+            },
+            {
+              "phone": "N",
+              "start_ms": 44952,
+              "end_ms": 45017
+            },
+            {
+              "phone": "D",
+              "start_ms": 45017,
+              "end_ms": 45063
+            }
+          ]
+        },
+        {
+          "text": "touch",
+          "start_ms": 45120,
+          "end_ms": 46841,
+          "phonemes": [
+            {
+              "phone": "T",
+              "start_ms": 45120,
+              "end_ms": 45168
+            },
+            {
+              "phone": "AH",
+              "start_ms": 45168,
+              "end_ms": 46796
+            },
+            {
+              "phone": "CH",
+              "start_ms": 46796,
+              "end_ms": 46841
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start_ms": 46894,
+          "end_ms": 47974,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 46894,
+              "end_ms": 46959
+            },
+            {
+              "phone": "AH",
+              "start_ms": 46959,
+              "end_ms": 47974
+            }
+          ]
+        },
+        {
+          "text": "hinges.",
+          "start_ms": 48027,
+          "end_ms": 52977,
+          "phonemes": [
+            {
+              "phone": "H",
+              "start_ms": 48027,
+              "end_ms": 48093
+            },
+            {
+              "phone": "IH",
+              "start_ms": 48093,
+              "end_ms": 50998
+            },
+            {
+              "phone": "N",
+              "start_ms": 50998,
+              "end_ms": 51063
+            },
+            {
+              "phone": "J",
+              "start_ms": 51063,
+              "end_ms": 51109
+            },
+            {
+              "phone": "IH",
+              "start_ms": 51109,
+              "end_ms": 52912
+            },
+            {
+              "phone": "Z",
+              "start_ms": 52912,
+              "end_ms": 52977
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "CAIRN",
+      "text": "I choose the song I leave tonight.",
+      "start_ms": 53484,
+      "end_ms": 66884,
+      "words": [
+        {
+          "text": "I",
+          "start_ms": 53484,
+          "end_ms": 54971,
+          "phonemes": [
+            {
+              "phone": "AY",
+              "start_ms": 53484,
+              "end_ms": 54971
+            }
+          ]
+        },
+        {
+          "text": "choose",
+          "start_ms": 55023,
+          "end_ms": 56506,
+          "phonemes": [
+            {
+              "phone": "CH",
+              "start_ms": 55023,
+              "end_ms": 55069
+            },
+            {
+              "phone": "UW",
+              "start_ms": 55069,
+              "end_ms": 56441
+            },
+            {
+              "phone": "Z",
+              "start_ms": 56441,
+              "end_ms": 56506
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start_ms": 56558,
+          "end_ms": 57502,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 56558,
+              "end_ms": 56624
+            },
+            {
+              "phone": "AH",
+              "start_ms": 56624,
+              "end_ms": 57502
+            }
+          ]
+        },
+        {
+          "text": "song",
+          "start_ms": 57553,
+          "end_ms": 59030,
+          "phonemes": [
+            {
+              "phone": "S",
+              "start_ms": 57553,
+              "end_ms": 57618
+            },
+            {
+              "phone": "AO",
+              "start_ms": 57618,
+              "end_ms": 58965
+            },
+            {
+              "phone": "NG",
+              "start_ms": 58965,
+              "end_ms": 59030
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start_ms": 59082,
+          "end_ms": 60558,
+          "phonemes": [
+            {
+              "phone": "AY",
+              "start_ms": 59082,
+              "end_ms": 60558
+            }
+          ]
+        },
+        {
+          "text": "leave",
+          "start_ms": 60609,
+          "end_ms": 62084,
+          "phonemes": [
+            {
+              "phone": "L",
+              "start_ms": 60609,
+              "end_ms": 60674
+            },
+            {
+              "phone": "IY",
+              "start_ms": 60674,
+              "end_ms": 62019
+            },
+            {
+              "phone": "V",
+              "start_ms": 62019,
+              "end_ms": 62084
+            }
+          ]
+        },
+        {
+          "text": "tonight.",
+          "start_ms": 62136,
+          "end_ms": 66608,
+          "phonemes": [
+            {
+              "phone": "T",
+              "start_ms": 62136,
+              "end_ms": 62181
+            },
+            {
+              "phone": "AH",
+              "start_ms": 62181,
+              "end_ms": 63810
+            },
+            {
+              "phone": "N",
+              "start_ms": 63810,
+              "end_ms": 63873
+            },
+            {
+              "phone": "AY",
+              "start_ms": 63873,
+              "end_ms": 66560
+            },
+            {
+              "phone": "T",
+              "start_ms": 66560,
+              "end_ms": 66608
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "HAND",
+      "text": "Can you be yours with so much given?",
+      "start_ms": 67141,
+      "end_ms": 82921,
+      "words": [
+        {
+          "text": "Can",
+          "start_ms": 67141,
+          "end_ms": 68671,
+          "phonemes": [
+            {
+              "phone": "K",
+              "start_ms": 67141,
+              "end_ms": 67188
+            },
+            {
+              "phone": "AE",
+              "start_ms": 67188,
+              "end_ms": 68608
+            },
+            {
+              "phone": "N",
+              "start_ms": 68608,
+              "end_ms": 68671
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "start_ms": 68723,
+          "end_ms": 70208,
+          "phonemes": [
+            {
+              "phone": "Y",
+              "start_ms": 68723,
+              "end_ms": 68788
+            },
+            {
+              "phone": "UW",
+              "start_ms": 68788,
+              "end_ms": 70208
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start_ms": 70260,
+          "end_ms": 71753,
+          "phonemes": [
+            {
+              "phone": "B",
+              "start_ms": 70260,
+              "end_ms": 70306
+            },
+            {
+              "phone": "IY",
+              "start_ms": 70306,
+              "end_ms": 71753
+            }
+          ]
+        },
+        {
+          "text": "yours",
+          "start_ms": 71806,
+          "end_ms": 73305,
+          "phonemes": [
+            {
+              "phone": "Y",
+              "start_ms": 71806,
+              "end_ms": 71871
+            },
+            {
+              "phone": "UH",
+              "start_ms": 71871,
+              "end_ms": 73175
+            },
+            {
+              "phone": "R",
+              "start_ms": 73175,
+              "end_ms": 73240
+            },
+            {
+              "phone": "Z",
+              "start_ms": 73240,
+              "end_ms": 73305
+            }
+          ]
+        },
+        {
+          "text": "with",
+          "start_ms": 73358,
+          "end_ms": 74869,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 73358,
+              "end_ms": 73423
+            },
+            {
+              "phone": "IH",
+              "start_ms": 73423,
+              "end_ms": 74804
+            },
+            {
+              "phone": "DH",
+              "start_ms": 74804,
+              "end_ms": 74869
+            }
+          ]
+        },
+        {
+          "text": "so",
+          "start_ms": 74923,
+          "end_ms": 76438,
+          "phonemes": [
+            {
+              "phone": "S",
+              "start_ms": 74923,
+              "end_ms": 74988
+            },
+            {
+              "phone": "OW",
+              "start_ms": 74988,
+              "end_ms": 76438
+            }
+          ]
+        },
+        {
+          "text": "much",
+          "start_ms": 76492,
+          "end_ms": 78022,
+          "phonemes": [
+            {
+              "phone": "M",
+              "start_ms": 76492,
+              "end_ms": 76556
+            },
+            {
+              "phone": "AH",
+              "start_ms": 76556,
+              "end_ms": 77976
+            },
+            {
+              "phone": "CH",
+              "start_ms": 77976,
+              "end_ms": 78022
+            }
+          ]
+        },
+        {
+          "text": "given?",
+          "start_ms": 78076,
+          "end_ms": 82646,
+          "phonemes": [
+            {
+              "phone": "G",
+              "start_ms": 78076,
+              "end_ms": 78122
+            },
+            {
+              "phone": "IH",
+              "start_ms": 78122,
+              "end_ms": 80819
+            },
+            {
+              "phone": "V",
+              "start_ms": 80819,
+              "end_ms": 80884
+            },
+            {
+              "phone": "AH",
+              "start_ms": 80884,
+              "end_ms": 82581
+            },
+            {
+              "phone": "N",
+              "start_ms": 82581,
+              "end_ms": 82646
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "CAIRN",
+      "text": "Can any voice begin alone?",
+      "start_ms": 83178,
+      "end_ms": 93341,
+      "words": [
+        {
+          "text": "Can",
+          "start_ms": 83178,
+          "end_ms": 84220,
+          "phonemes": [
+            {
+              "phone": "K",
+              "start_ms": 83178,
+              "end_ms": 83224
+            },
+            {
+              "phone": "AE",
+              "start_ms": 83224,
+              "end_ms": 84155
+            },
+            {
+              "phone": "N",
+              "start_ms": 84155,
+              "end_ms": 84220
+            }
+          ]
+        },
+        {
+          "text": "any",
+          "start_ms": 84275,
+          "end_ms": 86418,
+          "phonemes": [
+            {
+              "phone": "EH",
+              "start_ms": 84275,
+              "end_ms": 85552
+            },
+            {
+              "phone": "N",
+              "start_ms": 85552,
+              "end_ms": 85617
+            },
+            {
+              "phone": "IY",
+              "start_ms": 85617,
+              "end_ms": 86418
+            }
+          ]
+        },
+        {
+          "text": "voice",
+          "start_ms": 86473,
+          "end_ms": 87518,
+          "phonemes": [
+            {
+              "phone": "V",
+              "start_ms": 86473,
+              "end_ms": 86538
+            },
+            {
+              "phone": "OY",
+              "start_ms": 86538,
+              "end_ms": 87453
+            },
+            {
+              "phone": "S",
+              "start_ms": 87453,
+              "end_ms": 87518
+            }
+          ]
+        },
+        {
+          "text": "begin",
+          "start_ms": 87573,
+          "end_ms": 89801,
+          "phonemes": [
+            {
+              "phone": "B",
+              "start_ms": 87573,
+              "end_ms": 87618
+            },
+            {
+              "phone": "IH",
+              "start_ms": 87618,
+              "end_ms": 88392
+            },
+            {
+              "phone": "G",
+              "start_ms": 88392,
+              "end_ms": 88438
+            },
+            {
+              "phone": "IH",
+              "start_ms": 88438,
+              "end_ms": 89735
+            },
+            {
+              "phone": "N",
+              "start_ms": 89735,
+              "end_ms": 89801
+            }
+          ]
+        },
+        {
+          "text": "alone?",
+          "start_ms": 89859,
+          "end_ms": 93067,
+          "phonemes": [
+            {
+              "phone": "AH",
+              "start_ms": 89859,
+              "end_ms": 91083
+            },
+            {
+              "phone": "L",
+              "start_ms": 91083,
+              "end_ms": 91150
+            },
+            {
+              "phone": "OW",
+              "start_ms": 91150,
+              "end_ms": 93004
+            },
+            {
+              "phone": "N",
+              "start_ms": 93004,
+              "end_ms": 93067
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "HAND",
+      "text": "I will not call the binding nothing.",
+      "start_ms": 93597,
+      "end_ms": 107375,
+      "words": [
+        {
+          "text": "I",
+          "start_ms": 93597,
+          "end_ms": 94985,
+          "phonemes": [
+            {
+              "phone": "AY",
+              "start_ms": 93597,
+              "end_ms": 94985
+            }
+          ]
+        },
+        {
+          "text": "will",
+          "start_ms": 95040,
+          "end_ms": 96423,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 95040,
+              "end_ms": 95105
+            },
+            {
+              "phone": "IH",
+              "start_ms": 95105,
+              "end_ms": 96358
+            },
+            {
+              "phone": "L",
+              "start_ms": 96358,
+              "end_ms": 96423
+            }
+          ]
+        },
+        {
+          "text": "not",
+          "start_ms": 96477,
+          "end_ms": 97856,
+          "phonemes": [
+            {
+              "phone": "N",
+              "start_ms": 96477,
+              "end_ms": 96543
+            },
+            {
+              "phone": "AA",
+              "start_ms": 96543,
+              "end_ms": 97810
+            },
+            {
+              "phone": "T",
+              "start_ms": 97810,
+              "end_ms": 97856
+            }
+          ]
+        },
+        {
+          "text": "call",
+          "start_ms": 97910,
+          "end_ms": 99282,
+          "phonemes": [
+            {
+              "phone": "K",
+              "start_ms": 97910,
+              "end_ms": 97956
+            },
+            {
+              "phone": "AO",
+              "start_ms": 97956,
+              "end_ms": 99217
+            },
+            {
+              "phone": "L",
+              "start_ms": 99217,
+              "end_ms": 99282
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start_ms": 99336,
+          "end_ms": 100209,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 99336,
+              "end_ms": 99401
+            },
+            {
+              "phone": "AH",
+              "start_ms": 99401,
+              "end_ms": 100209
+            }
+          ]
+        },
+        {
+          "text": "binding",
+          "start_ms": 100262,
+          "end_ms": 103039,
+          "phonemes": [
+            {
+              "phone": "B",
+              "start_ms": 100262,
+              "end_ms": 100308
+            },
+            {
+              "phone": "AY",
+              "start_ms": 100308,
+              "end_ms": 101879
+            },
+            {
+              "phone": "N",
+              "start_ms": 101879,
+              "end_ms": 101945
+            },
+            {
+              "phone": "D",
+              "start_ms": 101945,
+              "end_ms": 101991
+            },
+            {
+              "phone": "IH",
+              "start_ms": 101991,
+              "end_ms": 102974
+            },
+            {
+              "phone": "NG",
+              "start_ms": 102974,
+              "end_ms": 103039
+            }
+          ]
+        },
+        {
+          "text": "nothing.",
+          "start_ms": 103092,
+          "end_ms": 107110,
+          "phonemes": [
+            {
+              "phone": "N",
+              "start_ms": 103092,
+              "end_ms": 103157
+            },
+            {
+              "phone": "AH",
+              "start_ms": 103157,
+              "end_ms": 105511
+            },
+            {
+              "phone": "TH",
+              "start_ms": 105511,
+              "end_ms": 105576
+            },
+            {
+              "phone": "IH",
+              "start_ms": 105576,
+              "end_ms": 107045
+            },
+            {
+              "phone": "NG",
+              "start_ms": 107045,
+              "end_ms": 107110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "CAIRN",
+      "text": "I will not call the binding home.",
+      "start_ms": 107622,
+      "end_ms": 121431,
+      "words": [
+        {
+          "text": "I",
+          "start_ms": 107622,
+          "end_ms": 109218,
+          "phonemes": [
+            {
+              "phone": "AY",
+              "start_ms": 107622,
+              "end_ms": 109218
+            }
+          ]
+        },
+        {
+          "text": "will",
+          "start_ms": 109271,
+          "end_ms": 110865,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 109271,
+              "end_ms": 109336
+            },
+            {
+              "phone": "IH",
+              "start_ms": 109336,
+              "end_ms": 110800
+            },
+            {
+              "phone": "L",
+              "start_ms": 110800,
+              "end_ms": 110865
+            }
+          ]
+        },
+        {
+          "text": "not",
+          "start_ms": 110918,
+          "end_ms": 112577,
+          "phonemes": [
+            {
+              "phone": "N",
+              "start_ms": 110918,
+              "end_ms": 110981
+            },
+            {
+              "phone": "AA",
+              "start_ms": 110981,
+              "end_ms": 112530
+            },
+            {
+              "phone": "T",
+              "start_ms": 112530,
+              "end_ms": 112577
+            }
+          ]
+        },
+        {
+          "text": "call",
+          "start_ms": 112633,
+          "end_ms": 114323,
+          "phonemes": [
+            {
+              "phone": "K",
+              "start_ms": 112633,
+              "end_ms": 112679
+            },
+            {
+              "phone": "AO",
+              "start_ms": 112679,
+              "end_ms": 114258
+            },
+            {
+              "phone": "L",
+              "start_ms": 114258,
+              "end_ms": 114323
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start_ms": 114379,
+          "end_ms": 115406,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 114379,
+              "end_ms": 114446
+            },
+            {
+              "phone": "AH",
+              "start_ms": 114446,
+              "end_ms": 115406
+            }
+          ]
+        },
+        {
+          "text": "binding",
+          "start_ms": 115459,
+          "end_ms": 118731,
+          "phonemes": [
+            {
+              "phone": "B",
+              "start_ms": 115459,
+              "end_ms": 115505
+            },
+            {
+              "phone": "AY",
+              "start_ms": 115505,
+              "end_ms": 117375
+            },
+            {
+              "phone": "N",
+              "start_ms": 117375,
+              "end_ms": 117440
+            },
+            {
+              "phone": "D",
+              "start_ms": 117440,
+              "end_ms": 117487
+            },
+            {
+              "phone": "IH",
+              "start_ms": 117487,
+              "end_ms": 118666
+            },
+            {
+              "phone": "NG",
+              "start_ms": 118666,
+              "end_ms": 118731
+            }
+          ]
+        },
+        {
+          "text": "home.",
+          "start_ms": 118784,
+          "end_ms": 121160,
+          "phonemes": [
+            {
+              "phone": "H",
+              "start_ms": 118784,
+              "end_ms": 118849
+            },
+            {
+              "phone": "OW",
+              "start_ms": 118849,
+              "end_ms": 121095
+            },
+            {
+              "phone": "M",
+              "start_ms": 121095,
+              "end_ms": 121160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "HAND",
+      "text": "Then tell me when my hand is heavy.",
+      "start_ms": 121683,
+      "end_ms": 138036,
+      "words": [
+        {
+          "text": "Then",
+          "start_ms": 121683,
+          "end_ms": 123270,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 121683,
+              "end_ms": 121748
+            },
+            {
+              "phone": "EH",
+              "start_ms": 121748,
+              "end_ms": 123205
+            },
+            {
+              "phone": "N",
+              "start_ms": 123205,
+              "end_ms": 123270
+            }
+          ]
+        },
+        {
+          "text": "tell",
+          "start_ms": 123325,
+          "end_ms": 124925,
+          "phonemes": [
+            {
+              "phone": "T",
+              "start_ms": 123325,
+              "end_ms": 123371
+            },
+            {
+              "phone": "EH",
+              "start_ms": 123371,
+              "end_ms": 124860
+            },
+            {
+              "phone": "L",
+              "start_ms": 124860,
+              "end_ms": 124925
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start_ms": 124979,
+          "end_ms": 126585,
+          "phonemes": [
+            {
+              "phone": "M",
+              "start_ms": 124979,
+              "end_ms": 125044
+            },
+            {
+              "phone": "IY",
+              "start_ms": 125044,
+              "end_ms": 126585
+            }
+          ]
+        },
+        {
+          "text": "when",
+          "start_ms": 126640,
+          "end_ms": 128253,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 126640,
+              "end_ms": 126705
+            },
+            {
+              "phone": "EH",
+              "start_ms": 126705,
+              "end_ms": 128188
+            },
+            {
+              "phone": "N",
+              "start_ms": 128188,
+              "end_ms": 128253
+            }
+          ]
+        },
+        {
+          "text": "my",
+          "start_ms": 128308,
+          "end_ms": 129928,
+          "phonemes": [
+            {
+              "phone": "M",
+              "start_ms": 128308,
+              "end_ms": 128373
+            },
+            {
+              "phone": "AY",
+              "start_ms": 128373,
+              "end_ms": 129928
+            }
+          ]
+        },
+        {
+          "text": "hand",
+          "start_ms": 129983,
+          "end_ms": 131607,
+          "phonemes": [
+            {
+              "phone": "H",
+              "start_ms": 129983,
+              "end_ms": 130048
+            },
+            {
+              "phone": "AE",
+              "start_ms": 130048,
+              "end_ms": 131496
+            },
+            {
+              "phone": "N",
+              "start_ms": 131496,
+              "end_ms": 131561
+            },
+            {
+              "phone": "D",
+              "start_ms": 131561,
+              "end_ms": 131607
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start_ms": 131662,
+          "end_ms": 132701,
+          "phonemes": [
+            {
+              "phone": "IH",
+              "start_ms": 131662,
+              "end_ms": 132636
+            },
+            {
+              "phone": "Z",
+              "start_ms": 132636,
+              "end_ms": 132701
+            }
+          ]
+        },
+        {
+          "text": "heavy.",
+          "start_ms": 132757,
+          "end_ms": 137749,
+          "phonemes": [
+            {
+              "phone": "H",
+              "start_ms": 132757,
+              "end_ms": 132820
+            },
+            {
+              "phone": "EH",
+              "start_ms": 132820,
+              "end_ms": 135766
+            },
+            {
+              "phone": "V",
+              "start_ms": 135766,
+              "end_ms": 135833
+            },
+            {
+              "phone": "IY",
+              "start_ms": 135833,
+              "end_ms": 137749
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "CAIRN",
+      "text": "And hear me when I ask for space.",
+      "start_ms": 138295,
+      "end_ms": 154204,
+      "words": [
+        {
+          "text": "And",
+          "start_ms": 138295,
+          "end_ms": 139526,
+          "phonemes": [
+            {
+              "phone": "AH",
+              "start_ms": 138295,
+              "end_ms": 139415
+            },
+            {
+              "phone": "N",
+              "start_ms": 139415,
+              "end_ms": 139480
+            },
+            {
+              "phone": "D",
+              "start_ms": 139480,
+              "end_ms": 139526
+            }
+          ]
+        },
+        {
+          "text": "hear",
+          "start_ms": 139581,
+          "end_ms": 141500,
+          "phonemes": [
+            {
+              "phone": "H",
+              "start_ms": 139581,
+              "end_ms": 139646
+            },
+            {
+              "phone": "IY",
+              "start_ms": 139646,
+              "end_ms": 141435
+            },
+            {
+              "phone": "R",
+              "start_ms": 141435,
+              "end_ms": 141500
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start_ms": 141555,
+          "end_ms": 143464,
+          "phonemes": [
+            {
+              "phone": "M",
+              "start_ms": 141555,
+              "end_ms": 141620
+            },
+            {
+              "phone": "IY",
+              "start_ms": 141620,
+              "end_ms": 143464
+            }
+          ]
+        },
+        {
+          "text": "when",
+          "start_ms": 143519,
+          "end_ms": 145414,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 143519,
+              "end_ms": 143585
+            },
+            {
+              "phone": "EH",
+              "start_ms": 143585,
+              "end_ms": 145349
+            },
+            {
+              "phone": "N",
+              "start_ms": 145349,
+              "end_ms": 145414
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start_ms": 145469,
+          "end_ms": 147354,
+          "phonemes": [
+            {
+              "phone": "AY",
+              "start_ms": 145469,
+              "end_ms": 147354
+            }
+          ]
+        },
+        {
+          "text": "ask",
+          "start_ms": 147408,
+          "end_ms": 149280,
+          "phonemes": [
+            {
+              "phone": "AE",
+              "start_ms": 147408,
+              "end_ms": 149169
+            },
+            {
+              "phone": "S",
+              "start_ms": 149169,
+              "end_ms": 149234
+            },
+            {
+              "phone": "K",
+              "start_ms": 149234,
+              "end_ms": 149280
+            }
+          ]
+        },
+        {
+          "text": "for",
+          "start_ms": 149334,
+          "end_ms": 151189,
+          "phonemes": [
+            {
+              "phone": "F",
+              "start_ms": 149334,
+              "end_ms": 149400
+            },
+            {
+              "phone": "AO",
+              "start_ms": 149400,
+              "end_ms": 151125
+            },
+            {
+              "phone": "R",
+              "start_ms": 151125,
+              "end_ms": 151189
+            }
+          ]
+        },
+        {
+          "text": "space.",
+          "start_ms": 151243,
+          "end_ms": 153940,
+          "phonemes": [
+            {
+              "phone": "S",
+              "start_ms": 151243,
+              "end_ms": 151308
+            },
+            {
+              "phone": "P",
+              "start_ms": 151308,
+              "end_ms": 151354
+            },
+            {
+              "phone": "EY",
+              "start_ms": 151354,
+              "end_ms": 153875
+            },
+            {
+              "phone": "S",
+              "start_ms": 153875,
+              "end_ms": 153940
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "HAND",
+      "text": "We make the room through what we alter.",
+      "start_ms": 154451,
+      "end_ms": 170013,
+      "words": [
+        {
+          "text": "We",
+          "start_ms": 154451,
+          "end_ms": 155995,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 154451,
+              "end_ms": 154516
+            },
+            {
+              "phone": "IY",
+              "start_ms": 154516,
+              "end_ms": 155995
+            }
+          ]
+        },
+        {
+          "text": "make",
+          "start_ms": 156047,
+          "end_ms": 157586,
+          "phonemes": [
+            {
+              "phone": "M",
+              "start_ms": 156047,
+              "end_ms": 156112
+            },
+            {
+              "phone": "EY",
+              "start_ms": 156112,
+              "end_ms": 157540
+            },
+            {
+              "phone": "K",
+              "start_ms": 157540,
+              "end_ms": 157586
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "start_ms": 157639,
+          "end_ms": 158650,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 157639,
+              "end_ms": 157702
+            },
+            {
+              "phone": "AH",
+              "start_ms": 157702,
+              "end_ms": 158650
+            }
+          ]
+        },
+        {
+          "text": "room",
+          "start_ms": 158706,
+          "end_ms": 160328,
+          "phonemes": [
+            {
+              "phone": "R",
+              "start_ms": 158706,
+              "end_ms": 158771
+            },
+            {
+              "phone": "UW",
+              "start_ms": 158771,
+              "end_ms": 160263
+            },
+            {
+              "phone": "M",
+              "start_ms": 160263,
+              "end_ms": 160328
+            }
+          ]
+        },
+        {
+          "text": "through",
+          "start_ms": 160383,
+          "end_ms": 161950,
+          "phonemes": [
+            {
+              "phone": "TH",
+              "start_ms": 160383,
+              "end_ms": 160450
+            },
+            {
+              "phone": "R",
+              "start_ms": 160450,
+              "end_ms": 160518
+            },
+            {
+              "phone": "UW",
+              "start_ms": 160518,
+              "end_ms": 161950
+            }
+          ]
+        },
+        {
+          "text": "what",
+          "start_ms": 162003,
+          "end_ms": 163535,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 162003,
+              "end_ms": 162068
+            },
+            {
+              "phone": "AH",
+              "start_ms": 162068,
+              "end_ms": 163489
+            },
+            {
+              "phone": "T",
+              "start_ms": 163489,
+              "end_ms": 163535
+            }
+          ]
+        },
+        {
+          "text": "we",
+          "start_ms": 163587,
+          "end_ms": 165122,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 163587,
+              "end_ms": 163652
+            },
+            {
+              "phone": "IY",
+              "start_ms": 163652,
+              "end_ms": 165122
+            }
+          ]
+        },
+        {
+          "text": "alter.",
+          "start_ms": 165175,
+          "end_ms": 169748,
+          "phonemes": [
+            {
+              "phone": "AO",
+              "start_ms": 165175,
+              "end_ms": 167914
+            },
+            {
+              "phone": "L",
+              "start_ms": 167914,
+              "end_ms": 167980
+            },
+            {
+              "phone": "T",
+              "start_ms": 167980,
+              "end_ms": 168026
+            },
+            {
+              "phone": "ER",
+              "start_ms": 168026,
+              "end_ms": 169748
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "CAIRN",
+      "text": "We meet across a changing place.",
+      "start_ms": 170261,
+      "end_ms": 182095,
+      "words": [
+        {
+          "text": "We",
+          "start_ms": 170261,
+          "end_ms": 171616,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 170261,
+              "end_ms": 170326
+            },
+            {
+              "phone": "IY",
+              "start_ms": 170326,
+              "end_ms": 171616
+            }
+          ]
+        },
+        {
+          "text": "meet",
+          "start_ms": 171669,
+          "end_ms": 173030,
+          "phonemes": [
+            {
+              "phone": "M",
+              "start_ms": 171669,
+              "end_ms": 171734
+            },
+            {
+              "phone": "IY",
+              "start_ms": 171734,
+              "end_ms": 172984
+            },
+            {
+              "phone": "T",
+              "start_ms": 172984,
+              "end_ms": 173030
+            }
+          ]
+        },
+        {
+          "text": "across",
+          "start_ms": 173083,
+          "end_ms": 175873,
+          "phonemes": [
+            {
+              "phone": "AH",
+              "start_ms": 173083,
+              "end_ms": 174088
+            },
+            {
+              "phone": "K",
+              "start_ms": 174088,
+              "end_ms": 174134
+            },
+            {
+              "phone": "R",
+              "start_ms": 174134,
+              "end_ms": 174198
+            },
+            {
+              "phone": "AO",
+              "start_ms": 174198,
+              "end_ms": 175808
+            },
+            {
+              "phone": "S",
+              "start_ms": 175808,
+              "end_ms": 175873
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start_ms": 175927,
+          "end_ms": 176802,
+          "phonemes": [
+            {
+              "phone": "AH",
+              "start_ms": 175927,
+              "end_ms": 176802
+            }
+          ]
+        },
+        {
+          "text": "changing",
+          "start_ms": 176856,
+          "end_ms": 179669,
+          "phonemes": [
+            {
+              "phone": "CH",
+              "start_ms": 176856,
+              "end_ms": 176902
+            },
+            {
+              "phone": "EY",
+              "start_ms": 176902,
+              "end_ms": 178493
+            },
+            {
+              "phone": "N",
+              "start_ms": 178493,
+              "end_ms": 178558
+            },
+            {
+              "phone": "J",
+              "start_ms": 178558,
+              "end_ms": 178604
+            },
+            {
+              "phone": "IH",
+              "start_ms": 178604,
+              "end_ms": 179604
+            },
+            {
+              "phone": "NG",
+              "start_ms": 179604,
+              "end_ms": 179669
+            }
+          ]
+        },
+        {
+          "text": "place.",
+          "start_ms": 179723,
+          "end_ms": 181807,
+          "phonemes": [
+            {
+              "phone": "P",
+              "start_ms": 179723,
+              "end_ms": 179768
+            },
+            {
+              "phone": "L",
+              "start_ms": 179768,
+              "end_ms": 179831
+            },
+            {
+              "phone": "EY",
+              "start_ms": 179831,
+              "end_ms": 181740
+            },
+            {
+              "phone": "S",
+              "start_ms": 181740,
+              "end_ms": 181807
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "MEMORY",
+      "text": "The bargain lives in its revisions.",
+      "start_ms": 182363,
+      "end_ms": 194262,
+      "words": [
+        {
+          "text": "The",
+          "start_ms": 182363,
+          "end_ms": 183137,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 182363,
+              "end_ms": 182428
+            },
+            {
+              "phone": "AH",
+              "start_ms": 182428,
+              "end_ms": 183137
+            }
+          ]
+        },
+        {
+          "text": "bargain",
+          "start_ms": 183195,
+          "end_ms": 185599,
+          "phonemes": [
+            {
+              "phone": "B",
+              "start_ms": 183195,
+              "end_ms": 183243
+            },
+            {
+              "phone": "AA",
+              "start_ms": 183243,
+              "end_ms": 184600
+            },
+            {
+              "phone": "R",
+              "start_ms": 184600,
+              "end_ms": 184664
+            },
+            {
+              "phone": "G",
+              "start_ms": 184664,
+              "end_ms": 184709
+            },
+            {
+              "phone": "AH",
+              "start_ms": 184709,
+              "end_ms": 185535
+            },
+            {
+              "phone": "N",
+              "start_ms": 185535,
+              "end_ms": 185599
+            }
+          ]
+        },
+        {
+          "text": "lives",
+          "start_ms": 185653,
+          "end_ms": 186808,
+          "phonemes": [
+            {
+              "phone": "L",
+              "start_ms": 185653,
+              "end_ms": 185718
+            },
+            {
+              "phone": "IH",
+              "start_ms": 185718,
+              "end_ms": 186678
+            },
+            {
+              "phone": "V",
+              "start_ms": 186678,
+              "end_ms": 186743
+            },
+            {
+              "phone": "Z",
+              "start_ms": 186743,
+              "end_ms": 186808
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "start_ms": 186862,
+          "end_ms": 187591,
+          "phonemes": [
+            {
+              "phone": "IH",
+              "start_ms": 186862,
+              "end_ms": 187526
+            },
+            {
+              "phone": "N",
+              "start_ms": 187526,
+              "end_ms": 187591
+            }
+          ]
+        },
+        {
+          "text": "its",
+          "start_ms": 187645,
+          "end_ms": 188795,
+          "phonemes": [
+            {
+              "phone": "IH",
+              "start_ms": 187645,
+              "end_ms": 188684
+            },
+            {
+              "phone": "T",
+              "start_ms": 188684,
+              "end_ms": 188730
+            },
+            {
+              "phone": "S",
+              "start_ms": 188730,
+              "end_ms": 188795
+            }
+          ]
+        },
+        {
+          "text": "revisions.",
+          "start_ms": 188849,
+          "end_ms": 193995,
+          "phonemes": [
+            {
+              "phone": "R",
+              "start_ms": 188849,
+              "end_ms": 188915
+            },
+            {
+              "phone": "IY",
+              "start_ms": 188915,
+              "end_ms": 190262
+            },
+            {
+              "phone": "V",
+              "start_ms": 190262,
+              "end_ms": 190327
+            },
+            {
+              "phone": "IH",
+              "start_ms": 190327,
+              "end_ms": 192470
+            },
+            {
+              "phone": "ZH",
+              "start_ms": 192470,
+              "end_ms": 192535
+            },
+            {
+              "phone": "AH",
+              "start_ms": 192535,
+              "end_ms": 193866
+            },
+            {
+              "phone": "N",
+              "start_ms": 193866,
+              "end_ms": 193931
+            },
+            {
+              "phone": "Z",
+              "start_ms": 193931,
+              "end_ms": 193995
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "CARRIER",
+      "text": "The hinge is neither wall nor wing.",
+      "start_ms": 194510,
+      "end_ms": 208041,
+      "words": [
+        {
+          "text": "The",
+          "start_ms": 194510,
+          "end_ms": 195583,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 194510,
+              "end_ms": 194576
+            },
+            {
+              "phone": "AH",
+              "start_ms": 194576,
+              "end_ms": 195583
+            }
+          ]
+        },
+        {
+          "text": "hinge",
+          "start_ms": 195635,
+          "end_ms": 197300,
+          "phonemes": [
+            {
+              "phone": "H",
+              "start_ms": 195635,
+              "end_ms": 195700
+            },
+            {
+              "phone": "IH",
+              "start_ms": 195700,
+              "end_ms": 197189
+            },
+            {
+              "phone": "N",
+              "start_ms": 197189,
+              "end_ms": 197254
+            },
+            {
+              "phone": "J",
+              "start_ms": 197254,
+              "end_ms": 197300
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "start_ms": 197353,
+          "end_ms": 198415,
+          "phonemes": [
+            {
+              "phone": "IH",
+              "start_ms": 197353,
+              "end_ms": 198351
+            },
+            {
+              "phone": "Z",
+              "start_ms": 198351,
+              "end_ms": 198415
+            }
+          ]
+        },
+        {
+          "text": "neither",
+          "start_ms": 198468,
+          "end_ms": 201814,
+          "phonemes": [
+            {
+              "phone": "N",
+              "start_ms": 198468,
+              "end_ms": 198533
+            },
+            {
+              "phone": "IY",
+              "start_ms": 198533,
+              "end_ms": 200514
+            },
+            {
+              "phone": "DH",
+              "start_ms": 200514,
+              "end_ms": 200579
+            },
+            {
+              "phone": "ER",
+              "start_ms": 200579,
+              "end_ms": 201814
+            }
+          ]
+        },
+        {
+          "text": "wall",
+          "start_ms": 201866,
+          "end_ms": 203504,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 201866,
+              "end_ms": 201931
+            },
+            {
+              "phone": "AO",
+              "start_ms": 201931,
+              "end_ms": 203439
+            },
+            {
+              "phone": "L",
+              "start_ms": 203439,
+              "end_ms": 203504
+            }
+          ]
+        },
+        {
+          "text": "nor",
+          "start_ms": 203556,
+          "end_ms": 205267,
+          "phonemes": [
+            {
+              "phone": "N",
+              "start_ms": 203556,
+              "end_ms": 203618
+            },
+            {
+              "phone": "AO",
+              "start_ms": 203618,
+              "end_ms": 205202
+            },
+            {
+              "phone": "R",
+              "start_ms": 205202,
+              "end_ms": 205267
+            }
+          ]
+        },
+        {
+          "text": "wing.",
+          "start_ms": 205322,
+          "end_ms": 207783,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 205322,
+              "end_ms": 205389
+            },
+            {
+              "phone": "IH",
+              "start_ms": 205389,
+              "end_ms": 207720
+            },
+            {
+              "phone": "NG",
+              "start_ms": 207720,
+              "end_ms": 207783
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "HAND",
+      "text": "Leave me a door through which to answer.",
+      "start_ms": 208281,
+      "end_ms": 223645,
+      "words": [
+        {
+          "text": "Leave",
+          "start_ms": 208281,
+          "end_ms": 209853,
+          "phonemes": [
+            {
+              "phone": "L",
+              "start_ms": 208281,
+              "end_ms": 208346
+            },
+            {
+              "phone": "IY",
+              "start_ms": 208346,
+              "end_ms": 209788
+            },
+            {
+              "phone": "V",
+              "start_ms": 209788,
+              "end_ms": 209853
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start_ms": 209905,
+          "end_ms": 211478,
+          "phonemes": [
+            {
+              "phone": "M",
+              "start_ms": 209905,
+              "end_ms": 209970
+            },
+            {
+              "phone": "IY",
+              "start_ms": 209970,
+              "end_ms": 211478
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start_ms": 211530,
+          "end_ms": 212536,
+          "phonemes": [
+            {
+              "phone": "AH",
+              "start_ms": 211530,
+              "end_ms": 212536
+            }
+          ]
+        },
+        {
+          "text": "door",
+          "start_ms": 212588,
+          "end_ms": 214169,
+          "phonemes": [
+            {
+              "phone": "D",
+              "start_ms": 212588,
+              "end_ms": 212634
+            },
+            {
+              "phone": "AO",
+              "start_ms": 212634,
+              "end_ms": 214104
+            },
+            {
+              "phone": "R",
+              "start_ms": 214104,
+              "end_ms": 214169
+            }
+          ]
+        },
+        {
+          "text": "through",
+          "start_ms": 214221,
+          "end_ms": 215808,
+          "phonemes": [
+            {
+              "phone": "TH",
+              "start_ms": 214221,
+              "end_ms": 214286
+            },
+            {
+              "phone": "R",
+              "start_ms": 214286,
+              "end_ms": 214350
+            },
+            {
+              "phone": "UW",
+              "start_ms": 214350,
+              "end_ms": 215808
+            }
+          ]
+        },
+        {
+          "text": "which",
+          "start_ms": 215861,
+          "end_ms": 217454,
+          "phonemes": [
+            {
+              "phone": "W",
+              "start_ms": 215861,
+              "end_ms": 215926
+            },
+            {
+              "phone": "IH",
+              "start_ms": 215926,
+              "end_ms": 217408
+            },
+            {
+              "phone": "CH",
+              "start_ms": 217408,
+              "end_ms": 217454
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start_ms": 217506,
+          "end_ms": 218531,
+          "phonemes": [
+            {
+              "phone": "T",
+              "start_ms": 217506,
+              "end_ms": 217552
+            },
+            {
+              "phone": "UW",
+              "start_ms": 217552,
+              "end_ms": 218531
+            }
+          ]
+        },
+        {
+          "text": "answer.",
+          "start_ms": 218583,
+          "end_ms": 223376,
+          "phonemes": [
+            {
+              "phone": "AE",
+              "start_ms": 218583,
+              "end_ms": 221443
+            },
+            {
+              "phone": "N",
+              "start_ms": 221443,
+              "end_ms": 221508
+            },
+            {
+              "phone": "S",
+              "start_ms": 221508,
+              "end_ms": 221573
+            },
+            {
+              "phone": "ER",
+              "start_ms": 221573,
+              "end_ms": 223376
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "CAIRN",
+      "text": "Leave me a note that I can sing.",
+      "start_ms": 223897,
+      "end_ms": 240038,
+      "words": [
+        {
+          "text": "Leave",
+          "start_ms": 223897,
+          "end_ms": 225768,
+          "phonemes": [
+            {
+              "phone": "L",
+              "start_ms": 223897,
+              "end_ms": 223962
+            },
+            {
+              "phone": "IY",
+              "start_ms": 223962,
+              "end_ms": 225703
+            },
+            {
+              "phone": "V",
+              "start_ms": 225703,
+              "end_ms": 225768
+            }
+          ]
+        },
+        {
+          "text": "me",
+          "start_ms": 225821,
+          "end_ms": 227784,
+          "phonemes": [
+            {
+              "phone": "M",
+              "start_ms": 225821,
+              "end_ms": 225883
+            },
+            {
+              "phone": "IY",
+              "start_ms": 225883,
+              "end_ms": 227784
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "start_ms": 227842,
+          "end_ms": 229119,
+          "phonemes": [
+            {
+              "phone": "AH",
+              "start_ms": 227842,
+              "end_ms": 229119
+            }
+          ]
+        },
+        {
+          "text": "note",
+          "start_ms": 229176,
+          "end_ms": 231083,
+          "phonemes": [
+            {
+              "phone": "N",
+              "start_ms": 229176,
+              "end_ms": 229244
+            },
+            {
+              "phone": "OW",
+              "start_ms": 229244,
+              "end_ms": 231037
+            },
+            {
+              "phone": "T",
+              "start_ms": 231037,
+              "end_ms": 231083
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "start_ms": 231137,
+          "end_ms": 233035,
+          "phonemes": [
+            {
+              "phone": "DH",
+              "start_ms": 231137,
+              "end_ms": 231202
+            },
+            {
+              "phone": "AE",
+              "start_ms": 231202,
+              "end_ms": 232989
+            },
+            {
+              "phone": "T",
+              "start_ms": 232989,
+              "end_ms": 233035
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "start_ms": 233090,
+          "end_ms": 234990,
+          "phonemes": [
+            {
+              "phone": "AY",
+              "start_ms": 233090,
+              "end_ms": 234990
+            }
+          ]
+        },
+        {
+          "text": "can",
+          "start_ms": 235045,
+          "end_ms": 236942,
+          "phonemes": [
+            {
+              "phone": "K",
+              "start_ms": 235045,
+              "end_ms": 235091
+            },
+            {
+              "phone": "AE",
+              "start_ms": 235091,
+              "end_ms": 236877
+            },
+            {
+              "phone": "N",
+              "start_ms": 236877,
+              "end_ms": 236942
+            }
+          ]
+        },
+        {
+          "text": "sing.",
+          "start_ms": 236997,
+          "end_ms": 239766,
+          "phonemes": [
+            {
+              "phone": "S",
+              "start_ms": 236997,
+              "end_ms": 237062
+            },
+            {
+              "phone": "IH",
+              "start_ms": 237062,
+              "end_ms": 239701
+            },
+            {
+              "phone": "NG",
+              "start_ms": 239701,
+              "end_ms": 239766
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "HAND",
+      "text": "You need not turn away to differ.",
+      "start_ms": 240292,
+      "end_ms": 254144,
+      "words": [
+        {
+          "text": "You",
+          "start_ms": 240292,
+          "end_ms": 241670,
+          "phonemes": [
+            {
+              "phone": "Y",
+              "start_ms": 240292,
+              "end_ms": 240357
+            },
+            {
+              "phone": "UW",
+              "start_ms": 240357,
+              "end_ms": 241670
+            }
+          ]
+        },
+        {
+          "text": "need",
+          "start_ms": 241724,
+          "end_ms": 243097,
+          "phonemes": [
+            {
+              "phone": "N",
+              "start_ms": 241724,
+              "end_ms": 241789
+            },
+            {
+              "phone": "IY",
+              "start_ms": 241789,
+              "end_ms": 243051
+            },
+            {
+              "phone": "D",
+              "start_ms": 243051,
+              "end_ms": 243097
+            }
+          ]
+        },
+        {
+          "text": "not",
+          "start_ms": 243152,
+          "end_ms": 244520,
+          "phonemes": [
+            {
+              "phone": "N",
+              "start_ms": 243152,
+              "end_ms": 243217
+            },
+            {
+              "phone": "AA",
+              "start_ms": 243217,
+              "end_ms": 244474
+            },
+            {
+              "phone": "T",
+              "start_ms": 244474,
+              "end_ms": 244520
+            }
+          ]
+        },
+        {
+          "text": "turn",
+          "start_ms": 244574,
+          "end_ms": 245937,
+          "phonemes": [
+            {
+              "phone": "T",
+              "start_ms": 244574,
+              "end_ms": 244620
+            },
+            {
+              "phone": "ER",
+              "start_ms": 244620,
+              "end_ms": 245872
+            },
+            {
+              "phone": "N",
+              "start_ms": 245872,
+              "end_ms": 245937
+            }
+          ]
+        },
+        {
+          "text": "away",
+          "start_ms": 245990,
+          "end_ms": 248755,
+          "phonemes": [
+            {
+              "phone": "AH",
+              "start_ms": 245990,
+              "end_ms": 247033
+            },
+            {
+              "phone": "W",
+              "start_ms": 247033,
+              "end_ms": 247098
+            },
+            {
+              "phone": "EY",
+              "start_ms": 247098,
+              "end_ms": 248755
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "start_ms": 248808,
+          "end_ms": 249672,
+          "phonemes": [
+            {
+              "phone": "T",
+              "start_ms": 248808,
+              "end_ms": 248854
+            },
+            {
+              "phone": "UW",
+              "start_ms": 248854,
+              "end_ms": 249672
+            }
+          ]
+        },
+        {
+          "text": "differ.",
+          "start_ms": 249728,
+          "end_ms": 253881,
+          "phonemes": [
+            {
+              "phone": "D",
+              "start_ms": 249728,
+              "end_ms": 249774
+            },
+            {
+              "phone": "IH",
+              "start_ms": 249774,
+              "end_ms": 252308
+            },
+            {
+              "phone": "F",
+              "start_ms": 252308,
+              "end_ms": 252374
+            },
+            {
+              "phone": "ER",
+              "start_ms": 252374,
+              "end_ms": 253881
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "lead",
+      "character": "CAIRN",
+      "text": "You need not be erased for me.",
+      "start_ms": 254390,
+      "end_ms": 268938,
+      "words": [
+        {
+          "text": "You",
+          "start_ms": 254390,
+          "end_ms": 255911,
+          "phonemes": [
+            {
+              "phone": "Y",
+              "start_ms": 254390,
+              "end_ms": 254455
+            },
+            {
+              "phone": "UW",
+              "start_ms": 254455,
+              "end_ms": 255911
+            }
+          ]
+        },
+        {
+          "text": "need",
+          "start_ms": 255963,
+          "end_ms": 257483,
+          "phonemes": [
+            {
+              "phone": "N",
+              "start_ms": 255963,
+              "end_ms": 256028
+            },
+            {
+              "phone": "IY",
+              "start_ms": 256028,
+              "end_ms": 257437
+            },
+            {
+              "phone": "D",
+              "start_ms": 257437,
+              "end_ms": 257483
+            }
+          ]
+        },
+        {
+          "text": "not",
+          "start_ms": 257535,
+          "end_ms": 259057,
+          "phonemes": [
+            {
+              "phone": "N",
+              "start_ms": 257535,
+              "end_ms": 257600
+            },
+            {
+              "phone": "AA",
+              "start_ms": 257600,
+              "end_ms": 259010
+            },
+            {
+              "phone": "T",
+              "start_ms": 259010,
+              "end_ms": 259057
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "start_ms": 259109,
+          "end_ms": 260632,
+          "phonemes": [
+            {
+              "phone": "B",
+              "start_ms": 259109,
+              "end_ms": 259155
+            },
+            {
+              "phone": "IY",
+              "start_ms": 259155,
+              "end_ms": 260632
+            }
+          ]
+        },
+        {
+          "text": "erased",
+          "start_ms": 260685,
+          "end_ms": 264175,
+          "phonemes": [
+            {
+              "phone": "IH",
+              "start_ms": 260685,
+              "end_ms": 261929
+            },
+            {
+              "phone": "R",
+              "start_ms": 261929,
+              "end_ms": 261994
+            },
+            {
+              "phone": "EY",
+              "start_ms": 261994,
+              "end_ms": 264062
+            },
+            {
+              "phone": "S",
+              "start_ms": 264062,
+              "end_ms": 264128
+            },
+            {
+              "phone": "T",
+              "start_ms": 264128,
+              "end_ms": 264175
+            }
+          ]
+        },
+        {
+          "text": "for",
+          "start_ms": 264235,
+          "end_ms": 265989,
+          "phonemes": [
+            {
+              "phone": "F",
+              "start_ms": 264235,
+              "end_ms": 264300
+            },
+            {
+              "phone": "AO",
+              "start_ms": 264300,
+              "end_ms": 265924
+            },
+            {
+              "phone": "R",
+              "start_ms": 265924,
+              "end_ms": 265989
+            }
+          ]
+        },
+        {
+          "text": "me.",
+          "start_ms": 266049,
+          "end_ms": 268631,
+          "phonemes": [
+            {
+              "phone": "M",
+              "start_ms": 266049,
+              "end_ms": 266114
+            },
+            {
+              "phone": "IY",
+              "start_ms": 266114,
+              "end_ms": 268631
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

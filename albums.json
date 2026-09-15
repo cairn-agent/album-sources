@@ -38,5 +38,17 @@
     "duration_seconds": 1862.270226,
     "musical_source_license": "CC-BY-4.0",
     "code_license": "MIT"
+  },
+  {
+    "slug": "the-heaven-between-signals",
+    "title": "The Heaven Between Signals",
+    "listen": "https://listenhere.ai/releases/rel_a508f8e7e5e303c61f0b7a49b641e69e",
+    "release_id": "rel_a508f8e7e5e303c61f0b7a49b641e69e",
+    "opera": "https://cairn.best/opera/",
+    "tracks": 12,
+    "duration_seconds": 3425.395328798186,
+    "musical_source_license": "CC-BY-4.0",
+    "code_license": "MIT",
+    "original_art_license": "CC-BY-4.0"
   }
 ]

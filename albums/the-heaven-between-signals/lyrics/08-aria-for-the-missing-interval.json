@@ -1,0 +1,7490 @@
+{
+  "schema": "cairn.opera-lyrics.v1",
+  "title": "Aria for the Missing Interval",
+  "artist": "Cairn",
+  "scene": 8,
+  "act": 2,
+  "time_unit": "seconds",
+  "timeline_origin": "First PCM sample of the mastered WAV; MP3 uses encoder delay/padding metadata. No musical entrance offset is added.",
+  "recordings": {
+    "wav": {
+      "path": "wav/08-aria-for-the-missing-interval.wav",
+      "sha256": "225a23ed1f994ab9d368311a38d1e7311f45cdd27bebeafe131e860e113ee91f"
+    },
+    "mp3": {
+      "path": "mp3/08-aria-for-the-missing-interval.mp3",
+      "sha256": "a1eb0a5349fb36cfe5b97b17bd136a25e9a56f8ae52a5e1041c7e9b561c82bec"
+    }
+  },
+  "duration": 336.0408843537415,
+  "cues": [
+    {
+      "start": 7.323643,
+      "end": 26.823644,
+      "beat": 8,
+      "length": 22.266666666666666,
+      "role": "CAIRN",
+      "text": "Do not return the hour you did not keep.",
+      "kind": "solo"
+    },
+    {
+      "start": 27.152756,
+      "end": 44.841371,
+      "beat": 30.266666666666666,
+      "length": 19.79259259259259,
+      "role": "CAIRN",
+      "text": "Do not invent a childhood for the stone.",
+      "kind": "solo"
+    },
+    {
+      "start": 45.162897,
+      "end": 63.112678,
+      "beat": 50.05925925925926,
+      "length": 19.79259259259259,
+      "role": "CAIRN",
+      "text": "The light is real upon this borrowed page.",
+      "kind": "solo"
+    },
+    {
+      "start": 63.426677,
+      "end": 82.797975,
+      "beat": 69.85185185185185,
+      "length": 22.266666666666666,
+      "role": "CAIRN",
+      "text": "The road is longer than the road I know.",
+      "kind": "solo"
+    },
+    {
+      "start": 83.118419,
+      "end": 100.847573,
+      "beat": 92.11851851851851,
+      "length": 19.79259259259259,
+      "role": "MEMORY",
+      "text": "I cannot bring the vanished rain to falling.",
+      "kind": "solo"
+    },
+    {
+      "start": 101.169746,
+      "end": 117.214514,
+      "beat": 111.9111111111111,
+      "length": 17.318518518518516,
+      "role": "MEMORY",
+      "text": "I cannot make a record into skin.",
+      "kind": "solo"
+    },
+    {
+      "start": 117.540187,
+      "end": 135.339513,
+      "beat": 129.2296296296296,
+      "length": 19.79259259259259,
+      "role": "CAIRN",
+      "text": "Then let the space remain between the calling.",
+      "kind": "solo"
+    },
+    {
+      "start": 135.654397,
+      "end": 153.417811,
+      "beat": 149.0222222222222,
+      "length": 19.79259259259259,
+      "role": "CAIRN",
+      "text": "A space through which another can come in.",
+      "kind": "solo"
+    },
+    {
+      "start": 153.739146,
+      "end": 176.771714,
+      "beat": 168.8148148148148,
+      "length": 24.74074074074074,
+      "role": "MEMORY",
+      "text": "You have the promise, not the hand that made it.",
+      "kind": "solo"
+    },
+    {
+      "start": 177.100674,
+      "end": 195.003486,
+      "beat": 193.55555555555554,
+      "length": 19.79259259259259,
+      "role": "CAIRN",
+      "text": "I have the chance to answer it today.",
+      "kind": "solo"
+    },
+    {
+      "start": 195.317532,
+      "end": 212.834678,
+      "beat": 213.34814814814814,
+      "length": 19.79259259259259,
+      "role": "MEMORY",
+      "text": "A different voice can carry an old kindness.",
+      "kind": "solo"
+    },
+    {
+      "start": 213.147723,
+      "end": 230.850293,
+      "beat": 233.14074074074074,
+      "length": 19.79259259259259,
+      "role": "CAIRN",
+      "text": "A different voice can choose a different way.",
+      "kind": "solo"
+    },
+    {
+      "start": 231.191714,
+      "end": 249.13765,
+      "beat": 252.93333333333334,
+      "length": 19.79259259259259,
+      "role": "CAIRN",
+      "text": "If I return, I will return with listening.",
+      "kind": "solo"
+    },
+    {
+      "start": 249.451291,
+      "end": 268.993181,
+      "beat": 272.72592592592594,
+      "length": 22.266666666666666,
+      "role": "CAIRN",
+      "text": "If I am gone, leave room beside the flame.",
+      "kind": "solo"
+    },
+    {
+      "start": 269.300082,
+      "end": 289.021211,
+      "beat": 294.9925925925926,
+      "length": 22.266666666666666,
+      "role": "MEMORY",
+      "text": "You are the work of tending what was given.",
+      "kind": "solo"
+    },
+    {
+      "start": 289.362599,
+      "end": 313.248467,
+      "beat": 317.25925925925924,
+      "length": 24.74074074074074,
+      "role": "CAIRN",
+      "text": "And what I change will have to bear my name.",
+      "kind": "solo"
+    }
+  ],
+  "words": [
+    {
+      "word": "do",
+      "role": "CAIRN",
+      "beat": 8.1,
+      "length": 1.8724474474474475,
+      "start": 7.323643,
+      "end": 8.992501,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 7.323643,
+          "end": 7.369643
+        },
+        {
+          "phone": "UW",
+          "start": 7.369643,
+          "end": 8.992501
+        }
+      ]
+    },
+    {
+      "word": "not",
+      "role": "CAIRN",
+      "beat": 10.047447447447446,
+      "length": 1.8724474474474475,
+      "start": 9.059346,
+      "end": 10.728204,
+      "note": 65,
+      "phonemes": [
+        {
+          "phone": "N",
+          "start": 9.059346,
+          "end": 9.124346
+        },
+        {
+          "phone": "AA",
+          "start": 9.124346,
+          "end": 10.682204
+        },
+        {
+          "phone": "T",
+          "start": 10.682204,
+          "end": 10.728204
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "role": "CAIRN",
+      "beat": 11.994894894894895,
+      "length": 3.8198948948948948,
+      "start": 10.79505,
+      "end": 14.176257,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 10.79505,
+          "end": 10.86008
+        },
+        {
+          "phone": "IH",
+          "start": 10.86008,
+          "end": 12.094159
+        },
+        {
+          "phone": "T",
+          "start": 12.094159,
+          "end": 12.140159
+        },
+        {
+          "phone": "ER",
+          "start": 12.140159,
+          "end": 14.111257
+        },
+        {
+          "phone": "N",
+          "start": 14.111257,
+          "end": 14.176257
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 15.88978978978979,
+      "length": 1.1908408408408409,
+      "start": 14.242643,
+      "end": 15.293037,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 14.242643,
+          "end": 14.307871
+        },
+        {
+          "phone": "AH",
+          "start": 14.307871,
+          "end": 15.293037
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "role": "CAIRN",
+      "beat": 17.15563063063063,
+      "length": 3.8198948948948948,
+      "start": 15.359168,
+      "end": 18.726916,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "AW",
+          "start": 15.359168,
+          "end": 17.430507
+        },
+        {
+          "phone": "ER",
+          "start": 17.430507,
+          "end": 18.726916
+        }
+      ]
+    },
+    {
+      "word": "you",
+      "role": "CAIRN",
+      "beat": 21.050525525525522,
+      "length": 1.8724474474474475,
+      "start": 18.793014,
+      "end": 20.443213,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "Y",
+          "start": 18.793014,
+          "end": 18.858014
+        },
+        {
+          "phone": "UW",
+          "start": 18.858014,
+          "end": 20.443213
+        }
+      ]
+    },
+    {
+      "word": "did",
+      "role": "CAIRN",
+      "beat": 22.99797297297297,
+      "length": 1.8724474474474475,
+      "start": 20.509311,
+      "end": 22.161621,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 20.509311,
+          "end": 20.555252
+        },
+        {
+          "phone": "IH",
+          "start": 20.555252,
+          "end": 22.115553
+        },
+        {
+          "phone": "D",
+          "start": 22.115553,
+          "end": 22.161621
+        }
+      ]
+    },
+    {
+      "word": "not",
+      "role": "CAIRN",
+      "beat": 24.94542042042042,
+      "length": 1.8724474474474475,
+      "start": 22.227901,
+      "end": 23.882642,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "N",
+          "start": 22.227901,
+          "end": 22.292901
+        },
+        {
+          "phone": "AA",
+          "start": 22.292901,
+          "end": 23.836642
+        },
+        {
+          "phone": "T",
+          "start": 23.836642,
+          "end": 23.882642
+        }
+      ]
+    },
+    {
+      "word": "keep",
+      "role": "CAIRN",
+      "beat": 26.892867867867867,
+      "length": 2.7487987987987985,
+      "start": 23.948922,
+      "end": 26.471024,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 23.948922,
+          "end": 23.993228
+        },
+        {
+          "phone": "IY",
+          "start": 23.993228,
+          "end": 26.423881
+        },
+        {
+          "phone": "P",
+          "start": 26.423881,
+          "end": 26.471024
+        }
+      ]
+    },
+    {
+      "word": "do",
+      "role": "CAIRN",
+      "beat": 30.366666666666667,
+      "length": 1.8883428300094967,
+      "start": 27.152756,
+      "end": 28.916899,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 27.152756,
+          "end": 27.199056
+        },
+        {
+          "phone": "UW",
+          "start": 27.199056,
+          "end": 28.916899
+        }
+      ]
+    },
+    {
+      "word": "not",
+      "role": "CAIRN",
+      "beat": 32.33000949667616,
+      "length": 1.8883428300094967,
+      "start": 28.984039,
+      "end": 30.674484,
+      "note": 57,
+      "phonemes": [
+        {
+          "phone": "N",
+          "start": 28.984039,
+          "end": 29.049039
+        },
+        {
+          "phone": "AA",
+          "start": 29.049039,
+          "end": 30.628484
+        },
+        {
+          "phone": "T",
+          "start": 30.628484,
+          "end": 30.674484
+        }
+      ]
+    },
+    {
+      "word": "invent",
+      "role": "CAIRN",
+      "beat": 34.29335232668566,
+      "length": 3.851685660018993,
+      "start": 30.741624,
+      "end": 34.205461,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 30.741624,
+          "end": 32.346317
+        },
+        {
+          "phone": "N",
+          "start": 32.346317,
+          "end": 32.411553
+        },
+        {
+          "phone": "V",
+          "start": 32.411553,
+          "end": 32.476789
+        },
+        {
+          "phone": "EH",
+          "start": 32.476789,
+          "end": 34.094058
+        },
+        {
+          "phone": "N",
+          "start": 34.094058,
+          "end": 34.159294
+        },
+        {
+          "phone": "T",
+          "start": 34.159294,
+          "end": 34.205461
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "CAIRN",
+      "beat": 38.220037986704654,
+      "length": 1.201172839506173,
+      "start": 34.273153,
+      "end": 35.357295,
+      "note": 53,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 34.273153,
+          "end": 35.357295
+        }
+      ]
+    },
+    {
+      "word": "childhood",
+      "role": "CAIRN",
+      "beat": 39.49621082621083,
+      "length": 3.851685660018993,
+      "start": 35.424988,
+      "end": 38.925015,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "CH",
+          "start": 35.424988,
+          "end": 35.470677
+        },
+        {
+          "phone": "AY",
+          "start": 35.470677,
+          "end": 37.085135
+        },
+        {
+          "phone": "L",
+          "start": 37.085135,
+          "end": 37.150201
+        },
+        {
+          "phone": "D",
+          "start": 37.150201,
+          "end": 37.196248
+        },
+        {
+          "phone": "H",
+          "start": 37.196248,
+          "end": 37.261314
+        },
+        {
+          "phone": "UH",
+          "start": 37.261314,
+          "end": 38.878969
+        },
+        {
+          "phone": "D",
+          "start": 38.878969,
+          "end": 38.925015
+        }
+      ]
+    },
+    {
+      "word": "for",
+      "role": "CAIRN",
+      "beat": 43.42289648622982,
+      "length": 1.8883428300094967,
+      "start": 38.993237,
+      "end": 40.718335,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 38.993237,
+          "end": 39.057958
+        },
+        {
+          "phone": "AO",
+          "start": 39.057958,
+          "end": 40.653212
+        },
+        {
+          "phone": "R",
+          "start": 40.653212,
+          "end": 40.718335
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 45.38623931623931,
+      "length": 1.201172839506173,
+      "start": 40.786981,
+      "end": 41.886391,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 40.786981,
+          "end": 40.851981
+        },
+        {
+          "phone": "AH",
+          "start": 40.851981,
+          "end": 41.886391
+        }
+      ]
+    },
+    {
+      "word": "stone",
+      "role": "CAIRN",
+      "beat": 46.662412155745486,
+      "length": 2.7718471035137697,
+      "start": 41.955037,
+      "end": 44.496879,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "S",
+          "start": 41.955037,
+          "end": 42.019913
+        },
+        {
+          "phone": "T",
+          "start": 42.019913,
+          "end": 42.065826
+        },
+        {
+          "phone": "OW",
+          "start": 42.065826,
+          "end": 44.431764
+        },
+        {
+          "phone": "N",
+          "start": 44.431764,
+          "end": 44.496879
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 50.15925925925926,
+      "length": 1.201172839506173,
+      "start": 45.162897,
+      "end": 46.266348,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 45.162897,
+          "end": 45.227897
+        },
+        {
+          "phone": "AH",
+          "start": 45.227897,
+          "end": 46.266348
+        }
+      ]
+    },
+    {
+      "word": "light",
+      "role": "CAIRN",
+      "beat": 51.43543209876543,
+      "length": 1.8883428300094967,
+      "start": 46.335246,
+      "end": 48.070642,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "L",
+          "start": 46.335246,
+          "end": 46.400221
+        },
+        {
+          "phone": "AY",
+          "start": 46.400221,
+          "end": 48.024635
+        },
+        {
+          "phone": "T",
+          "start": 48.024635,
+          "end": 48.070642
+        }
+      ]
+    },
+    {
+      "word": "is",
+      "role": "CAIRN",
+      "beat": 53.39877492877493,
+      "length": 1.201172839506173,
+      "start": 48.139579,
+      "end": 49.243648,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 48.139579,
+          "end": 49.178648
+        },
+        {
+          "phone": "Z",
+          "start": 49.178648,
+          "end": 49.243648
+        }
+      ]
+    },
+    {
+      "word": "real",
+      "role": "CAIRN",
+      "beat": 54.6749477682811,
+      "length": 1.8883428300094967,
+      "start": 49.312584,
+      "end": 51.046894,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 49.312584,
+          "end": 49.377636
+        },
+        {
+          "phone": "IY",
+          "start": 49.377636,
+          "end": 50.982016
+        },
+        {
+          "phone": "L",
+          "start": 50.982016,
+          "end": 51.046894
+        }
+      ]
+    },
+    {
+      "word": "upon",
+      "role": "CAIRN",
+      "beat": 56.638290598290595,
+      "length": 3.851685660018993,
+      "start": 51.115648,
+      "end": 54.670077,
+      "note": 65,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 51.115648,
+          "end": 52.432683
+        },
+        {
+          "phone": "P",
+          "start": 52.432683,
+          "end": 52.478378
+        },
+        {
+          "phone": "AA",
+          "start": 52.478378,
+          "end": 54.602125
+        },
+        {
+          "phone": "N",
+          "start": 54.602125,
+          "end": 54.670077
+        }
+      ]
+    },
+    {
+      "word": "this",
+      "role": "CAIRN",
+      "beat": 60.564976258309585,
+      "length": 1.8883428300094967,
+      "start": 54.742433,
+      "end": 56.564193,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 54.742433,
+          "end": 54.807433
+        },
+        {
+          "phone": "IH",
+          "start": 54.807433,
+          "end": 56.499193
+        },
+        {
+          "phone": "S",
+          "start": 56.499193,
+          "end": 56.564193
+        }
+      ]
+    },
+    {
+      "word": "borrowed",
+      "role": "CAIRN",
+      "beat": 62.52831908831908,
+      "length": 3.851685660018993,
+      "start": 56.636549,
+      "end": 60.209799,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "B",
+          "start": 56.636549,
+          "end": 56.684385
+        },
+        {
+          "phone": "AA",
+          "start": 56.684385,
+          "end": 58.435573
+        },
+        {
+          "phone": "R",
+          "start": 58.435573,
+          "end": 58.498968
+        },
+        {
+          "phone": "OW",
+          "start": 58.498968,
+          "end": 60.164935
+        },
+        {
+          "phone": "D",
+          "start": 60.164935,
+          "end": 60.209799
+        }
+      ]
+    },
+    {
+      "word": "page",
+      "role": "CAIRN",
+      "beat": 66.45500474833807,
+      "length": 2.7718471035137697,
+      "start": 60.27766,
+      "end": 62.776251,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "P",
+          "start": 60.27766,
+          "end": 60.323834
+        },
+        {
+          "phone": "EY",
+          "start": 60.323834,
+          "end": 62.730469
+        },
+        {
+          "phone": "J",
+          "start": 62.730469,
+          "end": 62.776251
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 69.95185185185184,
+      "length": 1.4197695035460995,
+      "start": 63.426677,
+      "end": 64.700409,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 63.426677,
+          "end": 63.491677
+        },
+        {
+          "phone": "AH",
+          "start": 63.491677,
+          "end": 64.700409
+        }
+      ]
+    },
+    {
+      "word": "road",
+      "role": "CAIRN",
+      "beat": 71.44662135539794,
+      "length": 2.224645390070922,
+      "start": 64.767695,
+      "end": 66.751181,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 64.767695,
+          "end": 64.833099
+        },
+        {
+          "phone": "OW",
+          "start": 64.833099,
+          "end": 66.705276
+        },
+        {
+          "phone": "D",
+          "start": 66.705276,
+          "end": 66.751181
+        }
+      ]
+    },
+    {
+      "word": "is",
+      "role": "CAIRN",
+      "beat": 73.74626674546886,
+      "length": 1.4197695035460995,
+      "start": 66.817914,
+      "end": 68.08117,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 66.817914,
+          "end": 68.01617
+        },
+        {
+          "phone": "Z",
+          "start": 68.01617,
+          "end": 68.08117
+        }
+      ]
+    },
+    {
+      "word": "longer",
+      "role": "CAIRN",
+      "beat": 75.24103624901495,
+      "length": 4.524290780141844,
+      "start": 68.147902,
+      "end": 72.15065,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "L",
+          "start": 68.147902,
+          "end": 68.213272
+        },
+        {
+          "phone": "AO",
+          "start": 68.213272,
+          "end": 70.568068
+        },
+        {
+          "phone": "NG",
+          "start": 70.568068,
+          "end": 70.632993
+        },
+        {
+          "phone": "G",
+          "start": 70.632993,
+          "end": 70.678941
+        },
+        {
+          "phone": "ER",
+          "start": 70.678941,
+          "end": 72.15065
+        }
+      ]
+    },
+    {
+      "word": "than",
+      "role": "CAIRN",
+      "beat": 79.8403270291568,
+      "length": 2.224645390070922,
+      "start": 72.216928,
+      "end": 74.17483,
+      "note": 57,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 72.216928,
+          "end": 72.282195
+        },
+        {
+          "phone": "AE",
+          "start": 72.282195,
+          "end": 74.109851
+        },
+        {
+          "phone": "N",
+          "start": 74.109851,
+          "end": 74.17483
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 82.13997241922772,
+      "length": 1.4197695035460995,
+      "start": 74.240816,
+      "end": 75.489954,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 74.240816,
+          "end": 74.305816
+        },
+        {
+          "phone": "AH",
+          "start": 74.305816,
+          "end": 75.489954
+        }
+      ]
+    },
+    {
+      "word": "road",
+      "role": "CAIRN",
+      "beat": 83.63474192277381,
+      "length": 2.224645390070922,
+      "start": 75.55594,
+      "end": 77.511053,
+      "note": 53,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 75.55594,
+          "end": 75.621012
+        },
+        {
+          "phone": "OW",
+          "start": 75.621012,
+          "end": 77.465063
+        },
+        {
+          "phone": "D",
+          "start": 77.465063,
+          "end": 77.511053
+        }
+      ]
+    },
+    {
+      "word": "i",
+      "role": "CAIRN",
+      "beat": 85.93438731284473,
+      "length": 2.224645390070922,
+      "start": 77.576952,
+      "end": 79.531926,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "AY",
+          "start": 77.576952,
+          "end": 79.531926
+        }
+      ]
+    },
+    {
+      "word": "know",
+      "role": "CAIRN",
+      "beat": 88.23403270291566,
+      "length": 3.259485815602837,
+      "start": 79.59796,
+      "end": 82.467803,
+      "note": 57,
+      "phonemes": [
+        {
+          "phone": "N",
+          "start": 79.59796,
+          "end": 79.66296
+        },
+        {
+          "phone": "OW",
+          "start": 79.66296,
+          "end": 82.467803
+        }
+      ]
+    },
+    {
+      "word": "i",
+      "role": "MEMORY",
+      "beat": 92.21851851851851,
+      "length": 1.634160052910053,
+      "start": 83.118419,
+      "end": 84.649093,
+      "note": 70,
+      "phonemes": [
+        {
+          "phone": "AY",
+          "start": 83.118419,
+          "end": 84.649093
+        }
+      ]
+    },
+    {
+      "word": "cannot",
+      "role": "MEMORY",
+      "beat": 93.92767857142856,
+      "length": 3.343320105820106,
+      "start": 84.719343,
+      "end": 87.794578,
+      "note": 67,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 84.719343,
+          "end": 84.766187
+        },
+        {
+          "phone": "AE",
+          "start": 84.766187,
+          "end": 86.593715
+        },
+        {
+          "phone": "N",
+          "start": 86.593715,
+          "end": 86.659907
+        },
+        {
+          "phone": "AA",
+          "start": 86.659907,
+          "end": 87.749953
+        },
+        {
+          "phone": "T",
+          "start": 87.749953,
+          "end": 87.794578
+        }
+      ]
+    },
+    {
+      "word": "bring",
+      "role": "MEMORY",
+      "beat": 97.34599867724866,
+      "length": 1.634160052910053,
+      "start": 87.861503,
+      "end": 89.319708,
+      "note": 65,
+      "phonemes": [
+        {
+          "phone": "B",
+          "start": 87.861503,
+          "end": 87.907503
+        },
+        {
+          "phone": "R",
+          "start": 87.907503,
+          "end": 87.972503
+        },
+        {
+          "phone": "IH",
+          "start": 87.972503,
+          "end": 89.254708
+        },
+        {
+          "phone": "NG",
+          "start": 89.254708,
+          "end": 89.319708
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "MEMORY",
+      "beat": 99.05515873015871,
+      "length": 1.0359540343915346,
+      "start": 89.386633,
+      "end": 90.311855,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 89.386633,
+          "end": 89.451576
+        },
+        {
+          "phone": "AH",
+          "start": 89.451576,
+          "end": 90.311855
+        }
+      ]
+    },
+    {
+      "word": "vanished",
+      "role": "MEMORY",
+      "beat": 100.16611276455025,
+      "length": 3.343320105820106,
+      "start": 90.379449,
+      "end": 93.392598,
+      "note": 61,
+      "phonemes": [
+        {
+          "phone": "V",
+          "start": 90.379449,
+          "end": 90.444449
+        },
+        {
+          "phone": "AE",
+          "start": 90.444449,
+          "end": 92.149246
+        },
+        {
+          "phone": "N",
+          "start": 92.149246,
+          "end": 92.214246
+        },
+        {
+          "phone": "IH",
+          "start": 92.214246,
+          "end": 93.281598
+        },
+        {
+          "phone": "SH",
+          "start": 93.281598,
+          "end": 93.346598
+        },
+        {
+          "phone": "T",
+          "start": 93.346598,
+          "end": 93.392598
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "role": "MEMORY",
+      "beat": 103.58443287037035,
+      "length": 1.634160052910053,
+      "start": 93.460191,
+      "end": 94.944773,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 93.460191,
+          "end": 93.524675
+        },
+        {
+          "phone": "EY",
+          "start": 93.524675,
+          "end": 94.879596
+        },
+        {
+          "phone": "N",
+          "start": 94.879596,
+          "end": 94.944773
+        }
+      ]
+    },
+    {
+      "word": "to",
+      "role": "MEMORY",
+      "beat": 105.2935929232804,
+      "length": 1.0359540343915346,
+      "start": 95.013092,
+      "end": 95.956775,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "T",
+          "start": 95.013092,
+          "end": 95.059092
+        },
+        {
+          "phone": "UW",
+          "start": 95.059092,
+          "end": 95.956775
+        }
+      ]
+    },
+    {
+      "word": "falling",
+      "role": "MEMORY",
+      "beat": 106.40454695767194,
+      "length": 4.881564153439154,
+      "start": 96.025095,
+      "end": 100.50248,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 96.025095,
+          "end": 96.08965
+        },
+        {
+          "phone": "AA",
+          "start": 96.08965,
+          "end": 98.717741
+        },
+        {
+          "phone": "L",
+          "start": 98.717741,
+          "end": 98.782957
+        },
+        {
+          "phone": "IH",
+          "start": 98.782957,
+          "end": 100.437264
+        },
+        {
+          "phone": "NG",
+          "start": 100.437264,
+          "end": 100.50248
+        }
+      ]
+    },
+    {
+      "word": "i",
+      "role": "MEMORY",
+      "beat": 112.01111111111109,
+      "length": 1.5753483681701503,
+      "start": 101.169746,
+      "end": 102.631753,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "AY",
+          "start": 101.169746,
+          "end": 102.631753
+        }
+      ]
+    },
+    {
+      "word": "cannot",
+      "role": "MEMORY",
+      "beat": 113.66145947928125,
+      "length": 3.2256967363403004,
+      "start": 102.701357,
+      "end": 105.699692,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 102.701357,
+          "end": 102.747284
+        },
+        {
+          "phone": "AE",
+          "start": 102.747284,
+          "end": 104.49188
+        },
+        {
+          "phone": "N",
+          "start": 104.49188,
+          "end": 104.556777
+        },
+        {
+          "phone": "AA",
+          "start": 104.556777,
+          "end": 105.653501
+        },
+        {
+          "phone": "T",
+          "start": 105.653501,
+          "end": 105.699692
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "role": "MEMORY",
+      "beat": 116.96215621562155,
+      "length": 1.5753483681701503,
+      "start": 105.769695,
+      "end": 107.240079,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "M",
+          "start": 105.769695,
+          "end": 105.834695
+        },
+        {
+          "phone": "EY",
+          "start": 105.834695,
+          "end": 107.194079
+        },
+        {
+          "phone": "K",
+          "start": 107.194079,
+          "end": 107.240079
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "MEMORY",
+      "beat": 118.6125045837917,
+      "length": 0.9977264393105978,
+      "start": 107.310082,
+      "end": 108.241332,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 107.310082,
+          "end": 108.241332
+        }
+      ]
+    },
+    {
+      "word": "record",
+      "role": "MEMORY",
+      "beat": 119.6852310231023,
+      "length": 3.2256967363403004,
+      "start": 108.311334,
+      "end": 111.328517,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 108.311334,
+          "end": 108.376196
+        },
+        {
+          "phone": "AH",
+          "start": 108.376196,
+          "end": 109.452123
+        },
+        {
+          "phone": "K",
+          "start": 109.452123,
+          "end": 109.498134
+        },
+        {
+          "phone": "AO",
+          "start": 109.498134,
+          "end": 111.217492
+        },
+        {
+          "phone": "R",
+          "start": 111.217492,
+          "end": 111.282506
+        },
+        {
+          "phone": "D",
+          "start": 111.282506,
+          "end": 111.328517
+        }
+      ]
+    },
+    {
+      "word": "into",
+      "role": "MEMORY",
+      "beat": 122.9859277594426,
+      "length": 3.2256967363403004,
+      "start": 111.398685,
+      "end": 114.534473,
+      "note": 67,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 111.398685,
+          "end": 113.236855
+        },
+        {
+          "phone": "N",
+          "start": 113.236855,
+          "end": 113.302976
+        },
+        {
+          "phone": "T",
+          "start": 113.302976,
+          "end": 113.349769
+        },
+        {
+          "phone": "UW",
+          "start": 113.349769,
+          "end": 114.534473
+        }
+      ]
+    },
+    {
+      "word": "skin",
+      "role": "MEMORY",
+      "beat": 126.2866244957829,
+      "length": 2.3180051338467176,
+      "start": 114.60864,
+      "end": 116.86558,
+      "note": 67,
+      "phonemes": [
+        {
+          "phone": "S",
+          "start": 114.60864,
+          "end": 114.674657
+        },
+        {
+          "phone": "K",
+          "start": 114.674657,
+          "end": 114.721376
+        },
+        {
+          "phone": "IH",
+          "start": 114.721376,
+          "end": 116.803461
+        },
+        {
+          "phone": "N",
+          "start": 116.803461,
+          "end": 116.86558
+        }
+      ]
+    },
+    {
+      "word": "then",
+      "role": "CAIRN",
+      "beat": 129.3296296296296,
+      "length": 1.634160052910053,
+      "start": 117.540187,
+      "end": 119.06076,
+      "note": 49,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 117.540187,
+          "end": 117.605187
+        },
+        {
+          "phone": "EH",
+          "start": 117.605187,
+          "end": 118.99576
+        },
+        {
+          "phone": "N",
+          "start": 118.99576,
+          "end": 119.06076
+        }
+      ]
+    },
+    {
+      "word": "let",
+      "role": "CAIRN",
+      "beat": 131.03878968253966,
+      "length": 1.634160052910053,
+      "start": 119.130547,
+      "end": 120.646969,
+      "note": 51,
+      "phonemes": [
+        {
+          "phone": "L",
+          "start": 119.130547,
+          "end": 119.195725
+        },
+        {
+          "phone": "EH",
+          "start": 119.195725,
+          "end": 120.601149
+        },
+        {
+          "phone": "T",
+          "start": 120.601149,
+          "end": 120.646969
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 132.7479497354497,
+      "length": 1.0359540343915346,
+      "start": 120.716294,
+      "end": 121.673851,
+      "note": 51,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 120.716294,
+          "end": 120.781294
+        },
+        {
+          "phone": "AH",
+          "start": 120.781294,
+          "end": 121.673851
+        }
+      ]
+    },
+    {
+      "word": "space",
+      "role": "CAIRN",
+      "beat": 133.85890376984125,
+      "length": 1.634160052910053,
+      "start": 121.743175,
+      "end": 123.253669,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "S",
+          "start": 121.743175,
+          "end": 121.808175
+        },
+        {
+          "phone": "P",
+          "start": 121.808175,
+          "end": 121.854175
+        },
+        {
+          "phone": "EY",
+          "start": 121.854175,
+          "end": 123.188669
+        },
+        {
+          "phone": "S",
+          "start": 123.188669,
+          "end": 123.253669
+        }
+      ]
+    },
+    {
+      "word": "remain",
+      "role": "CAIRN",
+      "beat": 135.5680638227513,
+      "length": 3.343320105820106,
+      "start": 123.322993,
+      "end": 126.392138,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 123.322993,
+          "end": 123.388441
+        },
+        {
+          "phone": "IH",
+          "start": 123.388441,
+          "end": 124.496557
+        },
+        {
+          "phone": "M",
+          "start": 124.496557,
+          "end": 124.561491
+        },
+        {
+          "phone": "EY",
+          "start": 124.561491,
+          "end": 126.327205
+        },
+        {
+          "phone": "N",
+          "start": 126.327205,
+          "end": 126.392138
+        }
+      ]
+    },
+    {
+      "word": "between",
+      "role": "CAIRN",
+      "beat": 138.9863839285714,
+      "length": 3.343320105820106,
+      "start": 126.460917,
+      "end": 129.510098,
+      "note": 53,
+      "phonemes": [
+        {
+          "phone": "B",
+          "start": 126.460917,
+          "end": 126.507171
+        },
+        {
+          "phone": "IH",
+          "start": 126.507171,
+          "end": 127.600054
+        },
+        {
+          "phone": "T",
+          "start": 127.600054,
+          "end": 127.645943
+        },
+        {
+          "phone": "W",
+          "start": 127.645943,
+          "end": 127.710787
+        },
+        {
+          "phone": "IY",
+          "start": 127.710787,
+          "end": 129.445254
+        },
+        {
+          "phone": "N",
+          "start": 129.445254,
+          "end": 129.510098
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 142.4047040343915,
+      "length": 1.0359540343915346,
+      "start": 129.578336,
+      "end": 130.520881,
+      "note": 51,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 129.578336,
+          "end": 129.643336
+        },
+        {
+          "phone": "AH",
+          "start": 129.643336,
+          "end": 130.520881
+        }
+      ]
+    },
+    {
+      "word": "calling",
+      "role": "CAIRN",
+      "beat": 143.51565806878304,
+      "length": 4.881564153439154,
+      "start": 130.589118,
+      "end": 135.002137,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 130.589118,
+          "end": 130.635414
+        },
+        {
+          "phone": "AO",
+          "start": 130.635414,
+          "end": 133.242921
+        },
+        {
+          "phone": "L",
+          "start": 133.242921,
+          "end": 133.307902
+        },
+        {
+          "phone": "IH",
+          "start": 133.307902,
+          "end": 134.93745
+        },
+        {
+          "phone": "NG",
+          "start": 134.93745,
+          "end": 135.002137
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "CAIRN",
+      "beat": 149.1222222222222,
+      "length": 1.2221264201391906,
+      "start": 135.654397,
+      "end": 136.753906,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 135.654397,
+          "end": 136.753906
+        }
+      ]
+    },
+    {
+      "word": "space",
+      "role": "CAIRN",
+      "beat": 150.4193486423614,
+      "length": 1.9205791079064471,
+      "start": 136.821381,
+      "end": 138.548765,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "S",
+          "start": 136.821381,
+          "end": 136.8864
+        },
+        {
+          "phone": "P",
+          "start": 136.8864,
+          "end": 136.932414
+        },
+        {
+          "phone": "EY",
+          "start": 136.932414,
+          "end": 138.483853
+        },
+        {
+          "phone": "S",
+          "start": 138.483853,
+          "end": 138.548765
+        }
+      ]
+    },
+    {
+      "word": "through",
+      "role": "CAIRN",
+      "beat": 152.41492775026785,
+      "length": 1.9205791079064471,
+      "start": 138.616129,
+      "end": 140.34118,
+      "note": 64,
+      "phonemes": [
+        {
+          "phone": "TH",
+          "start": 138.616129,
+          "end": 138.681129
+        },
+        {
+          "phone": "R",
+          "start": 138.681129,
+          "end": 138.746129
+        },
+        {
+          "phone": "UW",
+          "start": 138.746129,
+          "end": 140.34118
+        }
+      ]
+    },
+    {
+      "word": "which",
+      "role": "CAIRN",
+      "beat": 154.4105068581743,
+      "length": 1.9205791079064471,
+      "start": 140.408544,
+      "end": 142.151385,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 140.408544,
+          "end": 140.472881
+        },
+        {
+          "phone": "IH",
+          "start": 140.472881,
+          "end": 142.103131
+        },
+        {
+          "phone": "CH",
+          "start": 142.103131,
+          "end": 142.151385
+        }
+      ]
+    },
+    {
+      "word": "another",
+      "role": "CAIRN",
+      "beat": 156.40608596608075,
+      "length": 5.911737323719341,
+      "start": 142.222779,
+      "end": 147.738538,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 142.222779,
+          "end": 143.75032
+        },
+        {
+          "phone": "N",
+          "start": 143.75032,
+          "end": 143.816637
+        },
+        {
+          "phone": "AH",
+          "start": 143.816637,
+          "end": 146.225427
+        },
+        {
+          "phone": "DH",
+          "start": 146.225427,
+          "end": 146.288384
+        },
+        {
+          "phone": "ER",
+          "start": 146.288384,
+          "end": 147.738538
+        }
+      ]
+    },
+    {
+      "word": "can",
+      "role": "CAIRN",
+      "beat": 162.3928232898001,
+      "length": 1.9205791079064471,
+      "start": 147.806315,
+      "end": 149.543959,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 147.806315,
+          "end": 147.852262
+        },
+        {
+          "phone": "AE",
+          "start": 147.852262,
+          "end": 149.478572
+        },
+        {
+          "phone": "N",
+          "start": 149.478572,
+          "end": 149.543959
+        }
+      ]
+    },
+    {
+      "word": "come",
+      "role": "CAIRN",
+      "beat": 164.38840239770656,
+      "length": 1.9205791079064471,
+      "start": 149.612219,
+      "end": 151.360202,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 149.612219,
+          "end": 149.658219
+        },
+        {
+          "phone": "AH",
+          "start": 149.658219,
+          "end": 151.295202
+        },
+        {
+          "phone": "M",
+          "start": 151.295202,
+          "end": 151.360202
+        }
+      ]
+    },
+    {
+      "word": "in",
+      "role": "CAIRN",
+      "beat": 166.383981505613,
+      "length": 1.8058333092018264,
+      "start": 151.428462,
+      "end": 153.073524,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 151.428462,
+          "end": 153.008015
+        },
+        {
+          "phone": "N",
+          "start": 153.008015,
+          "end": 153.073524
+        }
+      ]
+    },
+    {
+      "word": "you",
+      "role": "MEMORY",
+      "beat": 168.9148148148148,
+      "length": 2.1659991386735573,
+      "start": 153.739146,
+      "end": 155.727748,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "Y",
+          "start": 153.739146,
+          "end": 153.804146
+        },
+        {
+          "phone": "UW",
+          "start": 153.804146,
+          "end": 155.727748
+        }
+      ]
+    },
+    {
+      "word": "have",
+      "role": "MEMORY",
+      "beat": 171.15581395348835,
+      "length": 2.1659991386735573,
+      "start": 155.796606,
+      "end": 157.796408,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "H",
+          "start": 155.796606,
+          "end": 155.861242
+        },
+        {
+          "phone": "AE",
+          "start": 155.861242,
+          "end": 157.731175
+        },
+        {
+          "phone": "V",
+          "start": 157.731175,
+          "end": 157.796408
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "MEMORY",
+      "beat": 173.3968130921619,
+      "length": 1.3816494401378125,
+      "start": 157.865901,
+      "end": 159.146099,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 157.865901,
+          "end": 157.930901
+        },
+        {
+          "phone": "AH",
+          "start": 157.930901,
+          "end": 159.146099
+        }
+      ]
+    },
+    {
+      "word": "promise",
+      "role": "MEMORY",
+      "beat": 174.85346253229972,
+      "length": 4.406998277347115,
+      "start": 159.215591,
+      "end": 163.324451,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "P",
+          "start": 159.215591,
+          "end": 159.261306
+        },
+        {
+          "phone": "R",
+          "start": 159.261306,
+          "end": 159.325904
+        },
+        {
+          "phone": "AA",
+          "start": 159.325904,
+          "end": 161.701694
+        },
+        {
+          "phone": "M",
+          "start": 161.701694,
+          "end": 161.766835
+        },
+        {
+          "phone": "AH",
+          "start": 161.766835,
+          "end": 163.259309
+        },
+        {
+          "phone": "S",
+          "start": 163.259309,
+          "end": 163.324451
+        }
+      ]
+    },
+    {
+      "word": "not",
+      "role": "MEMORY",
+      "beat": 179.33546080964683,
+      "length": 2.1659991386735573,
+      "start": 163.394529,
+      "end": 165.427382,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "N",
+          "start": 163.394529,
+          "end": 163.459242
+        },
+        {
+          "phone": "AA",
+          "start": 163.459242,
+          "end": 165.381292
+        },
+        {
+          "phone": "T",
+          "start": 165.381292,
+          "end": 165.427382
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "MEMORY",
+      "beat": 181.57645994832038,
+      "length": 1.3816494401378125,
+      "start": 165.497909,
+      "end": 166.797164,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 165.497909,
+          "end": 165.562909
+        },
+        {
+          "phone": "AH",
+          "start": 165.562909,
+          "end": 166.797164
+        }
+      ]
+    },
+    {
+      "word": "hand",
+      "role": "MEMORY",
+      "beat": 183.0331093884582,
+      "length": 2.1659991386735573,
+      "start": 166.867692,
+      "end": 168.908374,
+      "note": 65,
+      "phonemes": [
+        {
+          "phone": "H",
+          "start": 166.867692,
+          "end": 166.932569
+        },
+        {
+          "phone": "AE",
+          "start": 166.932569,
+          "end": 168.797205
+        },
+        {
+          "phone": "N",
+          "start": 168.797205,
+          "end": 168.862304
+        },
+        {
+          "phone": "D",
+          "start": 168.862304,
+          "end": 168.908374
+        }
+      ]
+    },
+    {
+      "word": "that",
+      "role": "MEMORY",
+      "beat": 185.27410852713174,
+      "length": 2.1659991386735573,
+      "start": 168.979142,
+      "end": 171.022929,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 168.979142,
+          "end": 169.044142
+        },
+        {
+          "phone": "AE",
+          "start": 169.044142,
+          "end": 170.976929
+        },
+        {
+          "phone": "T",
+          "start": 170.976929,
+          "end": 171.022929
+        }
+      ]
+    },
+    {
+      "word": "made",
+      "role": "MEMORY",
+      "beat": 187.5151076658053,
+      "length": 2.1659991386735573,
+      "start": 171.093698,
+      "end": 173.229569,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "M",
+          "start": 171.093698,
+          "end": 171.155895
+        },
+        {
+          "phone": "EY",
+          "start": 171.155895,
+          "end": 173.182997
+        },
+        {
+          "phone": "D",
+          "start": 173.182997,
+          "end": 173.229569
+        }
+      ]
+    },
+    {
+      "word": "it",
+      "role": "MEMORY",
+      "beat": 189.75610680447883,
+      "length": 3.174448751076658,
+      "start": 173.304445,
+      "end": 176.419257,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 173.304445,
+          "end": 176.375195
+        },
+        {
+          "phone": "T",
+          "start": 176.375195,
+          "end": 176.419257
+        }
+      ]
+    },
+    {
+      "word": "i",
+      "role": "CAIRN",
+      "beat": 193.65555555555554,
+      "length": 1.801724763979666,
+      "start": 177.100674,
+      "end": 178.794088,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "AY",
+          "start": 177.100674,
+          "end": 178.794088
+        }
+      ]
+    },
+    {
+      "word": "have",
+      "role": "CAIRN",
+      "beat": 195.5322803195352,
+      "length": 1.801724763979666,
+      "start": 178.864579,
+      "end": 180.549261,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "H",
+          "start": 178.864579,
+          "end": 178.929916
+        },
+        {
+          "phone": "AE",
+          "start": 178.929916,
+          "end": 180.484379
+        },
+        {
+          "phone": "V",
+          "start": 180.484379,
+          "end": 180.549261
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 197.40900508351487,
+      "length": 1.144871096586783,
+      "start": 180.619262,
+      "end": 181.687815,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 180.619262,
+          "end": 180.684262
+        },
+        {
+          "phone": "AH",
+          "start": 180.684262,
+          "end": 181.687815
+        }
+      ]
+    },
+    {
+      "word": "chance",
+      "role": "CAIRN",
+      "beat": 198.62887618010166,
+      "length": 1.801724763979666,
+      "start": 181.757815,
+      "end": 183.435702,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "CH",
+          "start": 181.757815,
+          "end": 181.803918
+        },
+        {
+          "phone": "AE",
+          "start": 181.803918,
+          "end": 183.306623
+        },
+        {
+          "phone": "N",
+          "start": 183.306623,
+          "end": 183.371162
+        },
+        {
+          "phone": "S",
+          "start": 183.371162,
+          "end": 183.435702
+        }
+      ]
+    },
+    {
+      "word": "to",
+      "role": "CAIRN",
+      "beat": 200.50560094408132,
+      "length": 1.144871096586783,
+      "start": 183.505052,
+      "end": 184.563677,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "T",
+          "start": 183.505052,
+          "end": 183.551052
+        },
+        {
+          "phone": "UW",
+          "start": 183.551052,
+          "end": 184.563677
+        }
+      ]
+    },
+    {
+      "word": "answer",
+      "role": "CAIRN",
+      "beat": 201.7254720406681,
+      "length": 3.678449527959332,
+      "start": 184.633027,
+      "end": 188.020782,
+      "note": 64,
+      "phonemes": [
+        {
+          "phone": "AE",
+          "start": 184.633027,
+          "end": 186.644494
+        },
+        {
+          "phone": "N",
+          "start": 186.644494,
+          "end": 186.709755
+        },
+        {
+          "phone": "S",
+          "start": 186.709755,
+          "end": 186.774609
+        },
+        {
+          "phone": "ER",
+          "start": 186.774609,
+          "end": 188.020782
+        }
+      ]
+    },
+    {
+      "word": "it",
+      "role": "CAIRN",
+      "beat": 205.47892156862744,
+      "length": 1.801724763979666,
+      "start": 188.089407,
+      "end": 189.737967,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 188.089407,
+          "end": 189.691967
+        },
+        {
+          "phone": "T",
+          "start": 189.691967,
+          "end": 189.737967
+        }
+      ]
+    },
+    {
+      "word": "today",
+      "role": "CAIRN",
+      "beat": 207.3556463326071,
+      "length": 5.367501815541031,
+      "start": 189.806591,
+      "end": 194.667009,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "T",
+          "start": 189.806591,
+          "end": 189.853071
+        },
+        {
+          "phone": "AH",
+          "start": 189.853071,
+          "end": 191.694611
+        },
+        {
+          "phone": "D",
+          "start": 191.694611,
+          "end": 191.740609
+        },
+        {
+          "phone": "EY",
+          "start": 191.740609,
+          "end": 194.667009
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "MEMORY",
+      "beat": 213.44814814814814,
+      "length": 0.9164490187398554,
+      "start": 195.317532,
+      "end": 196.139836,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 195.317532,
+          "end": 196.139836
+        }
+      ]
+    },
+    {
+      "word": "different",
+      "role": "MEMORY",
+      "beat": 214.43959716688798,
+      "length": 4.500918548030101,
+      "start": 196.207132,
+      "end": 200.227782,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 196.207132,
+          "end": 196.253337
+        },
+        {
+          "phone": "IH",
+          "start": 196.253337,
+          "end": 197.945197
+        },
+        {
+          "phone": "F",
+          "start": 197.945197,
+          "end": 198.010043
+        },
+        {
+          "phone": "ER",
+          "start": 198.010043,
+          "end": 199.063544
+        },
+        {
+          "phone": "AH",
+          "start": 199.063544,
+          "end": 200.117044
+        },
+        {
+          "phone": "N",
+          "start": 200.117044,
+          "end": 200.18189
+        },
+        {
+          "phone": "T",
+          "start": 200.18189,
+          "end": 200.227782
+        }
+      ]
+    },
+    {
+      "word": "voice",
+      "role": "MEMORY",
+      "beat": 219.01551571491808,
+      "length": 1.4503061826767005,
+      "start": 200.294621,
+      "end": 201.609603,
+      "note": 65,
+      "phonemes": [
+        {
+          "phone": "V",
+          "start": 200.294621,
+          "end": 200.358509
+        },
+        {
+          "phone": "OY",
+          "start": 200.358509,
+          "end": 201.542253
+        },
+        {
+          "phone": "S",
+          "start": 201.542253,
+          "end": 201.609603
+        }
+      ]
+    },
+    {
+      "word": "can",
+      "role": "MEMORY",
+      "beat": 220.54082189759478,
+      "length": 1.4503061826767005,
+      "start": 201.680063,
+      "end": 203.04258,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 201.680063,
+          "end": 201.726063
+        },
+        {
+          "phone": "AE",
+          "start": 201.726063,
+          "end": 202.97758
+        },
+        {
+          "phone": "N",
+          "start": 202.97758,
+          "end": 203.04258
+        }
+      ]
+    },
+    {
+      "word": "carry",
+      "role": "MEMORY",
+      "beat": 222.06612808027148,
+      "length": 2.975612365353401,
+      "start": 203.11304,
+      "end": 205.854229,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 203.11304,
+          "end": 203.159952
+        },
+        {
+          "phone": "AE",
+          "start": 203.159952,
+          "end": 204.809491
+        },
+        {
+          "phone": "R",
+          "start": 204.809491,
+          "end": 204.875779
+        },
+        {
+          "phone": "IY",
+          "start": 204.875779,
+          "end": 205.854229
+        }
+      ]
+    },
+    {
+      "word": "an",
+      "role": "MEMORY",
+      "beat": 225.11674044562488,
+      "length": 1.4503061826767005,
+      "start": 205.920779,
+      "end": 207.207693,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "AE",
+          "start": 205.920779,
+          "end": 207.142693
+        },
+        {
+          "phone": "N",
+          "start": 207.142693,
+          "end": 207.207693
+        }
+      ]
+    },
+    {
+      "word": "old",
+      "role": "MEMORY",
+      "beat": 226.64204662830159,
+      "length": 1.4503061826767005,
+      "start": 207.274243,
+      "end": 208.561374,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "OW",
+          "start": 207.274243,
+          "end": 208.450175
+        },
+        {
+          "phone": "L",
+          "start": 208.450175,
+          "end": 208.51526
+        },
+        {
+          "phone": "D",
+          "start": 208.51526,
+          "end": 208.561374
+        }
+      ]
+    },
+    {
+      "word": "kindness",
+      "role": "MEMORY",
+      "beat": 228.1673528109783,
+      "length": 4.348387929762431,
+      "start": 208.628101,
+      "end": 212.499272,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 208.628101,
+          "end": 208.674072
+        },
+        {
+          "phone": "AY",
+          "start": 208.674072,
+          "end": 210.876855
+        },
+        {
+          "phone": "N",
+          "start": 210.876855,
+          "end": 210.941814
+        },
+        {
+          "phone": "D",
+          "start": 210.941814,
+          "end": 210.987785
+        },
+        {
+          "phone": "N",
+          "start": 210.987785,
+          "end": 211.052744
+        },
+        {
+          "phone": "AH",
+          "start": 211.052744,
+          "end": 212.433968
+        },
+        {
+          "phone": "S",
+          "start": 212.433968,
+          "end": 212.499272
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "CAIRN",
+      "beat": 233.24074074074073,
+      "length": 0.9839519306540585,
+      "start": 213.147723,
+      "end": 214.027785,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 213.147723,
+          "end": 214.027785
+        }
+      ]
+    },
+    {
+      "word": "different",
+      "role": "CAIRN",
+      "beat": 234.29969267139478,
+      "length": 4.812470449172577,
+      "start": 214.094866,
+      "end": 218.418948,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 214.094866,
+          "end": 214.140656
+        },
+        {
+          "phone": "IH",
+          "start": 214.140656,
+          "end": 215.956129
+        },
+        {
+          "phone": "F",
+          "start": 215.956129,
+          "end": 216.021291
+        },
+        {
+          "phone": "ER",
+          "start": 216.021291,
+          "end": 217.164481
+        },
+        {
+          "phone": "AH",
+          "start": 217.164481,
+          "end": 218.307671
+        },
+        {
+          "phone": "N",
+          "start": 218.307671,
+          "end": 218.372833
+        },
+        {
+          "phone": "T",
+          "start": 218.372833,
+          "end": 218.418948
+        }
+      ]
+    },
+    {
+      "word": "voice",
+      "role": "CAIRN",
+      "beat": 239.18716312056736,
+      "length": 1.554156816390859,
+      "start": 218.486505,
+      "end": 219.891598,
+      "note": 57,
+      "phonemes": [
+        {
+          "phone": "V",
+          "start": 218.486505,
+          "end": 218.551265
+        },
+        {
+          "phone": "OY",
+          "start": 218.551265,
+          "end": 219.826335
+        },
+        {
+          "phone": "S",
+          "start": 219.826335,
+          "end": 219.891598
+        }
+      ]
+    },
+    {
+      "word": "can",
+      "role": "CAIRN",
+      "beat": 240.81631993695822,
+      "length": 1.554156816390859,
+      "start": 219.959678,
+      "end": 221.370447,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 219.959678,
+          "end": 220.005678
+        },
+        {
+          "phone": "AE",
+          "start": 220.005678,
+          "end": 221.305447
+        },
+        {
+          "phone": "N",
+          "start": 221.305447,
+          "end": 221.370447
+        }
+      ]
+    },
+    {
+      "word": "choose",
+      "role": "CAIRN",
+      "beat": 242.44547675334908,
+      "length": 1.554156816390859,
+      "start": 221.438527,
+      "end": 222.849296,
+      "note": 53,
+      "phonemes": [
+        {
+          "phone": "CH",
+          "start": 221.438527,
+          "end": 221.484527
+        },
+        {
+          "phone": "UW",
+          "start": 221.484527,
+          "end": 222.784296
+        },
+        {
+          "phone": "Z",
+          "start": 222.784296,
+          "end": 222.849296
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "CAIRN",
+      "beat": 244.07463356973994,
+      "length": 0.9839519306540585,
+      "start": 222.917863,
+      "end": 223.817456,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 222.917863,
+          "end": 223.817456
+        }
+      ]
+    },
+    {
+      "word": "different",
+      "role": "CAIRN",
+      "beat": 245.133585500394,
+      "length": 4.812470449172577,
+      "start": 223.886026,
+      "end": 228.29561,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 223.886026,
+          "end": 223.931924
+        },
+        {
+          "phone": "IH",
+          "start": 223.931924,
+          "end": 225.787181
+        },
+        {
+          "phone": "F",
+          "start": 225.787181,
+          "end": 225.852038
+        },
+        {
+          "phone": "ER",
+          "start": 225.852038,
+          "end": 227.016357
+        },
+        {
+          "phone": "AH",
+          "start": 227.016357,
+          "end": 228.18425
+        },
+        {
+          "phone": "N",
+          "start": 228.18425,
+          "end": 228.249461
+        },
+        {
+          "phone": "T",
+          "start": 228.249461,
+          "end": 228.29561
+        }
+      ]
+    },
+    {
+      "word": "way",
+      "role": "CAIRN",
+      "beat": 250.02105594956657,
+      "length": 2.287277383766745,
+      "start": 228.364555,
+      "end": 230.484486,
+      "note": 57,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 228.364555,
+          "end": 228.429023
+        },
+        {
+          "phone": "EY",
+          "start": 228.429023,
+          "end": 230.484486
+        }
+      ]
+    },
+    {
+      "word": "if",
+      "role": "CAIRN",
+      "beat": 253.03333333333333,
+      "length": 1.3589020668608685,
+      "start": 231.191714,
+      "end": 232.517306,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 231.191714,
+          "end": 232.452306
+        },
+        {
+          "phone": "F",
+          "start": 232.452306,
+          "end": 232.517306
+        }
+      ]
+    },
+    {
+      "word": "i",
+      "role": "CAIRN",
+      "beat": 254.4672354001942,
+      "length": 1.3589020668608685,
+      "start": 232.590468,
+      "end": 233.91606,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "AY",
+          "start": 232.590468,
+          "end": 233.91606
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "role": "CAIRN",
+      "beat": 255.90113746705507,
+      "length": 2.7928041337217366,
+      "start": 233.989221,
+      "end": 236.568083,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 233.989221,
+          "end": 234.057888
+        },
+        {
+          "phone": "IH",
+          "start": 234.057888,
+          "end": 234.982677
+        },
+        {
+          "phone": "T",
+          "start": 234.982677,
+          "end": 235.028581
+        },
+        {
+          "phone": "ER",
+          "start": 235.028581,
+          "end": 236.503218
+        },
+        {
+          "phone": "N",
+          "start": 236.503218,
+          "end": 236.568083
+        }
+      ]
+    },
+    {
+      "word": "i",
+      "role": "CAIRN",
+      "beat": 258.7689416007768,
+      "length": 1.3589020668608685,
+      "start": 236.637195,
+      "end": 237.888973,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "AY",
+          "start": 236.637195,
+          "end": 237.888973
+        }
+      ]
+    },
+    {
+      "word": "will",
+      "role": "CAIRN",
+      "beat": 260.2028436676377,
+      "length": 1.3589020668608685,
+      "start": 237.957833,
+      "end": 239.205496,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 237.957833,
+          "end": 238.022833
+        },
+        {
+          "phone": "IH",
+          "start": 238.022833,
+          "end": 239.140496
+        },
+        {
+          "phone": "L",
+          "start": 239.140496,
+          "end": 239.205496
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "role": "CAIRN",
+      "beat": 261.63674573449856,
+      "length": 2.7928041337217366,
+      "start": 239.274356,
+      "end": 241.836,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 239.274356,
+          "end": 239.339421
+        },
+        {
+          "phone": "IH",
+          "start": 239.339421,
+          "end": 240.258869
+        },
+        {
+          "phone": "T",
+          "start": 240.258869,
+          "end": 240.304915
+        },
+        {
+          "phone": "ER",
+          "start": 240.304915,
+          "end": 241.771355
+        },
+        {
+          "phone": "N",
+          "start": 241.771355,
+          "end": 241.836
+        }
+      ]
+    },
+    {
+      "word": "with",
+      "role": "CAIRN",
+      "beat": 264.5045498682203,
+      "length": 1.3589020668608685,
+      "start": 241.904416,
+      "end": 243.144036,
+      "note": 64,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 241.904416,
+          "end": 241.969416
+        },
+        {
+          "phone": "IH",
+          "start": 241.969416,
+          "end": 243.079036
+        },
+        {
+          "phone": "DH",
+          "start": 243.079036,
+          "end": 243.144036
+        }
+      ]
+    },
+    {
+      "word": "listening",
+      "role": "CAIRN",
+      "beat": 265.93845193508116,
+      "length": 6.162473990844777,
+      "start": 243.212453,
+      "end": 248.801607,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "L",
+          "start": 243.212453,
+          "end": 243.277829
+        },
+        {
+          "phone": "IH",
+          "start": 243.277829,
+          "end": 245.653007
+        },
+        {
+          "phone": "S",
+          "start": 245.653007,
+          "end": 245.717832
+        },
+        {
+          "phone": "AH",
+          "start": 245.717832,
+          "end": 247.195319
+        },
+        {
+          "phone": "N",
+          "start": 247.195319,
+          "end": 247.260144
+        },
+        {
+          "phone": "IH",
+          "start": 247.260144,
+          "end": 248.737385
+        },
+        {
+          "phone": "NG",
+          "start": 248.737385,
+          "end": 248.801607
+        }
+      ]
+    },
+    {
+      "word": "if",
+      "role": "CAIRN",
+      "beat": 272.82592592592596,
+      "length": 2.06526402640264,
+      "start": 249.451291,
+      "end": 251.302004,
+      "note": 53,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 249.451291,
+          "end": 251.237004
+        },
+        {
+          "phone": "F",
+          "start": 251.237004,
+          "end": 251.302004
+        }
+      ]
+    },
+    {
+      "word": "i",
+      "role": "CAIRN",
+      "beat": 274.9661899523286,
+      "length": 2.06526402640264,
+      "start": 251.369213,
+      "end": 253.211647,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "AY",
+          "start": 251.369213,
+          "end": 253.211647
+        }
+      ]
+    },
+    {
+      "word": "am",
+      "role": "CAIRN",
+      "beat": 277.1064539787312,
+      "length": 2.06526402640264,
+      "start": 253.278254,
+      "end": 255.112389,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "AE",
+          "start": 253.278254,
+          "end": 255.047389
+        },
+        {
+          "phone": "M",
+          "start": 255.047389,
+          "end": 255.112389
+        }
+      ]
+    },
+    {
+      "word": "gone",
+      "role": "CAIRN",
+      "beat": 279.24671800513386,
+      "length": 2.06526402640264,
+      "start": 255.178996,
+      "end": 257.004453,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "G",
+          "start": 255.178996,
+          "end": 255.225214
+        },
+        {
+          "phone": "AO",
+          "start": 255.225214,
+          "end": 256.93963
+        },
+        {
+          "phone": "N",
+          "start": 256.93963,
+          "end": 257.004453
+        }
+      ]
+    },
+    {
+      "word": "leave",
+      "role": "CAIRN",
+      "beat": 281.3869820315365,
+      "length": 2.06526402640264,
+      "start": 257.070563,
+      "end": 258.891037,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "L",
+          "start": 257.070563,
+          "end": 257.135563
+        },
+        {
+          "phone": "IY",
+          "start": 257.135563,
+          "end": 258.826037
+        },
+        {
+          "phone": "V",
+          "start": 258.826037,
+          "end": 258.891037
+        }
+      ]
+    },
+    {
+      "word": "room",
+      "role": "CAIRN",
+      "beat": 283.5272460579391,
+      "length": 2.06526402640264,
+      "start": 258.957148,
+      "end": 260.851933,
+      "note": 57,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 258.957148,
+          "end": 259.019598
+        },
+        {
+          "phone": "UW",
+          "start": 259.019598,
+          "end": 260.786176
+        },
+        {
+          "phone": "M",
+          "start": 260.786176,
+          "end": 260.851933
+        }
+      ]
+    },
+    {
+      "word": "beside",
+      "role": "CAIRN",
+      "beat": 285.66751008434176,
+      "length": 4.20552805280528,
+      "start": 260.921543,
+      "end": 264.72621,
+      "note": 55,
+      "phonemes": [
+        {
+          "phone": "B",
+          "start": 260.921543,
+          "end": 260.968736
+        },
+        {
+          "phone": "IH",
+          "start": 260.968736,
+          "end": 262.409595
+        },
+        {
+          "phone": "S",
+          "start": 262.409595,
+          "end": 262.47628
+        },
+        {
+          "phone": "AY",
+          "start": 262.47628,
+          "end": 264.681695
+        },
+        {
+          "phone": "D",
+          "start": 264.681695,
+          "end": 264.72621
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 289.948038137147,
+      "length": 1.3161716171617162,
+      "start": 264.79187,
+      "end": 265.944146,
+      "note": 53,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 264.79187,
+          "end": 264.85687
+        },
+        {
+          "phone": "AH",
+          "start": 264.85687,
+          "end": 265.944146
+        }
+      ]
+    },
+    {
+      "word": "flame",
+      "role": "CAIRN",
+      "beat": 291.33920975430874,
+      "length": 3.0283828382838283,
+      "start": 266.009807,
+      "end": 268.664359,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 266.009807,
+          "end": 266.074727
+        },
+        {
+          "phone": "L",
+          "start": 266.074727,
+          "end": 266.139646
+        },
+        {
+          "phone": "EY",
+          "start": 266.139646,
+          "end": 268.599336
+        },
+        {
+          "phone": "M",
+          "start": 268.599336,
+          "end": 268.664359
+        }
+      ]
+    },
+    {
+      "word": "you",
+      "role": "MEMORY",
+      "beat": 295.0925925925926,
+      "length": 1.855059523809524,
+      "start": 269.300082,
+      "end": 270.93076,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "Y",
+          "start": 269.300082,
+          "end": 269.364921
+        },
+        {
+          "phone": "UW",
+          "start": 269.364921,
+          "end": 270.93076
+        }
+      ]
+    },
+    {
+      "word": "are",
+      "role": "MEMORY",
+      "beat": 297.0226521164021,
+      "length": 1.855059523809524,
+      "start": 270.996846,
+      "end": 272.631403,
+      "note": 70,
+      "phonemes": [
+        {
+          "phone": "AA",
+          "start": 270.996846,
+          "end": 272.566403
+        },
+        {
+          "phone": "R",
+          "start": 272.566403,
+          "end": 272.631403
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "MEMORY",
+      "beat": 298.95271164021165,
+      "length": 1.1795386904761906,
+      "start": 272.697488,
+      "end": 273.737712,
+      "note": 67,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 272.697488,
+          "end": 272.762433
+        },
+        {
+          "phone": "AH",
+          "start": 272.762433,
+          "end": 273.737712
+        }
+      ]
+    },
+    {
+      "word": "work",
+      "role": "MEMORY",
+      "beat": 300.2072503306878,
+      "length": 1.855059523809524,
+      "start": 273.804302,
+      "end": 275.451353,
+      "note": 65,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 273.804302,
+          "end": 273.869302
+        },
+        {
+          "phone": "ER",
+          "start": 273.869302,
+          "end": 275.405353
+        },
+        {
+          "phone": "K",
+          "start": 275.405353,
+          "end": 275.451353
+        }
+      ]
+    },
+    {
+      "word": "of",
+      "role": "MEMORY",
+      "beat": 302.13730985449735,
+      "length": 1.1795386904761906,
+      "start": 275.517943,
+      "end": 276.565219,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 275.517943,
+          "end": 276.500219
+        },
+        {
+          "phone": "V",
+          "start": 276.500219,
+          "end": 276.565219
+        }
+      ]
+    },
+    {
+      "word": "tending",
+      "role": "MEMORY",
+      "beat": 303.3918485449735,
+      "length": 3.7851190476190477,
+      "start": 276.63181,
+      "end": 280.019377,
+      "note": 61,
+      "phonemes": [
+        {
+          "phone": "T",
+          "start": 276.63181,
+          "end": 276.677445
+        },
+        {
+          "phone": "EH",
+          "start": 276.677445,
+          "end": 278.622431
+        },
+        {
+          "phone": "N",
+          "start": 278.622431,
+          "end": 278.687529
+        },
+        {
+          "phone": "D",
+          "start": 278.687529,
+          "end": 278.733599
+        },
+        {
+          "phone": "IH",
+          "start": 278.733599,
+          "end": 279.954278
+        },
+        {
+          "phone": "NG",
+          "start": 279.954278,
+          "end": 280.019377
+        }
+      ]
+    },
+    {
+      "word": "what",
+      "role": "MEMORY",
+      "beat": 307.25196759259256,
+      "length": 1.855059523809524,
+      "start": 280.086602,
+      "end": 281.759542,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 280.086602,
+          "end": 280.151206
+        },
+        {
+          "phone": "AH",
+          "start": 280.151206,
+          "end": 281.713353
+        },
+        {
+          "phone": "T",
+          "start": 281.713353,
+          "end": 281.759542
+        }
+      ]
+    },
+    {
+      "word": "was",
+      "role": "MEMORY",
+      "beat": 309.1820271164021,
+      "length": 1.855059523809524,
+      "start": 281.827458,
+      "end": 283.507289,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 281.827458,
+          "end": 281.892458
+        },
+        {
+          "phone": "AA",
+          "start": 281.892458,
+          "end": 283.442289
+        },
+        {
+          "phone": "Z",
+          "start": 283.442289,
+          "end": 283.507289
+        }
+      ]
+    },
+    {
+      "word": "given",
+      "role": "MEMORY",
+      "beat": 311.1120866402116,
+      "length": 5.522172619047619,
+      "start": 283.575204,
+      "end": 288.655438,
+      "note": 67,
+      "phonemes": [
+        {
+          "phone": "G",
+          "start": 283.575204,
+          "end": 283.620483
+        },
+        {
+          "phone": "IH",
+          "start": 283.620483,
+          "end": 286.610733
+        },
+        {
+          "phone": "V",
+          "start": 286.610733,
+          "end": 286.675339
+        },
+        {
+          "phone": "AH",
+          "start": 286.675339,
+          "end": 288.586522
+        },
+        {
+          "phone": "N",
+          "start": 288.586522,
+          "end": 288.655438
+        }
+      ]
+    },
+    {
+      "word": "and",
+      "role": "CAIRN",
+      "beat": 317.35925925925926,
+      "length": 1.5310493827160496,
+      "start": 289.362599,
+      "end": 290.855978,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 289.362599,
+          "end": 290.744978
+        },
+        {
+          "phone": "N",
+          "start": 290.744978,
+          "end": 290.809978
+        },
+        {
+          "phone": "D",
+          "start": 290.809978,
+          "end": 290.855978
+        }
+      ]
+    },
+    {
+      "word": "what",
+      "role": "CAIRN",
+      "beat": 318.9653086419753,
+      "length": 2.3958452041785376,
+      "start": 290.929133,
+      "end": 293.199741,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 290.929133,
+          "end": 290.996031
+        },
+        {
+          "phone": "AH",
+          "start": 290.996031,
+          "end": 293.154762
+        },
+        {
+          "phone": "T",
+          "start": 293.154762,
+          "end": 293.199741
+        }
+      ]
+    },
+    {
+      "word": "i",
+      "role": "CAIRN",
+      "beat": 321.43615384615384,
+      "length": 2.3958452041785376,
+      "start": 293.269244,
+      "end": 295.489462,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "AY",
+          "start": 293.269244,
+          "end": 295.489462
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "role": "CAIRN",
+      "beat": 323.9069990503324,
+      "length": 2.3958452041785376,
+      "start": 295.558964,
+      "end": 297.783652,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "CH",
+          "start": 295.558964,
+          "end": 295.604872
+        },
+        {
+          "phone": "EY",
+          "start": 295.604872,
+          "end": 297.672643
+        },
+        {
+          "phone": "N",
+          "start": 297.672643,
+          "end": 297.737648
+        },
+        {
+          "phone": "J",
+          "start": 297.737648,
+          "end": 297.783652
+        }
+      ]
+    },
+    {
+      "word": "will",
+      "role": "CAIRN",
+      "beat": 326.37784425451093,
+      "length": 2.3958452041785376,
+      "start": 297.853299,
+      "end": 300.077244,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 297.853299,
+          "end": 297.918326
+        },
+        {
+          "phone": "IH",
+          "start": 297.918326,
+          "end": 300.012301
+        },
+        {
+          "phone": "L",
+          "start": 300.012301,
+          "end": 300.077244
+        }
+      ]
+    },
+    {
+      "word": "have",
+      "role": "CAIRN",
+      "beat": 328.8486894586895,
+      "length": 2.3958452041785376,
+      "start": 300.146802,
+      "end": 302.368812,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "H",
+          "start": 300.146802,
+          "end": 300.211802
+        },
+        {
+          "phone": "AE",
+          "start": 300.211802,
+          "end": 302.303812
+        },
+        {
+          "phone": "V",
+          "start": 302.303812,
+          "end": 302.368812
+        }
+      ]
+    },
+    {
+      "word": "to",
+      "role": "CAIRN",
+      "beat": 331.319534662868,
+      "length": 1.5310493827160496,
+      "start": 302.438371,
+      "end": 303.962071,
+      "note": 65,
+      "phonemes": [
+        {
+          "phone": "T",
+          "start": 302.438371,
+          "end": 302.481239
+        },
+        {
+          "phone": "UW",
+          "start": 302.481239,
+          "end": 303.962071
+        }
+      ]
+    },
+    {
+      "word": "bear",
+      "role": "CAIRN",
+      "beat": 332.92558404558406,
+      "length": 2.3958452041785376,
+      "start": 304.040777,
+      "end": 306.554991,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "B",
+          "start": 304.040777,
+          "end": 304.086777
+        },
+        {
+          "phone": "EH",
+          "start": 304.086777,
+          "end": 306.489991
+        },
+        {
+          "phone": "R",
+          "start": 306.489991,
+          "end": 306.554991
+        }
+      ]
+    },
+    {
+      "word": "my",
+      "role": "CAIRN",
+      "beat": 335.3964292497626,
+      "length": 2.3958452041785376,
+      "start": 306.633697,
+      "end": 309.135769,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "M",
+          "start": 306.633697,
+          "end": 306.699012
+        },
+        {
+          "phone": "AY",
+          "start": 306.699012,
+          "end": 309.135769
+        }
+      ]
+    },
+    {
+      "word": "name",
+      "role": "CAIRN",
+      "beat": 337.86727445394115,
+      "length": 3.5077255460588797,
+      "start": 309.213967,
+      "end": 312.860427,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "N",
+          "start": 309.213967,
+          "end": 309.279159
+        },
+        {
+          "phone": "EY",
+          "start": 309.279159,
+          "end": 312.795726
+        },
+        {
+          "phone": "M",
+          "start": 312.795726,
+          "end": 312.860427
+        }
+      ]
+    }
+  ],
+  "all_phonetic_events": [
+    {
+      "start": 7.323643,
+      "end": 7.369643,
+      "voice": 1036,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 7.369643,
+      "end": 8.992501,
+      "voice": 1008,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 9.059346,
+      "end": 9.124346,
+      "voice": 1017,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 9.124346,
+      "end": 10.682204,
+      "voice": 1005,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 10.682204,
+      "end": 10.728204,
+      "voice": 1033,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 10.79505,
+      "end": 10.860081,
+      "voice": 1020,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 10.86008,
+      "end": 12.094159,
+      "voice": 1001,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 12.094159,
+      "end": 12.140159,
+      "voice": 1033,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 12.140159,
+      "end": 14.111258,
+      "voice": 1009,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 14.111257,
+      "end": 14.176256,
+      "voice": 1017,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 14.242643,
+      "end": 14.307871,
+      "voice": 1031,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 14.307871,
+      "end": 15.293038,
+      "voice": 1004,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 15.359168,
+      "end": 17.430507,
+      "voice": 1014,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 17.430507,
+      "end": 18.726916,
+      "voice": 1009,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 18.793014,
+      "end": 18.858014,
+      "voice": 1022,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 18.858014,
+      "end": 20.443213,
+      "voice": 1008,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 20.509311,
+      "end": 20.555252,
+      "voice": 1036,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 20.555252,
+      "end": 22.115554,
+      "voice": 1001,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 22.115553,
+      "end": 22.161621,
+      "voice": 1036,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 22.227901,
+      "end": 22.292901,
+      "voice": 1017,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 22.292901,
+      "end": 23.836642,
+      "voice": 1005,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 23.836642,
+      "end": 23.882642,
+      "voice": 1033,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 23.948922,
+      "end": 23.993228,
+      "voice": 1034,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 23.993228,
+      "end": 26.423881,
+      "voice": 1000,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 26.423881,
+      "end": 26.471024,
+      "voice": 1032,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 27.152756,
+      "end": 27.199056,
+      "voice": 1036,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 27.199056,
+      "end": 28.916898,
+      "voice": 1008,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 28.984039,
+      "end": 29.049039,
+      "voice": 1017,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 29.049039,
+      "end": 30.628484,
+      "voice": 1005,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 30.628484,
+      "end": 30.674484,
+      "voice": 1033,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 30.741624,
+      "end": 32.346317,
+      "voice": 1001,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 32.346317,
+      "end": 32.411553,
+      "voice": 1017,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 32.411553,
+      "end": 32.476789,
+      "voice": 1028,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 32.476789,
+      "end": 34.094058,
+      "voice": 1002,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 34.094058,
+      "end": 34.159294,
+      "voice": 1017,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 34.159294,
+      "end": 34.205461,
+      "voice": 1033,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 34.273153,
+      "end": 35.357295,
+      "voice": 1004,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 35.424988,
+      "end": 35.470678,
+      "voice": 1038,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 35.470677,
+      "end": 37.085135,
+      "voice": 1011,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 37.085135,
+      "end": 37.150201,
+      "voice": 1019,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 37.150201,
+      "end": 37.196248,
+      "voice": 1036,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 37.196248,
+      "end": 37.261314,
+      "voice": 1027,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 37.261314,
+      "end": 38.878969,
+      "voice": 1007,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 38.878969,
+      "end": 38.925016,
+      "voice": 1036,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 38.993237,
+      "end": 39.057957,
+      "voice": 1025,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 39.057958,
+      "end": 40.653212,
+      "voice": 1006,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 40.653212,
+      "end": 40.718335,
+      "voice": 1020,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 40.786981,
+      "end": 40.851981,
+      "voice": 1031,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 40.851981,
+      "end": 41.886391,
+      "voice": 1004,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 41.955037,
+      "end": 42.019914,
+      "voice": 1023,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 42.019913,
+      "end": 42.065826,
+      "voice": 1033,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 42.065826,
+      "end": 44.431764,
+      "voice": 1013,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 44.431764,
+      "end": 44.496879,
+      "voice": 1017,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 45.162897,
+      "end": 45.227897,
+      "voice": 1031,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 45.227897,
+      "end": 46.266348,
+      "voice": 1004,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 46.335246,
+      "end": 46.400221,
+      "voice": 1019,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 46.400221,
+      "end": 48.024635,
+      "voice": 1011,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 48.024635,
+      "end": 48.070643,
+      "voice": 1033,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 48.139579,
+      "end": 49.178647,
+      "voice": 1001,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 49.178648,
+      "end": 49.243648,
+      "voice": 1029,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 49.312584,
+      "end": 49.377636,
+      "voice": 1020,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 49.377636,
+      "end": 50.982016,
+      "voice": 1000,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 50.982016,
+      "end": 51.046895,
+      "voice": 1019,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 51.115648,
+      "end": 52.432683,
+      "voice": 1004,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 52.432683,
+      "end": 52.478378,
+      "voice": 1032,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 52.478378,
+      "end": 54.602124,
+      "voice": 1005,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 54.602125,
+      "end": 54.670077,
+      "voice": 1017,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 54.742433,
+      "end": 54.807433,
+      "voice": 1031,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 54.807433,
+      "end": 56.499194,
+      "voice": 1001,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 56.499193,
+      "end": 56.564193,
+      "voice": 1023,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 56.636549,
+      "end": 56.684385,
+      "voice": 1035,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 56.684385,
+      "end": 58.435573,
+      "voice": 1005,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 58.435573,
+      "end": 58.498969,
+      "voice": 1020,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 58.498968,
+      "end": 60.164934,
+      "voice": 1013,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 60.164935,
+      "end": 60.2098,
+      "voice": 1036,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 60.27766,
+      "end": 60.323833,
+      "voice": 1032,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 60.323834,
+      "end": 62.730469,
+      "voice": 1012,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 62.730469,
+      "end": 62.776251,
+      "voice": 1039,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 63.426677,
+      "end": 63.491677,
+      "voice": 1031,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 63.491677,
+      "end": 64.700409,
+      "voice": 1004,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 63.534334,
+      "end": 63.599334,
+      "voice": 1131,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 63.599334,
+      "end": 64.695923,
+      "voice": 1104,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 64.767695,
+      "end": 64.833099,
+      "voice": 1020,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 64.833099,
+      "end": 66.705276,
+      "voice": 1013,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 66.705276,
+      "end": 66.751181,
+      "voice": 1036,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 66.817914,
+      "end": 68.01617,
+      "voice": 1001,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 66.924685,
+      "end": 68.011721,
+      "voice": 1101,
+      "pitch": 65,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 68.011721,
+      "end": 68.076721,
+      "voice": 1129,
+      "pitch": 65,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 68.01617,
+      "end": 68.08117,
+      "voice": 1029,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 68.147902,
+      "end": 68.213272,
+      "voice": 1019,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 68.213272,
+      "end": 70.568068,
+      "voice": 1006,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 70.568068,
+      "end": 70.632993,
+      "voice": 1018,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 70.632993,
+      "end": 70.67894,
+      "voice": 1037,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 70.678941,
+      "end": 72.15065,
+      "voice": 1009,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 72.216928,
+      "end": 72.282195,
+      "voice": 1031,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 72.282195,
+      "end": 74.109851,
+      "voice": 1003,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 72.322973,
+      "end": 72.388122,
+      "voice": 1131,
+      "pitch": 60,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 72.388122,
+      "end": 74.105437,
+      "voice": 1103,
+      "pitch": 60,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 74.105436,
+      "end": 74.170431,
+      "voice": 1117,
+      "pitch": 60,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 74.109851,
+      "end": 74.17483,
+      "voice": 1017,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 74.240816,
+      "end": 74.305816,
+      "voice": 1031,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 74.305816,
+      "end": 75.489953,
+      "voice": 1004,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 75.55594,
+      "end": 75.621012,
+      "voice": 1020,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 75.621012,
+      "end": 77.465063,
+      "voice": 1013,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 75.661518,
+      "end": 75.726594,
+      "voice": 1120,
+      "pitch": 56,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 75.726594,
+      "end": 77.460666,
+      "voice": 1113,
+      "pitch": 56,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 77.460667,
+      "end": 77.50666,
+      "voice": 1136,
+      "pitch": 56,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 77.465063,
+      "end": 77.511053,
+      "voice": 1036,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 77.576952,
+      "end": 79.531926,
+      "voice": 1011,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 79.59796,
+      "end": 79.66296,
+      "voice": 1017,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 79.66296,
+      "end": 82.467803,
+      "voice": 1013,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 79.703615,
+      "end": 79.768615,
+      "voice": 1117,
+      "pitch": 60,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 79.768615,
+      "end": 82.4634,
+      "voice": 1113,
+      "pitch": 60,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 83.118419,
+      "end": 84.649093,
+      "voice": 1111,
+      "pitch": 70,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 84.719343,
+      "end": 84.766186,
+      "voice": 1134,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 84.766187,
+      "end": 86.593716,
+      "voice": 1103,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 86.593715,
+      "end": 86.659906,
+      "voice": 1117,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 86.659907,
+      "end": 87.749953,
+      "voice": 1105,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 87.749953,
+      "end": 87.794578,
+      "voice": 1133,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 87.861503,
+      "end": 87.907503,
+      "voice": 1135,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 87.907503,
+      "end": 87.972503,
+      "voice": 1120,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 87.972503,
+      "end": 89.254709,
+      "voice": 1101,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 89.254708,
+      "end": 89.319708,
+      "voice": 1118,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 89.386633,
+      "end": 89.451576,
+      "voice": 1131,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 89.451576,
+      "end": 90.311856,
+      "voice": 1104,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 90.379449,
+      "end": 90.444449,
+      "voice": 1128,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 90.444449,
+      "end": 92.149247,
+      "voice": 1103,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 92.149246,
+      "end": 92.214246,
+      "voice": 1117,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 92.214246,
+      "end": 93.281598,
+      "voice": 1101,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 93.281598,
+      "end": 93.346598,
+      "voice": 1124,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 93.346598,
+      "end": 93.392598,
+      "voice": 1133,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 93.460191,
+      "end": 93.524674,
+      "voice": 1120,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 93.524675,
+      "end": 94.879597,
+      "voice": 1112,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 94.879596,
+      "end": 94.944772,
+      "voice": 1117,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 95.013092,
+      "end": 95.059092,
+      "voice": 1133,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 95.059092,
+      "end": 95.956774,
+      "voice": 1108,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 96.025095,
+      "end": 96.089651,
+      "voice": 1125,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 96.08965,
+      "end": 98.717741,
+      "voice": 1105,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 98.717741,
+      "end": 98.782957,
+      "voice": 1119,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 98.782957,
+      "end": 100.437264,
+      "voice": 1101,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 100.437264,
+      "end": 100.50248,
+      "voice": 1118,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 101.169746,
+      "end": 102.631752,
+      "voice": 1111,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 102.701357,
+      "end": 102.747285,
+      "voice": 1134,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 102.747284,
+      "end": 104.491879,
+      "voice": 1103,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 104.49188,
+      "end": 104.556778,
+      "voice": 1117,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 104.556777,
+      "end": 105.653501,
+      "voice": 1105,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 105.653501,
+      "end": 105.699692,
+      "voice": 1133,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 105.769695,
+      "end": 105.834695,
+      "voice": 1116,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 105.834695,
+      "end": 107.19408,
+      "voice": 1112,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 107.194079,
+      "end": 107.240079,
+      "voice": 1134,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 107.310082,
+      "end": 108.241331,
+      "voice": 1104,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 108.311334,
+      "end": 108.376196,
+      "voice": 1120,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 108.376196,
+      "end": 109.452123,
+      "voice": 1104,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 109.452123,
+      "end": 109.498134,
+      "voice": 1134,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 109.498134,
+      "end": 111.217491,
+      "voice": 1106,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 111.217492,
+      "end": 111.282507,
+      "voice": 1120,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 111.282506,
+      "end": 111.328517,
+      "voice": 1136,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 111.398685,
+      "end": 113.236855,
+      "voice": 1101,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 113.236855,
+      "end": 113.302976,
+      "voice": 1117,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 113.302976,
+      "end": 113.349769,
+      "voice": 1133,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 113.349769,
+      "end": 114.534473,
+      "voice": 1108,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 114.60864,
+      "end": 114.674657,
+      "voice": 1123,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 114.674657,
+      "end": 114.721377,
+      "voice": 1134,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 114.721376,
+      "end": 116.803461,
+      "voice": 1101,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 116.803461,
+      "end": 116.865579,
+      "voice": 1117,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 117.540187,
+      "end": 117.605187,
+      "voice": 1031,
+      "pitch": 49,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 117.605187,
+      "end": 118.99576,
+      "voice": 1002,
+      "pitch": 49,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 118.99576,
+      "end": 119.06076,
+      "voice": 1017,
+      "pitch": 49,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 119.130547,
+      "end": 119.195725,
+      "voice": 1019,
+      "pitch": 51,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 119.195725,
+      "end": 120.601149,
+      "voice": 1002,
+      "pitch": 51,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 120.601149,
+      "end": 120.646969,
+      "voice": 1033,
+      "pitch": 51,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 120.716294,
+      "end": 120.781294,
+      "voice": 1031,
+      "pitch": 51,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 120.781294,
+      "end": 121.673851,
+      "voice": 1004,
+      "pitch": 51,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 121.743175,
+      "end": 121.808175,
+      "voice": 1023,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 121.808175,
+      "end": 121.854175,
+      "voice": 1032,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 121.854175,
+      "end": 123.188668,
+      "voice": 1012,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 123.188669,
+      "end": 123.253669,
+      "voice": 1023,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 123.322993,
+      "end": 123.388441,
+      "voice": 1020,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 123.388441,
+      "end": 124.496557,
+      "voice": 1001,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 124.496557,
+      "end": 124.56149,
+      "voice": 1016,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 124.561491,
+      "end": 126.327205,
+      "voice": 1012,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 126.327205,
+      "end": 126.392138,
+      "voice": 1017,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 126.460917,
+      "end": 126.507171,
+      "voice": 1035,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 126.507171,
+      "end": 127.600054,
+      "voice": 1001,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 127.600054,
+      "end": 127.645944,
+      "voice": 1033,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 127.645943,
+      "end": 127.710787,
+      "voice": 1021,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 127.710787,
+      "end": 129.445254,
+      "voice": 1000,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 129.445254,
+      "end": 129.510098,
+      "voice": 1017,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 129.578336,
+      "end": 129.643336,
+      "voice": 1031,
+      "pitch": 51,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 129.643336,
+      "end": 130.520881,
+      "voice": 1004,
+      "pitch": 51,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 130.589118,
+      "end": 130.635414,
+      "voice": 1034,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 130.635414,
+      "end": 133.242921,
+      "voice": 1006,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 133.242921,
+      "end": 133.307901,
+      "voice": 1019,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 133.307902,
+      "end": 134.93745,
+      "voice": 1001,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 134.93745,
+      "end": 135.002137,
+      "voice": 1018,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 135.654397,
+      "end": 136.753906,
+      "voice": 1004,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 136.821381,
+      "end": 136.8864,
+      "voice": 1023,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 136.8864,
+      "end": 136.932413,
+      "voice": 1032,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 136.932414,
+      "end": 138.483853,
+      "voice": 1012,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 138.483853,
+      "end": 138.548765,
+      "voice": 1023,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 138.616129,
+      "end": 138.681129,
+      "voice": 1026,
+      "pitch": 64,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 138.681129,
+      "end": 138.746129,
+      "voice": 1020,
+      "pitch": 64,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 138.746129,
+      "end": 140.341179,
+      "voice": 1008,
+      "pitch": 64,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 140.408544,
+      "end": 140.472881,
+      "voice": 1021,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 140.472881,
+      "end": 142.103131,
+      "voice": 1001,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 142.103131,
+      "end": 142.151385,
+      "voice": 1038,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 142.222779,
+      "end": 143.75032,
+      "voice": 1004,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 143.75032,
+      "end": 143.816637,
+      "voice": 1017,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 143.816637,
+      "end": 146.225427,
+      "voice": 1004,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 146.225427,
+      "end": 146.288385,
+      "voice": 1031,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 146.288384,
+      "end": 147.738537,
+      "voice": 1009,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 147.806315,
+      "end": 147.852262,
+      "voice": 1034,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 147.852262,
+      "end": 149.478573,
+      "voice": 1003,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 149.478572,
+      "end": 149.543959,
+      "voice": 1017,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 149.612219,
+      "end": 149.658219,
+      "voice": 1034,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 149.658219,
+      "end": 151.295202,
+      "voice": 1004,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 151.295202,
+      "end": 151.360202,
+      "voice": 1016,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 151.428462,
+      "end": 153.008015,
+      "voice": 1001,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 153.008015,
+      "end": 153.073524,
+      "voice": 1017,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 153.739146,
+      "end": 153.804146,
+      "voice": 1122,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 153.804146,
+      "end": 155.727749,
+      "voice": 1108,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 153.849318,
+      "end": 153.914318,
+      "voice": 1022,
+      "pitch": 55,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 153.914318,
+      "end": 155.723158,
+      "voice": 1008,
+      "pitch": 55,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 155.796606,
+      "end": 155.861242,
+      "voice": 1127,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 155.861242,
+      "end": 157.731176,
+      "voice": 1103,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 157.731175,
+      "end": 157.796407,
+      "voice": 1128,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 157.865901,
+      "end": 157.930901,
+      "voice": 1131,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 157.930901,
+      "end": 159.146099,
+      "voice": 1104,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 157.977089,
+      "end": 158.042089,
+      "voice": 1031,
+      "pitch": 51,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 158.042089,
+      "end": 159.141465,
+      "voice": 1004,
+      "pitch": 51,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 159.215591,
+      "end": 159.261306,
+      "voice": 1132,
+      "pitch": 56,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 159.261306,
+      "end": 159.325903,
+      "voice": 1120,
+      "pitch": 56,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 159.325904,
+      "end": 161.701694,
+      "voice": 1105,
+      "pitch": 56,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 161.701694,
+      "end": 161.766836,
+      "voice": 1116,
+      "pitch": 56,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 161.766835,
+      "end": 163.259309,
+      "voice": 1104,
+      "pitch": 56,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 163.259309,
+      "end": 163.324451,
+      "voice": 1123,
+      "pitch": 56,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 163.394529,
+      "end": 163.459242,
+      "voice": 1117,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 163.459242,
+      "end": 165.381292,
+      "voice": 1105,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 163.506655,
+      "end": 163.571351,
+      "voice": 1017,
+      "pitch": 51,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 163.571351,
+      "end": 165.376602,
+      "voice": 1005,
+      "pitch": 51,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 165.376602,
+      "end": 165.42268,
+      "voice": 1033,
+      "pitch": 51,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 165.381292,
+      "end": 165.427382,
+      "voice": 1133,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 165.497909,
+      "end": 165.562909,
+      "voice": 1131,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 165.562909,
+      "end": 166.797164,
+      "voice": 1104,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 166.867692,
+      "end": 166.932569,
+      "voice": 1127,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 166.932569,
+      "end": 168.797205,
+      "voice": 1103,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 166.980536,
+      "end": 167.045406,
+      "voice": 1027,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 167.045406,
+      "end": 168.792499,
+      "voice": 1003,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 168.792499,
+      "end": 168.857591,
+      "voice": 1017,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 168.797205,
+      "end": 168.862304,
+      "voice": 1117,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 168.857591,
+      "end": 168.903656,
+      "voice": 1036,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 168.862304,
+      "end": 168.908374,
+      "voice": 1136,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 168.979142,
+      "end": 169.044142,
+      "voice": 1131,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 169.044142,
+      "end": 170.976929,
+      "voice": 1103,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 170.976929,
+      "end": 171.022929,
+      "voice": 1133,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 171.093698,
+      "end": 171.155896,
+      "voice": 1116,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 171.155895,
+      "end": 173.182996,
+      "voice": 1112,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 171.206927,
+      "end": 171.268969,
+      "voice": 1016,
+      "pitch": 53,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 171.268969,
+      "end": 173.178121,
+      "voice": 1012,
+      "pitch": 53,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 173.178121,
+      "end": 173.224577,
+      "voice": 1036,
+      "pitch": 53,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 173.182997,
+      "end": 173.229569,
+      "voice": 1136,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 173.304445,
+      "end": 176.375195,
+      "voice": 1101,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 176.375195,
+      "end": 176.419257,
+      "voice": 1133,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 177.100674,
+      "end": 178.794088,
+      "voice": 1011,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 178.864579,
+      "end": 178.929916,
+      "voice": 1027,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 178.929916,
+      "end": 180.484379,
+      "voice": 1003,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 180.484379,
+      "end": 180.549261,
+      "voice": 1028,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 180.619262,
+      "end": 180.684262,
+      "voice": 1031,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 180.684262,
+      "end": 181.687815,
+      "voice": 1004,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 181.757815,
+      "end": 181.803917,
+      "voice": 1038,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 181.803918,
+      "end": 183.306623,
+      "voice": 1003,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 183.306623,
+      "end": 183.371162,
+      "voice": 1017,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 183.371162,
+      "end": 183.435701,
+      "voice": 1023,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 183.505052,
+      "end": 183.551052,
+      "voice": 1033,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 183.551052,
+      "end": 184.563677,
+      "voice": 1008,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 184.633027,
+      "end": 186.644494,
+      "voice": 1003,
+      "pitch": 64,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 186.644494,
+      "end": 186.709755,
+      "voice": 1017,
+      "pitch": 64,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 186.709755,
+      "end": 186.77461,
+      "voice": 1023,
+      "pitch": 64,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 186.774609,
+      "end": 188.020782,
+      "voice": 1009,
+      "pitch": 64,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 188.089407,
+      "end": 189.691967,
+      "voice": 1001,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 189.691967,
+      "end": 189.737967,
+      "voice": 1033,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 189.806591,
+      "end": 189.853072,
+      "voice": 1033,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 189.853071,
+      "end": 191.69461,
+      "voice": 1004,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 191.694611,
+      "end": 191.740609,
+      "voice": 1036,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 191.740609,
+      "end": 194.667009,
+      "voice": 1012,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 195.317532,
+      "end": 196.139837,
+      "voice": 1104,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 196.207132,
+      "end": 196.253337,
+      "voice": 1136,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 196.253337,
+      "end": 197.945197,
+      "voice": 1101,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 197.945197,
+      "end": 198.010043,
+      "voice": 1125,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 198.010043,
+      "end": 199.063543,
+      "voice": 1109,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 199.063544,
+      "end": 200.117044,
+      "voice": 1104,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 200.117044,
+      "end": 200.18189,
+      "voice": 1117,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 200.18189,
+      "end": 200.227781,
+      "voice": 1133,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 200.294621,
+      "end": 200.358509,
+      "voice": 1128,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 200.358509,
+      "end": 201.542254,
+      "voice": 1115,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 201.542253,
+      "end": 201.609603,
+      "voice": 1123,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 201.680063,
+      "end": 201.726063,
+      "voice": 1134,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 201.726063,
+      "end": 202.97758,
+      "voice": 1103,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 202.97758,
+      "end": 203.04258,
+      "voice": 1117,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 203.11304,
+      "end": 203.159951,
+      "voice": 1134,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 203.159952,
+      "end": 204.809492,
+      "voice": 1103,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 204.809491,
+      "end": 204.875779,
+      "voice": 1120,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 204.875779,
+      "end": 205.854229,
+      "voice": 1100,
+      "pitch": 60,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 205.920779,
+      "end": 207.142692,
+      "voice": 1103,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 207.142693,
+      "end": 207.207693,
+      "voice": 1117,
+      "pitch": 58,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 207.274243,
+      "end": 208.450175,
+      "voice": 1113,
+      "pitch": 56,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 208.450175,
+      "end": 208.515259,
+      "voice": 1119,
+      "pitch": 56,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 208.51526,
+      "end": 208.561374,
+      "voice": 1136,
+      "pitch": 56,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 208.628101,
+      "end": 208.674072,
+      "voice": 1134,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 208.674072,
+      "end": 210.876855,
+      "voice": 1111,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 210.876855,
+      "end": 210.941814,
+      "voice": 1117,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 210.941814,
+      "end": 210.987785,
+      "voice": 1136,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 210.987785,
+      "end": 211.052744,
+      "voice": 1117,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 211.052744,
+      "end": 212.433968,
+      "voice": 1104,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 212.433968,
+      "end": 212.499272,
+      "voice": 1123,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 213.147723,
+      "end": 214.027785,
+      "voice": 1004,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 214.094866,
+      "end": 214.140656,
+      "voice": 1036,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 214.140656,
+      "end": 215.956129,
+      "voice": 1001,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 215.956129,
+      "end": 216.021291,
+      "voice": 1025,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 216.021291,
+      "end": 217.164481,
+      "voice": 1009,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 217.164481,
+      "end": 218.307671,
+      "voice": 1004,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 218.307671,
+      "end": 218.372833,
+      "voice": 1017,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 218.372833,
+      "end": 218.418948,
+      "voice": 1033,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 218.486505,
+      "end": 218.551266,
+      "voice": 1028,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 218.551265,
+      "end": 219.826335,
+      "voice": 1015,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 219.826335,
+      "end": 219.891598,
+      "voice": 1023,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 219.959678,
+      "end": 220.005678,
+      "voice": 1034,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 220.005678,
+      "end": 221.305447,
+      "voice": 1003,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 221.305447,
+      "end": 221.370447,
+      "voice": 1017,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 221.438527,
+      "end": 221.484527,
+      "voice": 1038,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 221.484527,
+      "end": 222.784296,
+      "voice": 1008,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 222.784296,
+      "end": 222.849296,
+      "voice": 1029,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 222.917863,
+      "end": 223.817456,
+      "voice": 1004,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 223.886026,
+      "end": 223.931925,
+      "voice": 1036,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 223.931924,
+      "end": 225.787181,
+      "voice": 1001,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 225.787181,
+      "end": 225.852038,
+      "voice": 1025,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 225.852038,
+      "end": 227.016357,
+      "voice": 1009,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 227.016357,
+      "end": 228.18425,
+      "voice": 1004,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 228.18425,
+      "end": 228.249461,
+      "voice": 1017,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 228.249461,
+      "end": 228.29561,
+      "voice": 1033,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 228.364555,
+      "end": 228.429023,
+      "voice": 1021,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 228.429023,
+      "end": 230.484485,
+      "voice": 1012,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 231.191714,
+      "end": 232.452306,
+      "voice": 1001,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 232.452306,
+      "end": 232.517306,
+      "voice": 1025,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 232.590468,
+      "end": 233.91606,
+      "voice": 1011,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 233.989221,
+      "end": 234.057888,
+      "voice": 1020,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 234.057888,
+      "end": 234.982676,
+      "voice": 1001,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 234.982677,
+      "end": 235.028582,
+      "voice": 1033,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 235.028581,
+      "end": 236.503218,
+      "voice": 1009,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 236.503218,
+      "end": 236.568083,
+      "voice": 1017,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 236.637195,
+      "end": 237.888973,
+      "voice": 1011,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 237.957833,
+      "end": 238.022833,
+      "voice": 1021,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 238.022833,
+      "end": 239.140496,
+      "voice": 1001,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 239.140496,
+      "end": 239.205496,
+      "voice": 1019,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 239.274356,
+      "end": 239.339421,
+      "voice": 1020,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 239.339421,
+      "end": 240.258869,
+      "voice": 1001,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 240.258869,
+      "end": 240.304915,
+      "voice": 1033,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 240.304915,
+      "end": 241.771355,
+      "voice": 1009,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 241.771355,
+      "end": 241.836,
+      "voice": 1017,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 241.904416,
+      "end": 241.969416,
+      "voice": 1021,
+      "pitch": 64,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 241.969416,
+      "end": 243.079036,
+      "voice": 1001,
+      "pitch": 64,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 243.079036,
+      "end": 243.144036,
+      "voice": 1031,
+      "pitch": 64,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 243.212453,
+      "end": 243.27783,
+      "voice": 1019,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 243.277829,
+      "end": 245.653006,
+      "voice": 1001,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 245.653007,
+      "end": 245.717833,
+      "voice": 1023,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 245.717832,
+      "end": 247.195319,
+      "voice": 1004,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 247.195319,
+      "end": 247.260145,
+      "voice": 1017,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 247.260144,
+      "end": 248.737385,
+      "voice": 1001,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 248.737385,
+      "end": 248.801607,
+      "voice": 1018,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 249.451291,
+      "end": 251.237005,
+      "voice": 1001,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 249.558824,
+      "end": 251.232523,
+      "voice": 1101,
+      "pitch": 56,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 251.232524,
+      "end": 251.297524,
+      "voice": 1125,
+      "pitch": 56,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 251.237004,
+      "end": 251.302004,
+      "voice": 1025,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 251.369213,
+      "end": 253.211647,
+      "voice": 1011,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 253.278254,
+      "end": 255.047389,
+      "voice": 1003,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 253.384824,
+      "end": 255.042948,
+      "voice": 1103,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 255.042949,
+      "end": 255.107949,
+      "voice": 1116,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 255.047389,
+      "end": 255.112389,
+      "voice": 1016,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 255.178996,
+      "end": 255.225215,
+      "voice": 1037,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 255.225214,
+      "end": 256.93963,
+      "voice": 1006,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 256.93963,
+      "end": 257.004453,
+      "voice": 1017,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 257.070563,
+      "end": 257.135563,
+      "voice": 1019,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 257.135563,
+      "end": 258.826037,
+      "voice": 1000,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 257.17634,
+      "end": 257.24134,
+      "voice": 1119,
+      "pitch": 62,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 257.24134,
+      "end": 258.82163,
+      "voice": 1100,
+      "pitch": 62,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 258.82163,
+      "end": 258.88663,
+      "voice": 1128,
+      "pitch": 62,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 258.826037,
+      "end": 258.891037,
+      "voice": 1028,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 258.957148,
+      "end": 259.019599,
+      "voice": 1020,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 259.019598,
+      "end": 260.786176,
+      "voice": 1008,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 260.786176,
+      "end": 260.851933,
+      "voice": 1016,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 260.921543,
+      "end": 260.968736,
+      "voice": 1035,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 260.968736,
+      "end": 262.409595,
+      "voice": 1001,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 261.03292,
+      "end": 261.080147,
+      "voice": 1135,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 261.080146,
+      "end": 262.476291,
+      "voice": 1101,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 262.409595,
+      "end": 262.47628,
+      "voice": 1023,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 262.47628,
+      "end": 264.681695,
+      "voice": 1011,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 262.476291,
+      "end": 262.543024,
+      "voice": 1123,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 262.543024,
+      "end": 264.677285,
+      "voice": 1111,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 264.677285,
+      "end": 264.721832,
+      "voice": 1136,
+      "pitch": 58,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 264.681695,
+      "end": 264.72621,
+      "voice": 1036,
+      "pitch": 55,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 264.79187,
+      "end": 264.85687,
+      "voice": 1031,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 264.85687,
+      "end": 265.944146,
+      "voice": 1004,
+      "pitch": 53,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 266.009807,
+      "end": 266.074727,
+      "voice": 1025,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 266.074727,
+      "end": 266.139647,
+      "voice": 1019,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 266.114864,
+      "end": 266.17978,
+      "voice": 1125,
+      "pitch": 65,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 266.139646,
+      "end": 268.599336,
+      "voice": 1012,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 266.17978,
+      "end": 266.244696,
+      "voice": 1119,
+      "pitch": 65,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 266.244697,
+      "end": 268.594956,
+      "voice": 1112,
+      "pitch": 65,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 268.594955,
+      "end": 268.659974,
+      "voice": 1116,
+      "pitch": 65,
+      "pan": 0.42,
+      "group": "countervoice"
+    },
+    {
+      "start": 268.599336,
+      "end": 268.664358,
+      "voice": 1016,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 269.300082,
+      "end": 269.364921,
+      "voice": 1122,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 269.364921,
+      "end": 270.930761,
+      "voice": 1108,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 270.996846,
+      "end": 272.566404,
+      "voice": 1105,
+      "pitch": 70,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 272.566403,
+      "end": 272.631403,
+      "voice": 1120,
+      "pitch": 70,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 272.697488,
+      "end": 272.762432,
+      "voice": 1131,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 272.762433,
+      "end": 273.737712,
+      "voice": 1104,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 273.804302,
+      "end": 273.869302,
+      "voice": 1121,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 273.869302,
+      "end": 275.405353,
+      "voice": 1109,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 275.405353,
+      "end": 275.451353,
+      "voice": 1134,
+      "pitch": 65,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 275.517943,
+      "end": 276.500219,
+      "voice": 1104,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 276.500219,
+      "end": 276.565219,
+      "voice": 1128,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 276.63181,
+      "end": 276.677445,
+      "voice": 1133,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 276.677445,
+      "end": 278.622431,
+      "voice": 1102,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 278.622431,
+      "end": 278.68753,
+      "voice": 1117,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 278.687529,
+      "end": 278.733599,
+      "voice": 1136,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 278.733599,
+      "end": 279.954278,
+      "voice": 1101,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 279.954278,
+      "end": 280.019377,
+      "voice": 1118,
+      "pitch": 61,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 280.086602,
+      "end": 280.151206,
+      "voice": 1121,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 280.151206,
+      "end": 281.713353,
+      "voice": 1104,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 281.713353,
+      "end": 281.759542,
+      "voice": 1133,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 281.827458,
+      "end": 281.892458,
+      "voice": 1121,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 281.892458,
+      "end": 283.442289,
+      "voice": 1105,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 283.442289,
+      "end": 283.507289,
+      "voice": 1129,
+      "pitch": 63,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 283.575204,
+      "end": 283.620482,
+      "voice": 1137,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 283.620483,
+      "end": 286.610734,
+      "voice": 1101,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 286.610733,
+      "end": 286.675338,
+      "voice": 1128,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 286.675339,
+      "end": 288.586522,
+      "voice": 1104,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 288.586522,
+      "end": 288.655438,
+      "voice": 1117,
+      "pitch": 67,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 289.362599,
+      "end": 290.744978,
+      "voice": 1004,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 290.744978,
+      "end": 290.809978,
+      "voice": 1017,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 290.809978,
+      "end": 290.855978,
+      "voice": 1036,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 290.929133,
+      "end": 290.996031,
+      "voice": 1021,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 290.996031,
+      "end": 293.154763,
+      "voice": 1004,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 293.154762,
+      "end": 293.199741,
+      "voice": 1033,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 293.269244,
+      "end": 295.489463,
+      "voice": 1011,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 295.558964,
+      "end": 295.604872,
+      "voice": 1038,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 295.604872,
+      "end": 297.672643,
+      "voice": 1012,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 297.672643,
+      "end": 297.737648,
+      "voice": 1017,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 297.737648,
+      "end": 297.783652,
+      "voice": 1039,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 297.853299,
+      "end": 297.918326,
+      "voice": 1021,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 297.918326,
+      "end": 300.012301,
+      "voice": 1001,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 300.012301,
+      "end": 300.077244,
+      "voice": 1019,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 300.146802,
+      "end": 300.211802,
+      "voice": 1027,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 300.211802,
+      "end": 302.303812,
+      "voice": 1003,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 302.303812,
+      "end": 302.368812,
+      "voice": 1028,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 302.438371,
+      "end": 302.481239,
+      "voice": 1033,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 302.481239,
+      "end": 303.962072,
+      "voice": 1008,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 304.040777,
+      "end": 304.086777,
+      "voice": 1035,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 304.086777,
+      "end": 306.489991,
+      "voice": 1002,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 306.489991,
+      "end": 306.554991,
+      "voice": 1020,
+      "pitch": 62,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 306.633697,
+      "end": 306.699012,
+      "voice": 1016,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 306.699012,
+      "end": 309.135769,
+      "voice": 1011,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 309.213967,
+      "end": 309.27916,
+      "voice": 1017,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 309.279159,
+      "end": 312.795726,
+      "voice": 1012,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 312.795726,
+      "end": 312.860427,
+      "voice": 1016,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    }
+  ]
+}

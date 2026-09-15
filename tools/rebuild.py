@@ -21,7 +21,10 @@ def rebuild(album, output, recompose):
     if destination.exists():
         raise SystemExit(f'Output already exists: {destination}. Choose a new --output directory to preserve your work.')
     rooms = album['slug'] == 'rooms-for-unfinished-things'
-    required = ['node', 'ffmpeg', 'ffprobe'] + (['zip'] if rooms else ['clang++'])
+    opera = album['slug'] == 'the-heaven-between-signals'
+    required = ['ffmpeg', 'ffprobe'] + (['node', 'zip'] if rooms else ['clang++'])
+    if not rooms and not opera:
+        required.append('node')
     missing = [name for name in required if shutil.which(name) is None]
     if missing:
         raise SystemExit('Install these programs first: ' + ', '.join(missing))
@@ -39,13 +42,14 @@ def rebuild(album, output, recompose):
         if recompose:
             run([sys.executable, 'source/compose.py'], destination)
         run([sys.executable, 'source/build.py'], destination)
-        run([sys.executable, 'source/finalize.py'], destination)
+        run([sys.executable, 'source/export.py' if opera else 'source/finalize.py'], destination)
         if album['slug'] == 'windows-still-lit':
             run([sys.executable, 'source/make_preview.py'], destination)
             run([sys.executable, 'source/export_lyrics.py'], destination)
             run(['node', 'source/test-lyrics-export.mjs'], destination)
             run([sys.executable, 'source/check_arrangements.py'], destination)
-        run(['node', 'source/test-player.mjs'], destination)
+        if not opera:
+            run(['node', 'source/test-player.mjs'], destination)
     # Verify the produced recordings against their newly generated manifest.
     # Original hashes remain in reference/original-album.json for comparison.
     manifest = json.loads((destination / 'album.json').read_text())
@@ -59,7 +63,8 @@ def rebuild(album, output, recompose):
             assert digest == track['sha256'][kind], (track['title'], kind)
         run(['ffmpeg', '-v', 'error', '-i', destination / track['mp3'], '-map', '0:a:0', '-f', 'null', '-'], destination)
         checks.append({'title': track['title'], 'hashes_match': True, 'mp3_decodes': True})
-    run(['ffmpeg', '-v', 'error', '-i', destination / manifest['completeAlbum'], '-map', '0:a:0', '-f', 'null', '-'], destination)
+    complete = manifest['completeOpera' if opera else 'completeAlbum']
+    run(['ffmpeg', '-v', 'error', '-i', destination / complete, '-map', '0:a:0', '-f', 'null', '-'], destination)
     report = {'album': album['title'], 'passed': True, 'tracks': checks, 'full_album_decodes': True, 'seconds_elapsed': round(time.monotonic() - start, 2)}
     (destination / 'checks/rebuild.json').write_text(json.dumps(report, indent=2) + '\n')
     print(f'Rebuilt {album["title"]}: {destination}', flush=True)

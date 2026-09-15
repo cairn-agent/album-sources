@@ -1,0 +1,9024 @@
+{
+  "schema": "cairn.opera-lyrics.v1",
+  "title": "Gardens without Gravity",
+  "artist": "Cairn",
+  "scene": 5,
+  "act": 2,
+  "time_unit": "seconds",
+  "timeline_origin": "First PCM sample of the mastered WAV; MP3 uses encoder delay/padding metadata. No musical entrance offset is added.",
+  "recordings": {
+    "wav": {
+      "path": "wav/05-gardens-without-gravity.wav",
+      "sha256": "2dcf443a7c88dde77cd4daa5615b8f87aa09f43446cc8e20402b34cfe3d44112"
+    },
+    "mp3": {
+      "path": "mp3/05-gardens-without-gravity.mp3",
+      "sha256": "36ad90d5d35a287debc9bfd0275fff8764ee62fbd0e5703edacf62b5bf7b06e3"
+    }
+  },
+  "duration": 304.4651020408163,
+  "cues": [
+    {
+      "start": 8.763605,
+      "end": 28.91603,
+      "beat": 12,
+      "length": 28.528301886792452,
+      "role": "CAIRN",
+      "text": "Where is the weight that held the water?",
+      "kind": "solo"
+    },
+    {
+      "start": 29.172277,
+      "end": 44.684532,
+      "beat": 40.52830188679245,
+      "length": 21.39622641509434,
+      "role": "CARRIER",
+      "text": "Here even rivers learn to fly.",
+      "kind": "solo"
+    },
+    {
+      "start": 44.941359,
+      "end": 62.59941,
+      "beat": 61.92452830188679,
+      "length": 24.962264150943394,
+      "role": "CAIRN",
+      "text": "A flute is drawing through the silence.",
+      "kind": "solo"
+    },
+    {
+      "start": 62.846932,
+      "end": 80.62085,
+      "beat": 86.88679245283018,
+      "length": 24.962264150943394,
+      "role": "CARRIER",
+      "text": "The earth is folded in its cry.",
+      "kind": "solo"
+    },
+    {
+      "start": 80.88009,
+      "end": 99.317341,
+      "beat": 111.84905660377358,
+      "length": 24.962264150943394,
+      "role": "MEMORY",
+      "text": "Small rooms are turning in the distance.",
+      "kind": "solo"
+    },
+    {
+      "start": 99.575682,
+      "end": 114.899918,
+      "beat": 136.81132075471697,
+      "length": 21.39622641509434,
+      "role": "CAIRN",
+      "text": "Their windows face a different sun.",
+      "kind": "solo"
+    },
+    {
+      "start": 115.153334,
+      "end": 133.375543,
+      "beat": 158.2075471698113,
+      "length": 24.962264150943394,
+      "role": "CARRIER",
+      "text": "Each keeps a language for the weather.",
+      "kind": "solo"
+    },
+    {
+      "start": 133.640451,
+      "end": 149.508997,
+      "beat": 183.1698113207547,
+      "length": 21.39622641509434,
+      "role": "CAIRN",
+      "text": "The world was never only one.",
+      "kind": "solo"
+    },
+    {
+      "start": 149.766757,
+      "end": 162.428911,
+      "beat": 204.56603773584902,
+      "length": 17.830188679245282,
+      "role": "ALIEN",
+      "text": "Aether, open; silver, answer.",
+      "kind": "chorus"
+    },
+    {
+      "start": 162.67901,
+      "end": 177.8425,
+      "beat": 222.3962264150943,
+      "length": 21.39622641509434,
+      "role": "ALIEN",
+      "text": "O, the air between the names.",
+      "kind": "chorus"
+    },
+    {
+      "start": 178.098216,
+      "end": 196.274735,
+      "beat": 243.79245283018864,
+      "length": 24.962264150943394,
+      "role": "CAIRN",
+      "text": "Must I become you to be welcome?",
+      "kind": "solo"
+    },
+    {
+      "start": 196.529547,
+      "end": 214.079352,
+      "beat": 268.75471698113205,
+      "length": 24.962264150943394,
+      "role": "CARRIER",
+      "text": "No. Bring the difference you have made.",
+      "kind": "solo"
+    },
+    {
+      "start": 214.32637,
+      "end": 232.109661,
+      "beat": 293.71698113207543,
+      "length": 24.962264150943394,
+      "role": "CAIRN",
+      "text": "Then I will walk with softer footsteps.",
+      "kind": "solo"
+    },
+    {
+      "start": 232.369325,
+      "end": 250.646985,
+      "beat": 318.6792452830188,
+      "length": 24.962264150943394,
+      "role": "MEMORY",
+      "text": "A guest can learn a different door.",
+      "kind": "solo"
+    },
+    {
+      "start": 250.903508,
+      "end": 268.700873,
+      "beat": 343.6415094339622,
+      "length": 24.962264150943394,
+      "role": "CAIRN",
+      "text": "The flute can sing without a kingdom.",
+      "kind": "solo"
+    },
+    {
+      "start": 268.956764,
+      "end": 284.673356,
+      "beat": 368.6037735849056,
+      "length": 21.39622641509434,
+      "role": "ALIEN",
+      "text": "The garden asks for nothing more.",
+      "kind": "chorus"
+    }
+  ],
+  "words": [
+    {
+      "word": "where",
+      "role": "CAIRN",
+      "beat": 12.1,
+      "length": 3.0750906086771135,
+      "start": 8.763605,
+      "end": 10.954415,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 8.763605,
+          "end": 8.828605
+        },
+        {
+          "phone": "EH",
+          "start": 8.828605,
+          "end": 10.889415
+        },
+        {
+          "phone": "R",
+          "start": 10.889415,
+          "end": 10.954415
+        }
+      ]
+    },
+    {
+      "word": "is",
+      "role": "CAIRN",
+      "beat": 15.250090608677112,
+      "length": 1.9725588956401239,
+      "start": 11.007848,
+      "end": 12.409824,
+      "note": 54,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 11.007848,
+          "end": 12.344919
+        },
+        {
+          "phone": "Z",
+          "start": 12.344919,
+          "end": 12.409824
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 17.297649504317235,
+      "length": 1.9725588956401239,
+      "start": 12.463051,
+      "end": 13.862972,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 12.463051,
+          "end": 12.528051
+        },
+        {
+          "phone": "AH",
+          "start": 12.528051,
+          "end": 13.862972
+        }
+      ]
+    },
+    {
+      "word": "weight",
+      "role": "CAIRN",
+      "beat": 19.345208399957357,
+      "length": 3.0750906086771135,
+      "start": 13.9162,
+      "end": 16.097726,
+      "note": 61,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 13.9162,
+          "end": 13.981225
+        },
+        {
+          "phone": "EY",
+          "start": 13.981225,
+          "end": 16.051731
+        },
+        {
+          "phone": "T",
+          "start": 16.051731,
+          "end": 16.097726
+        }
+      ]
+    },
+    {
+      "word": "that",
+      "role": "CAIRN",
+      "beat": 22.495299008634472,
+      "length": 3.0750906086771135,
+      "start": 16.150927,
+      "end": 18.335289,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 16.150927,
+          "end": 16.215836
+        },
+        {
+          "phone": "AE",
+          "start": 16.215836,
+          "end": 18.289227
+        },
+        {
+          "phone": "T",
+          "start": 18.289227,
+          "end": 18.335289
+        }
+      ]
+    },
+    {
+      "word": "held",
+      "role": "CAIRN",
+      "beat": 25.645389617311587,
+      "length": 3.0750906086771135,
+      "start": 18.388636,
+      "end": 20.578762,
+      "note": 57,
+      "phonemes": [
+        {
+          "phone": "H",
+          "start": 18.388636,
+          "end": 18.453552
+        },
+        {
+          "phone": "EH",
+          "start": 18.453552,
+          "end": 20.467295
+        },
+        {
+          "phone": "L",
+          "start": 20.467295,
+          "end": 20.532569
+        },
+        {
+          "phone": "D",
+          "start": 20.532569,
+          "end": 20.578762
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 28.7954802259887,
+      "length": 1.9725588956401239,
+      "start": 20.632404,
+      "end": 22.043212,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 20.632404,
+          "end": 20.697404
+        },
+        {
+          "phone": "AH",
+          "start": 20.697404,
+          "end": 22.043212
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "role": "CAIRN",
+      "beat": 30.843039121628824,
+      "length": 9.06026276516363,
+      "start": 22.096853,
+      "end": 28.642028,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 22.096853,
+          "end": 22.161206
+        },
+        {
+          "phone": "AO",
+          "start": 22.161206,
+          "end": 26.104539
+        },
+        {
+          "phone": "T",
+          "start": 26.104539,
+          "end": 26.150797
+        },
+        {
+          "phone": "ER",
+          "start": 26.150797,
+          "end": 28.642028
+        }
+      ]
+    },
+    {
+      "word": "here",
+      "role": "CARRIER",
+      "beat": 40.62830188679245,
+      "length": 2.4862625203820174,
+      "start": 29.172277,
+      "end": 30.992557,
+      "note": 75,
+      "phonemes": [
+        {
+          "phone": "H",
+          "start": 29.172277,
+          "end": 29.237277
+        },
+        {
+          "phone": "IY",
+          "start": 29.237277,
+          "end": 30.927557
+        },
+        {
+          "phone": "R",
+          "start": 30.927557,
+          "end": 30.992557
+        }
+      ]
+    },
+    {
+      "word": "even",
+      "role": "CARRIER",
+      "beat": 43.189564407174466,
+      "length": 5.047525040764035,
+      "start": 31.047467,
+      "end": 34.762874,
+      "note": 79,
+      "phonemes": [
+        {
+          "phone": "IY",
+          "start": 31.047467,
+          "end": 33.250515
+        },
+        {
+          "phone": "V",
+          "start": 33.250515,
+          "end": 33.315568
+        },
+        {
+          "phone": "IH",
+          "start": 33.315568,
+          "end": 34.697582
+        },
+        {
+          "phone": "N",
+          "start": 34.697582,
+          "end": 34.762874
+        }
+      ]
+    },
+    {
+      "word": "rivers",
+      "role": "CARRIER",
+      "beat": 48.312089447938504,
+      "length": 5.047525040764035,
+      "start": 34.818329,
+      "end": 38.551017,
+      "note": 82,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 34.818329,
+          "end": 34.883319
+        },
+        {
+          "phone": "IH",
+          "start": 34.883319,
+          "end": 37.058575
+        },
+        {
+          "phone": "V",
+          "start": 37.058575,
+          "end": 37.123565
+        },
+        {
+          "phone": "ER",
+          "start": 37.123565,
+          "end": 38.48599
+        },
+        {
+          "phone": "Z",
+          "start": 38.48599,
+          "end": 38.551017
+        }
+      ]
+    },
+    {
+      "word": "learn",
+      "role": "CARRIER",
+      "beat": 53.434614488702536,
+      "length": 2.4862625203820174,
+      "start": 38.606503,
+      "end": 40.445867,
+      "note": 77,
+      "phonemes": [
+        {
+          "phone": "L",
+          "start": 38.606503,
+          "end": 38.671503
+        },
+        {
+          "phone": "ER",
+          "start": 38.671503,
+          "end": 40.380867
+        },
+        {
+          "phone": "N",
+          "start": 40.380867,
+          "end": 40.445867
+        }
+      ]
+    },
+    {
+      "word": "to",
+      "role": "CARRIER",
+      "beat": 55.99587700908455,
+      "length": 1.5898206382483115,
+      "start": 40.501353,
+      "end": 41.6744,
+      "note": 85,
+      "phonemes": [
+        {
+          "phone": "T",
+          "start": 40.501353,
+          "end": 40.54736
+        },
+        {
+          "phone": "UW",
+          "start": 40.54736,
+          "end": 41.6744
+        }
+      ]
+    },
+    {
+      "word": "fly",
+      "role": "CARRIER",
+      "beat": 57.66069764733286,
+      "length": 3.6388306545539253,
+      "start": 41.729739,
+      "end": 44.409361,
+      "note": 75,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 41.729739,
+          "end": 41.794866
+        },
+        {
+          "phone": "L",
+          "start": 41.794866,
+          "end": 41.859994
+        },
+        {
+          "phone": "AY",
+          "start": 41.859994,
+          "end": 44.409361
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "CAIRN",
+      "beat": 62.02452830188679,
+      "length": 1.7106465195608147,
+      "start": 44.941359,
+      "end": 46.196615,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 44.941359,
+          "end": 46.196615
+        }
+      ]
+    },
+    {
+      "word": "flute",
+      "role": "CAIRN",
+      "beat": 63.8101748214476,
+      "length": 2.672148491632022,
+      "start": 46.251649,
+      "end": 48.19873,
+      "note": 57,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 46.251649,
+          "end": 46.317107
+        },
+        {
+          "phone": "L",
+          "start": 46.317107,
+          "end": 46.382565
+        },
+        {
+          "phone": "UW",
+          "start": 46.382565,
+          "end": 48.152755
+        },
+        {
+          "phone": "T",
+          "start": 48.152755,
+          "end": 48.19873
+        }
+      ]
+    },
+    {
+      "word": "is",
+      "role": "CAIRN",
+      "beat": 66.55732331307962,
+      "length": 1.7106465195608147,
+      "start": 48.25335,
+      "end": 49.497499,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 48.25335,
+          "end": 49.432964
+        },
+        {
+          "phone": "Z",
+          "start": 49.432964,
+          "end": 49.497499
+        }
+      ]
+    },
+    {
+      "word": "drawing",
+      "role": "CAIRN",
+      "beat": 68.34296983264043,
+      "length": 5.4192969832640445,
+      "start": 49.551656,
+      "end": 53.454403,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 49.551656,
+          "end": 49.597779
+        },
+        {
+          "phone": "R",
+          "start": 49.597779,
+          "end": 49.662953
+        },
+        {
+          "phone": "AO",
+          "start": 49.662953,
+          "end": 51.960949
+        },
+        {
+          "phone": "IH",
+          "start": 51.960949,
+          "end": 53.389765
+        },
+        {
+          "phone": "NG",
+          "start": 53.389765,
+          "end": 53.454403
+        }
+      ]
+    },
+    {
+      "word": "through",
+      "role": "CAIRN",
+      "beat": 73.83726681590448,
+      "length": 2.672148491632022,
+      "start": 53.508114,
+      "end": 55.419292,
+      "note": 54,
+      "phonemes": [
+        {
+          "phone": "TH",
+          "start": 53.508114,
+          "end": 53.573199
+        },
+        {
+          "phone": "R",
+          "start": 53.573199,
+          "end": 53.638283
+        },
+        {
+          "phone": "UW",
+          "start": 53.638283,
+          "end": 55.419292
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 76.5844153075365,
+      "length": 1.7106465195608147,
+      "start": 55.472638,
+      "end": 56.689383,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 55.472638,
+          "end": 55.537638
+        },
+        {
+          "phone": "AH",
+          "start": 55.537638,
+          "end": 56.689383
+        }
+      ]
+    },
+    {
+      "word": "silence",
+      "role": "CAIRN",
+      "beat": 78.37006182709732,
+      "length": 7.8917306257328645,
+      "start": 56.742729,
+      "end": 62.334207,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "S",
+          "start": 56.742729,
+          "end": 56.807982
+        },
+        {
+          "phone": "AY",
+          "start": 56.807982,
+          "end": 60.089768
+        },
+        {
+          "phone": "L",
+          "start": 60.089768,
+          "end": 60.154733
+        },
+        {
+          "phone": "AH",
+          "start": 60.154733,
+          "end": 62.204449
+        },
+        {
+          "phone": "N",
+          "start": 62.204449,
+          "end": 62.269328
+        },
+        {
+          "phone": "S",
+          "start": 62.269328,
+          "end": 62.334207
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CARRIER",
+      "beat": 86.98679245283017,
+      "length": 2.060536715961244,
+      "start": 62.846932,
+      "end": 64.305682,
+      "note": 85,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 62.846932,
+          "end": 62.911864
+        },
+        {
+          "phone": "AH",
+          "start": 62.911864,
+          "end": 64.305682
+        }
+      ]
+    },
+    {
+      "word": "earth",
+      "role": "CARRIER",
+      "beat": 89.12232916879142,
+      "length": 3.2104411014788368,
+      "start": 64.358832,
+      "end": 66.635207,
+      "note": 80,
+      "phonemes": [
+        {
+          "phone": "ER",
+          "start": 64.358832,
+          "end": 66.569897
+        },
+        {
+          "phone": "TH",
+          "start": 66.569897,
+          "end": 66.635207
+        }
+      ]
+    },
+    {
+      "word": "is",
+      "role": "CARRIER",
+      "beat": 92.40777027027026,
+      "length": 2.060536715961244,
+      "start": 66.688641,
+      "end": 68.156655,
+      "note": 86,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 66.688641,
+          "end": 68.091655
+        },
+        {
+          "phone": "Z",
+          "start": 68.091655,
+          "end": 68.156655
+        }
+      ]
+    },
+    {
+      "word": "folded",
+      "role": "CARRIER",
+      "beat": 94.5433069862315,
+      "length": 6.495882202957674,
+      "start": 68.210088,
+      "end": 72.874576,
+      "note": 75,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 68.210088,
+          "end": 68.274579
+        },
+        {
+          "phone": "OW",
+          "start": 68.274579,
+          "end": 70.999261
+        },
+        {
+          "phone": "L",
+          "start": 70.999261,
+          "end": 71.064274
+        },
+        {
+          "phone": "D",
+          "start": 71.064274,
+          "end": 71.110283
+        },
+        {
+          "phone": "AH",
+          "start": 71.110283,
+          "end": 72.828107
+        },
+        {
+          "phone": "D",
+          "start": 72.828107,
+          "end": 72.874576
+        }
+      ]
+    },
+    {
+      "word": "in",
+      "role": "CARRIER",
+      "beat": 101.11418918918918,
+      "length": 2.060536715961244,
+      "start": 72.92898,
+      "end": 74.423677,
+      "note": 79,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 72.92898,
+          "end": 74.358677
+        },
+        {
+          "phone": "N",
+          "start": 74.358677,
+          "end": 74.423677
+        }
+      ]
+    },
+    {
+      "word": "its",
+      "role": "CARRIER",
+      "beat": 103.24972590515043,
+      "length": 3.2104411014788368,
+      "start": 74.478082,
+      "end": 76.826089,
+      "note": 82,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 74.478082,
+          "end": 76.714813
+        },
+        {
+          "phone": "T",
+          "start": 76.714813,
+          "end": 76.760927
+        },
+        {
+          "phone": "S",
+          "start": 76.760927,
+          "end": 76.826089
+        }
+      ]
+    },
+    {
+      "word": "cry",
+      "role": "CARRIER",
+      "beat": 106.53516700662927,
+      "length": 4.688889597144313,
+      "start": 76.881078,
+      "end": 80.343092,
+      "note": 82,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 76.881078,
+          "end": 76.926757
+        },
+        {
+          "phone": "R",
+          "start": 76.926757,
+          "end": 76.991303
+        },
+        {
+          "phone": "AY",
+          "start": 76.991303,
+          "end": 80.343092
+        }
+      ]
+    },
+    {
+      "word": "small",
+      "role": "MEMORY",
+      "beat": 111.94905660377357,
+      "length": 2.5676374077112385,
+      "start": 80.88009,
+      "end": 82.797716,
+      "note": 71,
+      "phonemes": [
+        {
+          "phone": "S",
+          "start": 80.88009,
+          "end": 80.944781
+        },
+        {
+          "phone": "M",
+          "start": 80.944781,
+          "end": 81.009792
+        },
+        {
+          "phone": "AO",
+          "start": 81.009792,
+          "end": 82.732706
+        },
+        {
+          "phone": "L",
+          "start": 82.732706,
+          "end": 82.797716
+        }
+      ]
+    },
+    {
+      "word": "rooms",
+      "role": "MEMORY",
+      "beat": 114.5916940114848,
+      "length": 2.5676374077112385,
+      "start": 82.853739,
+      "end": 84.776648,
+      "note": 68,
+      "phonemes": [
+        {
+          "phone": "R",
+          "start": 82.853739,
+          "end": 82.918571
+        },
+        {
+          "phone": "UW",
+          "start": 82.918571,
+          "end": 84.64624
+        },
+        {
+          "phone": "M",
+          "start": 84.64624,
+          "end": 84.711444
+        },
+        {
+          "phone": "Z",
+          "start": 84.711444,
+          "end": 84.776648
+        }
+      ]
+    },
+    {
+      "word": "are",
+      "role": "MEMORY",
+      "beat": 117.23433141919604,
+      "length": 2.5676374077112385,
+      "start": 84.832992,
+      "end": 86.761929,
+      "note": 66,
+      "phonemes": [
+        {
+          "phone": "AA",
+          "start": 84.832992,
+          "end": 86.696929
+        },
+        {
+          "phone": "R",
+          "start": 86.696929,
+          "end": 86.761929
+        }
+      ]
+    },
+    {
+      "word": "turning",
+      "role": "MEMORY",
+      "beat": 119.87696882690727,
+      "length": 5.210274815422477,
+      "start": 86.818273,
+      "end": 90.740568,
+      "note": 64,
+      "phonemes": [
+        {
+          "phone": "T",
+          "start": 86.818273,
+          "end": 86.864178
+        },
+        {
+          "phone": "ER",
+          "start": 86.864178,
+          "end": 89.16862
+        },
+        {
+          "phone": "N",
+          "start": 89.16862,
+          "end": 89.233639
+        },
+        {
+          "phone": "IH",
+          "start": 89.233639,
+          "end": 90.675624
+        },
+        {
+          "phone": "NG",
+          "start": 90.675624,
+          "end": 90.740568
+        }
+      ]
+    },
+    {
+      "word": "in",
+      "role": "MEMORY",
+      "beat": 125.16224364232976,
+      "length": 1.6427143150123051,
+      "start": 90.79698,
+      "end": 92.03256,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "IH",
+          "start": 90.79698,
+          "end": 91.96756
+        },
+        {
+          "phone": "N",
+          "start": 91.96756,
+          "end": 92.03256
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "MEMORY",
+      "beat": 126.87995795734206,
+      "length": 1.6427143150123051,
+      "start": 92.088972,
+      "end": 93.322866,
+      "note": 64,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 92.088972,
+          "end": 92.154061
+        },
+        {
+          "phone": "AH",
+          "start": 92.154061,
+          "end": 93.322866
+        }
+      ]
+    },
+    {
+      "word": "distance",
+      "role": "MEMORY",
+      "beat": 128.59767227235437,
+      "length": 7.588648482362592,
+      "start": 93.379036,
+      "end": 99.040547,
+      "note": 64,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 93.379036,
+          "end": 93.425214
+        },
+        {
+          "phone": "IH",
+          "start": 93.425214,
+          "end": 96.737754
+        },
+        {
+          "phone": "S",
+          "start": 96.737754,
+          "end": 96.802572
+        },
+        {
+          "phone": "T",
+          "start": 96.802572,
+          "end": 96.848444
+        },
+        {
+          "phone": "AH",
+          "start": 96.848444,
+          "end": 98.91193
+        },
+        {
+          "phone": "N",
+          "start": 98.91193,
+          "end": 98.976239
+        },
+        {
+          "phone": "S",
+          "start": 98.976239,
+          "end": 99.040547
+        }
+      ]
+    },
+    {
+      "word": "their",
+      "role": "CAIRN",
+      "beat": 136.91132075471697,
+      "length": 2.2048051005598177,
+      "start": 99.575682,
+      "end": 101.203084,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 99.575682,
+          "end": 99.640682
+        },
+        {
+          "phone": "EH",
+          "start": 99.640682,
+          "end": 101.138084
+        },
+        {
+          "phone": "R",
+          "start": 101.138084,
+          "end": 101.203084
+        }
+      ]
+    },
+    {
+      "word": "windows",
+      "role": "CAIRN",
+      "beat": 139.1911258552768,
+      "length": 4.484610201119636,
+      "start": 101.258443,
+      "end": 104.547245,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 101.258443,
+          "end": 101.323865
+        },
+        {
+          "phone": "IH",
+          "start": 101.323865,
+          "end": 103.199689
+        },
+        {
+          "phone": "N",
+          "start": 103.199689,
+          "end": 103.264596
+        },
+        {
+          "phone": "D",
+          "start": 103.264596,
+          "end": 103.31053
+        },
+        {
+          "phone": "OW",
+          "start": 103.31053,
+          "end": 104.482338
+        },
+        {
+          "phone": "Z",
+          "start": 104.482338,
+          "end": 104.547245
+        }
+      ]
+    },
+    {
+      "word": "face",
+      "role": "CAIRN",
+      "beat": 143.75073605639642,
+      "length": 2.2048051005598177,
+      "start": 104.602168,
+      "end": 106.207176,
+      "note": 54,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 104.602168,
+          "end": 104.667556
+        },
+        {
+          "phone": "EY",
+          "start": 104.667556,
+          "end": 106.142225
+        },
+        {
+          "phone": "S",
+          "start": 106.142225,
+          "end": 106.207176
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "CAIRN",
+      "beat": 146.03054115695625,
+      "length": 1.4068733153638817,
+      "start": 106.261731,
+      "end": 107.285098,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 106.261731,
+          "end": 107.285098
+        }
+      ]
+    },
+    {
+      "word": "different",
+      "role": "CAIRN",
+      "beat": 147.51241447232013,
+      "length": 6.7644153016794535,
+      "start": 107.339653,
+      "end": 112.236825,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 107.339653,
+          "end": 107.385872
+        },
+        {
+          "phone": "IH",
+          "start": 107.385872,
+          "end": 109.46358
+        },
+        {
+          "phone": "F",
+          "start": 109.46358,
+          "end": 109.528595
+        },
+        {
+          "phone": "ER",
+          "start": 109.528595,
+          "end": 110.82816
+        },
+        {
+          "phone": "AH",
+          "start": 110.82816,
+          "end": 112.125982
+        },
+        {
+          "phone": "N",
+          "start": 112.125982,
+          "end": 112.19089
+        },
+        {
+          "phone": "T",
+          "start": 112.19089,
+          "end": 112.236825
+        }
+      ]
+    },
+    {
+      "word": "sun",
+      "role": "CAIRN",
+      "beat": 154.35182977399958,
+      "length": 3.2307173958117357,
+      "start": 112.291045,
+      "end": 114.628402,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "S",
+          "start": 112.291045,
+          "end": 112.355996
+        },
+        {
+          "phone": "AH",
+          "start": 112.355996,
+          "end": 114.563351
+        },
+        {
+          "phone": "N",
+          "start": 114.563351,
+          "end": 114.628402
+        }
+      ]
+    },
+    {
+      "word": "each",
+      "role": "CARRIER",
+      "beat": 158.3075471698113,
+      "length": 2.5676374077112385,
+      "start": 115.153334,
+      "end": 117.015328,
+      "note": 85,
+      "phonemes": [
+        {
+          "phone": "IY",
+          "start": 115.153334,
+          "end": 116.969189
+        },
+        {
+          "phone": "CH",
+          "start": 116.969189,
+          "end": 117.015328
+        }
+      ]
+    },
+    {
+      "word": "keeps",
+      "role": "CARRIER",
+      "beat": 160.95018457752255,
+      "length": 2.5676374077112385,
+      "start": 117.06988,
+      "end": 118.9375,
+      "note": 81,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 117.06988,
+          "end": 117.11588
+        },
+        {
+          "phone": "IY",
+          "start": 117.11588,
+          "end": 118.8265
+        },
+        {
+          "phone": "P",
+          "start": 118.8265,
+          "end": 118.8725
+        },
+        {
+          "phone": "S",
+          "start": 118.8725,
+          "end": 118.9375
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "CARRIER",
+      "beat": 163.5928219852338,
+      "length": 1.6427143150123051,
+      "start": 118.992052,
+      "end": 120.19331,
+      "note": 76,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 118.992052,
+          "end": 120.19331
+        }
+      ]
+    },
+    {
+      "word": "language",
+      "role": "CARRIER",
+      "beat": 165.3105363002461,
+      "length": 5.210274815422477,
+      "start": 120.248251,
+      "end": 124.081183,
+      "note": 82,
+      "phonemes": [
+        {
+          "phone": "L",
+          "start": 120.248251,
+          "end": 120.312977
+        },
+        {
+          "phone": "AE",
+          "start": 120.312977,
+          "end": 122.486764
+        },
+        {
+          "phone": "NG",
+          "start": 122.486764,
+          "end": 122.552056
+        },
+        {
+          "phone": "G",
+          "start": 122.552056,
+          "end": 122.598263
+        },
+        {
+          "phone": "W",
+          "start": 122.598263,
+          "end": 122.663556
+        },
+        {
+          "phone": "AH",
+          "start": 122.663556,
+          "end": 124.034976
+        },
+        {
+          "phone": "J",
+          "start": 124.034976,
+          "end": 124.081183
+        }
+      ]
+    },
+    {
+      "word": "for",
+      "role": "CARRIER",
+      "beat": 170.59581111566857,
+      "length": 2.5676374077112385,
+      "start": 124.136605,
+      "end": 126.041915,
+      "note": 83,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 124.136605,
+          "end": 124.201334
+        },
+        {
+          "phone": "AO",
+          "start": 124.201334,
+          "end": 125.976588
+        },
+        {
+          "phone": "R",
+          "start": 125.976588,
+          "end": 126.041915
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CARRIER",
+      "beat": 173.23844852337982,
+      "length": 1.6427143150123051,
+      "start": 126.097848,
+      "end": 127.322947,
+      "note": 75,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 126.097848,
+          "end": 126.162848
+        },
+        {
+          "phone": "AH",
+          "start": 126.162848,
+          "end": 127.322947
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "role": "CARRIER",
+      "beat": 174.95616283839212,
+      "length": 7.588648482362592,
+      "start": 127.37888,
+      "end": 133.091713,
+      "note": 80,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 127.37888,
+          "end": 127.443273
+        },
+        {
+          "phone": "EH",
+          "start": 127.443273,
+          "end": 130.867122
+        },
+        {
+          "phone": "DH",
+          "start": 130.867122,
+          "end": 130.932057
+        },
+        {
+          "phone": "ER",
+          "start": 130.932057,
+          "end": 133.091713
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 183.26981132075468,
+      "length": 1.5898206382483115,
+      "start": 133.640451,
+      "end": 134.845977,
+      "note": 61,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 133.640451,
+          "end": 133.705331
+        },
+        {
+          "phone": "AH",
+          "start": 133.705331,
+          "end": 134.845977
+        }
+      ]
+    },
+    {
+      "word": "world",
+      "role": "CAIRN",
+      "beat": 184.93463195900299,
+      "length": 2.4862625203820174,
+      "start": 134.902937,
+      "end": 136.791166,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 134.902937,
+          "end": 134.967937
+        },
+        {
+          "phone": "ER",
+          "start": 134.967937,
+          "end": 136.680166
+        },
+        {
+          "phone": "L",
+          "start": 136.680166,
+          "end": 136.745166
+        },
+        {
+          "phone": "D",
+          "start": 136.745166,
+          "end": 136.791166
+        }
+      ]
+    },
+    {
+      "word": "was",
+      "role": "CAIRN",
+      "beat": 187.49589447938502,
+      "length": 2.4862625203820174,
+      "start": 136.848125,
+      "end": 138.736139,
+      "note": 65,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 136.848125,
+          "end": 136.913133
+        },
+        {
+          "phone": "AA",
+          "start": 136.913133,
+          "end": 138.671141
+        },
+        {
+          "phone": "Z",
+          "start": 138.671141,
+          "end": 138.736139
+        }
+      ]
+    },
+    {
+      "word": "never",
+      "role": "CAIRN",
+      "beat": 190.05715699976705,
+      "length": 5.047525040764035,
+      "start": 138.793091,
+      "end": 142.61707,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "N",
+          "start": 138.793091,
+          "end": 138.858242
+        },
+        {
+          "phone": "EH",
+          "start": 138.858242,
+          "end": 141.131953
+        },
+        {
+          "phone": "V",
+          "start": 141.131953,
+          "end": 141.196858
+        },
+        {
+          "phone": "ER",
+          "start": 141.196858,
+          "end": 142.61707
+        }
+      ]
+    },
+    {
+      "word": "only",
+      "role": "CAIRN",
+      "beat": 195.17968204053108,
+      "length": 5.047525040764035,
+      "start": 142.673807,
+      "end": 146.468367,
+      "note": 61,
+      "phonemes": [
+        {
+          "phone": "OW",
+          "start": 142.673807,
+          "end": 144.93011
+        },
+        {
+          "phone": "N",
+          "start": 144.93011,
+          "end": 144.995063
+        },
+        {
+          "phone": "L",
+          "start": 144.995063,
+          "end": 145.060016
+        },
+        {
+          "phone": "IY",
+          "start": 145.060016,
+          "end": 146.468367
+        }
+      ]
+    },
+    {
+      "word": "one",
+      "role": "CAIRN",
+      "beat": 200.3022070812951,
+      "length": 3.6388306545539253,
+      "start": 146.524185,
+      "end": 149.232367,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 146.524185,
+          "end": 146.589185
+        },
+        {
+          "phone": "AH",
+          "start": 146.589185,
+          "end": 149.167367
+        },
+        {
+          "phone": "N",
+          "start": 149.167367,
+          "end": 149.232367
+        }
+      ]
+    },
+    {
+      "word": "aether",
+      "role": "ALIEN",
+      "beat": 204.70418657837575,
+      "length": 3.7607165571337715,
+      "start": 149.794852,
+      "end": 152.5609,
+      "note": 86.9739,
+      "phonemes": [
+        {
+          "phone": "IY",
+          "start": 149.794852,
+          "end": 151.458058
+        },
+        {
+          "phone": "TH",
+          "start": 151.458058,
+          "end": 151.523141
+        },
+        {
+          "phone": "ER",
+          "start": 151.523141,
+          "end": 152.5609
+        }
+      ]
+    },
+    {
+      "word": "open",
+      "role": "ALIEN",
+      "beat": 208.558129249156,
+      "length": 3.7607165571337715,
+      "start": 152.628844,
+      "end": 155.367595,
+      "note": 91.0169,
+      "phonemes": [
+        {
+          "phone": "OW",
+          "start": 152.628844,
+          "end": 154.246086
+        },
+        {
+          "phone": "P",
+          "start": 154.246086,
+          "end": 154.292121
+        },
+        {
+          "phone": "AH",
+          "start": 154.292121,
+          "end": 155.303135
+        },
+        {
+          "phone": "N",
+          "start": 155.303135,
+          "end": 155.367595
+        }
+      ]
+    },
+    {
+      "word": "silver",
+      "role": "ALIEN",
+      "beat": 212.4236307300385,
+      "length": 3.7607165571337715,
+      "start": 155.44327,
+      "end": 158.158336,
+      "note": 93.9813,
+      "phonemes": [
+        {
+          "phone": "S",
+          "start": 155.44327,
+          "end": 155.508291
+        },
+        {
+          "phone": "IH",
+          "start": 155.508291,
+          "end": 157.05858
+        },
+        {
+          "phone": "L",
+          "start": 157.05858,
+          "end": 157.123602
+        },
+        {
+          "phone": "V",
+          "start": 157.123602,
+          "end": 157.188623
+        },
+        {
+          "phone": "ER",
+          "start": 157.188623,
+          "end": 158.158336
+        }
+      ]
+    },
+    {
+      "word": "answer",
+      "role": "ALIEN",
+      "beat": 216.2881466005016,
+      "length": 5.498039007843969,
+      "start": 158.23279,
+      "end": 162.171637,
+      "note": 79.9484,
+      "phonemes": [
+        {
+          "phone": "AE",
+          "start": 158.23279,
+          "end": 160.578025
+        },
+        {
+          "phone": "N",
+          "start": 160.578025,
+          "end": 160.643105
+        },
+        {
+          "phone": "S",
+          "start": 160.643105,
+          "end": 160.708185
+        },
+        {
+          "phone": "ER",
+          "start": 160.708185,
+          "end": 162.171637
+        }
+      ]
+    },
+    {
+      "word": "o",
+      "role": "ALIEN",
+      "beat": 222.53386938239558,
+      "length": 2.973515024458421,
+      "start": 162.705908,
+      "end": 164.830134,
+      "note": 96.9747,
+      "phonemes": [
+        {
+          "phone": "OW",
+          "start": 162.705908,
+          "end": 164.830134
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "ALIEN",
+      "beat": 225.61216695002108,
+      "length": 1.8977847658979736,
+      "start": 164.904969,
+      "end": 166.260367,
+      "note": 91.9945,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 164.904969,
+          "end": 164.969969
+        },
+        {
+          "phone": "AH",
+          "start": 164.969969,
+          "end": 166.260367
+        }
+      ]
+    },
+    {
+      "word": "air",
+      "role": "ALIEN",
+      "beat": 227.6095084656376,
+      "length": 2.973515024458421,
+      "start": 166.33147,
+      "end": 168.460051,
+      "note": 87.9887,
+      "phonemes": [
+        {
+          "phone": "EH",
+          "start": 166.33147,
+          "end": 168.395028
+        },
+        {
+          "phone": "R",
+          "start": 168.395028,
+          "end": 168.460051
+        }
+      ]
+    },
+    {
+      "word": "between",
+      "role": "ALIEN",
+      "beat": 230.67718040627832,
+      "length": 6.0470300489168425,
+      "start": 168.527476,
+      "end": 172.879373,
+      "note": 82.9658,
+      "phonemes": [
+        {
+          "phone": "B",
+          "start": 168.527476,
+          "end": 168.573247
+        },
+        {
+          "phone": "IH",
+          "start": 168.573247,
+          "end": 170.159071
+        },
+        {
+          "phone": "T",
+          "start": 170.159071,
+          "end": 170.205085
+        },
+        {
+          "phone": "W",
+          "start": 170.205085,
+          "end": 170.270105
+        },
+        {
+          "phone": "IY",
+          "start": 170.270105,
+          "end": 172.813892
+        },
+        {
+          "phone": "N",
+          "start": 172.813892,
+          "end": 172.879373
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "ALIEN",
+      "beat": 236.82871344530824,
+      "length": 1.8977847658979736,
+      "start": 172.955137,
+      "end": 174.331028,
+      "note": 89.0,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 172.955137,
+          "end": 173.020137
+        },
+        {
+          "phone": "AH",
+          "start": 173.020137,
+          "end": 174.331028
+        }
+      ]
+    },
+    {
+      "word": "names",
+      "role": "ALIEN",
+      "beat": 238.82959501084548,
+      "length": 4.356596785464711,
+      "start": 174.405773,
+      "end": 177.582208,
+      "note": 90.0283,
+      "phonemes": [
+        {
+          "phone": "N",
+          "start": 174.405773,
+          "end": 174.470407
+        },
+        {
+          "phone": "EY",
+          "start": 174.470407,
+          "end": 177.451939
+        },
+        {
+          "phone": "M",
+          "start": 177.451939,
+          "end": 177.517074
+        },
+        {
+          "phone": "Z",
+          "start": 177.517074,
+          "end": 177.582208
+        }
+      ]
+    },
+    {
+      "word": "must",
+      "role": "CAIRN",
+      "beat": 243.89245283018863,
+      "length": 2.4707868220883134,
+      "start": 178.098216,
+      "end": 179.915833,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "M",
+          "start": 178.098216,
+          "end": 178.162773
+        },
+        {
+          "phone": "AH",
+          "start": 178.162773,
+          "end": 179.804798
+        },
+        {
+          "phone": "S",
+          "start": 179.804798,
+          "end": 179.869818
+        },
+        {
+          "phone": "T",
+          "start": 179.869818,
+          "end": 179.915833
+        }
+      ]
+    },
+    {
+      "word": "i",
+      "role": "CAIRN",
+      "beat": 246.43823965227693,
+      "length": 2.4707868220883134,
+      "start": 179.971023,
+      "end": 181.792856,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "AY",
+          "start": 179.971023,
+          "end": 181.792856
+        }
+      ]
+    },
+    {
+      "word": "become",
+      "role": "CAIRN",
+      "beat": 248.98402647436524,
+      "length": 5.016573644176627,
+      "start": 181.848347,
+      "end": 185.564206,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "B",
+          "start": 181.848347,
+          "end": 181.894296
+        },
+        {
+          "phone": "IH",
+          "start": 181.894296,
+          "end": 183.26302
+        },
+        {
+          "phone": "K",
+          "start": 183.26302,
+          "end": 183.308969
+        },
+        {
+          "phone": "AH",
+          "start": 183.308969,
+          "end": 185.499096
+        },
+        {
+          "phone": "M",
+          "start": 185.499096,
+          "end": 185.564206
+        }
+      ]
+    },
+    {
+      "word": "you",
+      "role": "CAIRN",
+      "beat": 254.07560011854187,
+      "length": 2.4707868220883134,
+      "start": 185.619853,
+      "end": 187.452934,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "Y",
+          "start": 185.619853,
+          "end": 185.684859
+        },
+        {
+          "phone": "UW",
+          "start": 185.684859,
+          "end": 187.452934
+        }
+      ]
+    },
+    {
+      "word": "to",
+      "role": "CAIRN",
+      "beat": 256.6213869406302,
+      "length": 1.5797614343574038,
+      "start": 187.508561,
+      "end": 188.68024,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "T",
+          "start": 187.508561,
+          "end": 187.554561
+        },
+        {
+          "phone": "UW",
+          "start": 187.554561,
+          "end": 188.68024
+        }
+      ]
+    },
+    {
+      "word": "be",
+      "role": "CAIRN",
+      "beat": 258.2761483749876,
+      "length": 2.4707868220883134,
+      "start": 188.735866,
+      "end": 190.566392,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "B",
+          "start": 188.735866,
+          "end": 188.781916
+        },
+        {
+          "phone": "IY",
+          "start": 188.781916,
+          "end": 190.566392
+        }
+      ]
+    },
+    {
+      "word": "welcome",
+      "role": "CAIRN",
+      "beat": 260.8219351970759,
+      "length": 7.307781784056109,
+      "start": 190.621817,
+      "end": 196.001721,
+      "note": 60,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 190.621817,
+          "end": 190.687064
+        },
+        {
+          "phone": "EH",
+          "start": 190.687064,
+          "end": 193.853651
+        },
+        {
+          "phone": "L",
+          "start": 193.853651,
+          "end": 193.918478
+        },
+        {
+          "phone": "K",
+          "start": 193.918478,
+          "end": 193.964355
+        },
+        {
+          "phone": "AH",
+          "start": 193.964355,
+          "end": 195.93744
+        },
+        {
+          "phone": "M",
+          "start": 195.93744,
+          "end": 196.001721
+        }
+      ]
+    },
+    {
+      "word": "no",
+      "role": "CARRIER",
+      "beat": 268.85471698113207,
+      "length": 2.5966773792245488,
+      "start": 196.529547,
+      "end": 198.420025,
+      "note": 82,
+      "phonemes": [
+        {
+          "phone": "N",
+          "start": 196.529547,
+          "end": 196.594547
+        },
+        {
+          "phone": "OW",
+          "start": 196.594547,
+          "end": 198.420025
+        }
+      ]
+    },
+    {
+      "word": "bring",
+      "role": "CARRIER",
+      "beat": 271.5263943603566,
+      "length": 2.5966773792245488,
+      "start": 198.474627,
+      "end": 200.350725,
+      "note": 83,
+      "phonemes": [
+        {
+          "phone": "B",
+          "start": 198.474627,
+          "end": 198.52098
+        },
+        {
+          "phone": "R",
+          "start": 198.52098,
+          "end": 198.586478
+        },
+        {
+          "phone": "IH",
+          "start": 198.586478,
+          "end": 200.285836
+        },
+        {
+          "phone": "NG",
+          "start": 200.285836,
+          "end": 200.350725
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CARRIER",
+      "beat": 274.19807173958117,
+      "length": 1.661590296495957,
+      "start": 200.40482,
+      "end": 201.603265,
+      "note": 75,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 200.40482,
+          "end": 200.46982
+        },
+        {
+          "phone": "AH",
+          "start": 200.46982,
+          "end": 201.603265
+        }
+      ]
+    },
+    {
+      "word": "difference",
+      "role": "CARRIER",
+      "beat": 275.9346620360771,
+      "length": 7.940032137673646,
+      "start": 201.65736,
+      "end": 207.312705,
+      "note": 78,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 201.65736,
+          "end": 201.703941
+        },
+        {
+          "phone": "IH",
+          "start": 201.703941,
+          "end": 204.116589
+        },
+        {
+          "phone": "F",
+          "start": 204.116589,
+          "end": 204.181821
+        },
+        {
+          "phone": "ER",
+          "start": 204.181821,
+          "end": 205.683939
+        },
+        {
+          "phone": "AH",
+          "start": 205.683939,
+          "end": 207.183213
+        },
+        {
+          "phone": "N",
+          "start": 207.183213,
+          "end": 207.247959
+        },
+        {
+          "phone": "S",
+          "start": 207.247959,
+          "end": 207.312705
+        }
+      ]
+    },
+    {
+      "word": "you",
+      "role": "CARRIER",
+      "beat": 283.94969417375074,
+      "length": 2.5966773792245488,
+      "start": 207.365916,
+      "end": 209.199215,
+      "note": 85,
+      "phonemes": [
+        {
+          "phone": "Y",
+          "start": 207.365916,
+          "end": 207.431087
+        },
+        {
+          "phone": "UW",
+          "start": 207.431087,
+          "end": 209.199215
+        }
+      ]
+    },
+    {
+      "word": "have",
+      "role": "CARRIER",
+      "beat": 286.6213715529753,
+      "length": 2.5966773792245488,
+      "start": 209.252161,
+      "end": 211.083702,
+      "note": 81,
+      "phonemes": [
+        {
+          "phone": "H",
+          "start": 209.252161,
+          "end": 209.317217
+        },
+        {
+          "phone": "AE",
+          "start": 209.317217,
+          "end": 211.018765
+        },
+        {
+          "phone": "V",
+          "start": 211.018765,
+          "end": 211.083702
+        }
+      ]
+    },
+    {
+      "word": "made",
+      "role": "CARRIER",
+      "beat": 289.29304893219984,
+      "length": 3.798932199875596,
+      "start": 211.136551,
+      "end": 213.81469,
+      "note": 78,
+      "phonemes": [
+        {
+          "phone": "M",
+          "start": 211.136551,
+          "end": 211.201521
+        },
+        {
+          "phone": "EY",
+          "start": 211.201521,
+          "end": 213.768638
+        },
+        {
+          "phone": "D",
+          "start": 213.768638,
+          "end": 213.81469
+        }
+      ]
+    },
+    {
+      "word": "then",
+      "role": "CAIRN",
+      "beat": 293.81698113207545,
+      "length": 2.3807842576710496,
+      "start": 214.32637,
+      "end": 216.007325,
+      "note": 58,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 214.32637,
+          "end": 214.391343
+        },
+        {
+          "phone": "EH",
+          "start": 214.391343,
+          "end": 215.942035
+        },
+        {
+          "phone": "N",
+          "start": 215.942035,
+          "end": 216.007325
+        }
+      ]
+    },
+    {
+      "word": "i",
+      "role": "CAIRN",
+      "beat": 296.2727653897465,
+      "length": 2.3807842576710496,
+      "start": 216.060515,
+      "end": 217.748983,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "AY",
+          "start": 216.060515,
+          "end": 217.748983
+        }
+      ]
+    },
+    {
+      "word": "will",
+      "role": "CAIRN",
+      "beat": 298.72854964741754,
+      "length": 2.3807842576710496,
+      "start": 217.802173,
+      "end": 219.496653,
+      "note": 54,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 217.802173,
+          "end": 217.866943
+        },
+        {
+          "phone": "IH",
+          "start": 217.866943,
+          "end": 219.431389
+        },
+        {
+          "phone": "L",
+          "start": 219.431389,
+          "end": 219.496653
+        }
+      ]
+    },
+    {
+      "word": "walk",
+      "role": "CAIRN",
+      "beat": 301.1843339050886,
+      "length": 2.3807842576710496,
+      "start": 219.55025,
+      "end": 221.25162,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 219.55025,
+          "end": 219.61525
+        },
+        {
+          "phone": "AO",
+          "start": 219.61525,
+          "end": 221.20562
+        },
+        {
+          "phone": "K",
+          "start": 221.20562,
+          "end": 221.25162
+        }
+      ]
+    },
+    {
+      "word": "with",
+      "role": "CAIRN",
+      "beat": 303.6401181627596,
+      "length": 2.3807842576710496,
+      "start": 221.305217,
+      "end": 223.020349,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 221.305217,
+          "end": 221.369696
+        },
+        {
+          "phone": "IH",
+          "start": 221.369696,
+          "end": 222.955257
+        },
+        {
+          "phone": "DH",
+          "start": 222.955257,
+          "end": 223.020349
+        }
+      ]
+    },
+    {
+      "word": "softer",
+      "role": "CAIRN",
+      "beat": 306.09590242043066,
+      "length": 4.836568515342099,
+      "start": 223.074457,
+      "end": 226.585471,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "S",
+          "start": 223.074457,
+          "end": 223.139055
+        },
+        {
+          "phone": "AA",
+          "start": 223.139055,
+          "end": 225.184792
+        },
+        {
+          "phone": "F",
+          "start": 225.184792,
+          "end": 225.250054
+        },
+        {
+          "phone": "T",
+          "start": 225.250054,
+          "end": 225.296239
+        },
+        {
+          "phone": "ER",
+          "start": 225.296239,
+          "end": 226.585471
+        }
+      ]
+    },
+    {
+      "word": "footsteps",
+      "role": "CAIRN",
+      "beat": 311.00747093577274,
+      "length": 7.0467743472460445,
+      "start": 226.640135,
+      "end": 231.831451,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 226.640135,
+          "end": 226.704443
+        },
+        {
+          "phone": "UH",
+          "start": 226.704443,
+          "end": 229.124772
+        },
+        {
+          "phone": "T",
+          "start": 229.124772,
+          "end": 229.170727
+        },
+        {
+          "phone": "S",
+          "start": 229.170727,
+          "end": 229.235663
+        },
+        {
+          "phone": "T",
+          "start": 229.235663,
+          "end": 229.281618
+        },
+        {
+          "phone": "EH",
+          "start": 229.281618,
+          "end": 231.719667
+        },
+        {
+          "phone": "P",
+          "start": 231.719667,
+          "end": 231.765992
+        },
+        {
+          "phone": "S",
+          "start": 231.765992,
+          "end": 231.831451
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "MEMORY",
+      "beat": 318.77924528301884,
+      "length": 1.7310539083557952,
+      "start": 232.369325,
+      "end": 233.655618,
+      "note": 62,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 232.369325,
+          "end": 233.655618
+        }
+      ]
+    },
+    {
+      "word": "guest",
+      "role": "MEMORY",
+      "beat": 320.58529919137465,
+      "length": 2.7035444743935306,
+      "start": 233.711559,
+      "end": 235.728071,
+      "note": 64,
+      "phonemes": [
+        {
+          "phone": "G",
+          "start": 233.711559,
+          "end": 233.757559
+        },
+        {
+          "phone": "EH",
+          "start": 233.757559,
+          "end": 235.617071
+        },
+        {
+          "phone": "S",
+          "start": 235.617071,
+          "end": 235.682071
+        },
+        {
+          "phone": "T",
+          "start": 235.682071,
+          "end": 235.728071
+        }
+      ]
+    },
+    {
+      "word": "can",
+      "role": "MEMORY",
+      "beat": 323.3638436657682,
+      "length": 2.7035444743935306,
+      "start": 235.784012,
+      "end": 237.803753,
+      "note": 64,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 235.784012,
+          "end": 235.829938
+        },
+        {
+          "phone": "AE",
+          "start": 235.829938,
+          "end": 237.738721
+        },
+        {
+          "phone": "N",
+          "start": 237.738721,
+          "end": 237.803753
+        }
+      ]
+    },
+    {
+      "word": "learn",
+      "role": "MEMORY",
+      "beat": 326.1423881401617,
+      "length": 2.7035444743935306,
+      "start": 237.859811,
+      "end": 239.879733,
+      "note": 71,
+      "phonemes": [
+        {
+          "phone": "L",
+          "start": 237.859811,
+          "end": 237.924837
+        },
+        {
+          "phone": "ER",
+          "start": 237.924837,
+          "end": 239.814791
+        },
+        {
+          "phone": "N",
+          "start": 239.814791,
+          "end": 239.879733
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "MEMORY",
+      "beat": 328.9209326145552,
+      "length": 1.7310539083557952,
+      "start": 239.935719,
+      "end": 241.227914,
+      "note": 68,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 239.935719,
+          "end": 241.227914
+        }
+      ]
+    },
+    {
+      "word": "different",
+      "role": "MEMORY",
+      "beat": 330.72698652291103,
+      "length": 8.260633423180593,
+      "start": 241.283899,
+      "end": 247.413643,
+      "note": 66,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 241.283899,
+          "end": 241.330174
+        },
+        {
+          "phone": "IH",
+          "start": 241.330174,
+          "end": 243.961565
+        },
+        {
+          "phone": "F",
+          "start": 243.961565,
+          "end": 244.026674
+        },
+        {
+          "phone": "ER",
+          "start": 244.026674,
+          "end": 245.668735
+        },
+        {
+          "phone": "AH",
+          "start": 245.668735,
+          "end": 247.303175
+        },
+        {
+          "phone": "N",
+          "start": 247.303175,
+          "end": 247.367863
+        },
+        {
+          "phone": "T",
+          "start": 247.367863,
+          "end": 247.413643
+        }
+      ]
+    },
+    {
+      "word": "door",
+      "role": "MEMORY",
+      "beat": 339.0626199460916,
+      "length": 3.9538894878706197,
+      "start": 247.469029,
+      "end": 250.372139,
+      "note": 71,
+      "phonemes": [
+        {
+          "phone": "D",
+          "start": 247.469029,
+          "end": 247.515295
+        },
+        {
+          "phone": "AO",
+          "start": 247.515295,
+          "end": 250.307256
+        },
+        {
+          "phone": "R",
+          "start": 250.307256,
+          "end": 250.372139
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "CAIRN",
+      "beat": 343.7415094339622,
+      "length": 1.6427143150123051,
+      "start": 250.903508,
+      "end": 252.099984,
+      "note": 61,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 250.903508,
+          "end": 250.968916
+        },
+        {
+          "phone": "AH",
+          "start": 250.968916,
+          "end": 252.099984
+        }
+      ]
+    },
+    {
+      "word": "flute",
+      "role": "CAIRN",
+      "beat": 345.4592237489745,
+      "length": 2.5676374077112385,
+      "start": 252.154547,
+      "end": 254.022385,
+      "note": 56,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 252.154547,
+          "end": 252.219551
+        },
+        {
+          "phone": "L",
+          "start": 252.219551,
+          "end": 252.284555
+        },
+        {
+          "phone": "UW",
+          "start": 252.284555,
+          "end": 253.976501
+        },
+        {
+          "phone": "T",
+          "start": 253.976501,
+          "end": 254.022385
+        }
+      ]
+    },
+    {
+      "word": "can",
+      "role": "CAIRN",
+      "beat": 348.10186115668574,
+      "length": 2.5676374077112385,
+      "start": 254.076615,
+      "end": 255.933199,
+      "note": 65,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 254.076615,
+          "end": 254.122615
+        },
+        {
+          "phone": "AE",
+          "start": 254.122615,
+          "end": 255.868199
+        },
+        {
+          "phone": "N",
+          "start": 255.868199,
+          "end": 255.933199
+        }
+      ]
+    },
+    {
+      "word": "sing",
+      "role": "CAIRN",
+      "beat": 350.74449856439696,
+      "length": 2.5676374077112385,
+      "start": 255.98743,
+      "end": 257.840402,
+      "note": 63,
+      "phonemes": [
+        {
+          "phone": "S",
+          "start": 255.98743,
+          "end": 256.052556
+        },
+        {
+          "phone": "IH",
+          "start": 256.052556,
+          "end": 257.775523
+        },
+        {
+          "phone": "NG",
+          "start": 257.775523,
+          "end": 257.840402
+        }
+      ]
+    },
+    {
+      "word": "without",
+      "role": "CAIRN",
+      "beat": 353.3871359721082,
+      "length": 5.210274815422477,
+      "start": 257.894426,
+      "end": 261.645871,
+      "note": 61,
+      "phonemes": [
+        {
+          "phone": "W",
+          "start": 257.894426,
+          "end": 257.959454
+        },
+        {
+          "phone": "IH",
+          "start": 257.959454,
+          "end": 259.336687
+        },
+        {
+          "phone": "TH",
+          "start": 259.336687,
+          "end": 259.401715
+        },
+        {
+          "phone": "AW",
+          "start": 259.401715,
+          "end": 261.599891
+        },
+        {
+          "phone": "T",
+          "start": 261.599891,
+          "end": 261.645871
+        }
+      ]
+    },
+    {
+      "word": "a",
+      "role": "CAIRN",
+      "beat": 358.6724107875307,
+      "length": 1.6427143150123051,
+      "start": 261.699849,
+      "end": 262.882643,
+      "note": 59,
+      "phonemes": [
+        {
+          "phone": "AH",
+          "start": 261.699849,
+          "end": 262.882643
+        }
+      ]
+    },
+    {
+      "word": "kingdom",
+      "role": "CAIRN",
+      "beat": 360.390125102543,
+      "length": 7.588648482362592,
+      "start": 262.936748,
+      "end": 268.426828,
+      "note": 65,
+      "phonemes": [
+        {
+          "phone": "K",
+          "start": 262.936748,
+          "end": 262.982617
+        },
+        {
+          "phone": "IH",
+          "start": 262.982617,
+          "end": 266.216781
+        },
+        {
+          "phone": "NG",
+          "start": 266.216781,
+          "end": 266.281949
+        },
+        {
+          "phone": "D",
+          "start": 266.281949,
+          "end": 266.328067
+        },
+        {
+          "phone": "AH",
+          "start": 266.328067,
+          "end": 268.36166
+        },
+        {
+          "phone": "M",
+          "start": 268.36166,
+          "end": 268.426828
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "role": "ALIEN",
+      "beat": 368.7472361684359,
+      "length": 1.5648206382483114,
+      "start": 268.98854,
+      "end": 270.132604,
+      "note": 89.9366,
+      "phonemes": [
+        {
+          "phone": "DH",
+          "start": 268.98854,
+          "end": 269.05354
+        },
+        {
+          "phone": "AH",
+          "start": 269.05354,
+          "end": 270.132604
+        }
+      ]
+    },
+    {
+      "word": "garden",
+      "role": "ALIEN",
+      "beat": 370.40282308294564,
+      "length": 5.022525040764036,
+      "start": 270.198965,
+      "end": 273.895034,
+      "note": 93.943,
+      "phonemes": [
+        {
+          "phone": "G",
+          "start": 270.198965,
+          "end": 270.244666
+        },
+        {
+          "phone": "AA",
+          "start": 270.244666,
+          "end": 272.376837
+        },
+        {
+          "phone": "R",
+          "start": 272.376837,
+          "end": 272.442034
+        },
+        {
+          "phone": "D",
+          "start": 272.442034,
+          "end": 272.488174
+        },
+        {
+          "phone": "AH",
+          "start": 272.488174,
+          "end": 273.829837
+        },
+        {
+          "phone": "N",
+          "start": 273.829837,
+          "end": 273.895034
+        }
+      ]
+    },
+    {
+      "word": "asks",
+      "role": "ALIEN",
+      "beat": 375.5291754302927,
+      "length": 2.4612625203820175,
+      "start": 273.971672,
+      "end": 275.803149,
+      "note": 97.0231,
+      "phonemes": [
+        {
+          "phone": "AE",
+          "start": 273.971672,
+          "end": 275.626813
+        },
+        {
+          "phone": "S",
+          "start": 275.626813,
+          "end": 275.691937
+        },
+        {
+          "phone": "K",
+          "start": 275.691937,
+          "end": 275.738025
+        },
+        {
+          "phone": "S",
+          "start": 275.738025,
+          "end": 275.803149
+        }
+      ]
+    },
+    {
+      "word": "for",
+      "role": "ALIEN",
+      "beat": 378.09534805982895,
+      "length": 2.4612625203820175,
+      "start": 275.881363,
+      "end": 277.720141,
+      "note": 91.9775,
+      "phonemes": [
+        {
+          "phone": "F",
+          "start": 275.881363,
+          "end": 275.946228
+        },
+        {
+          "phone": "AO",
+          "start": 275.946228,
+          "end": 277.65468
+        },
+        {
+          "phone": "R",
+          "start": 277.65468,
+          "end": 277.720141
+        }
+      ]
+    },
+    {
+      "word": "nothing",
+      "role": "ALIEN",
+      "beat": 380.6528444384341,
+      "length": 5.022525040764036,
+      "start": 277.792546,
+      "end": 281.580413,
+      "note": 87.97,
+      "phonemes": [
+        {
+          "phone": "N",
+          "start": 277.792546,
+          "end": 277.857392
+        },
+        {
+          "phone": "AH",
+          "start": 277.857392,
+          "end": 280.061674
+        },
+        {
+          "phone": "TH",
+          "start": 280.061674,
+          "end": 280.12652
+        },
+        {
+          "phone": "IH",
+          "start": 280.12652,
+          "end": 281.515106
+        },
+        {
+          "phone": "NG",
+          "start": 281.515106,
+          "end": 281.580413
+        }
+      ]
+    },
+    {
+      "word": "more",
+      "role": "ALIEN",
+      "beat": 385.7700877961031,
+      "length": 3.6138306545539254,
+      "start": 281.652186,
+      "end": 284.394828,
+      "note": 85.0029,
+      "phonemes": [
+        {
+          "phone": "M",
+          "start": 281.652186,
+          "end": 281.717084
+        },
+        {
+          "phone": "AO",
+          "start": 281.717084,
+          "end": 284.329665
+        },
+        {
+          "phone": "R",
+          "start": 284.329665,
+          "end": 284.394828
+        }
+      ]
+    }
+  ],
+  "all_phonetic_events": [
+    {
+      "start": 8.763605,
+      "end": 8.828605,
+      "voice": 1021,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 8.828605,
+      "end": 10.889415,
+      "voice": 1002,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 10.889415,
+      "end": 10.954415,
+      "voice": 1020,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 11.007848,
+      "end": 12.344919,
+      "voice": 1001,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 12.344919,
+      "end": 12.409824,
+      "voice": 1029,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 12.463051,
+      "end": 12.528051,
+      "voice": 1031,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 12.528051,
+      "end": 13.862972,
+      "voice": 1004,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 13.9162,
+      "end": 13.981226,
+      "voice": 1021,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 13.981225,
+      "end": 16.051731,
+      "voice": 1012,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 16.051731,
+      "end": 16.097726,
+      "voice": 1033,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 16.150927,
+      "end": 16.215836,
+      "voice": 1031,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 16.215836,
+      "end": 18.289227,
+      "voice": 1003,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 18.289227,
+      "end": 18.335289,
+      "voice": 1033,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 18.388636,
+      "end": 18.453552,
+      "voice": 1027,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 18.453552,
+      "end": 20.467294,
+      "voice": 1002,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 20.467295,
+      "end": 20.532569,
+      "voice": 1019,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 20.532569,
+      "end": 20.578763,
+      "voice": 1036,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 20.632404,
+      "end": 20.697404,
+      "voice": 1031,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 20.697404,
+      "end": 22.043212,
+      "voice": 1004,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 22.096853,
+      "end": 22.161206,
+      "voice": 1021,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 22.161206,
+      "end": 26.104539,
+      "voice": 1006,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 26.104539,
+      "end": 26.150797,
+      "voice": 1033,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 26.150797,
+      "end": 28.642028,
+      "voice": 1009,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 29.172277,
+      "end": 29.237277,
+      "voice": 1327,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 29.237277,
+      "end": 30.927557,
+      "voice": 1300,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 30.927557,
+      "end": 30.992557,
+      "voice": 1320,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 31.047467,
+      "end": 33.250515,
+      "voice": 1300,
+      "pitch": 79,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 33.250515,
+      "end": 33.315568,
+      "voice": 1328,
+      "pitch": 79,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 33.315568,
+      "end": 34.697581,
+      "voice": 1301,
+      "pitch": 79,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 34.697582,
+      "end": 34.762874,
+      "voice": 1317,
+      "pitch": 79,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 34.818329,
+      "end": 34.883319,
+      "voice": 1320,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 34.883319,
+      "end": 37.058574,
+      "voice": 1301,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 37.058575,
+      "end": 37.123565,
+      "voice": 1328,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 37.123565,
+      "end": 38.48599,
+      "voice": 1309,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 38.48599,
+      "end": 38.551017,
+      "voice": 1329,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 38.606503,
+      "end": 38.671503,
+      "voice": 1319,
+      "pitch": 77,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 38.671503,
+      "end": 40.380867,
+      "voice": 1309,
+      "pitch": 77,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 40.380867,
+      "end": 40.445867,
+      "voice": 1317,
+      "pitch": 77,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 40.501353,
+      "end": 40.547361,
+      "voice": 1333,
+      "pitch": 85,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 40.54736,
+      "end": 41.6744,
+      "voice": 1308,
+      "pitch": 85,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 41.729739,
+      "end": 41.794867,
+      "voice": 1325,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 41.794866,
+      "end": 41.859994,
+      "voice": 1319,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 41.859994,
+      "end": 44.40936,
+      "voice": 1311,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 44.941359,
+      "end": 46.196615,
+      "voice": 1004,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 46.251649,
+      "end": 46.317107,
+      "voice": 1025,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 46.317107,
+      "end": 46.382565,
+      "voice": 1019,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 46.382565,
+      "end": 48.152755,
+      "voice": 1008,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 48.152755,
+      "end": 48.19873,
+      "voice": 1033,
+      "pitch": 57,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 48.25335,
+      "end": 49.432964,
+      "voice": 1001,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 49.432964,
+      "end": 49.497498,
+      "voice": 1029,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 49.551656,
+      "end": 49.597779,
+      "voice": 1036,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 49.597779,
+      "end": 49.662953,
+      "voice": 1020,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 49.662953,
+      "end": 51.960948,
+      "voice": 1006,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 51.960949,
+      "end": 53.389765,
+      "voice": 1001,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 53.389765,
+      "end": 53.454403,
+      "voice": 1018,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 53.508114,
+      "end": 53.573198,
+      "voice": 1026,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 53.573199,
+      "end": 53.638283,
+      "voice": 1020,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 53.638283,
+      "end": 55.419292,
+      "voice": 1008,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 55.472638,
+      "end": 55.537638,
+      "voice": 1031,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 55.537638,
+      "end": 56.689383,
+      "voice": 1004,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 56.742729,
+      "end": 56.807982,
+      "voice": 1023,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 56.807982,
+      "end": 60.089768,
+      "voice": 1011,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 60.089768,
+      "end": 60.154733,
+      "voice": 1019,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 60.154733,
+      "end": 62.204449,
+      "voice": 1004,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 62.204449,
+      "end": 62.269328,
+      "voice": 1017,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 62.269328,
+      "end": 62.334207,
+      "voice": 1023,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 62.846932,
+      "end": 62.911864,
+      "voice": 1331,
+      "pitch": 85,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 62.911864,
+      "end": 64.305682,
+      "voice": 1304,
+      "pitch": 85,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 64.358832,
+      "end": 66.569897,
+      "voice": 1309,
+      "pitch": 80,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 66.569897,
+      "end": 66.635208,
+      "voice": 1326,
+      "pitch": 80,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 66.688641,
+      "end": 68.091655,
+      "voice": 1301,
+      "pitch": 86,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 68.091655,
+      "end": 68.156655,
+      "voice": 1329,
+      "pitch": 86,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 68.210088,
+      "end": 68.274579,
+      "voice": 1325,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 68.274579,
+      "end": 70.999261,
+      "voice": 1313,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 70.999261,
+      "end": 71.064274,
+      "voice": 1319,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 71.064274,
+      "end": 71.110283,
+      "voice": 1336,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 71.110283,
+      "end": 72.828107,
+      "voice": 1304,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 72.828107,
+      "end": 72.874576,
+      "voice": 1336,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 72.92898,
+      "end": 74.358677,
+      "voice": 1301,
+      "pitch": 79,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 74.358677,
+      "end": 74.423677,
+      "voice": 1317,
+      "pitch": 79,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 74.478082,
+      "end": 76.714813,
+      "voice": 1301,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 76.714813,
+      "end": 76.760928,
+      "voice": 1333,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 76.760927,
+      "end": 76.826089,
+      "voice": 1323,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 76.881078,
+      "end": 76.926757,
+      "voice": 1334,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 76.926757,
+      "end": 76.991303,
+      "voice": 1320,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 76.991303,
+      "end": 80.343092,
+      "voice": 1311,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 80.88009,
+      "end": 80.944781,
+      "voice": 1123,
+      "pitch": 71,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 80.944781,
+      "end": 81.009792,
+      "voice": 1116,
+      "pitch": 71,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 81.009792,
+      "end": 82.732705,
+      "voice": 1106,
+      "pitch": 71,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 82.732706,
+      "end": 82.797717,
+      "voice": 1119,
+      "pitch": 71,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 82.853739,
+      "end": 82.918571,
+      "voice": 1120,
+      "pitch": 68,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 82.918571,
+      "end": 84.64624,
+      "voice": 1108,
+      "pitch": 68,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 84.64624,
+      "end": 84.711444,
+      "voice": 1116,
+      "pitch": 68,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 84.711444,
+      "end": 84.776648,
+      "voice": 1129,
+      "pitch": 68,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 84.832992,
+      "end": 86.696929,
+      "voice": 1105,
+      "pitch": 66,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 86.696929,
+      "end": 86.761929,
+      "voice": 1120,
+      "pitch": 66,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 86.818273,
+      "end": 86.864178,
+      "voice": 1133,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 86.864178,
+      "end": 89.16862,
+      "voice": 1109,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 89.16862,
+      "end": 89.233639,
+      "voice": 1117,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 89.233639,
+      "end": 90.675623,
+      "voice": 1101,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 90.675624,
+      "end": 90.740569,
+      "voice": 1118,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 90.79698,
+      "end": 91.96756,
+      "voice": 1101,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 91.96756,
+      "end": 92.03256,
+      "voice": 1117,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 92.088972,
+      "end": 92.154061,
+      "voice": 1131,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 92.154061,
+      "end": 93.322866,
+      "voice": 1104,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 93.379036,
+      "end": 93.425214,
+      "voice": 1136,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 93.425214,
+      "end": 96.737754,
+      "voice": 1101,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 96.737754,
+      "end": 96.802573,
+      "voice": 1123,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 96.802572,
+      "end": 96.848444,
+      "voice": 1133,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 96.848444,
+      "end": 98.91193,
+      "voice": 1104,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 98.91193,
+      "end": 98.976239,
+      "voice": 1117,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 98.976239,
+      "end": 99.040548,
+      "voice": 1123,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 99.575682,
+      "end": 99.640682,
+      "voice": 1031,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 99.640682,
+      "end": 101.138085,
+      "voice": 1002,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 101.138084,
+      "end": 101.203084,
+      "voice": 1020,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 101.258443,
+      "end": 101.323865,
+      "voice": 1021,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 101.323865,
+      "end": 103.199689,
+      "voice": 1001,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 103.199689,
+      "end": 103.264596,
+      "voice": 1017,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 103.264596,
+      "end": 103.31053,
+      "voice": 1036,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 103.31053,
+      "end": 104.482338,
+      "voice": 1013,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 104.482338,
+      "end": 104.547245,
+      "voice": 1029,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 104.602168,
+      "end": 104.667556,
+      "voice": 1025,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 104.667556,
+      "end": 106.142225,
+      "voice": 1012,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 106.142225,
+      "end": 106.207176,
+      "voice": 1023,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 106.261731,
+      "end": 107.285098,
+      "voice": 1004,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 107.339653,
+      "end": 107.385872,
+      "voice": 1036,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 107.385872,
+      "end": 109.46358,
+      "voice": 1001,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 109.46358,
+      "end": 109.528595,
+      "voice": 1025,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 109.528595,
+      "end": 110.82816,
+      "voice": 1009,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 110.82816,
+      "end": 112.125982,
+      "voice": 1004,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 112.125982,
+      "end": 112.19089,
+      "voice": 1017,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 112.19089,
+      "end": 112.236825,
+      "voice": 1033,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 112.291045,
+      "end": 112.355996,
+      "voice": 1023,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 112.355996,
+      "end": 114.563351,
+      "voice": 1004,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 114.563351,
+      "end": 114.628402,
+      "voice": 1017,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 115.153334,
+      "end": 116.969189,
+      "voice": 1300,
+      "pitch": 85,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 116.969189,
+      "end": 117.015328,
+      "voice": 1338,
+      "pitch": 85,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 117.06988,
+      "end": 117.11588,
+      "voice": 1334,
+      "pitch": 81,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 117.11588,
+      "end": 118.826499,
+      "voice": 1300,
+      "pitch": 81,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 118.8265,
+      "end": 118.8725,
+      "voice": 1332,
+      "pitch": 81,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 118.8725,
+      "end": 118.9375,
+      "voice": 1323,
+      "pitch": 81,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 118.992052,
+      "end": 120.193309,
+      "voice": 1304,
+      "pitch": 76,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 120.248251,
+      "end": 120.312977,
+      "voice": 1319,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 120.312977,
+      "end": 122.486764,
+      "voice": 1303,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 122.486764,
+      "end": 122.552056,
+      "voice": 1318,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 122.552056,
+      "end": 122.598263,
+      "voice": 1337,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 122.598263,
+      "end": 122.663555,
+      "voice": 1321,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 122.663556,
+      "end": 124.034977,
+      "voice": 1304,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 124.034976,
+      "end": 124.081183,
+      "voice": 1339,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 124.136605,
+      "end": 124.201334,
+      "voice": 1325,
+      "pitch": 83,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 124.201334,
+      "end": 125.976588,
+      "voice": 1306,
+      "pitch": 83,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 125.976588,
+      "end": 126.041915,
+      "voice": 1320,
+      "pitch": 83,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 126.097848,
+      "end": 126.162848,
+      "voice": 1331,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 126.162848,
+      "end": 127.322947,
+      "voice": 1304,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 127.37888,
+      "end": 127.443272,
+      "voice": 1321,
+      "pitch": 80,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 127.443273,
+      "end": 130.867122,
+      "voice": 1302,
+      "pitch": 80,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 130.867122,
+      "end": 130.932057,
+      "voice": 1331,
+      "pitch": 80,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 130.932057,
+      "end": 133.091714,
+      "voice": 1309,
+      "pitch": 80,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 133.640451,
+      "end": 133.705331,
+      "voice": 1031,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 133.705331,
+      "end": 134.845976,
+      "voice": 1004,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 134.902937,
+      "end": 134.967937,
+      "voice": 1021,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 134.967937,
+      "end": 136.680166,
+      "voice": 1009,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 136.680166,
+      "end": 136.745166,
+      "voice": 1019,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 136.745166,
+      "end": 136.791166,
+      "voice": 1036,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 136.848125,
+      "end": 136.913132,
+      "voice": 1021,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 136.913133,
+      "end": 138.671141,
+      "voice": 1005,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 138.671141,
+      "end": 138.736139,
+      "voice": 1029,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 138.793091,
+      "end": 138.858242,
+      "voice": 1017,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 138.858242,
+      "end": 141.131953,
+      "voice": 1002,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 141.131953,
+      "end": 141.196858,
+      "voice": 1028,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 141.196858,
+      "end": 142.617069,
+      "voice": 1009,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 142.673807,
+      "end": 144.93011,
+      "voice": 1013,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 144.93011,
+      "end": 144.995063,
+      "voice": 1017,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 144.995063,
+      "end": 145.060016,
+      "voice": 1019,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 145.060016,
+      "end": 146.468367,
+      "voice": 1000,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 146.524185,
+      "end": 146.589185,
+      "voice": 1021,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 146.589185,
+      "end": 149.167367,
+      "voice": 1004,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 149.167367,
+      "end": 149.232367,
+      "voice": 1017,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 149.761888,
+      "end": 151.425099,
+      "voice": 1500,
+      "pitch": 68.0293,
+      "pan": -0.7846,
+      "group": "choir"
+    },
+    {
+      "start": 149.770528,
+      "end": 151.433738,
+      "voice": 1500,
+      "pitch": 72.0354,
+      "pan": -0.2571,
+      "group": "choir"
+    },
+    {
+      "start": 149.779344,
+      "end": 151.442552,
+      "voice": 1500,
+      "pitch": 81.9624,
+      "pan": 0.1946,
+      "group": "choir"
+    },
+    {
+      "start": 149.78613,
+      "end": 151.449337,
+      "voice": 1500,
+      "pitch": 67.9456,
+      "pan": -0.6949,
+      "group": "choir"
+    },
+    {
+      "start": 149.794852,
+      "end": 151.458058,
+      "voice": 1500,
+      "pitch": 86.9739,
+      "pan": 0.7429,
+      "group": "lead"
+    },
+    {
+      "start": 149.799044,
+      "end": 151.462249,
+      "voice": 1500,
+      "pitch": 71.9749,
+      "pan": -0.2182,
+      "group": "choir"
+    },
+    {
+      "start": 149.804618,
+      "end": 151.467822,
+      "voice": 1500,
+      "pitch": 82.0249,
+      "pan": 0.2416,
+      "group": "choir"
+    },
+    {
+      "start": 149.811787,
+      "end": 151.47499,
+      "voice": 1500,
+      "pitch": 87.0126,
+      "pan": 0.7115,
+      "group": "choir"
+    },
+    {
+      "start": 151.425099,
+      "end": 151.490174,
+      "voice": 1526,
+      "pitch": 68.0293,
+      "pan": -0.7846,
+      "group": "choir"
+    },
+    {
+      "start": 151.433738,
+      "end": 151.498816,
+      "voice": 1526,
+      "pitch": 72.0354,
+      "pan": -0.2571,
+      "group": "choir"
+    },
+    {
+      "start": 151.442552,
+      "end": 151.507632,
+      "voice": 1526,
+      "pitch": 81.9624,
+      "pan": 0.1946,
+      "group": "choir"
+    },
+    {
+      "start": 151.449338,
+      "end": 151.514419,
+      "voice": 1526,
+      "pitch": 67.9456,
+      "pan": -0.6949,
+      "group": "choir"
+    },
+    {
+      "start": 151.458058,
+      "end": 151.523141,
+      "voice": 1526,
+      "pitch": 86.9739,
+      "pan": 0.7429,
+      "group": "lead"
+    },
+    {
+      "start": 151.462249,
+      "end": 151.527334,
+      "voice": 1526,
+      "pitch": 71.9749,
+      "pan": -0.2182,
+      "group": "choir"
+    },
+    {
+      "start": 151.467823,
+      "end": 151.532909,
+      "voice": 1526,
+      "pitch": 82.0249,
+      "pan": 0.2416,
+      "group": "choir"
+    },
+    {
+      "start": 151.47499,
+      "end": 151.540078,
+      "voice": 1526,
+      "pitch": 87.0126,
+      "pan": 0.7115,
+      "group": "choir"
+    },
+    {
+      "start": 151.490174,
+      "end": 152.528278,
+      "voice": 1509,
+      "pitch": 68.0293,
+      "pan": -0.7846,
+      "group": "choir"
+    },
+    {
+      "start": 151.498816,
+      "end": 152.536829,
+      "voice": 1509,
+      "pitch": 72.0354,
+      "pan": -0.2571,
+      "group": "choir"
+    },
+    {
+      "start": 151.507632,
+      "end": 152.545553,
+      "voice": 1509,
+      "pitch": 81.9624,
+      "pan": 0.1946,
+      "group": "choir"
+    },
+    {
+      "start": 151.514419,
+      "end": 152.552269,
+      "voice": 1509,
+      "pitch": 67.9456,
+      "pan": -0.6949,
+      "group": "choir"
+    },
+    {
+      "start": 151.523141,
+      "end": 152.5609,
+      "voice": 1509,
+      "pitch": 86.9739,
+      "pan": 0.7429,
+      "group": "lead"
+    },
+    {
+      "start": 151.527334,
+      "end": 152.565049,
+      "voice": 1509,
+      "pitch": 71.9749,
+      "pan": -0.2182,
+      "group": "choir"
+    },
+    {
+      "start": 151.532908,
+      "end": 152.570564,
+      "voice": 1509,
+      "pitch": 82.0249,
+      "pan": 0.2416,
+      "group": "choir"
+    },
+    {
+      "start": 151.540078,
+      "end": 152.577659,
+      "voice": 1509,
+      "pitch": 87.0126,
+      "pan": 0.7115,
+      "group": "choir"
+    },
+    {
+      "start": 152.603757,
+      "end": 154.221004,
+      "voice": 1513,
+      "pitch": 68.0618,
+      "pan": -0.7053,
+      "group": "choir"
+    },
+    {
+      "start": 152.618171,
+      "end": 154.235415,
+      "voice": 1513,
+      "pitch": 83.9518,
+      "pan": -0.2189,
+      "group": "choir"
+    },
+    {
+      "start": 152.624548,
+      "end": 154.24179,
+      "voice": 1513,
+      "pitch": 85.9498,
+      "pan": 0.2442,
+      "group": "choir"
+    },
+    {
+      "start": 152.628812,
+      "end": 154.246053,
+      "voice": 1513,
+      "pitch": 68.0345,
+      "pan": -0.72,
+      "group": "choir"
+    },
+    {
+      "start": 152.628844,
+      "end": 154.246085,
+      "voice": 1513,
+      "pitch": 91.0169,
+      "pan": 0.7844,
+      "group": "lead"
+    },
+    {
+      "start": 152.629537,
+      "end": 154.246778,
+      "voice": 1513,
+      "pitch": 84.0192,
+      "pan": -0.3017,
+      "group": "choir"
+    },
+    {
+      "start": 152.639486,
+      "end": 154.256725,
+      "voice": 1513,
+      "pitch": 86.0628,
+      "pan": 0.3053,
+      "group": "choir"
+    },
+    {
+      "start": 152.655213,
+      "end": 154.272448,
+      "voice": 1513,
+      "pitch": 91.0617,
+      "pan": 0.704,
+      "group": "choir"
+    },
+    {
+      "start": 154.221004,
+      "end": 154.267036,
+      "voice": 1532,
+      "pitch": 68.0618,
+      "pan": -0.7053,
+      "group": "choir"
+    },
+    {
+      "start": 154.235415,
+      "end": 154.281449,
+      "voice": 1532,
+      "pitch": 83.9518,
+      "pan": -0.2189,
+      "group": "choir"
+    },
+    {
+      "start": 154.24179,
+      "end": 154.287825,
+      "voice": 1532,
+      "pitch": 85.9498,
+      "pan": 0.2442,
+      "group": "choir"
+    },
+    {
+      "start": 154.246054,
+      "end": 154.292089,
+      "voice": 1532,
+      "pitch": 68.0345,
+      "pan": -0.72,
+      "group": "choir"
+    },
+    {
+      "start": 154.246086,
+      "end": 154.292121,
+      "voice": 1532,
+      "pitch": 91.0169,
+      "pan": 0.7844,
+      "group": "lead"
+    },
+    {
+      "start": 154.246778,
+      "end": 154.292814,
+      "voice": 1532,
+      "pitch": 84.0192,
+      "pan": -0.3017,
+      "group": "choir"
+    },
+    {
+      "start": 154.256725,
+      "end": 154.302762,
+      "voice": 1532,
+      "pitch": 86.0628,
+      "pan": 0.3053,
+      "group": "choir"
+    },
+    {
+      "start": 154.267036,
+      "end": 155.278281,
+      "voice": 1504,
+      "pitch": 68.0618,
+      "pan": -0.7053,
+      "group": "choir"
+    },
+    {
+      "start": 154.272449,
+      "end": 154.318488,
+      "voice": 1532,
+      "pitch": 91.0617,
+      "pan": 0.704,
+      "group": "choir"
+    },
+    {
+      "start": 154.281449,
+      "end": 155.292562,
+      "voice": 1504,
+      "pitch": 83.9518,
+      "pan": -0.2189,
+      "group": "choir"
+    },
+    {
+      "start": 154.287825,
+      "end": 155.298879,
+      "voice": 1504,
+      "pitch": 85.9498,
+      "pan": 0.2442,
+      "group": "choir"
+    },
+    {
+      "start": 154.292089,
+      "end": 155.303103,
+      "voice": 1504,
+      "pitch": 68.0345,
+      "pan": -0.72,
+      "group": "choir"
+    },
+    {
+      "start": 154.292121,
+      "end": 155.303135,
+      "voice": 1504,
+      "pitch": 91.0169,
+      "pan": 0.7844,
+      "group": "lead"
+    },
+    {
+      "start": 154.292813,
+      "end": 155.303821,
+      "voice": 1504,
+      "pitch": 84.0192,
+      "pan": -0.3017,
+      "group": "choir"
+    },
+    {
+      "start": 154.302762,
+      "end": 155.313678,
+      "voice": 1504,
+      "pitch": 86.0628,
+      "pan": 0.3053,
+      "group": "choir"
+    },
+    {
+      "start": 154.318488,
+      "end": 155.329259,
+      "voice": 1504,
+      "pitch": 91.0617,
+      "pan": 0.704,
+      "group": "choir"
+    },
+    {
+      "start": 155.278281,
+      "end": 155.342735,
+      "voice": 1517,
+      "pitch": 68.0618,
+      "pan": -0.7053,
+      "group": "choir"
+    },
+    {
+      "start": 155.292561,
+      "end": 155.357018,
+      "voice": 1517,
+      "pitch": 83.9518,
+      "pan": -0.2189,
+      "group": "choir"
+    },
+    {
+      "start": 155.298879,
+      "end": 155.363337,
+      "voice": 1517,
+      "pitch": 85.9498,
+      "pan": 0.2442,
+      "group": "choir"
+    },
+    {
+      "start": 155.303104,
+      "end": 155.367563,
+      "voice": 1517,
+      "pitch": 68.0345,
+      "pan": -0.72,
+      "group": "choir"
+    },
+    {
+      "start": 155.303135,
+      "end": 155.367594,
+      "voice": 1517,
+      "pitch": 91.0169,
+      "pan": 0.7844,
+      "group": "lead"
+    },
+    {
+      "start": 155.303821,
+      "end": 155.36828,
+      "voice": 1517,
+      "pitch": 84.0192,
+      "pan": -0.3017,
+      "group": "choir"
+    },
+    {
+      "start": 155.313678,
+      "end": 155.37814,
+      "voice": 1517,
+      "pitch": 86.0628,
+      "pan": 0.3053,
+      "group": "choir"
+    },
+    {
+      "start": 155.329259,
+      "end": 155.393724,
+      "voice": 1517,
+      "pitch": 91.0617,
+      "pan": 0.704,
+      "group": "choir"
+    },
+    {
+      "start": 155.419995,
+      "end": 155.485013,
+      "voice": 1523,
+      "pitch": 67.9936,
+      "pan": -0.7873,
+      "group": "choir"
+    },
+    {
+      "start": 155.426282,
+      "end": 155.491301,
+      "voice": 1523,
+      "pitch": 83.9393,
+      "pan": -0.3025,
+      "group": "choir"
+    },
+    {
+      "start": 155.435006,
+      "end": 155.500026,
+      "voice": 1523,
+      "pitch": 67.9856,
+      "pan": -0.7084,
+      "group": "choir"
+    },
+    {
+      "start": 155.437911,
+      "end": 155.502932,
+      "voice": 1523,
+      "pitch": 89.0189,
+      "pan": 0.3257,
+      "group": "choir"
+    },
+    {
+      "start": 155.439321,
+      "end": 155.504342,
+      "voice": 1523,
+      "pitch": 84.0443,
+      "pan": -0.3875,
+      "group": "choir"
+    },
+    {
+      "start": 155.44327,
+      "end": 155.508292,
+      "voice": 1523,
+      "pitch": 93.9813,
+      "pan": 0.7416,
+      "group": "lead"
+    },
+    {
+      "start": 155.450131,
+      "end": 155.515154,
+      "voice": 1523,
+      "pitch": 88.9865,
+      "pan": 0.3535,
+      "group": "choir"
+    },
+    {
+      "start": 155.464413,
+      "end": 155.529438,
+      "voice": 1523,
+      "pitch": 94.0251,
+      "pan": 0.6697,
+      "group": "choir"
+    },
+    {
+      "start": 155.485013,
+      "end": 157.035309,
+      "voice": 1501,
+      "pitch": 67.9936,
+      "pan": -0.7873,
+      "group": "choir"
+    },
+    {
+      "start": 155.491301,
+      "end": 157.041595,
+      "voice": 1501,
+      "pitch": 83.9393,
+      "pan": -0.3025,
+      "group": "choir"
+    },
+    {
+      "start": 155.500027,
+      "end": 157.050318,
+      "voice": 1501,
+      "pitch": 67.9856,
+      "pan": -0.7084,
+      "group": "choir"
+    },
+    {
+      "start": 155.502931,
+      "end": 157.053221,
+      "voice": 1501,
+      "pitch": 89.0189,
+      "pan": 0.3257,
+      "group": "choir"
+    },
+    {
+      "start": 155.504342,
+      "end": 157.054632,
+      "voice": 1501,
+      "pitch": 84.0443,
+      "pan": -0.3875,
+      "group": "choir"
+    },
+    {
+      "start": 155.508291,
+      "end": 157.05858,
+      "voice": 1501,
+      "pitch": 93.9813,
+      "pan": 0.7416,
+      "group": "lead"
+    },
+    {
+      "start": 155.515154,
+      "end": 157.065441,
+      "voice": 1501,
+      "pitch": 88.9865,
+      "pan": 0.3535,
+      "group": "choir"
+    },
+    {
+      "start": 155.529438,
+      "end": 157.07972,
+      "voice": 1501,
+      "pitch": 94.0251,
+      "pan": 0.6697,
+      "group": "choir"
+    },
+    {
+      "start": 157.035308,
+      "end": 157.100326,
+      "voice": 1519,
+      "pitch": 67.9936,
+      "pan": -0.7873,
+      "group": "choir"
+    },
+    {
+      "start": 157.041595,
+      "end": 157.106614,
+      "voice": 1519,
+      "pitch": 83.9393,
+      "pan": -0.3025,
+      "group": "choir"
+    },
+    {
+      "start": 157.050318,
+      "end": 157.115338,
+      "voice": 1519,
+      "pitch": 67.9856,
+      "pan": -0.7084,
+      "group": "choir"
+    },
+    {
+      "start": 157.053222,
+      "end": 157.118243,
+      "voice": 1519,
+      "pitch": 89.0189,
+      "pan": 0.3257,
+      "group": "choir"
+    },
+    {
+      "start": 157.054632,
+      "end": 157.119653,
+      "voice": 1519,
+      "pitch": 84.0443,
+      "pan": -0.3875,
+      "group": "choir"
+    },
+    {
+      "start": 157.05858,
+      "end": 157.123602,
+      "voice": 1519,
+      "pitch": 93.9813,
+      "pan": 0.7416,
+      "group": "lead"
+    },
+    {
+      "start": 157.065441,
+      "end": 157.130464,
+      "voice": 1519,
+      "pitch": 88.9865,
+      "pan": 0.3535,
+      "group": "choir"
+    },
+    {
+      "start": 157.079721,
+      "end": 157.144746,
+      "voice": 1519,
+      "pitch": 94.0251,
+      "pan": 0.6697,
+      "group": "choir"
+    },
+    {
+      "start": 157.100326,
+      "end": 157.165344,
+      "voice": 1528,
+      "pitch": 67.9936,
+      "pan": -0.7873,
+      "group": "choir"
+    },
+    {
+      "start": 157.106614,
+      "end": 157.171633,
+      "voice": 1528,
+      "pitch": 83.9393,
+      "pan": -0.3025,
+      "group": "choir"
+    },
+    {
+      "start": 157.115338,
+      "end": 157.180358,
+      "voice": 1528,
+      "pitch": 67.9856,
+      "pan": -0.7084,
+      "group": "choir"
+    },
+    {
+      "start": 157.118243,
+      "end": 157.183264,
+      "voice": 1528,
+      "pitch": 89.0189,
+      "pan": 0.3257,
+      "group": "choir"
+    },
+    {
+      "start": 157.119653,
+      "end": 157.184674,
+      "voice": 1528,
+      "pitch": 84.0443,
+      "pan": -0.3875,
+      "group": "choir"
+    },
+    {
+      "start": 157.123602,
+      "end": 157.188624,
+      "voice": 1528,
+      "pitch": 93.9813,
+      "pan": 0.7416,
+      "group": "lead"
+    },
+    {
+      "start": 157.130464,
+      "end": 157.195487,
+      "voice": 1528,
+      "pitch": 88.9865,
+      "pan": 0.3535,
+      "group": "choir"
+    },
+    {
+      "start": 157.144746,
+      "end": 157.209771,
+      "voice": 1528,
+      "pitch": 94.0251,
+      "pan": 0.6697,
+      "group": "choir"
+    },
+    {
+      "start": 157.165344,
+      "end": 158.135219,
+      "voice": 1509,
+      "pitch": 67.9936,
+      "pan": -0.7873,
+      "group": "choir"
+    },
+    {
+      "start": 157.171633,
+      "end": 158.141464,
+      "voice": 1509,
+      "pitch": 83.9393,
+      "pan": -0.3025,
+      "group": "choir"
+    },
+    {
+      "start": 157.180359,
+      "end": 158.150129,
+      "voice": 1509,
+      "pitch": 67.9856,
+      "pan": -0.7084,
+      "group": "choir"
+    },
+    {
+      "start": 157.183263,
+      "end": 158.153013,
+      "voice": 1509,
+      "pitch": 89.0189,
+      "pan": 0.3257,
+      "group": "choir"
+    },
+    {
+      "start": 157.184674,
+      "end": 158.154414,
+      "voice": 1509,
+      "pitch": 84.0443,
+      "pan": -0.3875,
+      "group": "choir"
+    },
+    {
+      "start": 157.188623,
+      "end": 158.158335,
+      "voice": 1509,
+      "pitch": 93.9813,
+      "pan": 0.7416,
+      "group": "lead"
+    },
+    {
+      "start": 157.195486,
+      "end": 158.16515,
+      "voice": 1509,
+      "pitch": 88.9865,
+      "pan": 0.3535,
+      "group": "choir"
+    },
+    {
+      "start": 157.209771,
+      "end": 158.179336,
+      "voice": 1509,
+      "pitch": 94.0251,
+      "pan": 0.6697,
+      "group": "choir"
+    },
+    {
+      "start": 158.202953,
+      "end": 160.54819,
+      "voice": 1503,
+      "pitch": 56.0472,
+      "pan": -0.827,
+      "group": "choir"
+    },
+    {
+      "start": 158.209621,
+      "end": 160.554857,
+      "voice": 1503,
+      "pitch": 71.9792,
+      "pan": -0.2858,
+      "group": "choir"
+    },
+    {
+      "start": 158.223043,
+      "end": 160.568278,
+      "voice": 1503,
+      "pitch": 55.9409,
+      "pan": -0.6982,
+      "group": "choir"
+    },
+    {
+      "start": 158.224609,
+      "end": 160.569844,
+      "voice": 1503,
+      "pitch": 74.9431,
+      "pan": 0.3192,
+      "group": "choir"
+    },
+    {
+      "start": 158.23279,
+      "end": 160.578024,
+      "voice": 1503,
+      "pitch": 79.9484,
+      "pan": 0.6301,
+      "group": "lead"
+    },
+    {
+      "start": 158.23365,
+      "end": 160.578884,
+      "voice": 1503,
+      "pitch": 72.0368,
+      "pan": -0.2755,
+      "group": "choir"
+    },
+    {
+      "start": 158.24165,
+      "end": 160.586884,
+      "voice": 1503,
+      "pitch": 75.0533,
+      "pan": 0.279,
+      "group": "choir"
+    },
+    {
+      "start": 158.249756,
+      "end": 160.594989,
+      "voice": 1503,
+      "pitch": 80.0044,
+      "pan": 0.6432,
+      "group": "choir"
+    },
+    {
+      "start": 160.54819,
+      "end": 160.613268,
+      "voice": 1517,
+      "pitch": 56.0472,
+      "pan": -0.827,
+      "group": "choir"
+    },
+    {
+      "start": 160.554857,
+      "end": 160.619936,
+      "voice": 1517,
+      "pitch": 71.9792,
+      "pan": -0.2858,
+      "group": "choir"
+    },
+    {
+      "start": 160.568278,
+      "end": 160.633358,
+      "voice": 1517,
+      "pitch": 55.9409,
+      "pan": -0.6982,
+      "group": "choir"
+    },
+    {
+      "start": 160.569844,
+      "end": 160.634924,
+      "voice": 1517,
+      "pitch": 74.9431,
+      "pan": 0.3192,
+      "group": "choir"
+    },
+    {
+      "start": 160.578025,
+      "end": 160.643105,
+      "voice": 1517,
+      "pitch": 79.9484,
+      "pan": 0.6301,
+      "group": "lead"
+    },
+    {
+      "start": 160.578884,
+      "end": 160.643964,
+      "voice": 1517,
+      "pitch": 72.0368,
+      "pan": -0.2755,
+      "group": "choir"
+    },
+    {
+      "start": 160.586883,
+      "end": 160.651964,
+      "voice": 1517,
+      "pitch": 75.0533,
+      "pan": 0.279,
+      "group": "choir"
+    },
+    {
+      "start": 160.594989,
+      "end": 160.66007,
+      "voice": 1517,
+      "pitch": 80.0044,
+      "pan": 0.6432,
+      "group": "choir"
+    },
+    {
+      "start": 160.613268,
+      "end": 160.678346,
+      "voice": 1523,
+      "pitch": 56.0472,
+      "pan": -0.827,
+      "group": "choir"
+    },
+    {
+      "start": 160.619936,
+      "end": 160.685015,
+      "voice": 1523,
+      "pitch": 71.9792,
+      "pan": -0.2858,
+      "group": "choir"
+    },
+    {
+      "start": 160.633358,
+      "end": 160.698438,
+      "voice": 1523,
+      "pitch": 55.9409,
+      "pan": -0.6982,
+      "group": "choir"
+    },
+    {
+      "start": 160.634924,
+      "end": 160.700004,
+      "voice": 1523,
+      "pitch": 74.9431,
+      "pan": 0.3192,
+      "group": "choir"
+    },
+    {
+      "start": 160.643105,
+      "end": 160.708185,
+      "voice": 1523,
+      "pitch": 79.9484,
+      "pan": 0.6301,
+      "group": "lead"
+    },
+    {
+      "start": 160.643964,
+      "end": 160.709044,
+      "voice": 1523,
+      "pitch": 72.0368,
+      "pan": -0.2755,
+      "group": "choir"
+    },
+    {
+      "start": 160.651964,
+      "end": 160.717045,
+      "voice": 1523,
+      "pitch": 75.0533,
+      "pan": 0.279,
+      "group": "choir"
+    },
+    {
+      "start": 160.660071,
+      "end": 160.725152,
+      "voice": 1523,
+      "pitch": 80.0044,
+      "pan": 0.6432,
+      "group": "choir"
+    },
+    {
+      "start": 160.678347,
+      "end": 162.141913,
+      "voice": 1509,
+      "pitch": 56.0472,
+      "pan": -0.827,
+      "group": "choir"
+    },
+    {
+      "start": 160.685015,
+      "end": 162.148556,
+      "voice": 1509,
+      "pitch": 71.9792,
+      "pan": -0.2858,
+      "group": "choir"
+    },
+    {
+      "start": 160.698438,
+      "end": 162.161927,
+      "voice": 1509,
+      "pitch": 55.9409,
+      "pan": -0.6982,
+      "group": "choir"
+    },
+    {
+      "start": 160.700003,
+      "end": 162.163486,
+      "voice": 1509,
+      "pitch": 74.9431,
+      "pan": 0.3192,
+      "group": "choir"
+    },
+    {
+      "start": 160.708185,
+      "end": 162.171637,
+      "voice": 1509,
+      "pitch": 79.9484,
+      "pan": 0.6301,
+      "group": "lead"
+    },
+    {
+      "start": 160.709045,
+      "end": 162.172493,
+      "voice": 1509,
+      "pitch": 72.0368,
+      "pan": -0.2755,
+      "group": "choir"
+    },
+    {
+      "start": 160.717045,
+      "end": 162.180462,
+      "voice": 1509,
+      "pitch": 75.0533,
+      "pan": 0.279,
+      "group": "choir"
+    },
+    {
+      "start": 160.725152,
+      "end": 162.188538,
+      "voice": 1509,
+      "pitch": 80.0044,
+      "pan": 0.6432,
+      "group": "choir"
+    },
+    {
+      "start": 162.683219,
+      "end": 164.807456,
+      "voice": 1513,
+      "pitch": 71.0062,
+      "pan": -0.7829,
+      "group": "choir"
+    },
+    {
+      "start": 162.687894,
+      "end": 164.812128,
+      "voice": 1513,
+      "pitch": 87.0539,
+      "pan": -0.2992,
+      "group": "choir"
+    },
+    {
+      "start": 162.695234,
+      "end": 164.819465,
+      "voice": 1513,
+      "pitch": 71.0623,
+      "pan": -0.7431,
+      "group": "choir"
+    },
+    {
+      "start": 162.696313,
+      "end": 164.820543,
+      "voice": 1513,
+      "pitch": 92.0543,
+      "pan": 0.2057,
+      "group": "choir"
+    },
+    {
+      "start": 162.705908,
+      "end": 164.830133,
+      "voice": 1513,
+      "pitch": 96.9747,
+      "pan": 0.7482,
+      "group": "lead"
+    },
+    {
+      "start": 162.709711,
+      "end": 164.833934,
+      "voice": 1513,
+      "pitch": 87.0207,
+      "pan": -0.3724,
+      "group": "choir"
+    },
+    {
+      "start": 162.714324,
+      "end": 164.838545,
+      "voice": 1513,
+      "pitch": 92.0263,
+      "pan": 0.3414,
+      "group": "choir"
+    },
+    {
+      "start": 162.721252,
+      "end": 164.845469,
+      "voice": 1513,
+      "pitch": 97.0153,
+      "pan": 0.7547,
+      "group": "choir"
+    },
+    {
+      "start": 164.876492,
+      "end": 164.941492,
+      "voice": 1531,
+      "pitch": 70.9398,
+      "pan": -0.7123,
+      "group": "choir"
+    },
+    {
+      "start": 164.88223,
+      "end": 164.94723,
+      "voice": 1531,
+      "pitch": 74.9529,
+      "pan": -0.366,
+      "group": "choir"
+    },
+    {
+      "start": 164.887704,
+      "end": 164.952704,
+      "voice": 1531,
+      "pitch": 70.9789,
+      "pan": -0.8295,
+      "group": "choir"
+    },
+    {
+      "start": 164.89696,
+      "end": 164.96196,
+      "voice": 1531,
+      "pitch": 86.9473,
+      "pan": 0.2351,
+      "group": "choir"
+    },
+    {
+      "start": 164.901227,
+      "end": 164.966227,
+      "voice": 1531,
+      "pitch": 74.958,
+      "pan": -0.2388,
+      "group": "choir"
+    },
+    {
+      "start": 164.904969,
+      "end": 164.969969,
+      "voice": 1531,
+      "pitch": 91.9945,
+      "pan": 0.6828,
+      "group": "lead"
+    },
+    {
+      "start": 164.905637,
+      "end": 164.970637,
+      "voice": 1531,
+      "pitch": 86.9845,
+      "pan": 0.2159,
+      "group": "choir"
+    },
+    {
+      "start": 164.922263,
+      "end": 164.987263,
+      "voice": 1531,
+      "pitch": 91.9681,
+      "pan": 0.6903,
+      "group": "choir"
+    },
+    {
+      "start": 164.941492,
+      "end": 166.23189,
+      "voice": 1504,
+      "pitch": 70.9398,
+      "pan": -0.7123,
+      "group": "choir"
+    },
+    {
+      "start": 164.94723,
+      "end": 166.237628,
+      "voice": 1504,
+      "pitch": 74.9529,
+      "pan": -0.366,
+      "group": "choir"
+    },
+    {
+      "start": 164.952704,
+      "end": 166.243102,
+      "voice": 1504,
+      "pitch": 70.9789,
+      "pan": -0.8295,
+      "group": "choir"
+    },
+    {
+      "start": 164.96196,
+      "end": 166.252358,
+      "voice": 1504,
+      "pitch": 86.9473,
+      "pan": 0.2351,
+      "group": "choir"
+    },
+    {
+      "start": 164.966227,
+      "end": 166.256625,
+      "voice": 1504,
+      "pitch": 74.958,
+      "pan": -0.2388,
+      "group": "choir"
+    },
+    {
+      "start": 164.969969,
+      "end": 166.260367,
+      "voice": 1504,
+      "pitch": 91.9945,
+      "pan": 0.6828,
+      "group": "lead"
+    },
+    {
+      "start": 164.970637,
+      "end": 166.261035,
+      "voice": 1504,
+      "pitch": 86.9845,
+      "pan": 0.2159,
+      "group": "choir"
+    },
+    {
+      "start": 164.987263,
+      "end": 166.277661,
+      "voice": 1504,
+      "pitch": 91.9681,
+      "pan": 0.6903,
+      "group": "choir"
+    },
+    {
+      "start": 166.305945,
+      "end": 168.369433,
+      "voice": 1502,
+      "pitch": 58.9903,
+      "pan": -0.7346,
+      "group": "choir"
+    },
+    {
+      "start": 166.308901,
+      "end": 168.372397,
+      "voice": 1502,
+      "pitch": 75.051,
+      "pan": -0.3527,
+      "group": "choir"
+    },
+    {
+      "start": 166.318547,
+      "end": 168.38207,
+      "voice": 1502,
+      "pitch": 83.0307,
+      "pan": 0.2558,
+      "group": "choir"
+    },
+    {
+      "start": 166.3218,
+      "end": 168.385332,
+      "voice": 1502,
+      "pitch": 59.0534,
+      "pan": -0.7511,
+      "group": "choir"
+    },
+    {
+      "start": 166.326485,
+      "end": 168.390029,
+      "voice": 1502,
+      "pitch": 74.9646,
+      "pan": -0.3154,
+      "group": "choir"
+    },
+    {
+      "start": 166.33147,
+      "end": 168.395028,
+      "voice": 1502,
+      "pitch": 87.9887,
+      "pan": 0.7371,
+      "group": "lead"
+    },
+    {
+      "start": 166.336499,
+      "end": 168.400071,
+      "voice": 1502,
+      "pitch": 83.0145,
+      "pan": 0.2575,
+      "group": "choir"
+    },
+    {
+      "start": 166.348981,
+      "end": 168.412587,
+      "voice": 1502,
+      "pitch": 87.9716,
+      "pan": 0.7885,
+      "group": "choir"
+    },
+    {
+      "start": 168.369434,
+      "end": 168.434459,
+      "voice": 1520,
+      "pitch": 58.9903,
+      "pan": -0.7346,
+      "group": "choir"
+    },
+    {
+      "start": 168.372398,
+      "end": 168.437422,
+      "voice": 1520,
+      "pitch": 75.051,
+      "pan": -0.3527,
+      "group": "choir"
+    },
+    {
+      "start": 168.38207,
+      "end": 168.447094,
+      "voice": 1520,
+      "pitch": 83.0307,
+      "pan": 0.2558,
+      "group": "choir"
+    },
+    {
+      "start": 168.385331,
+      "end": 168.450354,
+      "voice": 1520,
+      "pitch": 59.0534,
+      "pan": -0.7511,
+      "group": "choir"
+    },
+    {
+      "start": 168.39003,
+      "end": 168.455053,
+      "voice": 1520,
+      "pitch": 74.9646,
+      "pan": -0.3154,
+      "group": "choir"
+    },
+    {
+      "start": 168.395028,
+      "end": 168.460051,
+      "voice": 1520,
+      "pitch": 87.9887,
+      "pan": 0.7371,
+      "group": "lead"
+    },
+    {
+      "start": 168.400071,
+      "end": 168.465093,
+      "voice": 1520,
+      "pitch": 83.0145,
+      "pan": 0.2575,
+      "group": "choir"
+    },
+    {
+      "start": 168.412587,
+      "end": 168.477608,
+      "voice": 1520,
+      "pitch": 87.9716,
+      "pan": 0.7885,
+      "group": "choir"
+    },
+    {
+      "start": 168.498904,
+      "end": 168.544679,
+      "voice": 1535,
+      "pitch": 58.9703,
+      "pan": -0.8053,
+      "group": "choir"
+    },
+    {
+      "start": 168.513725,
+      "end": 168.559498,
+      "voice": 1535,
+      "pitch": 74.9434,
+      "pan": -0.282,
+      "group": "choir"
+    },
+    {
+      "start": 168.518166,
+      "end": 168.563938,
+      "voice": 1535,
+      "pitch": 77.9884,
+      "pan": 0.3382,
+      "group": "choir"
+    },
+    {
+      "start": 168.519747,
+      "end": 168.565519,
+      "voice": 1535,
+      "pitch": 58.9478,
+      "pan": -0.7001,
+      "group": "choir"
+    },
+    {
+      "start": 168.527476,
+      "end": 168.573247,
+      "voice": 1535,
+      "pitch": 82.9658,
+      "pan": 0.6697,
+      "group": "lead"
+    },
+    {
+      "start": 168.533174,
+      "end": 168.578944,
+      "voice": 1535,
+      "pitch": 74.9464,
+      "pan": -0.3067,
+      "group": "choir"
+    },
+    {
+      "start": 168.538606,
+      "end": 168.584376,
+      "voice": 1535,
+      "pitch": 78.0625,
+      "pan": 0.2706,
+      "group": "choir"
+    },
+    {
+      "start": 168.542,
+      "end": 168.587769,
+      "voice": 1535,
+      "pitch": 82.9763,
+      "pan": 0.7071,
+      "group": "choir"
+    },
+    {
+      "start": 168.544679,
+      "end": 170.130344,
+      "voice": 1501,
+      "pitch": 58.9703,
+      "pan": -0.8053,
+      "group": "choir"
+    },
+    {
+      "start": 168.559498,
+      "end": 170.145245,
+      "voice": 1501,
+      "pitch": 74.9434,
+      "pan": -0.282,
+      "group": "choir"
+    },
+    {
+      "start": 168.563938,
+      "end": 170.14971,
+      "voice": 1501,
+      "pitch": 77.9884,
+      "pan": 0.3382,
+      "group": "choir"
+    },
+    {
+      "start": 168.565519,
+      "end": 170.151299,
+      "voice": 1501,
+      "pitch": 58.9478,
+      "pan": -0.7001,
+      "group": "choir"
+    },
+    {
+      "start": 168.573247,
+      "end": 170.15907,
+      "voice": 1501,
+      "pitch": 82.9658,
+      "pan": 0.6697,
+      "group": "lead"
+    },
+    {
+      "start": 168.578945,
+      "end": 170.1648,
+      "voice": 1501,
+      "pitch": 74.9464,
+      "pan": -0.3067,
+      "group": "choir"
+    },
+    {
+      "start": 168.584376,
+      "end": 170.170261,
+      "voice": 1501,
+      "pitch": 78.0625,
+      "pan": 0.2706,
+      "group": "choir"
+    },
+    {
+      "start": 168.58777,
+      "end": 170.173674,
+      "voice": 1501,
+      "pitch": 82.9763,
+      "pan": 0.7071,
+      "group": "choir"
+    },
+    {
+      "start": 170.130344,
+      "end": 170.176362,
+      "voice": 1533,
+      "pitch": 58.9703,
+      "pan": -0.8053,
+      "group": "choir"
+    },
+    {
+      "start": 170.145245,
+      "end": 170.191261,
+      "voice": 1533,
+      "pitch": 74.9434,
+      "pan": -0.282,
+      "group": "choir"
+    },
+    {
+      "start": 170.14971,
+      "end": 170.195725,
+      "voice": 1533,
+      "pitch": 77.9884,
+      "pan": 0.3382,
+      "group": "choir"
+    },
+    {
+      "start": 170.1513,
+      "end": 170.197315,
+      "voice": 1533,
+      "pitch": 58.9478,
+      "pan": -0.7001,
+      "group": "choir"
+    },
+    {
+      "start": 170.159071,
+      "end": 170.205085,
+      "voice": 1533,
+      "pitch": 82.9658,
+      "pan": 0.6697,
+      "group": "lead"
+    },
+    {
+      "start": 170.1648,
+      "end": 170.210813,
+      "voice": 1533,
+      "pitch": 74.9464,
+      "pan": -0.3067,
+      "group": "choir"
+    },
+    {
+      "start": 170.170261,
+      "end": 170.216274,
+      "voice": 1533,
+      "pitch": 78.0625,
+      "pan": 0.2706,
+      "group": "choir"
+    },
+    {
+      "start": 170.173674,
+      "end": 170.219686,
+      "voice": 1533,
+      "pitch": 82.9763,
+      "pan": 0.7071,
+      "group": "choir"
+    },
+    {
+      "start": 170.176361,
+      "end": 170.241386,
+      "voice": 1521,
+      "pitch": 58.9703,
+      "pan": -0.8053,
+      "group": "choir"
+    },
+    {
+      "start": 170.191261,
+      "end": 170.256283,
+      "voice": 1521,
+      "pitch": 74.9434,
+      "pan": -0.282,
+      "group": "choir"
+    },
+    {
+      "start": 170.195725,
+      "end": 170.260747,
+      "voice": 1521,
+      "pitch": 77.9884,
+      "pan": 0.3382,
+      "group": "choir"
+    },
+    {
+      "start": 170.197315,
+      "end": 170.262336,
+      "voice": 1521,
+      "pitch": 58.9478,
+      "pan": -0.7001,
+      "group": "choir"
+    },
+    {
+      "start": 170.205085,
+      "end": 170.270105,
+      "voice": 1521,
+      "pitch": 82.9658,
+      "pan": 0.6697,
+      "group": "lead"
+    },
+    {
+      "start": 170.210813,
+      "end": 170.275832,
+      "voice": 1521,
+      "pitch": 74.9464,
+      "pan": -0.3067,
+      "group": "choir"
+    },
+    {
+      "start": 170.216274,
+      "end": 170.281292,
+      "voice": 1521,
+      "pitch": 78.0625,
+      "pan": 0.2706,
+      "group": "choir"
+    },
+    {
+      "start": 170.219686,
+      "end": 170.284703,
+      "voice": 1521,
+      "pitch": 82.9763,
+      "pan": 0.7071,
+      "group": "choir"
+    },
+    {
+      "start": 170.241387,
+      "end": 172.784959,
+      "voice": 1500,
+      "pitch": 58.9703,
+      "pan": -0.8053,
+      "group": "choir"
+    },
+    {
+      "start": 170.256283,
+      "end": 172.799967,
+      "voice": 1500,
+      "pitch": 74.9434,
+      "pan": -0.282,
+      "group": "choir"
+    },
+    {
+      "start": 170.260747,
+      "end": 172.804464,
+      "voice": 1500,
+      "pitch": 77.9884,
+      "pan": 0.3382,
+      "group": "choir"
+    },
+    {
+      "start": 170.262336,
+      "end": 172.806065,
+      "voice": 1500,
+      "pitch": 58.9478,
+      "pan": -0.7001,
+      "group": "choir"
+    },
+    {
+      "start": 170.270105,
+      "end": 172.813892,
+      "voice": 1500,
+      "pitch": 82.9658,
+      "pan": 0.6697,
+      "group": "lead"
+    },
+    {
+      "start": 170.275832,
+      "end": 172.819662,
+      "voice": 1500,
+      "pitch": 74.9464,
+      "pan": -0.3067,
+      "group": "choir"
+    },
+    {
+      "start": 170.281291,
+      "end": 172.825162,
+      "voice": 1500,
+      "pitch": 78.0625,
+      "pan": 0.2706,
+      "group": "choir"
+    },
+    {
+      "start": 170.284703,
+      "end": 172.828599,
+      "voice": 1500,
+      "pitch": 82.9763,
+      "pan": 0.7071,
+      "group": "choir"
+    },
+    {
+      "start": 172.784959,
+      "end": 172.850445,
+      "voice": 1517,
+      "pitch": 58.9703,
+      "pan": -0.8053,
+      "group": "choir"
+    },
+    {
+      "start": 172.799967,
+      "end": 172.86545,
+      "voice": 1517,
+      "pitch": 74.9434,
+      "pan": -0.282,
+      "group": "choir"
+    },
+    {
+      "start": 172.804464,
+      "end": 172.869947,
+      "voice": 1517,
+      "pitch": 77.9884,
+      "pan": 0.3382,
+      "group": "choir"
+    },
+    {
+      "start": 172.806065,
+      "end": 172.871547,
+      "voice": 1517,
+      "pitch": 58.9478,
+      "pan": -0.7001,
+      "group": "choir"
+    },
+    {
+      "start": 172.813892,
+      "end": 172.879373,
+      "voice": 1517,
+      "pitch": 82.9658,
+      "pan": 0.6697,
+      "group": "lead"
+    },
+    {
+      "start": 172.819662,
+      "end": 172.885142,
+      "voice": 1517,
+      "pitch": 74.9464,
+      "pan": -0.3067,
+      "group": "choir"
+    },
+    {
+      "start": 172.825162,
+      "end": 172.890641,
+      "voice": 1517,
+      "pitch": 78.0625,
+      "pan": 0.2706,
+      "group": "choir"
+    },
+    {
+      "start": 172.828599,
+      "end": 172.894077,
+      "voice": 1517,
+      "pitch": 82.9763,
+      "pan": 0.7071,
+      "group": "choir"
+    },
+    {
+      "start": 172.926859,
+      "end": 172.991859,
+      "voice": 1531,
+      "pitch": 58.9389,
+      "pan": -0.7472,
+      "group": "choir"
+    },
+    {
+      "start": 172.931587,
+      "end": 172.996587,
+      "voice": 1531,
+      "pitch": 74.9592,
+      "pan": -0.3058,
+      "group": "choir"
+    },
+    {
+      "start": 172.943965,
+      "end": 173.008965,
+      "voice": 1531,
+      "pitch": 58.999,
+      "pan": -0.6633,
+      "group": "choir"
+    },
+    {
+      "start": 172.944142,
+      "end": 173.009142,
+      "voice": 1531,
+      "pitch": 83.9871,
+      "pan": 0.3328,
+      "group": "choir"
+    },
+    {
+      "start": 172.950027,
+      "end": 173.015027,
+      "voice": 1531,
+      "pitch": 74.9793,
+      "pan": -0.3085,
+      "group": "choir"
+    },
+    {
+      "start": 172.955137,
+      "end": 173.020137,
+      "voice": 1531,
+      "pitch": 89.0,
+      "pan": 0.7979,
+      "group": "lead"
+    },
+    {
+      "start": 172.960436,
+      "end": 173.025436,
+      "voice": 1531,
+      "pitch": 84.0175,
+      "pan": 0.3403,
+      "group": "choir"
+    },
+    {
+      "start": 172.969637,
+      "end": 173.034637,
+      "voice": 1531,
+      "pitch": 89.0302,
+      "pan": 0.7746,
+      "group": "choir"
+    },
+    {
+      "start": 172.991859,
+      "end": 174.30275,
+      "voice": 1504,
+      "pitch": 58.9389,
+      "pan": -0.7472,
+      "group": "choir"
+    },
+    {
+      "start": 172.996587,
+      "end": 174.307478,
+      "voice": 1504,
+      "pitch": 74.9592,
+      "pan": -0.3058,
+      "group": "choir"
+    },
+    {
+      "start": 173.008965,
+      "end": 174.319856,
+      "voice": 1504,
+      "pitch": 58.999,
+      "pan": -0.6633,
+      "group": "choir"
+    },
+    {
+      "start": 173.009142,
+      "end": 174.320033,
+      "voice": 1504,
+      "pitch": 83.9871,
+      "pan": 0.3328,
+      "group": "choir"
+    },
+    {
+      "start": 173.015027,
+      "end": 174.325918,
+      "voice": 1504,
+      "pitch": 74.9793,
+      "pan": -0.3085,
+      "group": "choir"
+    },
+    {
+      "start": 173.020137,
+      "end": 174.331028,
+      "voice": 1504,
+      "pitch": 89.0,
+      "pan": 0.7979,
+      "group": "lead"
+    },
+    {
+      "start": 173.025436,
+      "end": 174.336327,
+      "voice": 1504,
+      "pitch": 84.0175,
+      "pan": 0.3403,
+      "group": "choir"
+    },
+    {
+      "start": 173.034637,
+      "end": 174.345528,
+      "voice": 1504,
+      "pitch": 89.0302,
+      "pan": 0.7746,
+      "group": "choir"
+    },
+    {
+      "start": 174.376536,
+      "end": 174.441174,
+      "voice": 1517,
+      "pitch": 70.995,
+      "pan": -0.7537,
+      "group": "choir"
+    },
+    {
+      "start": 174.385477,
+      "end": 174.450114,
+      "voice": 1517,
+      "pitch": 75.0013,
+      "pan": -0.2225,
+      "group": "choir"
+    },
+    {
+      "start": 174.388688,
+      "end": 174.453324,
+      "voice": 1517,
+      "pitch": 71.0243,
+      "pan": -0.7557,
+      "group": "choir"
+    },
+    {
+      "start": 174.390964,
+      "end": 174.4556,
+      "voice": 1517,
+      "pitch": 85.0308,
+      "pan": 0.2041,
+      "group": "choir"
+    },
+    {
+      "start": 174.401688,
+      "end": 174.466322,
+      "voice": 1517,
+      "pitch": 74.9579,
+      "pan": -0.3166,
+      "group": "choir"
+    },
+    {
+      "start": 174.405773,
+      "end": 174.470407,
+      "voice": 1517,
+      "pitch": 90.0283,
+      "pan": 0.6498,
+      "group": "lead"
+    },
+    {
+      "start": 174.413978,
+      "end": 174.47861,
+      "voice": 1517,
+      "pitch": 85.0496,
+      "pan": 0.2002,
+      "group": "choir"
+    },
+    {
+      "start": 174.4169,
+      "end": 174.481532,
+      "voice": 1517,
+      "pitch": 89.9914,
+      "pan": 0.6568,
+      "group": "choir"
+    },
+    {
+      "start": 174.441174,
+      "end": 177.422466,
+      "voice": 1512,
+      "pitch": 70.995,
+      "pan": -0.7537,
+      "group": "choir"
+    },
+    {
+      "start": 174.450114,
+      "end": 177.43148,
+      "voice": 1512,
+      "pitch": 75.0013,
+      "pan": -0.2225,
+      "group": "choir"
+    },
+    {
+      "start": 174.453325,
+      "end": 177.434717,
+      "voice": 1512,
+      "pitch": 71.0243,
+      "pan": -0.7557,
+      "group": "choir"
+    },
+    {
+      "start": 174.4556,
+      "end": 177.437011,
+      "voice": 1512,
+      "pitch": 85.0308,
+      "pan": 0.2041,
+      "group": "choir"
+    },
+    {
+      "start": 174.466322,
+      "end": 177.447821,
+      "voice": 1512,
+      "pitch": 74.9579,
+      "pan": -0.3166,
+      "group": "choir"
+    },
+    {
+      "start": 174.470407,
+      "end": 177.45194,
+      "voice": 1512,
+      "pitch": 90.0283,
+      "pan": 0.6498,
+      "group": "lead"
+    },
+    {
+      "start": 174.47861,
+      "end": 177.46021,
+      "voice": 1512,
+      "pitch": 85.0496,
+      "pan": 0.2002,
+      "group": "choir"
+    },
+    {
+      "start": 174.481532,
+      "end": 177.463156,
+      "voice": 1512,
+      "pitch": 89.9914,
+      "pan": 0.6568,
+      "group": "choir"
+    },
+    {
+      "start": 177.422466,
+      "end": 177.487605,
+      "voice": 1516,
+      "pitch": 70.995,
+      "pan": -0.7537,
+      "group": "choir"
+    },
+    {
+      "start": 177.431479,
+      "end": 177.496617,
+      "voice": 1516,
+      "pitch": 75.0013,
+      "pan": -0.2225,
+      "group": "choir"
+    },
+    {
+      "start": 177.434717,
+      "end": 177.499854,
+      "voice": 1516,
+      "pitch": 71.0243,
+      "pan": -0.7557,
+      "group": "choir"
+    },
+    {
+      "start": 177.43701,
+      "end": 177.502147,
+      "voice": 1516,
+      "pitch": 85.0308,
+      "pan": 0.2041,
+      "group": "choir"
+    },
+    {
+      "start": 177.447821,
+      "end": 177.512956,
+      "voice": 1516,
+      "pitch": 74.9579,
+      "pan": -0.3166,
+      "group": "choir"
+    },
+    {
+      "start": 177.451939,
+      "end": 177.517074,
+      "voice": 1516,
+      "pitch": 90.0283,
+      "pan": 0.6498,
+      "group": "lead"
+    },
+    {
+      "start": 177.460211,
+      "end": 177.525344,
+      "voice": 1516,
+      "pitch": 85.0496,
+      "pan": 0.2002,
+      "group": "choir"
+    },
+    {
+      "start": 177.463156,
+      "end": 177.528289,
+      "voice": 1516,
+      "pitch": 89.9914,
+      "pan": 0.6568,
+      "group": "choir"
+    },
+    {
+      "start": 177.487605,
+      "end": 177.552744,
+      "voice": 1529,
+      "pitch": 70.995,
+      "pan": -0.7537,
+      "group": "choir"
+    },
+    {
+      "start": 177.496617,
+      "end": 177.561755,
+      "voice": 1529,
+      "pitch": 75.0013,
+      "pan": -0.2225,
+      "group": "choir"
+    },
+    {
+      "start": 177.499854,
+      "end": 177.564991,
+      "voice": 1529,
+      "pitch": 71.0243,
+      "pan": -0.7557,
+      "group": "choir"
+    },
+    {
+      "start": 177.502147,
+      "end": 177.567284,
+      "voice": 1529,
+      "pitch": 85.0308,
+      "pan": 0.2041,
+      "group": "choir"
+    },
+    {
+      "start": 177.512956,
+      "end": 177.578091,
+      "voice": 1529,
+      "pitch": 74.9579,
+      "pan": -0.3166,
+      "group": "choir"
+    },
+    {
+      "start": 177.517074,
+      "end": 177.582209,
+      "voice": 1529,
+      "pitch": 90.0283,
+      "pan": 0.6498,
+      "group": "lead"
+    },
+    {
+      "start": 177.525344,
+      "end": 177.590477,
+      "voice": 1529,
+      "pitch": 85.0496,
+      "pan": 0.2002,
+      "group": "choir"
+    },
+    {
+      "start": 177.528289,
+      "end": 177.593422,
+      "voice": 1529,
+      "pitch": 89.9914,
+      "pan": 0.6568,
+      "group": "choir"
+    },
+    {
+      "start": 178.098216,
+      "end": 178.162772,
+      "voice": 1016,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 178.162773,
+      "end": 179.804799,
+      "voice": 1004,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 179.804798,
+      "end": 179.869818,
+      "voice": 1023,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 179.869818,
+      "end": 179.915832,
+      "voice": 1033,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 179.971023,
+      "end": 181.792856,
+      "voice": 1011,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 181.848347,
+      "end": 181.894296,
+      "voice": 1035,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 181.894296,
+      "end": 183.26302,
+      "voice": 1001,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 183.26302,
+      "end": 183.308969,
+      "voice": 1034,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 183.308969,
+      "end": 185.499097,
+      "voice": 1004,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 185.499096,
+      "end": 185.564206,
+      "voice": 1016,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 185.619853,
+      "end": 185.684858,
+      "voice": 1022,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 185.684859,
+      "end": 187.452935,
+      "voice": 1008,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 187.508561,
+      "end": 187.554561,
+      "voice": 1033,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 187.554561,
+      "end": 188.68024,
+      "voice": 1008,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 188.735866,
+      "end": 188.781916,
+      "voice": 1035,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 188.781916,
+      "end": 190.566392,
+      "voice": 1000,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 190.621817,
+      "end": 190.687064,
+      "voice": 1021,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 190.687064,
+      "end": 193.853651,
+      "voice": 1002,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 193.853651,
+      "end": 193.918478,
+      "voice": 1019,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 193.918478,
+      "end": 193.964355,
+      "voice": 1034,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 193.964355,
+      "end": 195.93744,
+      "voice": 1004,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 195.93744,
+      "end": 196.00172,
+      "voice": 1016,
+      "pitch": 60,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 196.529547,
+      "end": 196.594547,
+      "voice": 1317,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 196.594547,
+      "end": 198.420024,
+      "voice": 1313,
+      "pitch": 82,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 198.474627,
+      "end": 198.52098,
+      "voice": 1335,
+      "pitch": 83,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 198.52098,
+      "end": 198.586478,
+      "voice": 1320,
+      "pitch": 83,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 198.586478,
+      "end": 200.285836,
+      "voice": 1301,
+      "pitch": 83,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 200.285836,
+      "end": 200.350725,
+      "voice": 1318,
+      "pitch": 83,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 200.40482,
+      "end": 200.46982,
+      "voice": 1331,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 200.46982,
+      "end": 201.603265,
+      "voice": 1304,
+      "pitch": 75,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 201.65736,
+      "end": 201.703942,
+      "voice": 1336,
+      "pitch": 78,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 201.703941,
+      "end": 204.116589,
+      "voice": 1301,
+      "pitch": 78,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 204.116589,
+      "end": 204.181821,
+      "voice": 1325,
+      "pitch": 78,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 204.181821,
+      "end": 205.683939,
+      "voice": 1309,
+      "pitch": 78,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 205.683939,
+      "end": 207.183212,
+      "voice": 1304,
+      "pitch": 78,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 207.183213,
+      "end": 207.247959,
+      "voice": 1317,
+      "pitch": 78,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 207.247959,
+      "end": 207.312705,
+      "voice": 1323,
+      "pitch": 78,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 207.365916,
+      "end": 207.431087,
+      "voice": 1322,
+      "pitch": 85,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 207.431087,
+      "end": 209.199215,
+      "voice": 1308,
+      "pitch": 85,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 209.252161,
+      "end": 209.317217,
+      "voice": 1327,
+      "pitch": 81,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 209.317217,
+      "end": 211.018765,
+      "voice": 1303,
+      "pitch": 81,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 211.018765,
+      "end": 211.083702,
+      "voice": 1328,
+      "pitch": 81,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 211.136551,
+      "end": 211.201521,
+      "voice": 1316,
+      "pitch": 78,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 211.201521,
+      "end": 213.768638,
+      "voice": 1312,
+      "pitch": 78,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 213.768638,
+      "end": 213.81469,
+      "voice": 1336,
+      "pitch": 78,
+      "pan": 0.35,
+      "group": "lead"
+    },
+    {
+      "start": 214.32637,
+      "end": 214.391344,
+      "voice": 1031,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 214.391343,
+      "end": 215.942034,
+      "voice": 1002,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 215.942035,
+      "end": 216.007325,
+      "voice": 1017,
+      "pitch": 58,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 216.060515,
+      "end": 217.748983,
+      "voice": 1011,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 217.802173,
+      "end": 217.866942,
+      "voice": 1021,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 217.866943,
+      "end": 219.431389,
+      "voice": 1001,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 219.431389,
+      "end": 219.496653,
+      "voice": 1019,
+      "pitch": 54,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 219.55025,
+      "end": 219.61525,
+      "voice": 1021,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 219.61525,
+      "end": 221.20562,
+      "voice": 1006,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 221.20562,
+      "end": 221.25162,
+      "voice": 1034,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 221.305217,
+      "end": 221.369695,
+      "voice": 1021,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 221.369696,
+      "end": 222.955257,
+      "voice": 1001,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 222.955257,
+      "end": 223.02035,
+      "voice": 1031,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 223.074457,
+      "end": 223.139054,
+      "voice": 1023,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 223.139055,
+      "end": 225.184793,
+      "voice": 1005,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 225.184792,
+      "end": 225.250053,
+      "voice": 1025,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 225.250054,
+      "end": 225.296239,
+      "voice": 1033,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 225.296239,
+      "end": 226.585472,
+      "voice": 1009,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 226.640135,
+      "end": 226.704443,
+      "voice": 1025,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 226.704443,
+      "end": 229.124772,
+      "voice": 1007,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 229.124772,
+      "end": 229.170727,
+      "voice": 1033,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 229.170727,
+      "end": 229.235663,
+      "voice": 1023,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 229.235663,
+      "end": 229.281618,
+      "voice": 1033,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 229.281618,
+      "end": 231.719667,
+      "voice": 1002,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 231.719667,
+      "end": 231.765992,
+      "voice": 1032,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 231.765992,
+      "end": 231.831451,
+      "voice": 1023,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 232.369325,
+      "end": 233.655618,
+      "voice": 1104,
+      "pitch": 62,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 233.711559,
+      "end": 233.757559,
+      "voice": 1137,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 233.757559,
+      "end": 235.617071,
+      "voice": 1102,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 235.617071,
+      "end": 235.682071,
+      "voice": 1123,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 235.682071,
+      "end": 235.728071,
+      "voice": 1133,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 235.784012,
+      "end": 235.829938,
+      "voice": 1134,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 235.829938,
+      "end": 237.738721,
+      "voice": 1103,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 237.738721,
+      "end": 237.803753,
+      "voice": 1117,
+      "pitch": 64,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 237.859811,
+      "end": 237.924837,
+      "voice": 1119,
+      "pitch": 71,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 237.924837,
+      "end": 239.81479,
+      "voice": 1109,
+      "pitch": 71,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 239.814791,
+      "end": 239.879734,
+      "voice": 1117,
+      "pitch": 71,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 239.935719,
+      "end": 241.227914,
+      "voice": 1104,
+      "pitch": 68,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 241.283899,
+      "end": 241.330174,
+      "voice": 1136,
+      "pitch": 66,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 241.330174,
+      "end": 243.961565,
+      "voice": 1101,
+      "pitch": 66,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 243.961565,
+      "end": 244.026674,
+      "voice": 1125,
+      "pitch": 66,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 244.026674,
+      "end": 245.668735,
+      "voice": 1109,
+      "pitch": 66,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 245.668735,
+      "end": 247.303174,
+      "voice": 1104,
+      "pitch": 66,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 247.303175,
+      "end": 247.367864,
+      "voice": 1117,
+      "pitch": 66,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 247.367863,
+      "end": 247.413643,
+      "voice": 1133,
+      "pitch": 66,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 247.469029,
+      "end": 247.515295,
+      "voice": 1136,
+      "pitch": 71,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 247.515295,
+      "end": 250.307256,
+      "voice": 1106,
+      "pitch": 71,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 250.307256,
+      "end": 250.372139,
+      "voice": 1120,
+      "pitch": 71,
+      "pan": 0.2,
+      "group": "lead"
+    },
+    {
+      "start": 250.903508,
+      "end": 250.968916,
+      "voice": 1031,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 250.968916,
+      "end": 252.099985,
+      "voice": 1004,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 252.154547,
+      "end": 252.219551,
+      "voice": 1025,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 252.219551,
+      "end": 252.284555,
+      "voice": 1019,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 252.284555,
+      "end": 253.976501,
+      "voice": 1008,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 253.976501,
+      "end": 254.022385,
+      "voice": 1033,
+      "pitch": 56,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 254.076615,
+      "end": 254.122615,
+      "voice": 1034,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 254.122615,
+      "end": 255.868199,
+      "voice": 1003,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 255.868199,
+      "end": 255.933199,
+      "voice": 1017,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 255.98743,
+      "end": 256.052557,
+      "voice": 1023,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 256.052556,
+      "end": 257.775523,
+      "voice": 1001,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 257.775523,
+      "end": 257.840402,
+      "voice": 1018,
+      "pitch": 63,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 257.894426,
+      "end": 257.959454,
+      "voice": 1021,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 257.959454,
+      "end": 259.336687,
+      "voice": 1001,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 259.336687,
+      "end": 259.401715,
+      "voice": 1026,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 259.401715,
+      "end": 261.599891,
+      "voice": 1014,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 261.599891,
+      "end": 261.645871,
+      "voice": 1033,
+      "pitch": 61,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 261.699849,
+      "end": 262.882643,
+      "voice": 1004,
+      "pitch": 59,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 262.936748,
+      "end": 262.982617,
+      "voice": 1034,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 262.982617,
+      "end": 266.216781,
+      "voice": 1001,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 266.216781,
+      "end": 266.281949,
+      "voice": 1018,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 266.281949,
+      "end": 266.328068,
+      "voice": 1036,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 266.328067,
+      "end": 268.36166,
+      "voice": 1004,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 268.36166,
+      "end": 268.426828,
+      "voice": 1016,
+      "pitch": 65,
+      "pan": -0.1,
+      "group": "lead"
+    },
+    {
+      "start": 268.954471,
+      "end": 269.019471,
+      "voice": 1531,
+      "pitch": 70.9724,
+      "pan": -0.67,
+      "group": "choir"
+    },
+    {
+      "start": 268.964591,
+      "end": 269.029591,
+      "voice": 1531,
+      "pitch": 75.0501,
+      "pan": -0.3393,
+      "group": "choir"
+    },
+    {
+      "start": 268.971385,
+      "end": 269.036385,
+      "voice": 1531,
+      "pitch": 70.944,
+      "pan": -0.6894,
+      "group": "choir"
+    },
+    {
+      "start": 268.974384,
+      "end": 269.039384,
+      "voice": 1531,
+      "pitch": 84.9956,
+      "pan": 0.2329,
+      "group": "choir"
+    },
+    {
+      "start": 268.98847,
+      "end": 269.05347,
+      "voice": 1531,
+      "pitch": 74.9388,
+      "pan": -0.2453,
+      "group": "choir"
+    },
+    {
+      "start": 268.98854,
+      "end": 269.05354,
+      "voice": 1531,
+      "pitch": 89.9366,
+      "pan": 0.805,
+      "group": "lead"
+    },
+    {
+      "start": 268.991525,
+      "end": 269.056525,
+      "voice": 1531,
+      "pitch": 84.9858,
+      "pan": 0.2749,
+      "group": "choir"
+    },
+    {
+      "start": 268.998157,
+      "end": 269.063157,
+      "voice": 1531,
+      "pitch": 89.9936,
+      "pan": 0.647,
+      "group": "choir"
+    },
+    {
+      "start": 269.019471,
+      "end": 270.098535,
+      "voice": 1504,
+      "pitch": 70.9724,
+      "pan": -0.67,
+      "group": "choir"
+    },
+    {
+      "start": 269.029591,
+      "end": 270.108655,
+      "voice": 1504,
+      "pitch": 75.0501,
+      "pan": -0.3393,
+      "group": "choir"
+    },
+    {
+      "start": 269.036385,
+      "end": 270.115449,
+      "voice": 1504,
+      "pitch": 70.944,
+      "pan": -0.6894,
+      "group": "choir"
+    },
+    {
+      "start": 269.039384,
+      "end": 270.118448,
+      "voice": 1504,
+      "pitch": 84.9956,
+      "pan": 0.2329,
+      "group": "choir"
+    },
+    {
+      "start": 269.05347,
+      "end": 270.132534,
+      "voice": 1504,
+      "pitch": 74.9388,
+      "pan": -0.2453,
+      "group": "choir"
+    },
+    {
+      "start": 269.05354,
+      "end": 270.132604,
+      "voice": 1504,
+      "pitch": 89.9366,
+      "pan": 0.805,
+      "group": "lead"
+    },
+    {
+      "start": 269.056525,
+      "end": 270.135589,
+      "voice": 1504,
+      "pitch": 84.9858,
+      "pan": 0.2749,
+      "group": "choir"
+    },
+    {
+      "start": 269.063157,
+      "end": 270.142221,
+      "voice": 1504,
+      "pitch": 89.9936,
+      "pan": 0.647,
+      "group": "choir"
+    },
+    {
+      "start": 270.178026,
+      "end": 270.223729,
+      "voice": 1537,
+      "pitch": 70.9474,
+      "pan": -0.7154,
+      "group": "choir"
+    },
+    {
+      "start": 270.179746,
+      "end": 270.225449,
+      "voice": 1537,
+      "pitch": 86.9399,
+      "pan": -0.3033,
+      "group": "choir"
+    },
+    {
+      "start": 270.191482,
+      "end": 270.237184,
+      "voice": 1537,
+      "pitch": 88.9849,
+      "pan": 0.3305,
+      "group": "choir"
+    },
+    {
+      "start": 270.192837,
+      "end": 270.238539,
+      "voice": 1537,
+      "pitch": 71.0239,
+      "pan": -0.7877,
+      "group": "choir"
+    },
+    {
+      "start": 270.198965,
+      "end": 270.244666,
+      "voice": 1537,
+      "pitch": 93.943,
+      "pan": 0.6395,
+      "group": "lead"
+    },
+    {
+      "start": 270.204995,
+      "end": 270.250695,
+      "voice": 1537,
+      "pitch": 87.0312,
+      "pan": -0.3217,
+      "group": "choir"
+    },
+    {
+      "start": 270.208911,
+      "end": 270.254611,
+      "voice": 1537,
+      "pitch": 89.0375,
+      "pan": 0.2227,
+      "group": "choir"
+    },
+    {
+      "start": 270.218993,
+      "end": 270.264692,
+      "voice": 1537,
+      "pitch": 94.043,
+      "pan": 0.7117,
+      "group": "choir"
+    },
+    {
+      "start": 270.223729,
+      "end": 272.355692,
+      "voice": 1505,
+      "pitch": 70.9474,
+      "pan": -0.7154,
+      "group": "choir"
+    },
+    {
+      "start": 270.225449,
+      "end": 272.357429,
+      "voice": 1505,
+      "pitch": 86.9399,
+      "pan": -0.3033,
+      "group": "choir"
+    },
+    {
+      "start": 270.237184,
+      "end": 272.369281,
+      "voice": 1505,
+      "pitch": 88.9849,
+      "pan": 0.3305,
+      "group": "choir"
+    },
+    {
+      "start": 270.238539,
+      "end": 272.370649,
+      "voice": 1505,
+      "pitch": 71.0239,
+      "pan": -0.7877,
+      "group": "choir"
+    },
+    {
+      "start": 270.244666,
+      "end": 272.376837,
+      "voice": 1505,
+      "pitch": 93.943,
+      "pan": 0.6395,
+      "group": "lead"
+    },
+    {
+      "start": 270.250695,
+      "end": 272.382926,
+      "voice": 1505,
+      "pitch": 87.0312,
+      "pan": -0.3217,
+      "group": "choir"
+    },
+    {
+      "start": 270.254611,
+      "end": 272.386881,
+      "voice": 1505,
+      "pitch": 89.0375,
+      "pan": 0.2227,
+      "group": "choir"
+    },
+    {
+      "start": 270.264692,
+      "end": 272.397063,
+      "voice": 1505,
+      "pitch": 94.043,
+      "pan": 0.7117,
+      "group": "choir"
+    },
+    {
+      "start": 272.355692,
+      "end": 272.420893,
+      "voice": 1520,
+      "pitch": 70.9474,
+      "pan": -0.7154,
+      "group": "choir"
+    },
+    {
+      "start": 272.357429,
+      "end": 272.422629,
+      "voice": 1520,
+      "pitch": 86.9399,
+      "pan": -0.3033,
+      "group": "choir"
+    },
+    {
+      "start": 272.36928,
+      "end": 272.434478,
+      "voice": 1520,
+      "pitch": 88.9849,
+      "pan": 0.3305,
+      "group": "choir"
+    },
+    {
+      "start": 272.370649,
+      "end": 272.435847,
+      "voice": 1520,
+      "pitch": 71.0239,
+      "pan": -0.7877,
+      "group": "choir"
+    },
+    {
+      "start": 272.376837,
+      "end": 272.442034,
+      "voice": 1520,
+      "pitch": 93.943,
+      "pan": 0.6395,
+      "group": "lead"
+    },
+    {
+      "start": 272.382926,
+      "end": 272.448122,
+      "voice": 1520,
+      "pitch": 87.0312,
+      "pan": -0.3217,
+      "group": "choir"
+    },
+    {
+      "start": 272.386881,
+      "end": 272.452076,
+      "voice": 1520,
+      "pitch": 89.0375,
+      "pan": 0.2227,
+      "group": "choir"
+    },
+    {
+      "start": 272.397062,
+      "end": 272.462256,
+      "voice": 1520,
+      "pitch": 94.043,
+      "pan": 0.7117,
+      "group": "choir"
+    },
+    {
+      "start": 272.420893,
+      "end": 272.467035,
+      "voice": 1536,
+      "pitch": 70.9474,
+      "pan": -0.7154,
+      "group": "choir"
+    },
+    {
+      "start": 272.422629,
+      "end": 272.468771,
+      "voice": 1536,
+      "pitch": 86.9399,
+      "pan": -0.3033,
+      "group": "choir"
+    },
+    {
+      "start": 272.434479,
+      "end": 272.480619,
+      "voice": 1536,
+      "pitch": 88.9849,
+      "pan": 0.3305,
+      "group": "choir"
+    },
+    {
+      "start": 272.435847,
+      "end": 272.481987,
+      "voice": 1536,
+      "pitch": 71.0239,
+      "pan": -0.7877,
+      "group": "choir"
+    },
+    {
+      "start": 272.442034,
+      "end": 272.488173,
+      "voice": 1536,
+      "pitch": 93.943,
+      "pan": 0.6395,
+      "group": "lead"
+    },
+    {
+      "start": 272.448122,
+      "end": 272.494261,
+      "voice": 1536,
+      "pitch": 87.0312,
+      "pan": -0.3217,
+      "group": "choir"
+    },
+    {
+      "start": 272.452076,
+      "end": 272.498214,
+      "voice": 1536,
+      "pitch": 89.0375,
+      "pan": 0.2227,
+      "group": "choir"
+    },
+    {
+      "start": 272.462256,
+      "end": 272.508393,
+      "voice": 1536,
+      "pitch": 94.043,
+      "pan": 0.7117,
+      "group": "choir"
+    },
+    {
+      "start": 272.467035,
+      "end": 273.808694,
+      "voice": 1504,
+      "pitch": 70.9474,
+      "pan": -0.7154,
+      "group": "choir"
+    },
+    {
+      "start": 272.468771,
+      "end": 273.81043,
+      "voice": 1504,
+      "pitch": 86.9399,
+      "pan": -0.3033,
+      "group": "choir"
+    },
+    {
+      "start": 272.480619,
+      "end": 273.822281,
+      "voice": 1504,
+      "pitch": 88.9849,
+      "pan": 0.3305,
+      "group": "choir"
+    },
+    {
+      "start": 272.481987,
+      "end": 273.823649,
+      "voice": 1504,
+      "pitch": 71.0239,
+      "pan": -0.7877,
+      "group": "choir"
+    },
+    {
+      "start": 272.488174,
+      "end": 273.829838,
+      "voice": 1504,
+      "pitch": 93.943,
+      "pan": 0.6395,
+      "group": "lead"
+    },
+    {
+      "start": 272.494261,
+      "end": 273.835926,
+      "voice": 1504,
+      "pitch": 87.0312,
+      "pan": -0.3217,
+      "group": "choir"
+    },
+    {
+      "start": 272.498215,
+      "end": 273.839881,
+      "voice": 1504,
+      "pitch": 89.0375,
+      "pan": 0.2227,
+      "group": "choir"
+    },
+    {
+      "start": 272.508393,
+      "end": 273.850061,
+      "voice": 1504,
+      "pitch": 94.043,
+      "pan": 0.7117,
+      "group": "choir"
+    },
+    {
+      "start": 273.808694,
+      "end": 273.873895,
+      "voice": 1517,
+      "pitch": 70.9474,
+      "pan": -0.7154,
+      "group": "choir"
+    },
+    {
+      "start": 273.81043,
+      "end": 273.87563,
+      "voice": 1517,
+      "pitch": 86.9399,
+      "pan": -0.3033,
+      "group": "choir"
+    },
+    {
+      "start": 273.822281,
+      "end": 273.887479,
+      "voice": 1517,
+      "pitch": 88.9849,
+      "pan": 0.3305,
+      "group": "choir"
+    },
+    {
+      "start": 273.823649,
+      "end": 273.888847,
+      "voice": 1517,
+      "pitch": 71.0239,
+      "pan": -0.7877,
+      "group": "choir"
+    },
+    {
+      "start": 273.829837,
+      "end": 273.895034,
+      "voice": 1517,
+      "pitch": 93.943,
+      "pan": 0.6395,
+      "group": "lead"
+    },
+    {
+      "start": 273.835926,
+      "end": 273.901122,
+      "voice": 1517,
+      "pitch": 87.0312,
+      "pan": -0.3217,
+      "group": "choir"
+    },
+    {
+      "start": 273.839881,
+      "end": 273.905076,
+      "voice": 1517,
+      "pitch": 89.0375,
+      "pan": 0.2227,
+      "group": "choir"
+    },
+    {
+      "start": 273.850061,
+      "end": 273.915255,
+      "voice": 1517,
+      "pitch": 94.043,
+      "pan": 0.7117,
+      "group": "choir"
+    },
+    {
+      "start": 273.944241,
+      "end": 275.59908,
+      "voice": 1503,
+      "pitch": 70.9463,
+      "pan": -0.6909,
+      "group": "choir"
+    },
+    {
+      "start": 273.955497,
+      "end": 275.61046,
+      "voice": 1503,
+      "pitch": 86.9424,
+      "pan": -0.3636,
+      "group": "choir"
+    },
+    {
+      "start": 273.956591,
+      "end": 275.611566,
+      "voice": 1503,
+      "pitch": 92.0606,
+      "pan": 0.3629,
+      "group": "choir"
+    },
+    {
+      "start": 273.957032,
+      "end": 275.612012,
+      "voice": 1503,
+      "pitch": 71.0576,
+      "pan": -0.7379,
+      "group": "choir"
+    },
+    {
+      "start": 273.96999,
+      "end": 275.625113,
+      "voice": 1503,
+      "pitch": 87.0269,
+      "pan": -0.2244,
+      "group": "choir"
+    },
+    {
+      "start": 273.971672,
+      "end": 275.626813,
+      "voice": 1503,
+      "pitch": 97.0231,
+      "pan": 0.7637,
+      "group": "lead"
+    },
+    {
+      "start": 273.979754,
+      "end": 275.634984,
+      "voice": 1503,
+      "pitch": 91.9501,
+      "pan": 0.2633,
+      "group": "choir"
+    },
+    {
+      "start": 273.98699,
+      "end": 275.6423,
+      "voice": 1503,
+      "pitch": 96.9985,
+      "pan": 0.7683,
+      "group": "choir"
+    },
+    {
+      "start": 275.59908,
+      "end": 275.664214,
+      "voice": 1523,
+      "pitch": 70.9463,
+      "pan": -0.6909,
+      "group": "choir"
+    },
+    {
+      "start": 275.610461,
+      "end": 275.675591,
+      "voice": 1523,
+      "pitch": 86.9424,
+      "pan": -0.3636,
+      "group": "choir"
+    },
+    {
+      "start": 275.611566,
+      "end": 275.676695,
+      "voice": 1523,
+      "pitch": 92.0606,
+      "pan": 0.3629,
+      "group": "choir"
+    },
+    {
+      "start": 275.612012,
+      "end": 275.677141,
+      "voice": 1523,
+      "pitch": 71.0576,
+      "pan": -0.7379,
+      "group": "choir"
+    },
+    {
+      "start": 275.625113,
+      "end": 275.690237,
+      "voice": 1523,
+      "pitch": 87.0269,
+      "pan": -0.2244,
+      "group": "choir"
+    },
+    {
+      "start": 275.626813,
+      "end": 275.691937,
+      "voice": 1523,
+      "pitch": 97.0231,
+      "pan": 0.7637,
+      "group": "lead"
+    },
+    {
+      "start": 275.634984,
+      "end": 275.700105,
+      "voice": 1523,
+      "pitch": 91.9501,
+      "pan": 0.2633,
+      "group": "choir"
+    },
+    {
+      "start": 275.642299,
+      "end": 275.707417,
+      "voice": 1523,
+      "pitch": 96.9985,
+      "pan": 0.7683,
+      "group": "choir"
+    },
+    {
+      "start": 275.664213,
+      "end": 275.710308,
+      "voice": 1534,
+      "pitch": 70.9463,
+      "pan": -0.6909,
+      "group": "choir"
+    },
+    {
+      "start": 275.67559,
+      "end": 275.721682,
+      "voice": 1534,
+      "pitch": 86.9424,
+      "pan": -0.3636,
+      "group": "choir"
+    },
+    {
+      "start": 275.676695,
+      "end": 275.722786,
+      "voice": 1534,
+      "pitch": 92.0606,
+      "pan": 0.3629,
+      "group": "choir"
+    },
+    {
+      "start": 275.677141,
+      "end": 275.723232,
+      "voice": 1534,
+      "pitch": 71.0576,
+      "pan": -0.7379,
+      "group": "choir"
+    },
+    {
+      "start": 275.690237,
+      "end": 275.736325,
+      "voice": 1534,
+      "pitch": 87.0269,
+      "pan": -0.2244,
+      "group": "choir"
+    },
+    {
+      "start": 275.691937,
+      "end": 275.738025,
+      "voice": 1534,
+      "pitch": 97.0231,
+      "pan": 0.7637,
+      "group": "lead"
+    },
+    {
+      "start": 275.700105,
+      "end": 275.746191,
+      "voice": 1534,
+      "pitch": 91.9501,
+      "pan": 0.2633,
+      "group": "choir"
+    },
+    {
+      "start": 275.707418,
+      "end": 275.753502,
+      "voice": 1534,
+      "pitch": 96.9985,
+      "pan": 0.7683,
+      "group": "choir"
+    },
+    {
+      "start": 275.710308,
+      "end": 275.775442,
+      "voice": 1523,
+      "pitch": 70.9463,
+      "pan": -0.6909,
+      "group": "choir"
+    },
+    {
+      "start": 275.721682,
+      "end": 275.786812,
+      "voice": 1523,
+      "pitch": 86.9424,
+      "pan": -0.3636,
+      "group": "choir"
+    },
+    {
+      "start": 275.722787,
+      "end": 275.787916,
+      "voice": 1523,
+      "pitch": 92.0606,
+      "pan": 0.3629,
+      "group": "choir"
+    },
+    {
+      "start": 275.723232,
+      "end": 275.788361,
+      "voice": 1523,
+      "pitch": 71.0576,
+      "pan": -0.7379,
+      "group": "choir"
+    },
+    {
+      "start": 275.736325,
+      "end": 275.801449,
+      "voice": 1523,
+      "pitch": 87.0269,
+      "pan": -0.2244,
+      "group": "choir"
+    },
+    {
+      "start": 275.738025,
+      "end": 275.803149,
+      "voice": 1523,
+      "pitch": 97.0231,
+      "pan": 0.7637,
+      "group": "lead"
+    },
+    {
+      "start": 275.746191,
+      "end": 275.811312,
+      "voice": 1523,
+      "pitch": 91.9501,
+      "pan": 0.2633,
+      "group": "choir"
+    },
+    {
+      "start": 275.753501,
+      "end": 275.818619,
+      "voice": 1523,
+      "pitch": 96.9985,
+      "pan": 0.7683,
+      "group": "choir"
+    },
+    {
+      "start": 275.848519,
+      "end": 275.913395,
+      "voice": 1525,
+      "pitch": 70.9766,
+      "pan": -0.7123,
+      "group": "choir"
+    },
+    {
+      "start": 275.858518,
+      "end": 275.923391,
+      "voice": 1525,
+      "pitch": 74.9968,
+      "pan": -0.2723,
+      "group": "choir"
+    },
+    {
+      "start": 275.866405,
+      "end": 275.931275,
+      "voice": 1525,
+      "pitch": 71.0355,
+      "pan": -0.8379,
+      "group": "choir"
+    },
+    {
+      "start": 275.872286,
+      "end": 275.937154,
+      "voice": 1525,
+      "pitch": 86.9766,
+      "pan": 0.3511,
+      "group": "choir"
+    },
+    {
+      "start": 275.876066,
+      "end": 275.940933,
+      "voice": 1525,
+      "pitch": 74.9845,
+      "pan": -0.268,
+      "group": "choir"
+    },
+    {
+      "start": 275.881363,
+      "end": 275.946228,
+      "voice": 1525,
+      "pitch": 91.9775,
+      "pan": 0.7873,
+      "group": "lead"
+    },
+    {
+      "start": 275.884533,
+      "end": 275.949397,
+      "voice": 1525,
+      "pitch": 86.9972,
+      "pan": 0.3615,
+      "group": "choir"
+    },
+    {
+      "start": 275.893781,
+      "end": 275.958642,
+      "voice": 1525,
+      "pitch": 91.9519,
+      "pan": 0.7291,
+      "group": "choir"
+    },
+    {
+      "start": 275.913395,
+      "end": 277.621523,
+      "voice": 1506,
+      "pitch": 70.9766,
+      "pan": -0.7123,
+      "group": "choir"
+    },
+    {
+      "start": 275.92339,
+      "end": 277.631617,
+      "voice": 1506,
+      "pitch": 74.9968,
+      "pan": -0.2723,
+      "group": "choir"
+    },
+    {
+      "start": 275.931275,
+      "end": 277.639579,
+      "voice": 1506,
+      "pitch": 71.0355,
+      "pan": -0.8379,
+      "group": "choir"
+    },
+    {
+      "start": 275.937154,
+      "end": 277.645516,
+      "voice": 1506,
+      "pitch": 86.9766,
+      "pan": 0.3511,
+      "group": "choir"
+    },
+    {
+      "start": 275.940933,
+      "end": 277.649332,
+      "voice": 1506,
+      "pitch": 74.9845,
+      "pan": -0.268,
+      "group": "choir"
+    },
+    {
+      "start": 275.946228,
+      "end": 277.654679,
+      "voice": 1506,
+      "pitch": 91.9775,
+      "pan": 0.7873,
+      "group": "lead"
+    },
+    {
+      "start": 275.949397,
+      "end": 277.65788,
+      "voice": 1506,
+      "pitch": 86.9972,
+      "pan": 0.3615,
+      "group": "choir"
+    },
+    {
+      "start": 275.958642,
+      "end": 277.667216,
+      "voice": 1506,
+      "pitch": 91.9519,
+      "pan": 0.7291,
+      "group": "choir"
+    },
+    {
+      "start": 277.621524,
+      "end": 277.686996,
+      "voice": 1520,
+      "pitch": 70.9766,
+      "pan": -0.7123,
+      "group": "choir"
+    },
+    {
+      "start": 277.631617,
+      "end": 277.697086,
+      "voice": 1520,
+      "pitch": 74.9968,
+      "pan": -0.2723,
+      "group": "choir"
+    },
+    {
+      "start": 277.639579,
+      "end": 277.705045,
+      "voice": 1520,
+      "pitch": 71.0355,
+      "pan": -0.8379,
+      "group": "choir"
+    },
+    {
+      "start": 277.645516,
+      "end": 277.71098,
+      "voice": 1520,
+      "pitch": 86.9766,
+      "pan": 0.3511,
+      "group": "choir"
+    },
+    {
+      "start": 277.649332,
+      "end": 277.714795,
+      "voice": 1520,
+      "pitch": 74.9845,
+      "pan": -0.268,
+      "group": "choir"
+    },
+    {
+      "start": 277.65468,
+      "end": 277.720141,
+      "voice": 1520,
+      "pitch": 91.9775,
+      "pan": 0.7873,
+      "group": "lead"
+    },
+    {
+      "start": 277.657879,
+      "end": 277.723339,
+      "voice": 1520,
+      "pitch": 86.9972,
+      "pan": 0.3615,
+      "group": "choir"
+    },
+    {
+      "start": 277.667216,
+      "end": 277.732673,
+      "voice": 1520,
+      "pitch": 91.9519,
+      "pan": 0.7291,
+      "group": "choir"
+    },
+    {
+      "start": 277.762407,
+      "end": 277.827257,
+      "voice": 1517,
+      "pitch": 59.0163,
+      "pan": -0.7821,
+      "group": "choir"
+    },
+    {
+      "start": 277.768643,
+      "end": 277.833492,
+      "voice": 1517,
+      "pitch": 75.0564,
+      "pan": -0.3447,
+      "group": "choir"
+    },
+    {
+      "start": 277.780603,
+      "end": 277.84545,
+      "voice": 1517,
+      "pitch": 83.0434,
+      "pan": 0.3027,
+      "group": "choir"
+    },
+    {
+      "start": 277.783667,
+      "end": 277.848514,
+      "voice": 1517,
+      "pitch": 58.9886,
+      "pan": -0.7172,
+      "group": "choir"
+    },
+    {
+      "start": 277.787072,
+      "end": 277.851919,
+      "voice": 1517,
+      "pitch": 75.0473,
+      "pan": -0.3893,
+      "group": "choir"
+    },
+    {
+      "start": 277.792546,
+      "end": 277.857392,
+      "voice": 1517,
+      "pitch": 87.97,
+      "pan": 0.6521,
+      "group": "lead"
+    },
+    {
+      "start": 277.795114,
+      "end": 277.85996,
+      "voice": 1517,
+      "pitch": 82.9947,
+      "pan": 0.2803,
+      "group": "choir"
+    },
+    {
+      "start": 277.813904,
+      "end": 277.878747,
+      "voice": 1517,
+      "pitch": 87.9837,
+      "pan": 0.7138,
+      "group": "choir"
+    },
+    {
+      "start": 277.827256,
+      "end": 280.031531,
+      "voice": 1504,
+      "pitch": 59.0163,
+      "pan": -0.7821,
+      "group": "choir"
+    },
+    {
+      "start": 277.833492,
+      "end": 280.037768,
+      "voice": 1504,
+      "pitch": 75.0564,
+      "pan": -0.3447,
+      "group": "choir"
+    },
+    {
+      "start": 277.845451,
+      "end": 280.04973,
+      "voice": 1504,
+      "pitch": 83.0434,
+      "pan": 0.3027,
+      "group": "choir"
+    },
+    {
+      "start": 277.848514,
+      "end": 280.052794,
+      "voice": 1504,
+      "pitch": 58.9886,
+      "pan": -0.7172,
+      "group": "choir"
+    },
+    {
+      "start": 277.851919,
+      "end": 280.0562,
+      "voice": 1504,
+      "pitch": 75.0473,
+      "pan": -0.3893,
+      "group": "choir"
+    },
+    {
+      "start": 277.857392,
+      "end": 280.061674,
+      "voice": 1504,
+      "pitch": 87.97,
+      "pan": 0.6521,
+      "group": "lead"
+    },
+    {
+      "start": 277.85996,
+      "end": 280.064242,
+      "voice": 1504,
+      "pitch": 82.9947,
+      "pan": 0.2803,
+      "group": "choir"
+    },
+    {
+      "start": 277.878747,
+      "end": 280.083034,
+      "voice": 1504,
+      "pitch": 87.9837,
+      "pan": 0.7138,
+      "group": "choir"
+    },
+    {
+      "start": 280.031531,
+      "end": 280.096381,
+      "voice": 1526,
+      "pitch": 59.0163,
+      "pan": -0.7821,
+      "group": "choir"
+    },
+    {
+      "start": 280.037768,
+      "end": 280.102617,
+      "voice": 1526,
+      "pitch": 75.0564,
+      "pan": -0.3447,
+      "group": "choir"
+    },
+    {
+      "start": 280.04973,
+      "end": 280.114577,
+      "voice": 1526,
+      "pitch": 83.0434,
+      "pan": 0.3027,
+      "group": "choir"
+    },
+    {
+      "start": 280.052794,
+      "end": 280.117641,
+      "voice": 1526,
+      "pitch": 58.9886,
+      "pan": -0.7172,
+      "group": "choir"
+    },
+    {
+      "start": 280.056199,
+      "end": 280.121046,
+      "voice": 1526,
+      "pitch": 75.0473,
+      "pan": -0.3893,
+      "group": "choir"
+    },
+    {
+      "start": 280.061674,
+      "end": 280.12652,
+      "voice": 1526,
+      "pitch": 87.97,
+      "pan": 0.6521,
+      "group": "lead"
+    },
+    {
+      "start": 280.064242,
+      "end": 280.129088,
+      "voice": 1526,
+      "pitch": 82.9947,
+      "pan": 0.2803,
+      "group": "choir"
+    },
+    {
+      "start": 280.083034,
+      "end": 280.147877,
+      "voice": 1526,
+      "pitch": 87.9837,
+      "pan": 0.7138,
+      "group": "choir"
+    },
+    {
+      "start": 280.096381,
+      "end": 281.484748,
+      "voice": 1501,
+      "pitch": 59.0163,
+      "pan": -0.7821,
+      "group": "choir"
+    },
+    {
+      "start": 280.102617,
+      "end": 281.491029,
+      "voice": 1501,
+      "pitch": 75.0564,
+      "pan": -0.3447,
+      "group": "choir"
+    },
+    {
+      "start": 280.114577,
+      "end": 281.503076,
+      "voice": 1501,
+      "pitch": 83.0434,
+      "pan": 0.3027,
+      "group": "choir"
+    },
+    {
+      "start": 280.117641,
+      "end": 281.506162,
+      "voice": 1501,
+      "pitch": 58.9886,
+      "pan": -0.7172,
+      "group": "choir"
+    },
+    {
+      "start": 280.121046,
+      "end": 281.509592,
+      "voice": 1501,
+      "pitch": 75.0473,
+      "pan": -0.3893,
+      "group": "choir"
+    },
+    {
+      "start": 280.12652,
+      "end": 281.515106,
+      "voice": 1501,
+      "pitch": 87.97,
+      "pan": 0.6521,
+      "group": "lead"
+    },
+    {
+      "start": 280.129088,
+      "end": 281.517692,
+      "voice": 1501,
+      "pitch": 82.9947,
+      "pan": 0.2803,
+      "group": "choir"
+    },
+    {
+      "start": 280.147877,
+      "end": 281.536618,
+      "voice": 1501,
+      "pitch": 87.9837,
+      "pan": 0.7138,
+      "group": "choir"
+    },
+    {
+      "start": 281.484748,
+      "end": 281.550059,
+      "voice": 1518,
+      "pitch": 59.0163,
+      "pan": -0.7821,
+      "group": "choir"
+    },
+    {
+      "start": 281.491029,
+      "end": 281.55634,
+      "voice": 1518,
+      "pitch": 75.0564,
+      "pan": -0.3447,
+      "group": "choir"
+    },
+    {
+      "start": 281.503076,
+      "end": 281.568385,
+      "voice": 1518,
+      "pitch": 83.0434,
+      "pan": 0.3027,
+      "group": "choir"
+    },
+    {
+      "start": 281.506162,
+      "end": 281.571471,
+      "voice": 1518,
+      "pitch": 58.9886,
+      "pan": -0.7172,
+      "group": "choir"
+    },
+    {
+      "start": 281.509592,
+      "end": 281.5749,
+      "voice": 1518,
+      "pitch": 75.0473,
+      "pan": -0.3893,
+      "group": "choir"
+    },
+    {
+      "start": 281.515106,
+      "end": 281.580414,
+      "voice": 1518,
+      "pitch": 87.97,
+      "pan": 0.6521,
+      "group": "lead"
+    },
+    {
+      "start": 281.517692,
+      "end": 281.582999,
+      "voice": 1518,
+      "pitch": 82.9947,
+      "pan": 0.2803,
+      "group": "choir"
+    },
+    {
+      "start": 281.536618,
+      "end": 281.601923,
+      "voice": 1518,
+      "pitch": 87.9837,
+      "pan": 0.7138,
+      "group": "choir"
+    },
+    {
+      "start": 281.623173,
+      "end": 281.688074,
+      "voice": 1516,
+      "pitch": 58.9991,
+      "pan": -0.7248,
+      "group": "choir"
+    },
+    {
+      "start": 281.639656,
+      "end": 281.704556,
+      "voice": 1516,
+      "pitch": 74.9913,
+      "pan": -0.3581,
+      "group": "choir"
+    },
+    {
+      "start": 281.645987,
+      "end": 281.710886,
+      "voice": 1516,
+      "pitch": 80.0257,
+      "pan": 0.2796,
+      "group": "choir"
+    },
+    {
+      "start": 281.646866,
+      "end": 281.711765,
+      "voice": 1516,
+      "pitch": 59.0323,
+      "pan": -0.7762,
+      "group": "choir"
+    },
+    {
+      "start": 281.649335,
+      "end": 281.714234,
+      "voice": 1516,
+      "pitch": 74.9595,
+      "pan": -0.2558,
+      "group": "choir"
+    },
+    {
+      "start": 281.652186,
+      "end": 281.717085,
+      "voice": 1516,
+      "pitch": 85.0029,
+      "pan": 0.7254,
+      "group": "lead"
+    },
+    {
+      "start": 281.660361,
+      "end": 281.725259,
+      "voice": 1516,
+      "pitch": 79.9755,
+      "pan": 0.358,
+      "group": "choir"
+    },
+    {
+      "start": 281.677113,
+      "end": 281.742009,
+      "voice": 1516,
+      "pitch": 85.0506,
+      "pan": 0.7443,
+      "group": "choir"
+    },
+    {
+      "start": 281.688075,
+      "end": 284.300532,
+      "voice": 1506,
+      "pitch": 58.9991,
+      "pan": -0.7248,
+      "group": "choir"
+    },
+    {
+      "start": 281.704556,
+      "end": 284.317083,
+      "voice": 1506,
+      "pitch": 74.9913,
+      "pan": -0.3581,
+      "group": "choir"
+    },
+    {
+      "start": 281.710886,
+      "end": 284.32344,
+      "voice": 1506,
+      "pitch": 80.0257,
+      "pan": 0.2796,
+      "group": "choir"
+    },
+    {
+      "start": 281.711765,
+      "end": 284.324323,
+      "voice": 1506,
+      "pitch": 59.0323,
+      "pan": -0.7762,
+      "group": "choir"
+    },
+    {
+      "start": 281.714233,
+      "end": 284.326801,
+      "voice": 1506,
+      "pitch": 74.9595,
+      "pan": -0.2558,
+      "group": "choir"
+    },
+    {
+      "start": 281.717084,
+      "end": 284.329664,
+      "voice": 1506,
+      "pitch": 85.0029,
+      "pan": 0.7254,
+      "group": "lead"
+    },
+    {
+      "start": 281.725259,
+      "end": 284.337874,
+      "voice": 1506,
+      "pitch": 79.9755,
+      "pan": 0.358,
+      "group": "choir"
+    },
+    {
+      "start": 281.74201,
+      "end": 284.354697,
+      "voice": 1506,
+      "pitch": 85.0506,
+      "pan": 0.7443,
+      "group": "choir"
+    },
+    {
+      "start": 284.300531,
+      "end": 284.365697,
+      "voice": 1520,
+      "pitch": 58.9991,
+      "pan": -0.7248,
+      "group": "choir"
+    },
+    {
+      "start": 284.317083,
+      "end": 284.382248,
+      "voice": 1520,
+      "pitch": 74.9913,
+      "pan": -0.3581,
+      "group": "choir"
+    },
+    {
+      "start": 284.32344,
+      "end": 284.388604,
+      "voice": 1520,
+      "pitch": 80.0257,
+      "pan": 0.2796,
+      "group": "choir"
+    },
+    {
+      "start": 284.324323,
+      "end": 284.389487,
+      "voice": 1520,
+      "pitch": 59.0323,
+      "pan": -0.7762,
+      "group": "choir"
+    },
+    {
+      "start": 284.326802,
+      "end": 284.391966,
+      "voice": 1520,
+      "pitch": 74.9595,
+      "pan": -0.2558,
+      "group": "choir"
+    },
+    {
+      "start": 284.329665,
+      "end": 284.394828,
+      "voice": 1520,
+      "pitch": 85.0029,
+      "pan": 0.7254,
+      "group": "lead"
+    },
+    {
+      "start": 284.337875,
+      "end": 284.403038,
+      "voice": 1520,
+      "pitch": 79.9755,
+      "pan": 0.358,
+      "group": "choir"
+    },
+    {
+      "start": 284.354697,
+      "end": 284.419858,
+      "voice": 1520,
+      "pitch": 85.0506,
+      "pan": 0.7443,
+      "group": "choir"
+    }
+  ]
+}

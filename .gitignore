@@ -15,3 +15,6 @@
 *.zip
 *-full-album.mp3
 *-sampler.mp3
+**/stems/
+*-complete-opera.mp3
+*-act-*.mp3

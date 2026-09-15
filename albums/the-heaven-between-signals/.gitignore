@@ -1,0 +1,10 @@
+work/
+wav/
+mp3/
+stems/
+*.zip
+/the-heaven-between-signals-*.mp3
+__pycache__/
+*.pyc
+checks/*.png
+.DS_Store
